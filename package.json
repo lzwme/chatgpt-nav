@@ -1,0 +1,30 @@
+{
+  "name": "@lzwme/chatgpt-sites",
+  "version": "1.0.0",
+  "description": "ChatGPT 在线体验网站列表",
+  "license": "MIT",
+  "repository": "https://github.com/lzwme/chatgpt-sites.git",
+  "author": {
+    "name": "renxia",
+    "email": "lzwy0820@qq.com",
+    "url": "https://lzw.me"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatgpt"
+  ],
+  "devDependencies": {
+    "@types/node": "^18.15.0",
+    "tsx": "^3.12.4",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@lzwme/fe-utils": "^1.5.0",
+    "cheerio": "1.0.0-rc.12"
+  },
+  "packageManager": "pnpm@7.29.0"
+}

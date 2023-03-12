@@ -1,0 +1,19 @@
+name: bot
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '5 0 * * *'
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: bot
+        run: |
+          npm i --no-package-lock --no-audit --no-fund
+          npm start
+        env:
+          SYNC: 1
