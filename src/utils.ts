@@ -37,7 +37,10 @@ export async function getUrlsFromLatestCommitComment(repo: string) {
   const siteList: string[] = [];
 
   if (!Array.isArray(data)) {
-    logger.warn(`[${repo}]获取 commits 失败`);
+    const info = data as never as { message: string };
+    logger.warn(`[${repo}]获取 commits 失败`, info);
+    // 抛出异常终止执行
+    if (String(info.message).startsWith('API rate limit')) throw Error(info.message);
     return siteList;
   }
 
@@ -60,6 +63,7 @@ export async function getUrlsFromLatestCommitComment(repo: string) {
     .map(d => d.split('(')[1].slice(0, -1))
     .forEach(url => {
       if (url.startsWith('http')) {
+        if (url.endsWith('/')) url = url.slice(0, -1);
         if (url.endsWith('vercel.app') || url.endsWith('netlify.app')) {
           if (!shortUrl || shortUrl.length > url.length) shortUrl = url;
         } else {
@@ -70,4 +74,11 @@ export async function getUrlsFromLatestCommitComment(repo: string) {
   if (shortUrl) siteList.push(shortUrl);
 
   return siteList;
+}
+
+export function fixSiteUrl(url: string) {
+  if (!url) return '';
+  if (url.endsWith('/')) url = url.slice(0, -1);
+  if (!url.startsWith('http')) url = `https://${url}`;
+  return url;
 }

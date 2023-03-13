@@ -2,7 +2,7 @@ name: bot
 on:
   workflow_dispatch:
   schedule:
-    - cron: '5 0 * * *'
+    - cron: '0 20 * * *'
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -11,10 +11,10 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - name: bot
+      - name: bot-run
         run: |
           npm i --no-package-lock --no-audit --no-fund
           npm start
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           SYNC: 1

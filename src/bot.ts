@@ -1,15 +1,16 @@
 import { assign, concurrency } from '@lzwme/fe-utils';
 import { config, SiteInfo } from './config';
-import { getRepoForks, getUrlsFromLatestCommitComment, logger } from './utils';
+import { getRepoForks, getUrlsFromLatestCommitComment, logger, fixSiteUrl } from './utils';
 
 async function repoCommentBot(repo: string, maxForks = 3000) {
   let siteList: { [repo: string]: string[] } = {};
   const list = await getRepoForks(repo, maxForks, { per_page: Math.min(maxForks, 100) });
-  logger.debug(`[${repo}]forks repo list:`, list);
+  logger.info(`[${repo}]forks repo list:`, config.debug ? list : list.length);
 
   const tasks = list
     .filter(repo => {
       if (/^https?:\/\/([0-9a-zA-Z\-]+\.)/.test(repo.homepage)) {
+        repo.homepage = fixSiteUrl(repo.homepage);
         if (config.siteBlockList.has(repo.homepage)) return false;
         siteList[repo.full_name] = [repo.homepage];
         // return false;
@@ -20,7 +21,7 @@ async function repoCommentBot(repo: string, maxForks = 3000) {
     .map(repo => async () => {
       const r = await getUrlsFromLatestCommitComment(repo.full_name);
       if (r.length) siteList[repo.full_name] = (siteList[repo.full_name] || []).concat(r);
-      logger.debug(`[${repo}]site list:`, r);
+      logger.debug(`[${repo.full_name}]site list:`, r);
     });
 
   await concurrency(tasks, 6);
