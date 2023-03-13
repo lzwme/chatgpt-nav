@@ -2,22 +2,7 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { logger } from './utils';
 import { repoBot } from './bot';
-import { config } from './config';
-
-function initConfig() {
-    for (let [url, info] of Object.entries(config.siteInfo)) {
-        if (!url.startsWith('http')) {
-            delete config.siteInfo[url];
-            url = `https://${url}`;
-            config.siteInfo[url] = info;
-        }
-
-        if (info.hide) {
-            config.siteBlockList.add(url);
-            if (info.repo) config.repoBlockList.add(info.repo);
-        }
-    }
-}
+import { config, initConfig } from './config';
 
 function formatSiteList() {
   const list: string[] = [];
@@ -49,9 +34,9 @@ async function updateReadme() {
 
 export async function start() {
   initConfig();
-  logger.updateOptions({ levelType: config.debug ? 'debug' : 'log' });
   await repoBot();
   await updateReadme();
+  writeFileSync(config.siteInfoFile, JSON.stringify(config.siteInfo, null, 2), 'utf8');
 }
 
 start().then(() => logger.info('done!'));

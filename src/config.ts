@@ -1,5 +1,8 @@
 import { resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { readJsonFileSync } from '@lzwme/fe-utils';
+import {config as dConfig } from 'dotenv';
+import { logger, req } from './utils';
 
 type BoolLike = boolean | 0 | 1;
 
@@ -28,6 +31,7 @@ const rootDir = resolve(fileURLToPath(import.meta.url), '..');
 
 export const config = {
   rootDir,
+  siteInfoFile: resolve(rootDir, 'site-info.json'),
   debug: process.argv.slice(2).includes('--debug'),
   gptDemoRepos: [`ddiu8081/chatgpt-demo`, `ourongxing/chatgpt-vercel`, `cogentapps/chat-with-gpt`],
   /** github 仓库禁止列表 */
@@ -102,3 +106,26 @@ export const config = {
     'https://kang.al': {},
   } as { [url: string]: SiteInfo },
 };
+
+export function initConfig() {
+  dConfig();
+  const token = process.env.GH_TOKEN || '';
+  if (token) req.setHeaders({ Authorization: `Bearer ${token}` });
+  else logger.warn('Not found GH TOKEN');
+
+  Object.assign(config.siteInfo, readJsonFileSync(config.siteInfoFile));
+
+  for (let [url, info] of Object.entries(config.siteInfo)) {
+    if (!url.startsWith('http')) {
+      delete config.siteInfo[url];
+      config.siteInfo[url = `https://${url}`] = info;
+    }
+
+    if (info.hide) {
+      config.siteBlockList.add(url);
+      if (info.repo) config.repoBlockList.add(info.repo);
+    }
+  }
+
+  logger.updateOptions({ levelType: config.debug ? 'debug' : 'log' });
+}

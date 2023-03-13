@@ -24,7 +24,8 @@
   },
   "dependencies": {
     "@lzwme/fe-utils": "^1.5.0",
-    "cheerio": "1.0.0-rc.12"
+    "cheerio": "1.0.0-rc.12",
+    "dotenv": "^16.0.3"
   },
   "packageManager": "pnpm@7.29.0"
 }

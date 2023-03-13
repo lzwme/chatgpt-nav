@@ -1,6 +1,6 @@
-# 🍡 ChatGPT 在线体验网站列表
+# ChatGPT 在线体验网站列表
 
-由于众所周知的原因，国内访问并体验 ChatGPT 的拥有一定的门槛，主要集中在网络无法访问、账号无法注册两个主要限制条件。然而对于突破该约束条件的同学来说，则可以很轻松的使用开源应用搭建基于 OPENAI API 的体验网站。
+由于众所周知的原因，国内访问并体验 ChatGPT 的拥有一定的门槛，主要集中在网络无法访问、账号无法注册两个限制条件。然而对于突破该约束条件的同学来说，则可以很轻松的使用开源应用搭建基于 OPENAI API 的体验网站。
 
 本仓库旨在通过搜集整理国内用户可访问的在线体验列表，以供相关同学查阅参考。其主要来源为：
 
@@ -9,21 +9,26 @@
 - 程序自动抓取开源仓库信息
 - More...
 
+
 ## 参与贡献
 
-由于部分站点从网络自动搜集，尚未作可用性验证，欢迎欢迎提 issues 或 PR 对其矫正。站点配置信息在 `src/config.ts` 中设置，基本格式为：
+欢迎自荐您的站点。
+
+由于部分站点从网络自动搜集，尚未作可用性验证，欢迎欢迎提 issues 或 PR 对其矫正。站点配置信息在 `site-info.json` 文件中设置，基本格式为：
 
 ```ts
-'https://gpt.demo.com': {
-    repo: 'lzwme/gpt-demo', // 来源仓库
-    star: 1, // 推荐星级，1-3
-    invalid: '20230310', // 已失效，标注发现时间
-    hide: 0, // 不显示在首页
-    needKey: 0, // 是否需要自己输入 API KEY
-    needPwd: 0, // 【受限】是否需要密码、账号登录才能访问
-    needPay: 0, // 付费应用
-    desc: '描述',
-},
+{
+  "https://gpt.demo.com": {
+      "repo": 'lzwme/gpt-demo', // 来源仓库
+      "invalid": '20230310',    // 已失效，标注发现时间
+      "star": 1,                // 推荐星级，1-3
+      "hide": 0,                // 不显示在首页
+      "needKey": 0,             // 是否需要自己输入 API KEY
+      "needPwd": 0,             // 【受限】是否需要密码、账号登录才能访问
+      "needPay": 0,             // 付费应用
+      "desc": "描述",
+  },
+}
 ```
 
 ## Site List
@@ -59,12 +64,12 @@
 1. https://chatgpt.white-peach.ga
 1. https://chat.luoyangshusheng.com
 1. https://kang.al
-1. https://www.aiartchat.live 
-1. https://chat.zengzhe.xyz 
+1. https://www.aiartchat.live
+1. https://chat.zengzhe.xyz
 1. https://www.qylxschool.cn
 1. https://chat.jmni.cn
-1. https://chat.limy.space 
-1. https://chatgpt.intdouble.com 
+1. https://chat.limy.space
+1. https://chatgpt.intdouble.com
 1. https://chatgpt-demo-9ddqso22f-ddiu8081.vercel.app
 1. https://w9j1ao.vercel.app
 

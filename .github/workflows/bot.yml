@@ -16,4 +16,5 @@ jobs:
           npm i --no-package-lock --no-audit --no-fund
           npm start
         env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SYNC: 1

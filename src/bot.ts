@@ -34,7 +34,7 @@ export async function repoBot() {
   for (const repo of config.gptDemoRepos) Object.assign(r, await repoCommentBot(repo));
   for (const [forkRepo, urls] of Object.entries(r)) {
     for (const url of urls) {
-      if (!config.siteInfo[forkRepo]) config.siteInfo[forkRepo] = {};
+      if (!config.siteInfo[url]) config.siteInfo[url] = {};
       if (url.includes('.vercel.app')) config.siteInfo[url].needVPN = true;
       assign(config.siteInfo[url], { repo: forkRepo } as SiteInfo);
     }

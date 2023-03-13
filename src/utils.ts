@@ -3,9 +3,6 @@ import { Request, getLogger } from '@lzwme/fe-utils';
 export const logger = getLogger();
 export const req = Request.getInstance();
 
-const token = process.env.GITHUB_TOKEN || ''; //
-if (token) req.setHeaders({ Authorization: `Bearer ${token}` });
-
 export async function getRepoForks(repo: string, total = 0, params: { per_page?: number; page?: number; sort?: string } = {}) {
   params = { per_page: 10, page: 1, sort: 'newest', ...params };
 
