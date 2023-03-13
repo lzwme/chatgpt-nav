@@ -5,6 +5,7 @@ export const req = Request.getInstance();
 
 export async function getRepoForks(repo: string, total = 0, params: { per_page?: number; page?: number; sort?: string } = {}) {
   params = { per_page: 10, page: 1, sort: 'newest', ...params };
+  logger.debug(`[getRepoForks][${repo}]`, params);
 
   const url = `https://api.github.com/repos/${repo}/forks`;
   const r = await req.get<{ full_name: string; homepage: string }[]>(url, params);
@@ -16,11 +17,14 @@ export async function getRepoForks(repo: string, total = 0, params: { per_page?:
   }
 
   if (total) {
+    let page = params.page || 1;
     while (total > list.length) {
-      const t = await getRepoForks(repo, 0, { ...params, page: params.page! + 1 });
+      const t = await getRepoForks(repo, 0, { ...params, page: ++page });
       if (t.length === 0) break;
       list = list.concat(t);
     }
+
+    logger.debug(`[getRepoForks][${repo}]`, total, list.length);
   }
 
   return list;

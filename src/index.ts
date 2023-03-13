@@ -34,9 +34,9 @@ async function updateReadme() {
 
 export async function start() {
   initConfig();
-  await repoBot();
+  await repoBot(config.debug ? 300 : 3000);
   await updateReadme();
   writeFileSync(config.siteInfoFile, JSON.stringify(config.siteInfo, null, 2), 'utf8');
 }
 
-start().then(() => logger.info('done!'));
+start().then(() => logger.info('done! Total:', Object.keys(config.siteInfo).length));

@@ -27,8 +27,8 @@ export interface SiteInfo {
   desc?: string;
 }
 
-const rootDir = resolve(fileURLToPath(import.meta.url), '..');
-
+const rootDir = resolve(fileURLToPath(import.meta.url), '../..');
+console.log(rootDir)
 export const config = {
   rootDir,
   siteInfoFile: resolve(rootDir, 'site-info.json'),
@@ -128,4 +128,7 @@ export function initConfig() {
   }
 
   logger.updateOptions({ levelType: config.debug ? 'debug' : 'log' });
+  logger.debug('config:', config);
+
+  return config;
 }

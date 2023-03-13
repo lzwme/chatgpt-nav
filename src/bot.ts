@@ -28,10 +28,10 @@ async function repoCommentBot(repo: string, maxForks = 3000) {
   return siteList;
 }
 
-export async function repoBot() {
+export async function repoBot(maxForks = 3000) {
   const r: { [repo: string]: string[] } = {};
 
-  for (const repo of config.gptDemoRepos) Object.assign(r, await repoCommentBot(repo));
+  for (const repo of config.gptDemoRepos) Object.assign(r, await repoCommentBot(repo, maxForks));
   for (const [forkRepo, urls] of Object.entries(r)) {
     for (const url of urls) {
       if (!config.siteInfo[url]) config.siteInfo[url] = {};
