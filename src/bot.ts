@@ -2,26 +2,36 @@ import { assign, concurrency } from '@lzwme/fe-utils';
 import { config, SiteInfo } from './config';
 import { getRepoForks, getUrlsFromLatestCommitComment, logger, fixSiteUrl } from './utils';
 
-async function repoCommentBot(repo: string, maxForks = 3000) {
+async function repoCommentBot(repo: string, maxForks = 1000) {
   let siteList: { [repo: string]: string[] } = {};
   const list = await getRepoForks(repo, maxForks, { per_page: Math.min(maxForks, 100) });
   logger.info(`[${repo}]forks repo list:`, config.debug ? list : list.length);
 
+  const isOnlyNew = process.argv.slice(2).includes('--only-new'); // ingore in siteInfo
+  const repoInSiteInfo = new Set(Object.values(config.siteInfo).map(d => d.repo));
+  let isMaxRateLimited = false;
   const tasks = list
-    .filter(repo => {
-      if (/^https?:\/\/([0-9a-zA-Z\-]+\.)/.test(repo.homepage)) {
-        repo.homepage = fixSiteUrl(repo.homepage);
-        if (config.siteBlockList.has(repo.homepage)) return false;
-        siteList[repo.full_name] = [repo.homepage];
-        // return false;
+    .filter(item => {
+      if (/^https?:\/\/([0-9a-zA-Z\-]+\.)/.test(item.homepage)) {
+        item.homepage = fixSiteUrl(item.homepage);
+        if (config.siteBlockList.has(item.homepage)) return false;
+        siteList[item.full_name] = [item.homepage];
       }
 
-      return !config.repoBlockList.has(repo.full_name);
+      if (isOnlyNew && repoInSiteInfo.has(item.full_name)) return false;
+
+      return !config.repoBlockList.has(item.full_name);
     })
-    .map(repo => async () => {
-      const r = await getUrlsFromLatestCommitComment(repo.full_name);
-      if (r.length) siteList[repo.full_name] = (siteList[repo.full_name] || []).concat(r);
-      logger.debug(`[${repo.full_name}]site list:`, r);
+    .map(item => async () => {
+      if (isMaxRateLimited) return;
+      const r = await getUrlsFromLatestCommitComment(item.full_name);
+      if (r.ratelimit && r.remaining < 1) {
+        isMaxRateLimited = true;
+        logger.warn('达到最大请求限制次数', r);
+      }
+      if (r.message.includes('Not Found')) config.repoBlockList.add(r.repo);
+      if (r.list.length) siteList[item.full_name] = (siteList[item.full_name] || []).concat(r.list);
+      logger.debug(`[${item.full_name}]site list:`, r);
     });
 
   await concurrency(tasks, 6);
@@ -37,7 +47,7 @@ export async function repoBot(maxForks = 3000) {
     for (const url of urls) {
       if (!config.siteInfo[url]) config.siteInfo[url] = {};
       if (url.includes('.vercel.app')) config.siteInfo[url].needVPN = true;
-      assign(config.siteInfo[url], { repo: forkRepo } as SiteInfo);
+      if (!config.siteInfo[url].repo) config.siteInfo[url].repo = forkRepo;
     }
   }
   return r;

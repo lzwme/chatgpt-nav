@@ -1,6 +1,6 @@
-# ChatGPT 在线体验网站列表
+# ChatGPT 在线体验网站收集列表
 
-由于众所周知的原因，国内访问并体验 ChatGPT 的拥有一定的门槛，主要集中在网络无法访问、账号无法注册两个限制条件。然而对于突破该约束条件的同学来说，则可以很轻松的使用开源应用搭建基于 OPENAI API 的体验网站。
+由于众所周知的原因，国内访问并体验 ChatGPT 的拥有一定的门槛，主要集中在网络无法访问、账号无法注册两个限制条件。然而对于突破该约束条件的同学来说，则可以很轻松的使用开源应用搭建基于 OPENAI API 的在线体验网站。
 
 本仓库旨在通过搜集整理国内用户可访问的在线体验列表，以供相关同学查阅参考。其主要来源为：
 
@@ -9,39 +9,12 @@
 - 程序自动抓取开源仓库信息
 - More...
 
-
-## 参与贡献
-
-由于部分站点从网络自动搜集，尚未作可用性验证，欢迎欢迎提 [issues](https://github.com/lzwme/chatgpt-sites/issues) 或 PR 对其矫正。您可以：
-
-- 推荐并添加好用的站点。
-- 验证已有站点列表的可用性、有效性并更正。
-- 欢迎自荐您的站点。如果您的站点可以稳定长期运行、使用收费 API KEY 且免费使用，可增加推荐星级。
-- more...
-
-站点配置信息在 `site-info.json` 文件中设置，基本格式为：
-
-```ts
-{
-  "https://gpt.demo.com": {
-      "repo": 'lzwme/gpt-demo', // 来源仓库
-      "invalid": '20230310',    // 已失效，标注发现时间
-      "star": 1,                // 推荐星级，1-3
-      "hide": 0,                // 不显示在首页
-      "needKey": 0,             // 是否需要自己输入 API KEY
-      "needPwd": 0,             // 【受限】是否需要密码、账号登录才能访问
-      "needPay": 0,             // 付费应用
-      "desc": "描述",
-  },
-}
-```
-
 ## 站点列表
 
 ```
 ❌ 已失效。会在失效一段时间后移除
 ⭐ 推荐星级。默认一星。免费、无需代理、无需 KEY，可增加星级。
-🔑 需输入API KEY。可无需代理，使用自己的 KEY（应谨慎识别，避免泄露）
+🔑 需输入API KEY。可使用自己的 KEY（**应谨慎使用，避免KEY泄露**）
 🚀 需代理。可代理登录、免费试用
 🔒 需登录。注册账号时请仔细甄别相关页面，不要使用常用密码
 💰 需付费。请仔细识别，谨防受骗
@@ -51,6 +24,7 @@
 
 1. [[❌20230310] https://gpt.demo.com](https://gpt.demo.com) 描述
 1. [[❌] https://chat.chunkiu.hk](https://chat.chunkiu.hk) 无回复，key 失效
+1. [[❌] https://wordstory.streamlit.app](https://wordstory.streamlit.app)
 1. [[⭐] http://chat.apigpt.cn](http://chat.apigpt.cn)
 1. [[⭐] http://chat.livepo.top](http://chat.livepo.top)
 1. [[⭐] http://gpt.mxnf.store](http://gpt.mxnf.store)
@@ -99,6 +73,7 @@
 1. [[⭐] https://chat.abc123.site](https://chat.abc123.site)
 1. [[⭐] https://chat.aigc101.net](https://chat.aigc101.net)
 1. [[⭐] https://chat.aisa.top](https://chat.aisa.top)
+1. [[⭐] https://chat.axz.me](https://chat.axz.me)
 1. [[⭐] https://chat.binjie.site:7777](https://chat.binjie.site:7777)
 1. [[⭐] https://chat.bpcc.club](https://chat.bpcc.club)
 1. [[⭐] https://chat.brandonng.cc](https://chat.brandonng.cc)
@@ -129,6 +104,7 @@
 1. [[⭐] https://chat.jingran.vip](https://chat.jingran.vip)
 1. [[⭐] https://chat.kollykolly.cn](https://chat.kollykolly.cn)
 1. [[⭐] https://chat.kurox.cn](https://chat.kurox.cn)
+1. [[⭐] https://chat.laijiahao.cn](https://chat.laijiahao.cn)
 1. [[⭐] https://chat.laravel.icu](https://chat.laravel.icu)
 1. [[⭐] https://chat.leoku.top](https://chat.leoku.top)
 1. [[⭐] https://chat.leonas.dev](https://chat.leonas.dev)
@@ -159,6 +135,7 @@
 1. [[⭐] https://chat.tookit.show](https://chat.tookit.show)
 1. [[⭐] https://chat.tradergalax.xyz](https://chat.tradergalax.xyz)
 1. [[⭐] https://chat.umaske.com](https://chat.umaske.com)
+1. [[⭐] https://chat.up4dev.com](https://chat.up4dev.com)
 1. [[⭐] https://chat.vistudium.top](https://chat.vistudium.top)
 1. [[⭐] https://chat.wangyaodi.com](https://chat.wangyaodi.com)
 1. [[⭐] https://chat.wtko1.icu](https://chat.wtko1.icu)
@@ -269,6 +246,7 @@
 1. [[⭐] https://michat.yunshangbandao.top](https://michat.yunshangbandao.top)
 1. [[⭐] https://my-chatgpt-eosin.vercel.app](https://my-chatgpt-eosin.vercel.app)
 1. [[⭐] https://newgpt3-5.chattobot.xyz](https://newgpt3-5.chattobot.xyz)
+1. [[⭐] https://playground.openaikey.xyz](https://playground.openaikey.xyz)
 1. [[⭐] https://ptrain666.site](https://ptrain666.site)
 1. [[⭐] https://qylxschool.cn](https://qylxschool.cn)
 1. [[⭐] https://sangao.com](https://sangao.com)
@@ -284,7 +262,6 @@
 1. [[⭐] https://talk.xiu.ee](https://talk.xiu.ee)
 1. [[⭐] https://trychatgp.com](https://trychatgp.com)
 1. [[⭐] https://vip.8eth.cc](https://vip.8eth.cc)
-1. [[⭐] https://wordstory.streamlit.app](https://wordstory.streamlit.app) 写故事
 1. [[⭐] https://www.021d.com](https://www.021d.com)
 1. [[⭐] https://www.545852.xyz](https://www.545852.xyz)
 1. [[⭐] https://www.676888.xyz](https://www.676888.xyz)
@@ -332,6 +309,7 @@
 1. [[🚀] https://20230304v2.vercel.app](https://20230304v2.vercel.app)
 1. [[🚀] https://ai-bigtear-com.vercel.app](https://ai-bigtear-com.vercel.app)
 1. [[🚀] https://ai-ls-ai-ls.vercel.app](https://ai-ls-ai-ls.vercel.app)
+1. [[🚀] https://arch-chat.vercel.app](https://arch-chat.vercel.app)
 1. [[🚀] https://askwhy.vercel.app](https://askwhy.vercel.app)
 1. [[🚀] https://caht-gpt.vercel.app](https://caht-gpt.vercel.app)
 1. [[🚀] https://chat-ai-flame.vercel.app](https://chat-ai-flame.vercel.app)
@@ -341,8 +319,10 @@
 1. [[🚀] https://chat-eosin-three.vercel.app](https://chat-eosin-three.vercel.app)
 1. [[🚀] https://chat-gpt-coral-alpha.vercel.app](https://chat-gpt-coral-alpha.vercel.app)
 1. [[🚀] https://chat-icelox.vercel.app](https://chat-icelox.vercel.app)
+1. [[🚀] https://chat-ming.vercel.app](https://chat-ming.vercel.app)
 1. [[🚀] https://chat-robot.vercel.app](https://chat-robot.vercel.app)
 1. [[🚀] https://chat-songxff.vercel.app](https://chat-songxff.vercel.app)
+1. [[🚀] https://chatgpt-02xx.vercel.app](https://chatgpt-02xx.vercel.app)
 1. [[🚀] https://chatgpt-111-vpfi.vercel.app](https://chatgpt-111-vpfi.vercel.app)
 1. [[🚀] https://chatgpt-3-5-mmyyais.vercel.app](https://chatgpt-3-5-mmyyais.vercel.app)
 1. [[🚀] https://chatgpt-404gods.vercel.app](https://chatgpt-404gods.vercel.app)
@@ -373,6 +353,7 @@
 1. [[🚀] https://chatgpt-demo-alistertt.vercel.app](https://chatgpt-demo-alistertt.vercel.app)
 1. [[🚀] https://chatgpt-demo-alpha-two.vercel.app](https://chatgpt-demo-alpha-two.vercel.app)
 1. [[🚀] https://chatgpt-demo-amber.vercel.app](https://chatgpt-demo-amber.vercel.app)
+1. [[🚀] https://chatgpt-demo-aqm5.vercel.app](https://chatgpt-demo-aqm5.vercel.app)
 1. [[🚀] https://chatgpt-demo-aydengen.vercel.app](https://chatgpt-demo-aydengen.vercel.app)
 1. [[🚀] https://chatgpt-demo-azure.vercel.app](https://chatgpt-demo-azure.vercel.app)
 1. [[🚀] https://chatgpt-demo-bay-omega.vercel.app](https://chatgpt-demo-bay-omega.vercel.app)
@@ -401,12 +382,14 @@
 1. [[🚀] https://chatgpt-demo-coral.vercel.app](https://chatgpt-demo-coral.vercel.app)
 1. [[🚀] https://chatgpt-demo-cosine.vercel.app](https://chatgpt-demo-cosine.vercel.app)
 1. [[🚀] https://chatgpt-demo-crsec.vercel.app](https://chatgpt-demo-crsec.vercel.app)
+1. [[🚀] https://chatgpt-demo-csxmx.vercel.app](https://chatgpt-demo-csxmx.vercel.app)
 1. [[🚀] https://chatgpt-demo-cyan-eight.vercel.app](https://chatgpt-demo-cyan-eight.vercel.app)
 1. [[🚀] https://chatgpt-demo-delta-self.vercel.app](https://chatgpt-demo-delta-self.vercel.app)
 1. [[🚀] https://chatgpt-demo-delta.vercel.app](https://chatgpt-demo-delta.vercel.app)
 1. [[🚀] https://chatgpt-demo-dm2012.vercel.app](https://chatgpt-demo-dm2012.vercel.app)
 1. [[🚀] https://chatgpt-demo-dswang.vercel.app](https://chatgpt-demo-dswang.vercel.app)
 1. [[🚀] https://chatgpt-demo-dun-one.vercel.app](https://chatgpt-demo-dun-one.vercel.app)
+1. [[🚀] https://chatgpt-demo-dun-xi.vercel.app](https://chatgpt-demo-dun-xi.vercel.app)
 1. [[🚀] https://chatgpt-demo-dun.vercel.app](https://chatgpt-demo-dun.vercel.app)
 1. [[🚀] https://chatgpt-demo-ebon.vercel.app](https://chatgpt-demo-ebon.vercel.app)
 1. [[🚀] https://chatgpt-demo-eight-delta.vercel.app](https://chatgpt-demo-eight-delta.vercel.app)
@@ -432,6 +415,7 @@
 1. [[🚀] https://chatgpt-demo-gits.vercel.app](https://chatgpt-demo-gits.vercel.app)
 1. [[🚀] https://chatgpt-demo-gold.vercel.app](https://chatgpt-demo-gold.vercel.app)
 1. [[🚀] https://chatgpt-demo-goodhzy.vercel.app](https://chatgpt-demo-goodhzy.vercel.app)
+1. [[🚀] https://chatgpt-demo-goya1.vercel.app](https://chatgpt-demo-goya1.vercel.app)
 1. [[🚀] https://chatgpt-demo-gray.vercel.app](https://chatgpt-demo-gray.vercel.app)
 1. [[🚀] https://chatgpt-demo-gules.vercel.app](https://chatgpt-demo-gules.vercel.app)
 1. [[🚀] https://chatgpt-demo-guoke.vercel.app](https://chatgpt-demo-guoke.vercel.app)
@@ -460,6 +444,7 @@
 1. [[🚀] https://chatgpt-demo-jade-six.vercel.app](https://chatgpt-demo-jade-six.vercel.app)
 1. [[🚀] https://chatgpt-demo-jet-xi.vercel.app](https://chatgpt-demo-jet-xi.vercel.app)
 1. [[🚀] https://chatgpt-demo-jiakai.vercel.app](https://chatgpt-demo-jiakai.vercel.app)
+1. [[🚀] https://chatgpt-demo-jijuji.vercel.app](https://chatgpt-demo-jijuji.vercel.app)
 1. [[🚀] https://chatgpt-demo-jingbh.vercel.app](https://chatgpt-demo-jingbh.vercel.app)
 1. [[🚀] https://chatgpt-demo-jingyan.vercel.app](https://chatgpt-demo-jingyan.vercel.app)
 1. [[🚀] https://chatgpt-demo-kaixind.vercel.app](https://chatgpt-demo-kaixind.vercel.app)
@@ -471,6 +456,7 @@
 1. [[🚀] https://chatgpt-demo-khaki-five.vercel.app](https://chatgpt-demo-khaki-five.vercel.app)
 1. [[🚀] https://chatgpt-demo-khaki.vercel.app](https://chatgpt-demo-khaki.vercel.app)
 1. [[🚀] https://chatgpt-demo-khum08.vercel.app](https://chatgpt-demo-khum08.vercel.app)
+1. [[🚀] https://chatgpt-demo-kjhuanhao.vercel.app](https://chatgpt-demo-kjhuanhao.vercel.app)
 1. [[🚀] https://chatgpt-demo-kollyqaq.vercel.app](https://chatgpt-demo-kollyqaq.vercel.app)
 1. [[🚀] https://chatgpt-demo-kunode.vercel.app](https://chatgpt-demo-kunode.vercel.app)
 1. [[🚀] https://chatgpt-demo-kur0x.vercel.app](https://chatgpt-demo-kur0x.vercel.app)
@@ -487,6 +473,7 @@
 1. [[🚀] https://chatgpt-demo-lonr.vercel.app](https://chatgpt-demo-lonr.vercel.app)
 1. [[🚀] https://chatgpt-demo-lovat.vercel.app](https://chatgpt-demo-lovat.vercel.app)
 1. [[🚀] https://chatgpt-demo-lumia12316.vercel.app](https://chatgpt-demo-lumia12316.vercel.app)
+1. [[🚀] https://chatgpt-demo-marx2014.vercel.app](https://chatgpt-demo-marx2014.vercel.app)
 1. [[🚀] https://chatgpt-demo-mauve.vercel.app](https://chatgpt-demo-mauve.vercel.app)
 1. [[🚀] https://chatgpt-demo-mhbn.vercel.app](https://chatgpt-demo-mhbn.vercel.app)
 1. [[🚀] https://chatgpt-demo-miandai.vercel.app](https://chatgpt-demo-miandai.vercel.app)
@@ -538,6 +525,7 @@
 1. [[🚀] https://chatgpt-demo-qq309381.vercel.app](https://chatgpt-demo-qq309381.vercel.app)
 1. [[🚀] https://chatgpt-demo-qtcq.vercel.app](https://chatgpt-demo-qtcq.vercel.app)
 1. [[🚀] https://chatgpt-demo-ralphgj.vercel.app](https://chatgpt-demo-ralphgj.vercel.app)
+1. [[🚀] https://chatgpt-demo-ratol.vercel.app](https://chatgpt-demo-ratol.vercel.app)
 1. [[🚀] https://chatgpt-demo-renxia.vercel.app](https://chatgpt-demo-renxia.vercel.app)
 1. [[🚀] https://chatgpt-demo-revincx.vercel.app](https://chatgpt-demo-revincx.vercel.app)
 1. [[🚀] https://chatgpt-demo-rho.vercel.app](https://chatgpt-demo-rho.vercel.app)
@@ -566,6 +554,7 @@
 1. [[🚀] https://chatgpt-demo-soki.vercel.app](https://chatgpt-demo-soki.vercel.app)
 1. [[🚀] https://chatgpt-demo-sooty.vercel.app](https://chatgpt-demo-sooty.vercel.app)
 1. [[🚀] https://chatgpt-demo-soulero.vercel.app](https://chatgpt-demo-soulero.vercel.app)
+1. [[🚀] https://chatgpt-demo-stool233.vercel.app](https://chatgpt-demo-stool233.vercel.app)
 1. [[🚀] https://chatgpt-demo-swart-chi.vercel.app](https://chatgpt-demo-swart-chi.vercel.app)
 1. [[🚀] https://chatgpt-demo-swart.vercel.app](https://chatgpt-demo-swart.vercel.app)
 1. [[🚀] https://chatgpt-demo-syb319.vercel.app](https://chatgpt-demo-syb319.vercel.app)
@@ -585,6 +574,7 @@
 1. [[🚀] https://chatgpt-demo-three.vercel.app](https://chatgpt-demo-three.vercel.app)
 1. [[🚀] https://chatgpt-demo-tien860425.vercel.app](https://chatgpt-demo-tien860425.vercel.app)
 1. [[🚀] https://chatgpt-demo-tuzix.vercel.app](https://chatgpt-demo-tuzix.vercel.app)
+1. [[🚀] https://chatgpt-demo-two-delta.vercel.app](https://chatgpt-demo-two-delta.vercel.app)
 1. [[🚀] https://chatgpt-demo-two-mauve.vercel.app](https://chatgpt-demo-two-mauve.vercel.app)
 1. [[🚀] https://chatgpt-demo-two-psi.vercel.app](https://chatgpt-demo-two-psi.vercel.app)
 1. [[🚀] https://chatgpt-demo-u59i.vercel.app](https://chatgpt-demo-u59i.vercel.app)
@@ -600,6 +590,7 @@
 1. [[🚀] https://chatgpt-demo-wang-y-z.vercel.app](https://chatgpt-demo-wang-y-z.vercel.app)
 1. [[🚀] https://chatgpt-demo-wine-eight.vercel.app](https://chatgpt-demo-wine-eight.vercel.app)
 1. [[🚀] https://chatgpt-demo-wncoi.vercel.app](https://chatgpt-demo-wncoi.vercel.app)
+1. [[🚀] https://chatgpt-demo-woad-eta.vercel.app](https://chatgpt-demo-woad-eta.vercel.app)
 1. [[🚀] https://chatgpt-demo-xbdsky.vercel.app](https://chatgpt-demo-xbdsky.vercel.app)
 1. [[🚀] https://chatgpt-demo-xi-gold.vercel.app](https://chatgpt-demo-xi-gold.vercel.app)
 1. [[🚀] https://chatgpt-demo-xi-three.vercel.app](https://chatgpt-demo-xi-three.vercel.app)
@@ -663,6 +654,7 @@
 1. [[🚀] https://chatgpt-turbo-kylemclaren.vercel.app](https://chatgpt-turbo-kylemclaren.vercel.app)
 1. [[🚀] https://chatgpt-turbo-seven.vercel.app](https://chatgpt-turbo-seven.vercel.app)
 1. [[🚀] https://chatgpt-ui-app.vercel.app](https://chatgpt-ui-app.vercel.app)
+1. [[🚀] https://chatgpt-vercel-02xx.vercel.app](https://chatgpt-vercel-02xx.vercel.app)
 1. [[🚀] https://chatgpt-vercel-0311.vercel.app](https://chatgpt-vercel-0311.vercel.app)
 1. [[🚀] https://chatgpt-vercel-1-plum.vercel.app](https://chatgpt-vercel-1-plum.vercel.app)
 1. [[🚀] https://chatgpt-vercel-acmmer.vercel.app](https://chatgpt-vercel-acmmer.vercel.app)
@@ -684,6 +676,7 @@
 1. [[🚀] https://chatgpt-vercel-coral-three.vercel.app](https://chatgpt-vercel-coral-three.vercel.app)
 1. [[🚀] https://chatgpt-vercel-coral.vercel.app](https://chatgpt-vercel-coral.vercel.app)
 1. [[🚀] https://chatgpt-vercel-dbl520.vercel.app](https://chatgpt-vercel-dbl520.vercel.app)
+1. [[🚀] https://chatgpt-vercel-ddong8.vercel.app](https://chatgpt-vercel-ddong8.vercel.app)
 1. [[🚀] https://chatgpt-vercel-delta.vercel.app](https://chatgpt-vercel-delta.vercel.app)
 1. [[🚀] https://chatgpt-vercel-dofine.vercel.app](https://chatgpt-vercel-dofine.vercel.app)
 1. [[🚀] https://chatgpt-vercel-dun.vercel.app](https://chatgpt-vercel-dun.vercel.app)
@@ -712,13 +705,18 @@
 1. [[🚀] https://chatgpt-vercel-lake.vercel.app](https://chatgpt-vercel-lake.vercel.app)
 1. [[🚀] https://chatgpt-vercel-lemon.vercel.app](https://chatgpt-vercel-lemon.vercel.app)
 1. [[🚀] https://chatgpt-vercel-lilac.vercel.app](https://chatgpt-vercel-lilac.vercel.app)
+1. [[🚀] https://chatgpt-vercel-lime-six.vercel.app](https://chatgpt-vercel-lime-six.vercel.app)
 1. [[🚀] https://chatgpt-vercel-lovat.vercel.app](https://chatgpt-vercel-lovat.vercel.app)
+1. [[🚀] https://chatgpt-vercel-lovinhq.vercel.app](https://chatgpt-vercel-lovinhq.vercel.app)
 1. [[🚀] https://chatgpt-vercel-lxy.vercel.app](https://chatgpt-vercel-lxy.vercel.app)
+1. [[🚀] https://chatgpt-vercel-marx2014.vercel.app](https://chatgpt-vercel-marx2014.vercel.app)
 1. [[🚀] https://chatgpt-vercel-maycope.vercel.app](https://chatgpt-vercel-maycope.vercel.app)
 1. [[🚀] https://chatgpt-vercel-misaya98.vercel.app](https://chatgpt-vercel-misaya98.vercel.app)
 1. [[🚀] https://chatgpt-vercel-mocha-nine.vercel.app](https://chatgpt-vercel-mocha-nine.vercel.app)
+1. [[🚀] https://chatgpt-vercel-mpp5.vercel.app](https://chatgpt-vercel-mpp5.vercel.app)
 1. [[🚀] https://chatgpt-vercel-murex.vercel.app](https://chatgpt-vercel-murex.vercel.app)
 1. [[🚀] https://chatgpt-vercel-nine-alpha.vercel.app](https://chatgpt-vercel-nine-alpha.vercel.app)
+1. [[🚀] https://chatgpt-vercel-nine-psi.vercel.app](https://chatgpt-vercel-nine-psi.vercel.app)
 1. [[🚀] https://chatgpt-vercel-nine-rose.vercel.app](https://chatgpt-vercel-nine-rose.vercel.app)
 1. [[🚀] https://chatgpt-vercel-olive.vercel.app](https://chatgpt-vercel-olive.vercel.app)
 1. [[🚀] https://chatgpt-vercel-one-delta.vercel.app](https://chatgpt-vercel-one-delta.vercel.app)
@@ -740,9 +738,11 @@
 1. [[🚀] https://chatgpt-vercel-self.vercel.app](https://chatgpt-vercel-self.vercel.app)
 1. [[🚀] https://chatgpt-vercel-shural.vercel.app](https://chatgpt-vercel-shural.vercel.app)
 1. [[🚀] https://chatgpt-vercel-sternelee.vercel.app](https://chatgpt-vercel-sternelee.vercel.app)
+1. [[🚀] https://chatgpt-vercel-stool233.vercel.app](https://chatgpt-vercel-stool233.vercel.app)
 1. [[🚀] https://chatgpt-vercel-taupe.vercel.app](https://chatgpt-vercel-taupe.vercel.app)
 1. [[🚀] https://chatgpt-vercel-tawny-five.vercel.app](https://chatgpt-vercel-tawny-five.vercel.app)
 1. [[🚀] https://chatgpt-vercel-tawny.vercel.app](https://chatgpt-vercel-tawny.vercel.app)
+1. [[🚀] https://chatgpt-vercel-ten-eta.vercel.app](https://chatgpt-vercel-ten-eta.vercel.app)
 1. [[🚀] https://chatgpt-vercel-ten-rho.vercel.app](https://chatgpt-vercel-ten-rho.vercel.app)
 1. [[🚀] https://chatgpt-vercel-three-amber.vercel.app](https://chatgpt-vercel-three-amber.vercel.app)
 1. [[🚀] https://chatgpt-vercel-three-jade.vercel.app](https://chatgpt-vercel-three-jade.vercel.app)
@@ -780,6 +780,7 @@
 1. [[🚀] https://chatgpt230305.vercel.app](https://chatgpt230305.vercel.app)
 1. [[🚀] https://chatgpt3-5-seven.vercel.app](https://chatgpt3-5-seven.vercel.app)
 1. [[🚀] https://chatgptcn-mu.vercel.app](https://chatgptcn-mu.vercel.app)
+1. [[🚀] https://chatgptest.vercel.app](https://chatgptest.vercel.app)
 1. [[🚀] https://chatgptturbo.vercel.app](https://chatgptturbo.vercel.app)
 1. [[🚀] https://chatmi.vercel.app](https://chatmi.vercel.app)
 1. [[🚀] https://cnchat.vercel.app](https://cnchat.vercel.app)
@@ -795,6 +796,7 @@
 1. [[🚀] https://gpt-hk.vercel.app](https://gpt-hk.vercel.app)
 1. [[🚀] https://gpt-lite.vercel.app](https://gpt-lite.vercel.app)
 1. [[🚀] https://gpt3-pedroz.vercel.app](https://gpt3-pedroz.vercel.app)
+1. [[🚀] https://gptbot-rho.vercel.app](https://gptbot-rho.vercel.app)
 1. [[🚀] https://hlx.vercel.app](https://hlx.vercel.app)
 1. [[🚀] https://idong-chat-gpt.vercel.app](https://idong-chat-gpt.vercel.app)
 1. [[🚀] https://index-ai.vercel.app](https://index-ai.vercel.app)
@@ -820,6 +822,33 @@
 1. [[🚀] https://w9j1ao.vercel.app](https://w9j1ao.vercel.app)
 1. [[🚀] https://xwai.vercel.app](https://xwai.vercel.app)
 
+
+## 参与贡献
+
+由于部分站点从网络自动搜集，尚未作可用性验证，欢迎欢迎提 [issues](https://github.com/lzwme/chatgpt-sites/issues) 或 PR 对其矫正。您可以：
+
+- 推荐并添加好用的站点。
+- 验证已有站点列表的可用性、有效性并更正。
+- 欢迎自荐您的站点。如果您的站点可以稳定长期运行、使用收费 API KEY 且免费使用，可增加推荐星级。
+- more...
+
+站点配置信息在 `site-info.json` 文件中设置，基本格式为：
+
+```ts
+{
+  "https://gpt.demo.com": {
+      "repo": 'lzwme/gpt-demo', // 来源仓库
+      "invalid": '20230310',    // 已失效，标注发现时间
+      "star": 1,                // 推荐星级，1-3
+      "hide": 0,                // 不显示在首页
+      "needKey": 0,             // 是否需要自己输入 API KEY
+      "needPwd": 0,             // 【受限】是否需要密码、账号登录才能访问
+      "needPay": 0,             // 付费应用
+      "desc": "描述",
+  },
+}
+```
+
 ## 声明
 
-以上体验站点来源于网络收集、GitHub 开源仓库信息搜集和网友推荐。若有侵权请提 [issues](https://github.com/lzwme/chatgpt-sites/issues) 处理。
+以上体验站点来源于网络收集、GitHub 开源仓库信息搜集和网友推荐。若您的站点不希望被公开访问，应当设置密码等安全防范措施。若有侵权请提 [Issues](https://github.com/lzwme/chatgpt-sites/issues) 处理。

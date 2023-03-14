@@ -1,4 +1,5 @@
 import { Request, getLogger } from '@lzwme/fe-utils';
+import { execSync } from 'node:child_process';
 
 export const logger = getLogger();
 export const req = Request.getInstance();
@@ -24,7 +25,7 @@ export async function getRepoForks(repo: string, total = 0, params: { per_page?:
       list = list.concat(t);
     }
 
-    logger.debug(`[getRepoForks][${repo}]`, total, list.length);
+    logger.info(`[getRepoForks][${repo}]`, total, list.length, 'ratelimit-remaining:', r.headers['x-ratelimit-remaining'] || r.headers);
   }
 
   return list;
@@ -33,30 +34,29 @@ export async function getRepoForks(repo: string, total = 0, params: { per_page?:
 export async function getUrlsFromLatestCommitComment(repo: string) {
   // @see https://docs.github.com/en/rest/commits/commits?apiVersion=2022-11-28
   const url = `https://api.github.com/repos/${repo}/commits`;
-  let { data } = await req.get<{ comments_url: string; commit: { comment_count: number } }[]>(url, { per_page: 5 });
-  const siteList: string[] = [];
+  const r = await req.get<{ comments_url: string; commit: { comment_count: number } }[]>(url, { per_page: 5 });
+  const result = { list: [] as string[], message: '', repo, ratelimit: Number(r.headers['x-ratelimit-limit'] || 0), remaining: Number(r.headers['x-ratelimit-remaining'] || 1) };
 
-  if (!Array.isArray(data)) {
-    const info = data as never as { message: string };
-    logger.warn(`[${repo}]获取 commits 失败`, info);
-    // 抛出异常终止执行
-    if (String(info.message).startsWith('API rate limit')) throw Error(info.message);
-    return siteList;
+  if (!Array.isArray(r.data)) {
+    Object.assign(result, r.data);
+    logger.warn(`[${repo}]获取 commits 失败`, r.data);
+    if (result.message.startsWith('API rate limit')) throw Error(result.message); // 抛出异常终止执行
+    return result;
   }
 
-  data = data.filter(d => d.commit?.comment_count);
-  if (!data.length) return siteList;
+  r.data = r.data.filter(d => d.commit?.comment_count);
+  if (!r.data.length) return result;
 
-  const { data: comment } = await req.get<{ body: string }[]>(data[0].comments_url);
+  const { data: comment } = await req.get<{ body: string }[]>(r.data[0].comments_url);
 
   if (!Array.isArray(comment) || !comment.length) {
-    logger.warn(`[${repo}]`, Array.isArray(comment) ? `获取 comments 为空` : `获取 comments 失败`, data[0].comments_url);
-    return siteList;
+    logger.warn(`[${repo}]`, Array.isArray(comment) ? `获取 comments 为空` : `获取 comments 失败`, r.data[0].comments_url);
+    return result;
   }
 
   const body = comment[0].body;
   const urlList = String(body).match(/\[.+\]\(.+\)/gm);
-  if (!urlList) return siteList;
+  if (!urlList) return result;
 
   let shortUrl = '';
   urlList
@@ -67,13 +67,13 @@ export async function getUrlsFromLatestCommitComment(repo: string) {
         if (url.endsWith('vercel.app') || url.endsWith('netlify.app')) {
           if (!shortUrl || shortUrl.length > url.length) shortUrl = url;
         } else {
-          siteList.push(url);
+          result.list.push(url);
         }
       }
     });
-  if (shortUrl) siteList.push(shortUrl);
+  if (shortUrl) result.list.push(shortUrl);
 
-  return siteList;
+  return result;
 }
 
 export function fixSiteUrl(url: string) {
@@ -81,4 +81,22 @@ export function fixSiteUrl(url: string) {
   if (url.endsWith('/')) url = url.slice(0, -1);
   if (!url.startsWith('http')) url = `https://${url}`;
   return url;
+}
+
+export async function gitCommit() {
+  const changes = execSync('git status --short', { encoding: 'utf8' }).trim(); // --untracked-files=no
+  if (changes.length > 5) {
+    logger.info('[gitCommit]Changes:\n', changes);
+    const cmds = [
+      `git config user.name "github-actions[bot]"`,
+      `git config user.email "41898282+github-actions[bot]@users.noreply.github.com"`,
+      `git add --all`,
+      `git commit -m "Updated at ${new Date().toISOString()}"`,
+      `git push`,
+    ];
+
+    for (const cmd of cmds) execSync(cmd, { encoding: 'utf8', maxBuffer: 1024 * 1024 * 100 });
+  } else {
+    logger.info('[gitCommit]Not Updated');
+  }
 }

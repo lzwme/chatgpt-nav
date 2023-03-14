@@ -14,7 +14,7 @@ jobs:
       - name: bot-run
         run: |
           npm i --no-package-lock --no-audit --no-fund
-          npm start
+          npm start -- --only-new
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           SYNC: 1

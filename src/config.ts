@@ -3,6 +3,7 @@ import { fileURLToPath } from 'node:url';
 import { readJsonFileSync } from '@lzwme/fe-utils';
 import {config as dConfig } from 'dotenv';
 import { logger, req, fixSiteUrl } from './utils';
+import { writeFileSync } from 'node:fs';
 
 type BoolLike = boolean | 0 | 1;
 
@@ -28,12 +29,16 @@ export interface SiteInfo {
 }
 
 const rootDir = resolve(fileURLToPath(import.meta.url), '../..');
-console.log(rootDir)
 export const config = {
   rootDir,
   siteInfoFile: resolve(rootDir, 'site-info.json'),
   debug: process.argv.slice(2).includes('--debug'),
-  gptDemoRepos: [`ddiu8081/chatgpt-demo`, `ourongxing/chatgpt-vercel`, `cogentapps/chat-with-gpt`],
+  gptDemoRepos: [
+    `ddiu8081/chatgpt-demo`,
+    `ourongxing/chatgpt-vercel`,
+    `cogentapps/chat-with-gpt`,
+    // `yesmore/QA`,
+  ],
   /** github 仓库禁止列表 */
   repoBlockList: new Set([]) as Set<string>,
   /** 站点禁止列表 */
@@ -59,7 +64,9 @@ export function initConfig() {
   if (token) req.setHeaders({ Authorization: `Bearer ${token}` });
   else logger.warn('Not found GH TOKEN');
 
-  Object.assign(config.siteInfo, readJsonFileSync(config.siteInfoFile));
+  const info = readJsonFileSync<{ repoBlockList: string[]; siteInfo: Record<string, SiteInfo> }>(config.siteInfoFile);
+  Object.assign(config.siteInfo, info.siteInfo);
+  config.repoBlockList = new Set(config.repoBlockList);
 
   for (const [url, info] of Object.entries(config.siteInfo)) {
     let fixedUrl = fixSiteUrl(url);
@@ -78,4 +85,12 @@ export function initConfig() {
   logger.debug('config:', config);
 
   return config;
+}
+
+export function saveConfig() {
+  const info = {
+    repoBlockList: [...config.repoBlockList],
+    siteInfo: config.siteInfo,
+  };
+  writeFileSync(config.siteInfoFile, JSON.stringify(info, null, 2), 'utf8');
 }

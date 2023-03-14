@@ -1,8 +1,8 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
-import { logger } from './utils';
+import { gitCommit, logger } from './utils';
 import { repoBot } from './bot';
-import { config, initConfig } from './config';
+import { config, initConfig, saveConfig } from './config';
 
 function formatSiteList() {
   const list: string[] = [];
@@ -34,9 +34,10 @@ async function updateReadme() {
 
 export async function start() {
   initConfig();
-  await repoBot(config.debug ? 10 : 3000);
+  await repoBot(config.debug ? 10 : 2000);
   await updateReadme();
-  writeFileSync(config.siteInfoFile, JSON.stringify(config.siteInfo, null, 2), 'utf8');
+  saveConfig();
+  gitCommit();
 }
 
 start().then(() => logger.info('done! Total:', Object.keys(config.siteInfo).length));
