@@ -4,12 +4,7 @@
     "airyland/chatgpt-demo",
     "hi-jaylen/chatgpt-vercel",
     "idongtt/idong-ChatGPT",
-    "iwlei/chatgpt-vercel",
-    "lingxiaosu/chatgpt-demo",
-    "Smoking-k/chatgpt-demo",
-    "Hello002323/chatgpt-demo",
-    "MichealC0/chatgpt-demo",
-    "Smoking-k/chatgpt-vercel"
+    "iwlei/chatgpt-vercel"
   ],
   "siteInfo": {
     "https://gpt.demo.com": {
@@ -20,7 +15,7 @@
       "needKey": 0,
       "needPwd": 0,
       "needPay": 0,
-      "desc": "描述"
+      "desc": "描述示例项"
     },
     "https://www.chat2ai.cn": {
       "star": 2

@@ -31,6 +31,7 @@ export interface SiteInfo {
 const rootDir = resolve(fileURLToPath(import.meta.url), '../..');
 export const config = {
   rootDir,
+  ci: Boolean(process.env.CI || process.env.SYNC),
   siteInfoFile: resolve(rootDir, 'site-info.json'),
   debug: process.argv.slice(2).includes('--debug'),
   gptDemoRepos: [

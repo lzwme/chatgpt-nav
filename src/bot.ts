@@ -1,5 +1,5 @@
-import { assign, concurrency } from '@lzwme/fe-utils';
-import { config, SiteInfo } from './config';
+import { concurrency } from '@lzwme/fe-utils';
+import { config } from './config';
 import { getRepoForks, getUrlsFromLatestCommitComment, logger, fixSiteUrl } from './utils';
 
 async function repoCommentBot(repo: string, maxForks = 1000) {
@@ -34,7 +34,7 @@ async function repoCommentBot(repo: string, maxForks = 1000) {
       logger.debug(`[${item.full_name}]site list:`, r);
     });
 
-  await concurrency(tasks, 6);
+  await concurrency(tasks, config.ci ? 1 : 6);
 
   return siteList;
 }

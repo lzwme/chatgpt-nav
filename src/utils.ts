@@ -1,4 +1,4 @@
-import { Request, getLogger } from '@lzwme/fe-utils';
+import { Request, getLogger, sleep } from '@lzwme/fe-utils';
 import { execSync } from 'node:child_process';
 
 export const logger = getLogger();
@@ -35,12 +35,20 @@ export async function getUrlsFromLatestCommitComment(repo: string) {
   // @see https://docs.github.com/en/rest/commits/commits?apiVersion=2022-11-28
   const url = `https://api.github.com/repos/${repo}/commits`;
   const r = await req.get<{ comments_url: string; commit: { comment_count: number } }[]>(url, { per_page: 5 });
-  const result = { list: [] as string[], message: '', repo, ratelimit: Number(r.headers['x-ratelimit-limit'] || 0), remaining: Number(r.headers['x-ratelimit-remaining'] || 1) };
+  const result = {
+    list: [] as string[],
+    message: '', repo,
+    ratelimit: Number(r.headers['x-ratelimit-limit'] || 0),
+    remaining: Number(r.headers['x-ratelimit-remaining'] || 1),
+    rateLimitReset: Number(r.headers['x-ratelimit-reset']) || 0,
+  };
 
   if (!Array.isArray(r.data)) {
     Object.assign(result, r.data);
-    logger.warn(`[${repo}]获取 commits 失败`, r.data);
+    const now = Date.now();
+    logger.warn(`[${repo}]获取 commits 失败`, result.message, result.remaining, result.rateLimitReset, now);
     if (result.message.startsWith('API rate limit')) throw Error(result.message); // 抛出异常终止执行
+    if (result.rateLimitReset > now && result.rateLimitReset - now < 120000) await sleep(result.rateLimitReset - now);
     return result;
   }
 
