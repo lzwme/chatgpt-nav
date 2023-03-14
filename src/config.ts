@@ -12,6 +12,8 @@ export interface SiteInfo {
   repo?: string;
   /** 推荐等级(1-3) */
   star?: number;
+  /** 需人工验证 */
+  needVerify?: BoolLike;
   /** 需要自己输入 key */
   needKey?: BoolLike;
   /** 需要科学上网 */

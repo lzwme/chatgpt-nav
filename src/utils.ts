@@ -2,6 +2,7 @@ import { Request, getLogger, sleep } from '@lzwme/fe-utils';
 import { execSync } from 'node:child_process';
 
 export const logger = getLogger();
+export const ghReq = new Request();
 export const req = Request.getInstance();
 
 export async function getRepoForks(repo: string, total = 0, params: { per_page?: number; page?: number; sort?: string } = {}) {
@@ -9,7 +10,7 @@ export async function getRepoForks(repo: string, total = 0, params: { per_page?:
   logger.debug(`[getRepoForks][${repo}]`, params);
 
   const url = `https://api.github.com/repos/${repo}/forks`;
-  const r = await req.get<{ full_name: string; homepage: string }[]>(url, params);
+  const r = await ghReq.get<{ full_name: string; homepage: string }[]>(url, params);
   let list = Array.isArray(r.data) ? r.data : [];
 
   if (!Array.isArray(r.data)) {
@@ -34,7 +35,7 @@ export async function getRepoForks(repo: string, total = 0, params: { per_page?:
 export async function getUrlsFromLatestCommitComment(repo: string) {
   // @see https://docs.github.com/en/rest/commits/commits?apiVersion=2022-11-28
   const url = `https://api.github.com/repos/${repo}/commits`;
-  const r = await req.get<{ comments_url: string; commit: { comment_count: number } }[]>(url, { per_page: 5 });
+  const r = await ghReq.get<{ comments_url: string; commit: { comment_count: number } }[]>(url, { per_page: 5 });
   const result = {
     list: [] as string[],
     message: '', repo,
@@ -55,7 +56,7 @@ export async function getUrlsFromLatestCommitComment(repo: string) {
   r.data = r.data.filter(d => d.commit?.comment_count);
   if (!r.data.length) return result;
 
-  const { data: comment } = await req.get<{ body: string }[]>(r.data[0].comments_url);
+  const { data: comment } = await ghReq.get<{ body: string }[]>(r.data[0].comments_url);
 
   if (!Array.isArray(comment) || !comment.length) {
     logger.warn(`[${repo}]`, Array.isArray(comment) ? `获取 comments 为空` : `获取 comments 失败`, r.data[0].comments_url);
@@ -107,4 +108,13 @@ export async function gitCommit() {
   } else {
     logger.info('[gitCommit]Not Updated');
   }
+}
+
+/** url 有效性检测 */
+export async function urlVerify(url: string) {
+  const r = await req.get<string>(url, {}, { 'content-type': 'text/html' });
+  if (r.response.statusCode !== 200) return false;
+  if (!/<body/i.test(r.data)) return false;
+
+  return true;
 }

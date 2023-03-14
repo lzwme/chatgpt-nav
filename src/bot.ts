@@ -1,6 +1,6 @@
 import { concurrency } from '@lzwme/fe-utils';
 import { config } from './config';
-import { getRepoForks, getUrlsFromLatestCommitComment, logger, fixSiteUrl } from './utils';
+import { getRepoForks, getUrlsFromLatestCommitComment, logger, fixSiteUrl, urlVerify } from './utils';
 
 async function repoCommentBot(repo: string, maxForks = 1000) {
   let siteList: { [repo: string]: string[] } = {};
@@ -51,4 +51,14 @@ export async function repoBot(maxForks = 3000) {
     }
   }
   return r;
+}
+
+export function siteUrlVerify() {
+  const tasks = Object.keys(config.siteInfo).map(url => async () => {
+    const isOk = await urlVerify(url);
+    if (!isOk) config.siteInfo[url].needVerify = 1;
+    return isOk;
+  });
+
+  return concurrency(tasks, 6);
 }

@@ -1,13 +1,13 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { gitCommit, logger } from './utils';
-import { repoBot } from './bot';
+import { repoBot, siteUrlVerify } from './bot';
 import { config, initConfig, saveConfig } from './config';
 
 function formatSiteList() {
   return Object.entries(config.siteInfo)
     .sort((a, b) => {
-      for (const key of ['invalid', 'needVPN', 'needPwd', 'needPay', 'needKey'] as const) {
+      for (const key of ['needVerify', 'invalid', 'needVPN', 'needPwd', 'needPay', 'needKey'] as const) {
         if (a[1][key] !== b[1][key]) return a[1][key] ? 1 : -1;
       }
 
@@ -18,6 +18,7 @@ function formatSiteList() {
     .filter(([_url, info]) => !info.hide)
     .map(([url, info]) => {
       let prefix = '';
+      if (info.needVerify) prefix += '❓';
       if (info.needPwd) prefix += '🔒';
       if (info.needPay) prefix += '💰';
       if (info.needKey) prefix += '🔑';
@@ -40,6 +41,7 @@ async function updateReadme() {
 export async function start() {
   initConfig();
   await repoBot(config.debug ? 10 : 2000);
+  await siteUrlVerify();
   await updateReadme();
   saveConfig();
   if (config.ci) gitCommit();
