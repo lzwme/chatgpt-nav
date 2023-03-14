@@ -3022,6 +3022,39 @@
     "https://c2-lovat.vercel.app": {
       "needVPN": true,
       "repo": "ShowMeTheMoney2023/chatgpt-vercel"
+    },
+    "https://chatgpt-bot-lyart.vercel.app": {
+      "needVPN": true,
+      "repo": "itsdanielwei/ChatGPTBot"
+    },
+    "https://chatgpt.text-input1234.tk": {
+      "repo": "Thomas311926/chatgpt"
+    },
+    "https://chat-green-ten-16.vercel.app": {
+      "needVPN": true,
+      "repo": "Thomas311926/chatgpt"
+    },
+    "https://chatgpt-demo-1zyao.vercel.app": {
+      "needVPN": true,
+      "repo": "1zyao/chatgpt-demo"
+    },
+    "https://chatgpt-vercel-qumoptly.vercel.app": {
+      "needVPN": true,
+      "repo": "qumoptly/chatgpt-vercel"
+    },
+    "https://david-chatgpt.vercel.app": {
+      "needVPN": true,
+      "repo": "codavidgarcia/david-chatgpt"
+    },
+    "https://nvtest.xyz": {
+      "repo": "leaders53/chatgpt-vercel"
+    },
+    "https://www.nvtest.xyz": {
+      "repo": "leaders53/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-leaders53.vercel.app": {
+      "needVPN": true,
+      "repo": "leaders53/chatgpt-vercel"
     }
   }
 }
