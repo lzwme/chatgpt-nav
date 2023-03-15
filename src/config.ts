@@ -2,7 +2,7 @@ import { resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { readJsonFileSync } from '@lzwme/fe-utils';
 import {config as dConfig } from 'dotenv';
-import { logger, req, fixSiteUrl } from './utils';
+import { logger, ghReq, fixSiteUrl } from './utils';
 import { writeFileSync } from 'node:fs';
 
 type BoolLike = boolean | 0 | 1;
@@ -66,7 +66,7 @@ export function initConfig() {
   dConfig();
   const token = (process.env.GH_TOKEN || process.env.GITHUB_TOKEN || '').trim();
   console.log("token", token.length);
-  if (token) req.setHeaders({ Authorization: `Bearer ${token}` });
+  if (token) ghReq.setHeaders({ Authorization: `Bearer ${token}` });
   else logger.warn('Not found GH TOKEN');
 
   const info = readJsonFileSync<{ repoBlockList: string[]; siteInfo: Record<string, SiteInfo> }>(config.siteInfoFile);
