@@ -42,14 +42,16 @@ export async function getUrlsFromLatestCommitComment(repo: string) {
     ratelimit: Number(r.headers['x-ratelimit-limit'] || 0),
     remaining: Number(r.headers['x-ratelimit-remaining'] || 1),
     rateLimitReset: Number(r.headers['x-ratelimit-reset']) || 0,
+    now: Date.now(),
   };
+  if (String(result.rateLimitReset).length === 10) result.rateLimitReset *= 1000;
 
   if (!Array.isArray(r.data)) {
     Object.assign(result, r.data);
-    const now = Date.now();
-    logger.warn(`[${repo}]获取 commits 失败`, result.message, result.remaining, result.rateLimitReset, now);
+    logger.warn(`[${repo}]获取 commits 失败`, result.message, result.remaining, result.rateLimitReset, result.now);
     if (result.message.startsWith('API rate limit')) throw Error(result.message); // 抛出异常终止执行
-    if (result.rateLimitReset > now && result.rateLimitReset - now < 120000) await sleep(result.rateLimitReset - now);
+    const t = result.rateLimitReset - result.now;
+    if (t > 0 && t < 120000) await sleep(t);
     return result;
   }
 

@@ -54,9 +54,11 @@ export async function repoBot(maxForks = 3000) {
 }
 
 export function siteUrlVerify() {
-  const tasks = Object.keys(config.siteInfo).map(url => async () => {
+  const tasks = Object.entries(config.siteInfo).map(([url, item]) => async () => {
+    if (item.needVerify != null && item.needVerify < 0) return true;
     const isOk = await urlVerify(url);
-    if (!isOk) config.siteInfo[url].needVerify = 1;
+    if (!isOk) item.needVerify = 1;
+    else if('needVerify' in item) delete item.needVerify;
     return isOk;
   });
 

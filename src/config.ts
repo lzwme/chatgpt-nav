@@ -13,7 +13,7 @@ export interface SiteInfo {
   /** 推荐等级(1-3) */
   star?: number;
   /** 需人工验证 */
-  needVerify?: BoolLike;
+  needVerify?: Number;
   /** 需要自己输入 key */
   needKey?: BoolLike;
   /** 需要科学上网 */
@@ -31,6 +31,7 @@ export interface SiteInfo {
 }
 
 const rootDir = resolve(fileURLToPath(import.meta.url), '../..');
+
 export const config = {
   rootDir,
   ci: Boolean(process.env.CI || process.env.SYNC),
@@ -63,7 +64,8 @@ export const config = {
 
 export function initConfig() {
   dConfig();
-  const token = process.env.GH_TOKEN || '';
+  const token = (process.env.GH_TOKEN || process.env.GITHUB_TOKEN || '').trim();
+  console.log("token", token.length);
   if (token) req.setHeaders({ Authorization: `Bearer ${token}` });
   else logger.warn('Not found GH TOKEN');
 

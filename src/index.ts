@@ -7,7 +7,7 @@ import { config, initConfig, saveConfig } from './config';
 function formatSiteList() {
   return Object.entries(config.siteInfo)
     .sort((a, b) => {
-      for (const key of ['needVerify', 'invalid', 'needVPN', 'needPwd', 'needPay', 'needKey'] as const) {
+      for (const key of ['invalid', 'needVerify', 'needVPN', 'needPwd', 'needPay', 'needKey'] as const) {
         if (a[1][key] !== b[1][key]) return a[1][key] ? 1 : -1;
       }
 
@@ -18,13 +18,17 @@ function formatSiteList() {
     .filter(([_url, info]) => !info.hide)
     .map(([url, info]) => {
       let prefix = '';
-      if (info.needVerify) prefix += '❓';
+
+      if (info.invalid) prefix = '❌' + (typeof info.invalid === 'string' ? info.invalid : '');
+      else if (info.needVerify! > 0) prefix += '❓';
+
+      if (info.star && info.star > 0) prefix += '⭐'.repeat(Math.min(3, info.star));
+      else if (info.star == 0) prefix += '⛔';
+
       if (info.needPwd) prefix += '🔒';
       if (info.needPay) prefix += '💰';
       if (info.needKey) prefix += '🔑';
       if (info.needVPN) prefix += '🚀';
-      if (info.invalid) prefix = '❌' + (typeof info.invalid === 'string' ? info.invalid : '');
-      if (info.star) prefix += '⭐'.repeat(Math.min(3, info.star));
       return `1. [[${prefix || '⭐'}] ${url}](${url}) ${info.desc || ''}`.trim();
     });
 }
@@ -47,4 +51,7 @@ export async function start() {
   if (config.ci) gitCommit();
 }
 
-start().then(() => logger.info('done! Total:', Object.keys(config.siteInfo).length));
+start().then(() => {
+  logger.info('done! Total:', Object.keys(config.siteInfo).length);
+  process.nextTick(() => process.exit());
+});
