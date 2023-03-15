@@ -2331,7 +2331,8 @@
       "repo": "jingyan/chatgpt-vercel"
     },
     "https://chat.fcc.cm": {
-      "repo": "sysnu/chatgpt-vercel"
+      "repo": "sysnu/chatgpt-vercel",
+      "needVerify": 1
     },
     "https://chatgpt-vercel-pink.vercel.app": {
       "needVPN": true,
@@ -3218,6 +3219,22 @@
     "https://chatgpt-web-three.vercel.app": {
       "needVPN": true,
       "repo": "donnior/chatgpt-web"
+    },
+    "https://anychat-hazel.vercel.app": {
+      "needVPN": true,
+      "repo": "lixianwa/anychat"
+    },
+    "https://chatgpt-web-ten.vercel.app": {
+      "needVPN": true,
+      "repo": "onlyxuyang/chatgpt-web"
+    },
+    "https://chatgpt-demo-antergone.vercel.app": {
+      "needVPN": true,
+      "repo": "antergone/chatgpt-demo"
+    },
+    "https://chatgpt-demo-roan-phi.vercel.app": {
+      "needVPN": true,
+      "repo": "K1wiJuice/chatgpt-demo"
     }
   }
 }
