@@ -12,8 +12,8 @@ export interface SiteInfo {
   repo?: string;
   /** 推荐等级(1-3) */
   star?: number;
-  /** 需人工验证 */
-  needVerify?: Number;
+  /** 需人工验证。-1 已确认，且无需程序检测；大于等于 3 则显示为 ？ 状态 */
+  needVerify?: number;
   /** 需要自己输入 key */
   needKey?: BoolLike;
   /** 需要科学上网 */

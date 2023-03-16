@@ -34,7 +34,7 @@ async function repoCommentBot(repo: string, maxForks = 1000) {
       logger.debug(`[${item.full_name}]site list:`, r);
     });
 
-  await concurrency(tasks, config.ci ? 1 : 6);
+  await concurrency(tasks, config.ci ? 3 : 6);
 
   return siteList;
 }
@@ -57,7 +57,7 @@ export function siteUrlVerify() {
   const tasks = Object.entries(config.siteInfo).map(([url, item]) => async () => {
     if (item.needVerify != null && item.needVerify < 0) return true;
     const isOk = await urlVerify(url);
-    if (!isOk) item.needVerify = 1;
+    if (!isOk) item.needVerify = (item.needVerify || 0) + 1;
     else if('needVerify' in item) delete item.needVerify;
     return isOk;
   });

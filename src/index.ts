@@ -11,6 +11,8 @@ function formatSiteList() {
         if (a[1][key] !== b[1][key]) return a[1][key] ? 1 : -1;
       }
 
+      if (a[1].needVerify! > 2 || b[1].needVerify! > 2) return (b[1].needVerify || 0) - (a[1].needVerify || 0);
+
       if (a[1].star !== b[1].star) return (b[1].star || 1) - (a[1].star || 1);
 
       return a[0] > b[0] ? 1 : -1;
@@ -20,7 +22,7 @@ function formatSiteList() {
       let prefix = '';
 
       if (info.invalid) prefix = '❌' + (typeof info.invalid === 'string' ? info.invalid : '');
-      else if (info.needVerify! > 0) prefix += '❓';
+      else if (info.needVerify! > 2) prefix += '❓';
 
       if (info.star && info.star > 0) prefix += '⭐'.repeat(Math.min(3, info.star));
       else if (info.star == 0) prefix += '⛔';
