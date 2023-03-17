@@ -22,29 +22,30 @@
       "desc": "描述示例项"
     },
     "https://www.chat2ai.cn": {
-      "star": 2
+      "star": -1
     },
     "https://chat.ninvfeng.xyz": {
       "star": 1
     },
     "https://chat.yqcloud.top": {
-      "star": 1
+      "star": 2
     },
     "https://fastgpt.app": {
       "star": 1
     },
     "https://chat.zecoba.cn": {
-      "star": 1
+      "needPwd": 1
     },
     "https://chatgpt.hswmartin.top": {
-      "star": 1
+      "star": 2,
+      "needKey": 1
     },
     "https://www.chatsverse.xyz": {
       "star": 2
     },
     "https://www.aitoolgpt.com": {
       "repo": "dskho/chatgpt-vercel",
-      "star": 2
+      "star": 3
     },
     "https://chilloutai.com": {
       "desc": "你的虚拟女友"
@@ -158,7 +159,9 @@
       "needVerify": 3
     },
     "https://chat.eaten.fun": {},
-    "https://chat.binjie.site:7777": {},
+    "https://chat.binjie.site:7777": {
+      "star": 2
+    },
     "https://chatgpt123.fyi": {
       "repo": "xuxizhen/chatgpt-demo"
     },
@@ -831,25 +834,15 @@
     "https://chatgpt.svxte.ch": {
       "repo": "SVXTECH/ChatGPT"
     },
-    "https://www.supperjoy.online": {
-      "repo": "sbStu/chatgpt-demo"
-    },
-    "https://www.supperjoy.plus": {
-      "repo": "sbStu/chatgpt-demo"
-    },
-    "https://supperjoy.online": {
-      "repo": "sbStu/chatgpt-demo"
-    },
     "https://chat.supperjoy.online": {
-      "repo": "sbStu/chatgpt-demo"
-    },
-    "https://supperjoy.plus": {
-      "repo": "sbStu/chatgpt-demo"
+      "repo": "sbStu/chatgpt-yang",
+      "needPwd": 1
     },
     "https://chatgpt-supper.vercel.app": {
       "needVPN": true,
-      "repo": "sbStu/chatgpt-demo",
-      "needVerify": 1
+      "repo": "sbStu/chatgpt-yang",
+      "needVerify": 1,
+      "needPwd": 1
     },
     "https://chatgpt-demo-hot.vercel.app": {
       "needVPN": true,
@@ -1764,10 +1757,14 @@
       "needVerify": 3
     },
     "https://chat.hswmartin.top": {
-      "repo": "hswmartin/chatgpt-demo"
+      "repo": "hswmartin/chatgpt-demo",
+      "needKey": 1,
+      "start": 2
     },
     "https://chatgpt-public-nu.vercel.app": {
       "needVPN": true,
+      "start": 2,
+      "needKey": 1,
       "repo": "hswmartin/chatgpt-demo"
     },
     "https://chatgpt-demo-zw6097.vercel.app": {
