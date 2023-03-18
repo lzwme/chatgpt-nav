@@ -36,7 +36,8 @@ export const config = {
   rootDir,
   ci: Boolean(process.env.CI || process.env.SYNC),
   siteInfoFile: resolve(rootDir, 'site-info.json'),
-  debug: process.argv.slice(2).includes('--debug'),
+  debug: false,
+  isOnlyNew: false,
   gptDemoRepos: [
     `ddiu8081/chatgpt-demo`,
     `ourongxing/chatgpt-vercel`,
@@ -62,10 +63,13 @@ export const config = {
   } as { [url: string]: SiteInfo },
 };
 
-export function initConfig() {
+export function initConfig(argv: Record<string, unknown>) {
   dConfig();
+  config.debug = Boolean(argv.debug || process.env.DEBUG);
+  config.isOnlyNew = Boolean(argv.onlyNew);
+
   const token = (process.env.GH_TOKEN || process.env.GITHUB_TOKEN || '').trim();
-  console.log("token", token.length);
+  console.log('token', token.length);
   if (token) ghReq.setHeaders({ Authorization: `Bearer ${token}` });
   else logger.warn('Not found GH TOKEN');
 

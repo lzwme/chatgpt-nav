@@ -7,7 +7,6 @@ async function repoCommentBot(repo: string, maxForks = 1000) {
   const list = await getRepoForks(repo, maxForks, { per_page: Math.min(maxForks, 100) });
   logger.info(`[${repo}]forks repo list:`, config.debug ? list : list.length);
 
-  const isOnlyNew = process.argv.slice(2).includes('--only-new'); // ingore in siteInfo
   const repoInSiteInfo = new Set(Object.values(config.siteInfo).map(d => d.repo));
   let isMaxRateLimited = false;
   const tasks = list
@@ -18,7 +17,7 @@ async function repoCommentBot(repo: string, maxForks = 1000) {
         siteList[item.full_name] = [item.homepage];
       }
 
-      if (isOnlyNew && repoInSiteInfo.has(item.full_name)) return false;
+      if (config.isOnlyNew && repoInSiteInfo.has(item.full_name)) return false;
 
       return !config.repoBlockList.has(item.full_name);
     })
