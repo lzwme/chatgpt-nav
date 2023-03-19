@@ -108,16 +108,14 @@
     "https://freegpt.cc": {
       "needKey": 1
     },
-    "https://chat.chunkiu.hk": {
-      "invalid": 1,
-      "desc": "无回复，key 失效",
-      "repo": "6102yk/chatgpt"
-    },
     "https://chat.tgbot.co": {
-      "needVerify": 5
+      "needVerify": -1,
+      "invalid": 1,
+      "desc": "开始封号了，停止公开服务观察一段时期"
     },
-    "https://chat.geekr.dev": {
-      "needVerify": 5
+    "https://chat.geekr.cool": {
+      "needVerify": -1,
+      "desc": "支持语音的免费体验版ChatGPT"
     },
     "https://xc.com": {},
     "https://chat.51buygpt.com": {},
@@ -138,9 +136,9 @@
       "desc": "Teach you Anything in seconds"
     },
     "https://weeklyreport.avemaria.fun": {
-      "desc": "周报生成器",
+      "desc": "周报生成器。仅于周一、五、六、日免费使用，其余时间自备 OpenAI API Key",
       "needKey": 1,
-      "needVerify": 5
+      "needVerify": -1
     },
     "https://email-helper.vercel.app": {
       "desc": "Generate your business emails in seconds",
@@ -167,7 +165,7 @@
     "https://ai117.com": {
       "needVerify": 1
     },
-    "http://chat.livepo.top": {
+    "https://chat.livepo.top": {
       "needVerify": 5
     },
     "https://chat.eaten.fun": {},
@@ -196,7 +194,7 @@
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
       "desc": "聊天简化器",
-      "needVerify": 5
+      "needVerify": -1
     },
     "https://open-gpt.app": {
       "desc": "立即使用海量的 ChatGPT 应用，或在几秒钟内创建属于自己的应用",
@@ -281,11 +279,13 @@
       "repo": "crazyfish1988/online_gptbot"
     },
     "https://ai.nocmt.com": {
-      "repo": "nocmt/chatgpt-demo"
+      "repo": "nocmt/chatgpt-demo",
+      "needPwd": 1
     },
     "https://chatgpt-demo-nocmt.vercel.app": {
       "needVPN": true,
-      "repo": "nocmt/chatgpt-demo"
+      "repo": "nocmt/chatgpt-demo",
+      "needPwd": 1
     },
     "https://chatgpt-demo-1-seven.vercel.app": {
       "needVPN": true,
@@ -511,21 +511,27 @@
       "repo": "protendpaopao/chatgpt-demo",
       "needVerify": 5
     },
+    "https://chat.chunkiu.hk": {
+      "invalid": 1,
+      "desc": "无回复，key 失效",
+      "repo": "6102yk/chatgpt"
+    },
     "https://chunkiu.hk": {
       "repo": "6102yk/chatgpt",
-      "needVerify": 5
-    },
-    "https://chatgpt.chunkiu.hk": {
-      "repo": "6102yk/chatgpt",
-      "needVerify": 5
+      "needVerify": -1,
+      "hide": 1
     },
     "https://www.chunkiu.hk": {
       "repo": "6102yk/chatgpt",
-      "needVerify": 5
+      "needVerify": -1,
+      "hide": 1,
+      "desc": "301 to https://chat.chunkiu.hk"
     },
     "https://ai.chunkiu.hk": {
       "repo": "6102yk/chatgpt",
-      "needVerify": 5
+      "needVerify": -1,
+      "hide": 1,
+      "desc": "307 to https://chat.chunkiu.hk"
     },
     "https://chatgpt-6102yk.vercel.app": {
       "needVPN": true,

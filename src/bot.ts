@@ -1,6 +1,6 @@
-import { concurrency } from '@lzwme/fe-utils';
+import { concurrency, color } from '@lzwme/fe-utils';
 import { config } from './config';
-import { getRepoForks, getUrlsFromLatestCommitComment, logger, fixSiteUrl, urlVerify } from './utils';
+import { getRepoForks, getUrlsFromLatestCommitComment, logger, fixSiteUrl, httpLinkChecker } from './utils';
 
 async function repoCommentBot(repo: string, maxForks = 1000) {
   let siteList: { [repo: string]: string[] } = {};
@@ -54,14 +54,36 @@ export async function repoBot(maxForks = 3000) {
 
 export function siteUrlVerify() {
   const tasks = Object.entries(config.siteInfo).map(([url, item]) => async () => {
+    if (config.debug && url.endsWith('vercel.app')) return true;
+
     if (item.needVerify != null) {
       if (item.needVerify < 0) return true;
       if (item.needVerify >= 6) return false;
     }
-    const isOk = await urlVerify(url);
-    if (!isOk) item.needVerify = (item.needVerify || 0) + 1;
-    else if('needVerify' in item) delete item.needVerify;
-    return isOk;
+
+    logger.debug(`[urlVerify] start for`, color.green(url));
+    const startTime = Date.now();
+    const r = await httpLinkChecker(url, { verify: body => /<body/i.test(body) });
+
+    if (r.code) {
+      if (r.redirected) {
+        delete item.needVerify;
+        item.desc = `Redirect to: ${r.url}`;
+        if (!config.siteInfo[r.url]) config.siteInfo[r.url] = {};
+        logger.debug(`[urlVerify][${color.cyan(url)}]`, color.greenBright(item.desc), r);
+      } else {
+        item.needVerify = (item.needVerify || 0) + 1;
+        if (!item.desc || /^\d+ - /.test(item.desc)) item.desc = `${r.statusCode} - ${r.errmsg}`;
+        logger.warn(`[urlVerify][${color.yellow(url)}]`, r.statusCode, r.errmsg.slice(0, 300), r.url == url ? '' : color.cyan(r.url));
+      }
+    } else if ('needVerify' in item) {
+      delete item.needVerify;
+    }
+
+    const timeCost = Date.now() - startTime;
+    if (timeCost > 5000) logger.warn(`[urlVerify][slow]`, color.magenta(url), color.red(timeCost), r);
+    else logger.debug(`[urlVerify]done!`, color.green(url), color.cyan(timeCost), r);
+    return r;
   });
 
   return concurrency(tasks, 6);
