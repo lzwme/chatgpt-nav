@@ -33,7 +33,7 @@ async function repoCommentBot(repo: string, maxForks = 1000) {
       logger.debug(`[${item.full_name}]site list:`, r);
     });
 
-  await concurrency(tasks, config.ci ? 3 : 6);
+  await concurrency(tasks, config.ci ? 2 : 6);
 
   return siteList;
 }
