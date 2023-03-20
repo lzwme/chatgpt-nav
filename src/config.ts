@@ -44,9 +44,9 @@ export const config = {
     `cogentapps/chat-with-gpt`,
     // `yesmore/QA`,
   ],
-  /** github 仓库禁止列表 */
-  repoBlockList: new Set([]) as Set<string>,
-  /** 站点禁止列表 */
+  /** github 仓库禁止列表: hide=1、[siteInfo].repoBlockList */
+  repoBlockMap: new Map<string, string>([]),
+  /** 站点禁止列表: hide=1 */
   siteBlockList: new Set([]) as Set<string>,
   /** 站点信息 */
   siteInfo: {
@@ -75,7 +75,7 @@ export function initConfig(argv: Record<string, unknown>) {
 
   const info = readJsonFileSync<{ repoBlockList: string[]; siteInfo: Record<string, SiteInfo> }>(config.siteInfoFile);
   Object.assign(config.siteInfo, info.siteInfo);
-  config.repoBlockList = new Set(config.repoBlockList);
+  info.repoBlockList.forEach(repo => config.repoBlockMap.set(repo, ''));
 
   for (const [url, info] of Object.entries(config.siteInfo)) {
     let fixedUrl = fixSiteUrl(url);
@@ -86,7 +86,7 @@ export function initConfig(argv: Record<string, unknown>) {
 
     if (info.hide) {
       config.siteBlockList.add(url);
-      if (info.repo) config.repoBlockList.add(info.repo);
+      if (info.repo) config.repoBlockMap.set(info.repo, url);
     }
   }
 
@@ -98,7 +98,7 @@ export function initConfig(argv: Record<string, unknown>) {
 
 export function saveConfig() {
   const info = {
-    repoBlockList: [...config.repoBlockList],
+    repoBlockList: [...config.repoBlockMap].filter(d => '' === d[1]).map(d => d[0]),
     siteInfo: config.siteInfo,
   };
   writeFileSync(config.siteInfoFile, JSON.stringify(info, null, 2), 'utf8');

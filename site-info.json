@@ -991,11 +991,15 @@
       "needVPN": true,
       "repo": "luoyuxinghun/chatgpt-demo"
     },
+    "https://chatgpt-demo-shanyue.vercel.app": {
+      "repo": "shfshanyue/chatgpt-demo",
+      "needVPN": true
+    },
     "https://chatgpt-demo-silk.vercel.app": {
       "needVPN": true,
       "repo": "shfshanyue/chatgpt-demo",
-      "needVerify": 6,
-      "desc": "404 - Not Found"
+      "invalid": 1,
+      "hide": 1
     },
     "https://chatgpt-demo-crsec.vercel.app": {
       "needVPN": true,
@@ -1025,17 +1029,20 @@
     },
     "https://545852.xyz": {
       "repo": "echostars/chatgpt",
-      "needVerify": 6,
+      "hide": 1,
       "desc": "404 - Not Found"
     },
     "https://www.545852.xyz": {
       "repo": "echostars/chatgpt",
-      "needVerify": 6,
-      "desc": "404 - Not Found"
+      "hide": 1
     },
     "https://chatgpt-echostars-seven.vercel.app": {
       "needVPN": true,
       "repo": "echostars/chatgpt"
+    },
+    "https://chatgpt-echostars-echostars.vercel.app": {
+      "repo": "echostars/chatgpt",
+      "needVPN": 1
     },
     "https://chatgpt-demo-three-pi.vercel.app": {
       "needVPN": true,
@@ -1046,12 +1053,13 @@
       "repo": "aigctool/chatgpt-demo"
     },
     "https://chatgpt.aibi.one": {
-      "repo": "bitdayone/chatgpt-demo"
+      "repo": "bitdayone/chatgpt-demo",
+      "needPwd": 1
     },
     "https://chatgpt-psi-woad.vercel.app": {
       "needVPN": true,
       "repo": "bitdayone/chatgpt-demo",
-      "needVerify": 6,
+      "hide": 1,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-eta-roan.vercel.app": {
@@ -1062,11 +1070,9 @@
       "needVPN": true,
       "repo": "syb319/chatgpt-demo"
     },
-    "https://chatgpt-demo-vert-kappa.vercel.app": {
+    "https://chatgpt-demo-iota-kohl.vercel.app": {
       "needVPN": true,
-      "repo": "spp00/chatgpt-demo",
-      "needVerify": 6,
-      "desc": "404 - Not Found"
+      "repo": "spp00/chatgpt-demo"
     },
     "https://chatgpt-demo-chi-rose.vercel.app": {
       "needVPN": true,
@@ -1106,11 +1112,9 @@
     "https://chatgpt.github56796590.me": {
       "repo": "www5t1cn/chatgpt-demo"
     },
-    "https://chatgpt-demo-tawny-theta.vercel.app": {
+    "https://chatgpt-demo2-fawn.vercel.app": {
       "needVPN": true,
-      "repo": "clearlovex128/chatgpt-demo",
-      "needVerify": 6,
-      "desc": "404 - Not Found"
+      "repo": "clearlovex128/chatgpt-demo"
     },
     "https://chatgpt-demo-akingsky.vercel.app": {
       "needVPN": true,
@@ -1134,6 +1138,7 @@
     "https://chatgpt-demo-lumia12316.vercel.app": {
       "needVPN": true,
       "repo": "Lumia12316/chatgpt-demo-lumia",
+      "hide": 1,
       "needVerify": 6,
       "desc": "404 - Not Found"
     },
@@ -1145,11 +1150,9 @@
       "needVPN": true,
       "repo": "thedreamwork/chatgpt-demo"
     },
-    "https://chatgpt-chatbot-kappa.vercel.app": {
+    "https://chatgpt-chatbot-ivory.vercel.app": {
       "needVPN": true,
-      "repo": "siddht1/chatgpt-chatbot",
-      "needVerify": 6,
-      "desc": "404 - Not Found"
+      "repo": "siddht1/chatgpt-chatbot"
     },
     "https://chatgpt.jaylee.cn": {
       "repo": "jayleecn/chatgpt-demo"
@@ -1174,6 +1177,7 @@
       "needVPN": true,
       "repo": "lmy991226/chatgpt-demo",
       "needVerify": 6,
+      "hide": 1,
       "desc": "404 - Not Found"
     },
     "https://chat.chatgptworld.net": {
@@ -1190,11 +1194,8 @@
       "needVPN": true,
       "repo": "Codennnn/ChatGPT-UI"
     },
-    "https://chatgpt-demo-delta-self.vercel.app": {
-      "needVPN": true,
-      "repo": "smslit/chatgpt-demo",
-      "needVerify": 6,
-      "desc": "404 - Not Found"
+    "https://chatgpt-nu-green.vercel.app": {
+      "needVPN": true
     },
     "https://chatgpt-demo-hugvjj.vercel.app": {
       "needVPN": true,
@@ -4283,6 +4284,23 @@
       "repo": "christophercelaya/chat-with-gpt",
       "needVerify": 1,
       "desc": "404 - Not Found"
-    }
+    },
+    "https://www.mulaen.com": {},
+    "https://zhoubaotong.com/zh": {
+      "desc": "周报通"
+    },
+    "https://gpt.sheepig.top/chat": {},
+    "https://gpt.tool00.com": {},
+    "https://openaizh.com/chatgpt.html": {},
+    "https://hi.icu": {},
+    "https://ai.zecoba.cn": {},
+    "https://chat35.com/chat": {},
+    "https://chat.moyunav.com": {},
+    "https://chater.lanyun1103.top": {
+      "needPay": 1,
+      "hide": 1
+    },
+    "https://chat.javaex.cn": {},
+    "https://aitools.run": {}
   }
 }

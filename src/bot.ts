@@ -19,8 +19,9 @@ async function repoCommentBot(repo: string, maxForks = 1000) {
 
       if (config.isOnlyNew && repoInSiteInfo.has(item.full_name)) return false;
 
-      return !config.repoBlockList.has(item.full_name);
+      return !config.repoBlockMap.has(item.full_name);
     })
+    .sort((a, b) => Number(repoInSiteInfo.has(b.full_name)) - Number(repoInSiteInfo.has(a.full_name)))
     .map(item => async () => {
       if (isMaxRateLimited) return;
       const r = await getUrlsFromLatestCommitComment(item.full_name);
@@ -28,7 +29,7 @@ async function repoCommentBot(repo: string, maxForks = 1000) {
         isMaxRateLimited = true;
         logger.warn('达到最大请求限制次数', r);
       }
-      if (r.message.includes('Not Found')) config.repoBlockList.add(r.repo);
+      if (r.message.includes('Not Found')) config.repoBlockMap.set(r.repo, '');
       if (r.list.length) siteList[item.full_name] = (siteList[item.full_name] || []).concat(r.list);
       logger.debug(`[${item.full_name}]site list:`, r);
     });
@@ -55,10 +56,11 @@ export async function repoBot(maxForks = 3000) {
 export function siteUrlVerify() {
   const tasks = Object.entries(config.siteInfo).map(([url, item]) => async () => {
     if (config.debug && url.endsWith('vercel.app')) return true;
+    if (item.hide) return true;
 
     if (item.needVerify != null) {
       if (item.needVerify < 0) return true;
-      if (item.needVerify >= 6) return false;
+      if (item.needVerify > 6) return false;
     }
 
     logger.debug(`[urlVerify] start for`, color.green(url));
@@ -73,7 +75,11 @@ export function siteUrlVerify() {
         logger.debug(`[urlVerify][${color.cyan(url)}]`, color.greenBright(item.desc), r);
       } else {
         item.needVerify = (item.needVerify || 0) + 1;
-        if (!item.desc || /^\d+ - /.test(item.desc)) item.desc = `${r.statusCode} - ${r.errmsg}`;
+        if (item.needVerify >= 6 && r.statusCode === 404) {
+          delete config.siteInfo[r.url]; // 超过 6 次均 404 则移除
+        } else {
+          if (!item.desc || /^\d+ - /.test(item.desc)) item.desc = `${r.statusCode} - ${r.errmsg}`;
+        }
         logger.warn(`[urlVerify][${color.yellow(url)}]`, r.statusCode, r.errmsg.slice(0, 300), r.url == url ? '' : color.cyan(r.url));
       }
     } else if ('needVerify' in item) {
