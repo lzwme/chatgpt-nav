@@ -2012,17 +2012,25 @@
       "repo": "myWsq/chatgpt-personal"
     },
     "https://gptplus.yongmai.xyz": {
-      "repo": "MmYYAIS/chatgpt-3.5"
+      "repo": "MmYYAIS/chatgpt-3.5",
+      "hide": 1,
+      "needPwd": 1
     },
     "https://6758tkma.chattobot.xyz": {
-      "repo": "MmYYAIS/chatgpt-3.5"
+      "repo": "MmYYAIS/chatgpt-3.5",
+      "hide": 1,
+      "needPwd": 1
     },
     "https://newgpt3-5.chattobot.xyz": {
-      "repo": "MmYYAIS/chatgpt-3.5"
+      "repo": "MmYYAIS/chatgpt-3.5",
+      "hide": 1,
+      "needPwd": 1
     },
     "https://chatgpt-3-5-mmyyais.vercel.app": {
       "needVPN": true,
-      "repo": "MmYYAIS/chatgpt-3.5"
+      "repo": "MmYYAIS/chatgpt-3.5",
+      "hide": 1,
+      "needPwd": 1
     },
     "https://chat2.jingran.vip": {
       "repo": "andrewjr1991/chatgpt-vercel"
@@ -2398,7 +2406,8 @@
       "repo": "icepie/chatgpt-vercel"
     },
     "https://chatgpt-with-key.yongmai.xyz": {
-      "repo": "YongMai/chatgpt-with-key"
+      "repo": "YongMai/chatgpt-with-key",
+      "needKey": 1
     },
     "https://chatgpt-with-key.vercel.app": {
       "needVPN": true,
@@ -2621,6 +2630,9 @@
     },
     "https://chatwithgpt.netlify.app": {
       "repo": "mgpai22/chat-with-gpt",
+      "needKey": 1
+    },
+    "https://www.chatwithgpt.ai": {
       "needKey": 1
     },
     "https://chatgpt-demo-foxmn.vercel.app": {
@@ -3798,11 +3810,17 @@
       "desc": "404 - Not Found"
     },
     "https://chat.bingsight.com": {
-      "repo": "isight/chatgpt"
+      "repo": "isight/chatgpt",
+      "needPwd": 1
     },
     "https://wust.vercel.app": {
       "needVPN": true,
-      "repo": "isight/chatgpt"
+      "repo": "isight/chatgpt",
+      "needPwd": 1
+    },
+    "https://chatcat.pages.dev": {
+      "desc": "免费测试KEY不支持多轮对话。可填写自己的KEY",
+      "needVPN": 1
     },
     "https://chatgpt-demo-tau-six.vercel.app": {
       "needVPN": true,
@@ -4785,6 +4803,15 @@
     "https://markerchatgpt.vercel.app": {
       "needVPN": true,
       "repo": "02XX/chatgpt-vercel"
+    },
+    "https://modelscope.cn": {
+      "desc": "魔塔社区（阿里达摩院）",
+      "star": 2,
+      "cate": "ai"
+    },
+    "https://theb.ai": {
+      "star": 2,
+      "repo": "Chanzhaoyu/chatgpt-web"
     },
     "https://chat.gow66.tech": {
       "repo": "GOWxx/chatgpt-vercel"

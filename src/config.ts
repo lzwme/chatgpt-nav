@@ -28,6 +28,8 @@ export interface SiteInfo {
   hide?: BoolLike;
   /** 描述信息 */
   desc?: string;
+  /** @TODO 分类类别 */
+  cate?: 'chat' | 'tool' | 'ai';
 }
 
 const rootDir = resolve(fileURLToPath(import.meta.url), '../..');
@@ -38,12 +40,12 @@ export const config = {
   siteInfoFile: resolve(rootDir, 'site-info.json'),
   debug: false,
   isOnlyNew: false,
-  gptDemoRepos: [
-    `ddiu8081/chatgpt-demo`,
-    `ourongxing/chatgpt-vercel`,
-    `cogentapps/chat-with-gpt`,
-    // `yesmore/QA`,
-  ],
+  gptDemoRepos: new Map<string, SiteInfo>([
+    [`ddiu8081/chatgpt-demo`, {}],
+    [`ourongxing/chatgpt-vercel`, {}],
+    [`cogentapps/chat-with-gpt`, { needKey: true, needVPN: true }],
+    // [`yesmore/QA`, {}],
+  ]),
   /** github 仓库禁止列表: hide=1、[siteInfo].repoBlockList */
   repoBlockMap: new Map<string, string>([]),
   /** 站点禁止列表: hide=1 */
@@ -98,7 +100,7 @@ export function initConfig(argv: Record<string, unknown>) {
 
 export function saveConfig() {
   const info = {
-    repoBlockList: [...config.repoBlockMap].filter(d => '' === d[1]).map(d => d[0]),
+    repoBlockList: [...config.repoBlockMap].filter(d => !config.siteInfo[d[1]]?.hide).map(d => d[0]),
     siteInfo: config.siteInfo,
   };
   writeFileSync(config.siteInfoFile, JSON.stringify(info, null, 2), 'utf8');

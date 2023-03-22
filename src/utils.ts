@@ -67,26 +67,27 @@ export async function getUrlsFromLatestCommitComment(repo: string) {
     return result;
   }
 
-  const body = comment[0].body;
-  const urlList = String(body).match(/\[.+\]\(.+\)/gm);
-  if (!urlList) return result;
+  const urlList = extractHttpLinks(comment[0].body);
 
   let shortUrl = '';
-  urlList
-    .map(d => d.split('(')[1].slice(0, -1))
-    .forEach(url => {
-      if (url.startsWith('http')) {
-        if (url.endsWith('/')) url = url.slice(0, -1);
-        if (url.endsWith('vercel.app') || url.endsWith('netlify.app')) {
-          if (!shortUrl || shortUrl.length > url.length) shortUrl = url;
-        } else {
-          result.list.push(url);
-        }
+  urlList.forEach(url => {
+    if (url.startsWith('http')) {
+      if (url.endsWith('/')) url = url.slice(0, -1);
+      if (url.endsWith('vercel.app') || url.endsWith('netlify.app')) {
+        if (!shortUrl || shortUrl.length > url.length) shortUrl = url;
+      } else {
+        result.list.push(url);
       }
-    });
+    }
+  });
   if (shortUrl) result.list.push(shortUrl);
 
   return result;
+}
+
+export function extractHttpLinks(text: string) {
+  const urlList = String(text).match(/https?:\/\/([a-zA-Z0-9\-]+\.)+[a-zA-Z]+/gm) || [];
+  return [...new Set(urlList)];
 }
 
 export function fixSiteUrl(url: string) {

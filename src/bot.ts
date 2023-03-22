@@ -13,8 +13,7 @@ async function repoCommentBot(repo: string, maxForks = 1000) {
     .filter(item => {
       if (/^https?:\/\/([0-9a-zA-Z\-]+\.)/.test(item.homepage)) {
         item.homepage = fixSiteUrl(item.homepage);
-        if (config.siteBlockList.has(item.homepage)) return false;
-        siteList[item.full_name] = [item.homepage];
+        if (!config.siteBlockList.has(item.homepage)) siteList[item.full_name] = [item.homepage];
       }
 
       if (config.isOnlyNew && repoInSiteInfo.has(item.full_name)) return false;
@@ -40,17 +39,20 @@ async function repoCommentBot(repo: string, maxForks = 1000) {
 }
 
 export async function repoBot(maxForks = 3000) {
-  const r: { [repo: string]: string[] } = {};
+  const result: { [repo: string]: string[] } = {};
 
-  for (const repo of config.gptDemoRepos) Object.assign(r, await repoCommentBot(repo, maxForks));
-  for (const [forkRepo, urls] of Object.entries(r)) {
-    for (const url of urls) {
-      if (!config.siteInfo[url]) config.siteInfo[url] = {};
-      if (url.includes('.vercel.app')) config.siteInfo[url].needVPN = true;
-      if (!config.siteInfo[url].repo) config.siteInfo[url].repo = forkRepo;
+  for (const [repo, defaultInfo] of config.gptDemoRepos) {
+    const r = await repoCommentBot(repo, maxForks);
+    Object.assign(result, r);
+    for (const [forkRepo, urls] of Object.entries(r)) {
+      for (const url of urls) {
+        if (!config.siteInfo[url]) config.siteInfo[url] = Object.assign({}, defaultInfo);
+        if (url.includes('.vercel.app')) config.siteInfo[url].needVPN = true;
+        if (!config.siteInfo[url].repo) config.siteInfo[url].repo = forkRepo;
+      }
     }
   }
-  return r;
+  return result;
 }
 
 export function siteUrlVerify() {
