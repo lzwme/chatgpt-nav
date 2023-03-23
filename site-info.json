@@ -5039,6 +5039,10 @@
     "https://chatgpt-demo-wei.vercel.app": {
       "needVPN": true,
       "repo": "Anmizi/chatgpt-demo"
+    },
+    "https://vip.jjzn.top": {
+      "needPwd": 1,
+      "desc": "极简智能"
     }
   }
 }
