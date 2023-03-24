@@ -63,7 +63,10 @@
       "repo": "renxia/chat-with-gpt"
     },
     "https://chatgpt.haomingzi.net/ChatGPT.html": {},
-    "https://my-chatgpt-eosin.vercel.app": {},
+    "https://my-chatgpt-eosin.vercel.app": {
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
     "https://chatgpt-demo-gilt.vercel.app": {
       "needVPN": true,
       "repo": "luoyangshusheng/chatgpt-demo"
@@ -162,7 +165,6 @@
       "desc": "403 - Forbidden"
     },
     "https://chat.livepo.top": {
-      "needVerify": 1,
       "desc": "401 - Unauthorized"
     },
     "https://chat.eaten.fun": {},
@@ -600,14 +602,17 @@
     "https://chatgpt-demo-sjandsy.vercel.app": {
       "needVPN": true,
       "repo": "sjandsy/chatgpt-demo",
-      "desc": "404 - Not Found"
+      "desc": "404 - Not Found",
+      "needVerify": 1
     },
     "https://gpt.zhheo.com": {
       "repo": "zhheo/chatgpt-vercel"
     },
     "https://my-chatgpt-taosu.vercel.app": {
       "needVPN": true,
-      "repo": "0xtaosu/MyChatgpt"
+      "repo": "0xtaosu/MyChatgpt",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-keep4ing.vercel.app": {
       "needVPN": true,
@@ -664,7 +669,9 @@
     },
     "https://chatgpt-samyzy.vercel.app": {
       "needVPN": true,
-      "repo": "samyzy/chatgpt-demo"
+      "repo": "samyzy/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-five.vercel.app": {
       "needVPN": true,
@@ -874,13 +881,13 @@
     "https://chatgpt-echostars-seven.vercel.app": {
       "needVPN": true,
       "repo": "echostars/chatgpt",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-echostars-echostars.vercel.app": {
       "repo": "echostars/chatgpt",
       "needVPN": 1,
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-three-pi.vercel.app": {
@@ -1124,7 +1131,9 @@
     },
     "https://chatgpt-demo-0.vercel.app": {
       "needVPN": true,
-      "repo": "huangxinjie1/chatgpt-demo_0"
+      "repo": "huangxinjie1/chatgpt-demo_0",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chat.icelo.cn": {
       "repo": "iceloX/chatgpt-demo"
@@ -1174,7 +1183,7 @@
     "https://chatgpt-z1oplk.vercel.app": {
       "needVPN": true,
       "repo": "z1oplk/chatgpt-demo",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-qq309381.vercel.app": {
@@ -1296,7 +1305,7 @@
     "https://chatgpt-demo-dswang.vercel.app": {
       "needVPN": true,
       "repo": "callacat/chatgpt-demo",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chat.594144.xyz": {
@@ -1403,7 +1412,9 @@
       "repo": "miandai/chatgpt-demo"
     },
     "https://chat.yougan.cc": {
-      "repo": "xbdsky/chatgpt-demo"
+      "repo": "xbdsky/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "308 - Permanent Redirect"
     },
     "https://ai.yougan.cc": {
       "repo": "xbdsky/chatgpt-demo"
@@ -1443,7 +1454,7 @@
     "https://chatgpt-demo-roan.vercel.app": {
       "needVPN": true,
       "repo": "PeterFile/chatgpt-demo",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-ifeng.vercel.app": {
@@ -1803,7 +1814,6 @@
     },
     "https://chat.laravel.icu": {
       "repo": "skrleo/chatgpt",
-      "needVerify": 1,
       "desc": "402 - Payment Required"
     },
     "https://chatgpt-skrleo.vercel.app": {
@@ -2621,7 +2631,7 @@
     },
     "https://chatgpt.busiyi.world": {
       "repo": "korruz/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatwithgpt.netlify.app": {
@@ -2642,7 +2652,7 @@
     "https://chatgpt10.vercel.app": {
       "needVPN": true,
       "repo": "DonTuttle/chatgpt-demo",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-virid.vercel.app": {
@@ -2724,13 +2734,6 @@
       "repo": "andyzhshg/chatgpt-demo",
       "needPwd": 1
     },
-    "https://gptbot-rho.vercel.app": {
-      "needVPN": true,
-      "repo": "andyzhshg/chatgpt-demo",
-      "needPwd": 1,
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://chatgpt-vercel-mpp5.vercel.app": {
       "needVPN": true,
       "repo": "jian520/chatgpt-vercel"
@@ -2754,7 +2757,7 @@
     "https://chat-ming.vercel.app": {
       "needVPN": true,
       "repo": "SSmallMonster/chatgpt-vercel",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-ten-eta.vercel.app": {
@@ -2776,12 +2779,6 @@
     "https://chatgpt-demo-lewime.vercel.app": {
       "needVPN": true,
       "repo": "lewime/chatgpt-demo"
-    },
-    "https://chatgpt-demo-phi-dusky.vercel.app": {
-      "needVPN": true,
-      "repo": "Einstein1905/chatgpt-demo",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
     },
     "https://gpt.h7ml.cn": {
       "repo": "h7ml/chatgpt-demo"
@@ -3067,7 +3064,9 @@
       "repo": "cunzher/chatgpt"
     },
     "https://ai.anlu.fun": {
-      "repo": "carryhcc/chatgpt-demo"
+      "repo": "carryhcc/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-liart.vercel.app": {
       "needVPN": true,
@@ -3084,12 +3083,6 @@
     "https://chatgpt-demo-leo4zhou.vercel.app": {
       "needVPN": true,
       "repo": "Leo4zhou/chatgpt-demo"
-    },
-    "https://chatgpt-demo-cyan-xi.vercel.app": {
-      "needVPN": true,
-      "repo": "x03ck0x/chatgpt-demo",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-merore.vercel.app": {
       "needVPN": true,
@@ -3187,12 +3180,6 @@
       "needVPN": true,
       "repo": "gisdamon/chatgpt-vercel"
     },
-    "https://chatgpt-five-mu.vercel.app": {
-      "needVPN": true,
-      "repo": "Audience16/chatgpt",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://my-audience01.vercel.app": {
       "needVPN": true,
       "repo": "Audience16/chatgpt"
@@ -3215,7 +3202,7 @@
     "https://chatgpt-vercel-lac-zeta.vercel.app": {
       "needVPN": true,
       "repo": "q19889030/chatgpt-vercel",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chatgpt.suwanya.cn": {
@@ -3236,7 +3223,7 @@
     "https://chatgpt-demo-nu-gold.vercel.app": {
       "needVPN": true,
       "repo": "robercae/chatgpt-demo",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-six-lime.vercel.app": {
@@ -3255,16 +3242,10 @@
       "needVPN": true,
       "repo": "lxxself/chatgpt-demo"
     },
-    "https://chatgpt-demo-omega-amber.vercel.app": {
-      "needVPN": true,
-      "repo": "PPPP1987/chatgpt-demo",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://chatgpt-demo-hexianzhi.vercel.app": {
       "needVPN": true,
       "repo": "hexianzhi/chatgpt-demo",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chatgpt.singee.me": {
@@ -3280,12 +3261,6 @@
       "needVPN": true,
       "repo": "ycace/doris-gpt-demo"
     },
-    "https://chatgpt-demo-six-nu.vercel.app": {
-      "needVPN": true,
-      "repo": "alanleung04/chatgpt-demo",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://chatgpt-demo-jinliu.vercel.app": {
       "needVPN": true,
       "repo": "jinliu/chatgpt-demo"
@@ -3293,12 +3268,6 @@
     "https://chatgpt-demo-ddiu-omega.vercel.app": {
       "needVPN": true,
       "repo": "sorbose/chatgpt-demo-ddiu"
-    },
-    "https://chatgpt-demo-chi-six.vercel.app": {
-      "needVPN": true,
-      "repo": "DawnMagnet/chatgpt-demo",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
     },
     "https://chat.alanwang.site": {
       "repo": "3Alan/chatgpt-demo"
@@ -3314,12 +3283,6 @@
       "needVPN": true,
       "repo": "Jerry-FaGe/chatgpt-demo"
     },
-    "https://chatgpt-china-dashabi.vercel.app": {
-      "needVPN": true,
-      "repo": "553899811/chatgpt-demo",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://chatgpt-demo-aersasse.vercel.app": {
       "needVPN": true,
       "repo": "Aersasse/chatgpt-demo"
@@ -3327,18 +3290,6 @@
     "https://chatgpt-vercel-eta-snowy.vercel.app": {
       "needVPN": true,
       "repo": "chinaperrin/chatgpt-vercel"
-    },
-    "https://askgodchat.vercel.app": {
-      "needVPN": true,
-      "repo": "statfoxbeats/askgodanything",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
-    "https://chatgpt-vercel-one-beta.vercel.app": {
-      "needVPN": true,
-      "repo": "robercae/chatgpt-vercel",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-songxff.vercel.app": {
       "needVPN": true,
@@ -3369,20 +3320,10 @@
       "needVPN": true,
       "repo": "lxxself/chatgpt-vercel"
     },
-    "https://chatgpt-vercel-three-roan.vercel.app": {
-      "needVPN": true,
-      "repo": "Yellowsea2000/chatgpt-vercel",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://chatgpt-vercel-h.vercel.app": {
       "needVPN": true,
-      "repo": "Erichongyongjie/chatgpt-vercel-h"
-    },
-    "https://chatgpt-vercel-roan.vercel.app": {
-      "needVPN": true,
-      "repo": "kuberhan/chatgpt-vercel",
-      "needVerify": 5,
+      "repo": "Erichongyongjie/chatgpt-vercel-h",
+      "needVerify": 1,
       "desc": "404 - Not Found"
     },
     "https://u-web-seven.vercel.app": {
@@ -3415,24 +3356,12 @@
     "https://chat.pedroz.app": {
       "repo": "pzcn/chatgpt-vercel"
     },
-    "https://chatgpt-vercel-flame-phi.vercel.app": {
-      "needVPN": true,
-      "repo": "DuoLaVDream/chatgpt-vercel",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://chat.eryajf.net": {
       "repo": "eryajf/chatgpt-vercel"
     },
     "https://eryajf.vercel.app": {
       "needVPN": true,
       "repo": "eryajf/chatgpt-vercel"
-    },
-    "https://chat-with-gpt-sooty.vercel.app": {
-      "needVPN": true,
-      "repo": "kenpath1234/chat-with-gpt",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
     },
     "https://chatgpt-online.vercel.app": {
       "needVPN": true,
@@ -3442,7 +3371,7 @@
     "https://chatgpt-demo-lkyxuan.vercel.app": {
       "needVPN": true,
       "repo": "lkyxuan/chatgpt-demo",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-web-mauve.vercel.app": {
@@ -3456,7 +3385,7 @@
     "https://chat-anyone.vercel.app": {
       "needVPN": true,
       "repo": "cocpublic/chatgpt-demo",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-necopp.vercel.app": {
@@ -3466,7 +3395,7 @@
     "https://chatgpt-demo-yp1y.vercel.app": {
       "needVPN": true,
       "repo": "hackhy2020/chatgpt-demo",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-gengzhikui.vercel.app": {
@@ -3483,7 +3412,7 @@
     "https://chatgpt-demo-asmboy.vercel.app": {
       "needVPN": true,
       "repo": "asmboy/chatgpt-demo",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://github.com/MC-dusk/chatgpt-vercel": {
@@ -3537,7 +3466,7 @@
     "https://chatgpt-vercel-5dlh.vercel.app": {
       "needVPN": true,
       "repo": "augety-x/chatgpt-vercel",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-50mkw.vercel.app": {
@@ -3547,24 +3476,24 @@
     "https://chatgpt-vercel-nu-beryl.vercel.app": {
       "needVPN": true,
       "repo": "joyapple/chatgpt-vercel",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://askgodany.vercel.app": {
       "needVPN": true,
       "repo": "statfoxbeats/speakwithgodnow",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://www.speakwithgodnow.com": {
       "repo": "statfoxbeats/speakwithgodnow",
       "desc": "404 - Not Found",
-      "needVerify": 1
+      "needVerify": 2
     },
     "https://speakwithgodnow.vercel.app": {
       "needVPN": true,
       "repo": "statfoxbeats/speakwithgodnow",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://bot.oho.cool": {
@@ -3577,7 +3506,7 @@
     "https://chatgpt-vercel-x5im.vercel.app": {
       "needVPN": true,
       "repo": "oeyoews/chatgpt-vercel",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-s337443501.vercel.app": {
@@ -3628,7 +3557,7 @@
     "https://chatgpt-demo-alpha-five.vercel.app": {
       "needVPN": true,
       "repo": "ai88030669/chatgpt-demo",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://gpt-ljwh.vercel.app": {
@@ -3642,7 +3571,7 @@
     "https://chatgpt-vercel-thebeginning.vercel.app": {
       "needVPN": true,
       "repo": "zhangxiao766/chatgpt-vercel",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-eight-mocha.vercel.app": {
@@ -3655,7 +3584,7 @@
     "https://vercel-wopao.vercel.app": {
       "needVPN": true,
       "repo": "wopao/vercel",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-gamma-six.vercel.app": {
@@ -3665,7 +3594,7 @@
     "https://chatgpt-vercel-nine-rho.vercel.app": {
       "needVPN": true,
       "repo": "songjunwei/chatgpt-vercel",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-sainnhe.vercel.app": {
@@ -3675,7 +3604,7 @@
     "https://chatgpt-vercel-indol-three.vercel.app": {
       "needVPN": true,
       "repo": "MyGoodTime/chatgpt-vercel",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel0318.vercel.app": {
@@ -3709,13 +3638,13 @@
     "https://jkdlkjdsaljk.vercel.app": {
       "needVPN": true,
       "repo": "statfoxbeats/gggfgdfgfdg",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chat-with-gpt-six.vercel.app": {
       "needVPN": true,
       "repo": "christophercelaya/chat-with-gpt",
-      "needVerify": 4,
+      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://www.mulaen.com": {},
@@ -3742,7 +3671,7 @@
     "https://chatgpt-demo-mzkal.vercel.app": {
       "needVPN": true,
       "repo": "Mzkal/chatgpt-demo",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chat.bingsight.com": {
@@ -3769,7 +3698,7 @@
     "https://chatgpt-demo-ranyouli.vercel.app": {
       "needVPN": true,
       "repo": "ranyouli/chatgpt-demo",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chat.cyihx.me": {
@@ -3794,7 +3723,7 @@
     "https://chatgpt-vercel-gamma-inky.vercel.app": {
       "needVPN": true,
       "repo": "deviledgeknife/chatgpt-vercel",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-xibexp.vercel.app": {
@@ -3808,25 +3737,25 @@
     "https://chatgpt-vercel-xngzs.vercel.app": {
       "needVPN": true,
       "repo": "xngzs/chatgpt-vercel",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-wheat-seven.vercel.app": {
       "needVPN": true,
       "repo": "DreamingCats/chatgpt-vercel",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-red.vercel.app": {
       "needVPN": true,
       "repo": "shuiwudengli/chatgpt-vercel",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-one-phi.vercel.app": {
       "needVPN": true,
       "repo": "zhangyg0123456/chatgpt-vercel",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-spades996.vercel.app": {
@@ -3859,13 +3788,13 @@
     "https://chatgpt-vercel-opal-one.vercel.app": {
       "needVPN": true,
       "repo": "qunhe-yihui/chatgpt-vercel",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chat-gpt-534m.vercel.app": {
       "needVPN": true,
       "repo": "AFoxLove/ChatGPT",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt.bowlofnoodles.top": {
@@ -3905,13 +3834,13 @@
     "https://chatgpt-vercel-chieffucker.vercel.app": {
       "needVPN": true,
       "repo": "ChiefFucker/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chat-colin.vercel.app": {
       "needVPN": true,
       "repo": "ColinTX/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-ziboh.vercel.app": {
@@ -3928,7 +3857,9 @@
     },
     "https://chatgpt-vercel-waltonhe.vercel.app": {
       "needVPN": true,
-      "repo": "WaltonHe/chatgpt-vercel"
+      "repo": "WaltonHe/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chat-gpt-pyubun.vercel.app": {
       "needVPN": true,
@@ -3949,7 +3880,7 @@
     "https://chatgpt-vercel-k3382410.vercel.app": {
       "needVPN": true,
       "repo": "hurcdn/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-five-alpha.vercel.app": {
@@ -3966,7 +3897,7 @@
     "https://chatgpt-vercel-1-ten.vercel.app": {
       "needVPN": true,
       "repo": "0xhardman/chatgpt-vercel-1",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-narwhrl.vercel.app": {
@@ -3988,7 +3919,7 @@
     "https://chatgpt-demo-aqm5.vercel.app": {
       "needVPN": true,
       "repo": "qimuwen/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-leaders53.vercel.app": {
@@ -3998,7 +3929,7 @@
     "https://chatgpt-demo-marx2014.vercel.app": {
       "needVPN": true,
       "repo": "Marx2014/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-steel-rho.vercel.app": {
@@ -4012,162 +3943,162 @@
     "https://chatgpt-demo-six-umber.vercel.app": {
       "needVPN": true,
       "repo": "iCloudBot/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://egemen.vercel.app": {
       "needVPN": true,
       "repo": "egemenkorkmaz/chatgpt-net",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://uzgpt.vercel.app": {
       "needVPN": true,
       "repo": "professor93/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-goodhzy.vercel.app": {
       "needVPN": true,
       "repo": "goodhzy/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo2-lilac.vercel.app": {
       "needVPN": true,
       "repo": "suyu-dins/chatgpt-demo1",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-one-mu.vercel.app": {
       "needVPN": true,
       "repo": "protendpaopao/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-pi-opal.vercel.app": {
       "needVPN": true,
       "repo": "zluu0033/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-beryl-nine.vercel.app": {
       "needVPN": true,
       "repo": "shusaoxinhao/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-imp.vercel.app": {
       "needVPN": true,
       "repo": "bilalnawaz072/chatgpt-demo-imp",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://studiochatsandbox.vercel.app": {
       "needVPN": true,
       "repo": "celdiniz/CreativeWebChat",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-hot.vercel.app": {
       "needVPN": true,
       "repo": "happyhuizai/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-livid-eight.vercel.app": {
       "needVPN": true,
       "repo": "FatihArridho/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt3-5-seven.vercel.app": {
       "needVPN": true,
       "repo": "WayneJin88888/chatgpt3.5",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-ten-red.vercel.app": {
       "needVPN": true,
       "repo": "project4linwang/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-nine-green.vercel.app": {
       "needVPN": true,
       "repo": "yousaforever/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-lemon-chi.vercel.app": {
       "needVPN": true,
       "repo": "ZhangZhi-1155116040/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-two-mauve.vercel.app": {
       "needVPN": true,
       "repo": "sangshaoxuan/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-alpha-two.vercel.app": {
       "needVPN": true,
       "repo": "Umbrella-J/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-puce-xi.vercel.app": {
       "needVPN": true,
       "repo": "EEEElvin/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://sure-peach.vercel.app": {
       "needVPN": true,
       "repo": "vennyan/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-bjw321.vercel.app": {
       "needVPN": true,
       "repo": "bjw321/chatgpt-demo",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://sherlock.emreisik.dev": {
       "repo": "emreisik95/sherlock",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://sherlock-iota.vercel.app": {
       "needVPN": true,
       "repo": "emreisik95/sherlock",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-swart-chi.vercel.app": {
       "needVPN": true,
       "repo": "zjfoxcn168/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-zw6097.vercel.app": {
       "needVPN": true,
       "repo": "zw6097/chatgpt-demo",
-      "needVerify": 3,
+      "needVerify": 4,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-yexkt1.vercel.app": {
       "needVPN": true,
       "repo": "yexkt1/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-make.vercel.app": {
       "needVPN": true,
       "repo": "Makepen0/chatgpt-make",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://gpt-dialog-i-huandume.vercel.app": {
@@ -4177,13 +4108,13 @@
     "https://chatgpt-demo-fy2git.vercel.app": {
       "needVPN": true,
       "repo": "fy2git/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgptturbo.vercel.app": {
       "needVPN": true,
       "repo": "data7799/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://one.ie": {
@@ -4238,13 +4169,13 @@
     "https://chatgpt-vercel-psi-one.vercel.app": {
       "needVPN": true,
       "repo": "ZuoChen888/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://c2-lovat.vercel.app": {
       "needVPN": true,
       "repo": "ShowMeTheMoney2023/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://www.lwray.top": {
@@ -4260,13 +4191,13 @@
     "https://chatgpt-vercel-qiangua.vercel.app": {
       "needVPN": true,
       "repo": "QIanGua/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-one-rose.vercel.app": {
       "needVPN": true,
       "repo": "TangGSen/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-one-mu.vercel.app": {
@@ -4276,25 +4207,25 @@
     "https://chatgpt-vercel-rouge-rho.vercel.app": {
       "needVPN": true,
       "repo": "larryzhou021/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-fangvivi.vercel.app": {
       "needVPN": true,
       "repo": "fangvivi/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-bay.vercel.app": {
       "needVPN": true,
       "repo": "quanquan-dane/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-bot-tau.vercel.app": {
       "needVPN": true,
       "repo": "harryhook/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://try-chat-gpt.vercel.app": {
@@ -4304,7 +4235,7 @@
     "https://testwizef.vercel.app": {
       "needVPN": true,
       "repo": "amWizef/vercel-gpt.wiz",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-blush-kappa.vercel.app": {
@@ -4365,7 +4296,7 @@
     "https://chatgpt-demo-eight-lemon.vercel.app": {
       "needVPN": true,
       "repo": "YunchaoZheng/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-pw2ps0ci-lsqs2022.4everland.app)<br/>[https://chatgpt-demo-7.4everland.app": {
@@ -4412,7 +4343,7 @@
     "https://chatgpt-demo-1-pi.vercel.app": {
       "needVPN": true,
       "repo": "statfoxbeats/chatgpt-demo-1",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo.wangziyi.xyz": {
@@ -4435,13 +4366,13 @@
     "https://chatgpt-demo-bwcxgl.vercel.app": {
       "needVPN": true,
       "repo": "bwcxgl/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-nine-sooty.vercel.app": {
       "needVPN": true,
       "repo": "1257453786/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-web-ten.vercel.app": {
@@ -4458,13 +4389,13 @@
     "https://chatgpt-02xx.vercel.app": {
       "needVPN": true,
       "repo": "02XX/chatgpt",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-kaiwenfeng.vercel.app": {
       "needVPN": true,
       "repo": "KaiwenFeng/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-bilter1001.vercel.app": {
@@ -4474,7 +4405,7 @@
     "https://chatgpt-demo-flax-five.vercel.app": {
       "needVPN": true,
       "repo": "jackyoung022/chatgpt-demo",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-p.vercel.app": {
@@ -4488,7 +4419,7 @@
     "https://chatgpt-vercel-two-rose.vercel.app": {
       "needVPN": true,
       "repo": "eric202301/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-lovat-delta.vercel.app": {
@@ -4498,7 +4429,7 @@
     "https://chatgpt-vercel-jiyu1994.vercel.app": {
       "needVPN": true,
       "repo": "jiyu1994/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-guhungjou.vercel.app": {
@@ -4577,7 +4508,7 @@
     "https://chatgpt-vercel-six-zeta.vercel.app": {
       "needVPN": true,
       "repo": "sunzhencode/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-bzb.vercel.app": {
@@ -4644,13 +4575,13 @@
     "https://cchat-three.vercel.app": {
       "needVPN": true,
       "repo": "txssxt/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-sudatuu.vercel.app": {
       "needVPN": true,
       "repo": "sudatuu/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-woad-two.vercel.app": {
@@ -4670,7 +4601,7 @@
     "https://aitoolschatgptbot.vercel.app": {
       "needVPN": true,
       "repo": "AitoolsPro/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-zuotiya.vercel.app": {
@@ -4737,7 +4668,7 @@
     "https://chatver.vercel.app": {
       "needVPN": true,
       "repo": "alexandrawallace/chatver",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-rose.vercel.app": {
@@ -4766,7 +4697,7 @@
     "https://chatgpt-vercel-psi-sable.vercel.app": {
       "needVPN": true,
       "repo": "jianyun8023/chatgpt-vercel",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "404 - Not Found"
     },
     "https://www.sotai.cc": {
@@ -4817,7 +4748,9 @@
     },
     "https://chatgpt-vercel-pink-nu.vercel.app": {
       "needVPN": true,
-      "repo": "fromatlantis/chatgpt-vercel"
+      "repo": "fromatlantis/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chat.internetip.cn": {
       "repo": "zttztztz/chatgpt-vercel"
@@ -4845,19 +4778,19 @@
     "https://chatgpt-vercel-moeyys.vercel.app": {
       "needVPN": true,
       "repo": "moeyys/chatgpt-vercel",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-sanfanse.vercel.app": {
       "needVPN": true,
       "repo": "Sanfanse/chatgpt-vercel",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "https://markerchatgpt.vercel.app": {
       "needVPN": true,
       "repo": "02XX/chatgpt-vercel",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "https://modelscope.cn": {
@@ -4868,7 +4801,7 @@
     "https://theb.ai": {
       "star": 2,
       "repo": "Chanzhaoyu/chatgpt-web",
-      "needVerify": 2,
+      "needVerify": 3,
       "desc": "403 - Forbidden"
     },
     "https://chat.gow66.tech": {
@@ -4908,13 +4841,13 @@
     "https://chatgpt-sigma-five.vercel.app": {
       "needVPN": true,
       "repo": "imingsmings/chatgpt",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-bice-ten.vercel.app": {
       "needVPN": true,
       "repo": "imingsmings/chatgpt",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-cyan-ten.vercel.app": {
@@ -4923,13 +4856,12 @@
     },
     "https://gpt.sun-site.com": {
       "repo": "carefree2005/chatgpt-demo",
-      "needVerify": 1,
       "desc": "404 - Not Found"
     },
     "https://wchat-ten.vercel.app": {
       "needVPN": true,
       "repo": "carefree2005/chatgpt-demo",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "https://ai.kim.kim": {
@@ -4946,7 +4878,7 @@
     "https://chat-online-peach.vercel.app": {
       "needVPN": true,
       "repo": "likaiwen95/chatgpt-demo",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-webpage.vercel.app": {
@@ -4956,7 +4888,7 @@
     "https://chatgpt-eight-bay.vercel.app": {
       "needVPN": true,
       "repo": "chiczheng/chatgpt-demo",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "https://chat.ponjs.com": {
@@ -4969,7 +4901,7 @@
     "https://chatgpt-demo-hueryan.vercel.app": {
       "needVPN": true,
       "repo": "hueryan/chatgpt-demo",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "http://124.71.24.240:8080": {
@@ -4992,7 +4924,7 @@
     "https://chatgpt-demo-1-seven.vercel.app": {
       "needVPN": true,
       "repo": "zcazca1998/chatgpt-demo-1",
-      "needVerify": 1,
+      "needVerify": 2,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-wei.vercel.app": {
@@ -5012,11 +4944,15 @@
     },
     "https://chagptiiiis-ss.vercel.app": {
       "needVPN": true,
-      "repo": "czlcj888/chagptiiiis_ss"
+      "repo": "czlcj888/chagptiiiis_ss",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatchat-gold.vercel.app": {
       "needVPN": true,
-      "repo": "JackMa67/chatchat-demo"
+      "repo": "JackMa67/chatchat-demo",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-kiesun.vercel.app": {
       "needVPN": true,
@@ -5024,7 +4960,9 @@
     },
     "https://chatgpt-demo-virid-mu.vercel.app": {
       "needVPN": true,
-      "repo": "w-xuefeng/chatgpt-demo"
+      "repo": "w-xuefeng/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt.keke.cc": {
       "repo": "Bernankez/chatgpt-demo"
@@ -5046,7 +4984,9 @@
     },
     "https://chatgpt-demo-6.vercel.app": {
       "needVPN": true,
-      "repo": "hizzd/chatgpt-demo"
+      "repo": "hizzd/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-fivesmallq.vercel.app": {
       "needVPN": true,
@@ -5054,15 +4994,21 @@
     },
     "https://chatgpt-demo-ten-beryl.vercel.app": {
       "needVPN": true,
-      "repo": "malizheng/chatgpt-demo"
+      "repo": "malizheng/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-ws.vercel.app": {
       "needVPN": true,
-      "repo": "wss0106/chatgpt-demo"
+      "repo": "wss0106/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-soren152.vercel.app": {
       "needVPN": true,
-      "repo": "soren6666/chatgpt-vercel"
+      "repo": "soren6666/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-90v5.vercel.app": {
       "needVPN": true,
@@ -5163,7 +5109,9 @@
     },
     "https://chatgpt-vercel-nu-red.vercel.app": {
       "needVPN": true,
-      "repo": "db-root/chatgpt-vercel"
+      "repo": "db-root/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://ai.91duoniu.cn": {
       "repo": "zhanghaott66/chatgpt-vercel-1"
@@ -5174,11 +5122,15 @@
     },
     "https://chatgpt-vercel-gilt-two.vercel.app": {
       "needVPN": true,
-      "repo": "zhaolinghe/chatgpt-vercel"
+      "repo": "zhaolinghe/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-netsa.vercel.app": {
       "needVPN": true,
-      "repo": "zhangbei59/chatgpt-vercel"
+      "repo": "zhangbei59/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chat.929635.me": {
       "repo": "L-Y-L/chatgpt-vercel"
@@ -5192,11 +5144,15 @@
     },
     "https://chatgpt-vercel-test1.vercel.app": {
       "needVPN": true,
-      "repo": "daidaixiaomo/chatgpt-vercel"
+      "repo": "daidaixiaomo/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-heyoulaing.vercel.app": {
       "needVPN": true,
-      "repo": "Heyoulaing/chatgpt-vercel"
+      "repo": "Heyoulaing/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-luoyger.vercel.app": {
       "needVPN": true,
@@ -5260,7 +5216,9 @@
     },
     "https://chatgptbushu.vercel.app": {
       "needVPN": true,
-      "repo": "luis9703/llugpt"
+      "repo": "luis9703/llugpt",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-bot-jade.vercel.app": {
       "needVPN": true,
@@ -5311,7 +5269,9 @@
     },
     "https://chatgpt-vercel-sigma-silk.vercel.app": {
       "needVPN": true,
-      "repo": "capricehuangrong/chatgpt-vercel"
+      "repo": "capricehuangrong/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-navy-one.vercel.app": {
       "needVPN": true,
@@ -5319,7 +5279,9 @@
     },
     "https://chatgpt-vercel-mu-peach.vercel.app": {
       "needVPN": true,
-      "repo": "fanweibin2018/chatgpt-vercel"
+      "repo": "fanweibin2018/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-hww067.vercel.app": {
       "needVPN": true,
@@ -5362,7 +5324,9 @@
     },
     "https://chatgpt-vercel-chi-eight.vercel.app": {
       "needVPN": true,
-      "repo": "lixin82611/chatgpt-vercel"
+      "repo": "lixin82611/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-chudric.vercel.app": {
       "needVPN": true,
@@ -5397,7 +5361,9 @@
     },
     "https://chatgpt-vercel-pi-six.vercel.app": {
       "needVPN": true,
-      "repo": "zzy-ac/chatgpt-vercel"
+      "repo": "zzy-ac/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://web-chatgpt.vercel.app": {
       "needVPN": true,
@@ -5437,7 +5403,9 @@
     },
     "https://chatgpt-vercel-1012am.vercel.app": {
       "needVPN": true,
-      "repo": "1012am/chatgpt-vercel"
+      "repo": "1012am/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-eta-seven.vercel.app": {
       "needVPN": true,
@@ -5509,7 +5477,9 @@
     },
     "https://chatgpt-vercel-ten-liart.vercel.app": {
       "needVPN": true,
-      "repo": "553899811/chatgpt-vercel"
+      "repo": "553899811/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://icechats.com": {
       "repo": "darkdepth/chatgpt-vercel"
@@ -5527,7 +5497,9 @@
     },
     "https://chatgpt-vercel-phi-one.vercel.app": {
       "needVPN": true,
-      "repo": "SnnYoung/chatgpt-vercel"
+      "repo": "SnnYoung/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://www.aibi.one": {
       "repo": "bitdayone/chatgpt-vercel"
@@ -5555,18 +5527,26 @@
     },
     "https://chatgpt-vercel-uqi4.vercel.app": {
       "needVPN": true,
-      "repo": "AllynYonge/chatgpt-vercel"
+      "repo": "AllynYonge/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://dev.lihail.cn": {
-      "repo": "liu-ziting/chatgpt-vercel"
+      "repo": "liu-ziting/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-five-rho.vercel.app": {
       "needVPN": true,
-      "repo": "liu-ziting/chatgpt-vercel"
+      "repo": "liu-ziting/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://msicom.vercel.app": {
       "needVPN": true,
-      "repo": "msicom/ChatGPT-Vercel"
+      "repo": "msicom/ChatGPT-Vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-huyanyou.vercel.app": {
       "needVPN": true,
@@ -5576,6 +5556,398 @@
       "needKey": true,
       "needVPN": true,
       "repo": "kotobuki09/chat-with-gpt"
+    },
+    "https://chatgpt-proxy-yy2324.vercel.app": {
+      "needVPN": true,
+      "repo": "YPAtob/chatgpt-proxy-yy"
+    },
+    "https://chatgpt-demo-weld-delta.vercel.app": {
+      "needVPN": true,
+      "repo": "PangPangDog/chatgpt-demo"
+    },
+    "https://chat-gh-onlie.vercel.app": {
+      "needVPN": true,
+      "repo": "guohui666/chatgpt-proxy-gh"
+    },
+    "https://chatgpt-demo-shaoli.vercel.app": {
+      "needVPN": true,
+      "repo": "shaojs321/chatgpt-demo"
+    },
+    "https://chatgpt.datalab.icu": {
+      "repo": "wdzhwsh4067/chatgpt-demo"
+    },
+    "https://chatgpt-demo-murex-beta.vercel.app": {
+      "needVPN": true,
+      "repo": "wdzhwsh4067/chatgpt-demo"
+    },
+    "https://chatgpt-fan.vercel.app": {
+      "needVPN": true,
+      "repo": "Fan03z/chatgpt-demo"
+    },
+    "https://chatgpt-giaophanphucuong.vercel.app": {
+      "needVPN": true,
+      "repo": "trunghieu8668/chatgpt-demo"
+    },
+    "https://chatgpt-demo-blue-one.vercel.app": {
+      "needVPN": true,
+      "repo": "shiliuzi8686/chatgpt-demo"
+    },
+    "https://aixiyoucode.vercel.app": {
+      "needVPN": true,
+      "repo": "roboger/chatgpt-3.5"
+    },
+    "https://chatgpt-demo-gamma-sable.vercel.app": {
+      "needVPN": true,
+      "repo": "getfirendsbyid/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chatgpt-demo-1-nu.vercel.app": {
+      "needVPN": true,
+      "repo": "hengzhe-zhang/chatgpt-demo-1",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://www.wow-chatgpt.fun": {
+      "repo": "trusfortlichenyang/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chatgpt-demo-my.vercel.app": {
+      "needVPN": true,
+      "repo": "trusfortlichenyang/chatgpt-demo"
+    },
+    "https://chatgpt-demo-vert-xi.vercel.app": {
+      "needVPN": true,
+      "repo": "demonstan/chatgpt-demo"
+    },
+    "https://chatgpt-demo-880802ll.vercel.app": {
+      "needVPN": true,
+      "repo": "880802ll/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chatgpt.lubangyan.top": {
+      "repo": "SAKURA-LBY/chatgpt-demo"
+    },
+    "https://chatgpt-demo-ashy-one.vercel.app": {
+      "needVPN": true,
+      "repo": "SAKURA-LBY/chatgpt-demo"
+    },
+    "https://chatgpt-demo-iwanalq.vercel.app": {
+      "needVPN": true,
+      "repo": "IWanalq/chatgpt-demo"
+    },
+    "https://chatweb-ask.vercel.app": {
+      "needVPN": true,
+      "repo": "aivoo/chatgpt-demo"
+    },
+    "https://chatgpt-demo-phi-bay.vercel.app": {
+      "needVPN": true,
+      "repo": "allenxing/chatgpt-demo"
+    },
+    "https://chat.buygpt.shop": {
+      "repo": "rico-c/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-theta-ten.vercel.app": {
+      "needVPN": true,
+      "repo": "rico-c/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-denge12345.vercel.app": {
+      "needVPN": true,
+      "repo": "Denge12345/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-minglq.vercel.app": {
+      "needVPN": true,
+      "repo": "iwill/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-futheads.vercel.app": {
+      "needVPN": true,
+      "repo": "futheads/chatgpt-vercel"
+    },
+    "https://chatmlb.vercel.app": {
+      "needVPN": true,
+      "repo": "xiaoluobo58/chatgpt"
+    },
+    "https://chatgpt-vercel-three-gray.vercel.app": {
+      "needVPN": true,
+      "repo": "Mr-abner-dot/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chatgpt-vercel-kohaku233.vercel.app": {
+      "needVPN": true,
+      "repo": "Kohaku233/chatgpt-vercel"
+    },
+    "https://chat.genge.cc": {
+      "repo": "hzgcoding/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-hzgcoding.vercel.app": {
+      "needVPN": true,
+      "repo": "hzgcoding/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-cdata.vercel.app": {
+      "needVPN": true,
+      "repo": "yhb5678/chatgpt-vercel-cdata"
+    },
+    "https://chatgpt-vercel-ten-wine.vercel.app": {
+      "needVPN": true,
+      "repo": "zyusuixin/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-bice.vercel.app": {
+      "needVPN": true,
+      "repo": "Yuxi65536/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-moli-238.vercel.app": {
+      "needVPN": true,
+      "repo": "17683863152/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-azure-xi.vercel.app": {
+      "needVPN": true,
+      "repo": "cyc3693/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chatgpt-vercel-ljx914.vercel.app": {
+      "needVPN": true,
+      "repo": "ljx914/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-dy-geek.vercel.app": {
+      "needVPN": true,
+      "repo": "Dy-Geek/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-tyloo-zy.vercel.app": {
+      "needVPN": true,
+      "repo": "aboyzy/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-zeta-pink.vercel.app": {
+      "needVPN": true,
+      "repo": "NikiLee919/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-ten-theta.vercel.app": {
+      "needVPN": true,
+      "repo": "Peaces-a/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-imshire.vercel.app": {
+      "needVPN": true,
+      "repo": "imShire/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chatgpt-vercel-gcluiszf.vercel.app": {
+      "needVPN": true,
+      "repo": "GCLuisZF/chatgpt-vercel"
+    },
+    "https://doraemon.alone.wiki": {
+      "repo": "zw-95/chatgpt-vercel-2"
+    },
+    "https://chatgpt-vercel-2-zw-95.vercel.app": {
+      "needVPN": true,
+      "repo": "zw-95/chatgpt-vercel-2"
+    },
+    "https://chatgpt-vercel-omega-six.vercel.app": {
+      "needVPN": true,
+      "repo": "jins88899/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-rho-bice.vercel.app": {
+      "needVPN": true,
+      "repo": "nikotongzheyu/chatgpt-vercel"
+    },
+    "https://gpt.v.marquez.work": {
+      "repo": "Camusama/chatgpt-vercel-1"
+    },
+    "https://gpt.marquez.work": {
+      "repo": "Camusama/chatgpt-vercel-1"
+    },
+    "https://chatgpt-vercel-two-zeta.vercel.app": {
+      "needVPN": true,
+      "repo": "Camusama/chatgpt-vercel-1"
+    },
+    "https://chatgpt-vercel-550w.vercel.app": {
+      "needVPN": true,
+      "repo": "33646341/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-jwdstef.vercel.app": {
+      "needVPN": true,
+      "repo": "jwdstef/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-aux5.vercel.app": {
+      "needVPN": true,
+      "repo": "RitaRossweiss/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chatgpt-vercel-hu2014.vercel.app": {
+      "needVPN": true,
+      "repo": "hu2014/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-hk112019.vercel.app": {
+      "needVPN": true,
+      "repo": "hk112019/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-bigpig2001.vercel.app": {
+      "needVPN": true,
+      "repo": "bigpig2001/chatgpt-vercel"
+    },
+    "https://www.fwrite.tech": {
+      "repo": "almosting/chatgpt-vercel"
+    },
+    "https://fwrite.tech": {
+      "repo": "almosting/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-almosting.vercel.app": {
+      "needVPN": true,
+      "repo": "almosting/chatgpt-vercel"
+    },
+    "https://chatgpt.wole.gq": {
+      "repo": "house100/chatgpt-vercel"
+    },
+    "https://chat.wole.gq": {
+      "repo": "house100/chatgpt-vercel"
+    },
+    "https://chatgpt-lake-nu.vercel.app": {
+      "needVPN": true,
+      "repo": "house100/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-flax-one.vercel.app": {
+      "needVPN": true,
+      "repo": "WangYueJoe/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chatgpt-vercel-gdcoolme.vercel.app": {
+      "needVPN": true,
+      "repo": "gdcoolme/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chat.roboticsu.com": {
+      "repo": "gongc41/chatgpt-vercel"
+    },
+    "https://chatgpt-robot-two.vercel.app": {
+      "needVPN": true,
+      "repo": "gongc41/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-beta-six.vercel.app": {
+      "needVPN": true,
+      "repo": "niuxvdong/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-pi-tan.vercel.app": {
+      "needVPN": true,
+      "repo": "xupengzheng/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-amber-gamma.vercel.app": {
+      "needVPN": true,
+      "repo": "sumeiduck/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-dusky-eta.vercel.app": {
+      "needVPN": true,
+      "repo": "liuxiaoxuanxx/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-wddzzz.vercel.app": {
+      "needVPN": true,
+      "repo": "wddclass/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-yeahjack.vercel.app": {
+      "needVPN": true,
+      "repo": "yeahjack/chatgpt-vercel"
+    },
+    "https://www.henrygpt.top": {
+      "repo": "henrywxk817/chatgpt-vercel"
+    },
+    "https://henrygpt.top": {
+      "repo": "henrywxk817/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-woad-psi.vercel.app": {
+      "needVPN": true,
+      "repo": "henrywxk817/chatgpt-vercel"
+    },
+    "https://my-chatgpt-vercel-snowy.vercel.app": {
+      "needVPN": true,
+      "repo": "zhuquantai/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-lnright.vercel.app": {
+      "needVPN": true,
+      "repo": "LNRight/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chatgpt.cy1973.cn": {
+      "repo": "cy19734682/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-cy19734682.vercel.app": {
+      "needVPN": true,
+      "repo": "cy19734682/chatgpt-vercel"
+    },
+    "https://chatgpt-xiyou.vercel.app": {
+      "needVPN": true,
+      "repo": "roboger/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chatgpt-vercel-gilt-one.vercel.app": {
+      "needVPN": true,
+      "repo": "studentye/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chatgpt-vercel-jiao.vercel.app": {
+      "needVPN": true,
+      "repo": "JssDream/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-gaei.vercel.app": {
+      "needVPN": true,
+      "repo": "lost1984/chatgpt-vercel"
+    },
+    "https://ai.chat-pi.top": {
+      "repo": "ppliang13/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-ppliang13.vercel.app": {
+      "needVPN": true,
+      "repo": "ppliang13/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-rust-eight.vercel.app": {
+      "needVPN": true,
+      "repo": "lzxiaohuihui/chatgpt-vercel"
+    },
+    "https://ai.ijike.wang": {
+      "repo": "moyuanhua/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-moyuanhua.vercel.app": {
+      "needVPN": true,
+      "repo": "moyuanhua/chatgpt-vercel"
+    },
+    "https://chat.yhnoxn.top": {
+      "repo": "yhnoxn/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-yhnoxn.vercel.app": {
+      "needVPN": true,
+      "repo": "yhnoxn/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-weitaohe.vercel.app": {
+      "needVPN": true,
+      "repo": "WeitaoHe/chatgpt-vercel"
+    },
+    "https://github.com/MC-dusk/chatgpt-demo": {
+      "repo": "MC-dusk/chatgpt-vercel"
+    },
+    "https://chat-gpt-c4vh.vercel.app": {
+      "needVPN": true,
+      "repo": "lengkq/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-hime-hina.vercel.app": {
+      "needVPN": true,
+      "repo": "Hime-Hina/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "404 - Not Found"
+    },
+    "https://chatgpt-vercel-nu-five.vercel.app": {
+      "needVPN": true,
+      "repo": "727474430/chatgpt-vercel"
+    },
+    "https://chatgpt-lyp.vercel.app": {
+      "needVPN": true,
+      "repo": "xmengnet/chatgpt-lyp"
     }
   }
 }
