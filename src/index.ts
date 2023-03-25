@@ -7,10 +7,11 @@ import { config, initConfig, saveConfig } from './config';
 
 function formatSiteList() {
   return Object.entries(config.siteInfo)
+    .filter(([_url, info]) => !info.hide)
     .sort((a, b) => {
       for (const key of ['invalid', 'needVerify', 'needVPN', 'needPwd', 'needPay', 'needKey'] as const) {
         if ('needVerify' == key) {
-          if ((a[1].needVerify! > 2 || b[1].needVerify! > 2)) return a[1].needVerify! > 2 ? 1 : -1;
+          if (a[1].needVerify! > 2 || b[1].needVerify! > 2) return a[1].needVerify! > 2 ? 1 : -1;
         } else if (a[1][key] !== b[1][key]) return a[1][key] ? 1 : -1;
       }
 
@@ -18,7 +19,6 @@ function formatSiteList() {
 
       return a[0] > b[0] ? 1 : -1;
     })
-    .filter(([_url, info]) => !info.hide)
     .map(([url, info]) => {
       let prefix = '';
 

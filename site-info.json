@@ -5948,6 +5948,11 @@
     "https://chatgpt-lyp.vercel.app": {
       "needVPN": true,
       "repo": "xmengnet/chatgpt-lyp"
+    },
+    "http://175.178.88.119": {
+      "star": 2,
+      "repo": "caipeizhi/freechatgpt",
+      "desc": "免费访问chatgpt"
     }
   }
 }
