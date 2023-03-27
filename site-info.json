@@ -27,7 +27,9 @@
       "star": 1
     },
     "https://chat.yqcloud.top": {
-      "star": 2
+      "star": 2,
+      "desc": "基于 GPT3。域名已被 DNS 污染",
+      "hide": 1
     },
     "https://fastgpt.app": {
       "star": 1,
@@ -169,7 +171,8 @@
     },
     "https://chat.eaten.fun": {},
     "https://chat.binjie.site:7777": {
-      "star": 2
+      "star": 2,
+      "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索"
     },
     "https://chatgpt123.fyi": {
       "repo": "xuxizhen/chatgpt-demo"
@@ -2427,12 +2430,15 @@
       "repo": "q960913/chatgpt-vercel"
     },
     "https://jincheng.wiki": {
+      "needKey": 1,
       "repo": "willian15/chatgpt-vercel"
     },
     "https://www.jincheng.wiki": {
+      "needKey": 1,
       "repo": "willian15/chatgpt-vercel"
     },
     "https://chatgpt-vercel-jcc.vercel.app": {
+      "needKey": 1,
       "needVPN": true,
       "repo": "willian15/chatgpt-vercel"
     },
@@ -2553,10 +2559,12 @@
       "repo": "a1667834841/chatgpt-vercel"
     },
     "https://www.suomeimei.top": {
-      "repo": "SuperKettleMan/EnhanceGPT"
+      "repo": "SuperKettleMan/EnhanceGPT",
+      "needKey": 1
     },
     "https://enhance-gpt.vercel.app": {
       "needVPN": true,
+      "needKey": 1,
       "repo": "SuperKettleMan/EnhanceGPT"
     },
     "https://chatgpt-vercel-lemon.vercel.app": {
