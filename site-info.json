@@ -7,7 +7,10 @@
     "MichealC0/chatgpt-demo",
     "zero-lightman/chatgpt-vercel",
     "Smoking-k/chatgpt-vercel",
-    "montuchdd/chatgpt-demo"
+    "montuchdd/chatgpt-demo",
+    "fish2180/chatgpt-demo",
+    "statfoxbeats/gggfgdfgfdg",
+    "statfoxbeats/chat-with-gpt"
   ],
   "siteInfo": {
     "https://gpt.demo.com": {
@@ -18,7 +21,8 @@
       "needKey": 0,
       "needPwd": 0,
       "needPay": 0,
-      "desc": "描述示例项"
+      "desc": "描述示例项",
+      "needVerify": 1
     },
     "https://www.chat2ai.cn": {
       "star": -1
@@ -50,8 +54,8 @@
     "https://www.aitoolgpt.com": {
       "repo": "ourongxing/chatgpt-vercel",
       "star": 2,
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]timeout"
     },
     "https://chilloutai.com": {
       "desc": "你的虚拟女友"
@@ -66,8 +70,8 @@
     },
     "https://chatgpt.haomingzi.net/ChatGPT.html": {},
     "https://my-chatgpt-eosin.vercel.app": {
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-gilt.vercel.app": {
       "needVPN": true,
@@ -119,18 +123,34 @@
     },
     "https://xc.com": {},
     "https://chat.51buygpt.com": {},
-    "https://chat.forchange.cn": {},
+    "https://chat.forchange.cn": {
+      "needVerify": 1,
+      "desc": "[error][-1]read ECONNRESET"
+    },
     "https://freechatgpt.chat": {},
     "https://askai.ws": {
-      "needVerify": 1
+      "needVerify": 2,
+      "desc": "[error][-1]timeout"
     },
-    "https://ai.yiios.com": {},
+    "https://ai.yiios.com": {
+      "needVerify": 1,
+      "desc": "[error][-1]unable to verify the first certificate"
+    },
     "http://chat.apigpt.cn": {},
     "https://aigcfun.com": {},
-    "http://gpt.mxnf.store": {},
-    "https://www.aicodehelper.com": {},
+    "http://gpt.mxnf.store": {
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
+    },
+    "https://www.aicodehelper.com": {
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
+    },
     "https://ai-toolbox.codefuture.top": {},
-    "https://harry-potter.openai-lab.co": {},
+    "https://harry-potter.openai-lab.co": {
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND harry-potter.openai-lab.co"
+    },
     "https://94gpt.com": {},
     "https://www.teach-anything.com": {
       "desc": "Teach you Anything in seconds"
@@ -160,8 +180,8 @@
     },
     "https://qa.js.cn": {
       "repo": "yesmore/QA",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]read ECONNRESET"
     },
     "https://ai117.com": {
       "desc": "403 - Forbidden"
@@ -172,7 +192,8 @@
     "https://chat.eaten.fun": {},
     "https://chat.binjie.site:7777": {
       "star": 2,
-      "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索"
+      "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
+      "needVerify": 1
     },
     "https://chatgpt123.fyi": {
       "repo": "xuxizhen/chatgpt-demo"
@@ -317,8 +338,8 @@
     "https://chatgpt-demo-sanbazhang.vercel.app": {
       "needVPN": true,
       "repo": "tyrickareo/chatgpt-demo",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt.imzcc.com": {
       "repo": "IMZCC/chatgpt-demo"
@@ -340,8 +361,8 @@
     },
     "https://eva.rootftw.com": {
       "repo": "Root-FTW/Eva",
-      "needVerify": 1,
-      "desc": "503 - Service Unavailable"
+      "needVerify": 2,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND eva.rootftw.com"
     },
     "https://eva-rootftw.vercel.app": {
       "needVPN": true,
@@ -363,7 +384,9 @@
       "repo": "xiaowansm5/chatgpt-demo"
     },
     "https://linyu.wwang.eu.org": {
-      "repo": "xiaowansm5/chatgpt-demo"
+      "repo": "xiaowansm5/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND linyu.wwang.eu.org"
     },
     "https://xwai.vercel.app": {
       "needVPN": true,
@@ -471,7 +494,9 @@
       "repo": "6102yk/chatgpt"
     },
     "https://maigpt.nanamimai.top": {
-      "repo": "ikayk/chatgpt-demo"
+      "repo": "ikayk/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND maigpt.nanamimai.top"
     },
     "https://chatgpt-demo-puce-one.vercel.app": {
       "needVPN": true,
@@ -588,51 +613,71 @@
       "repo": "sjnho/chatgpt-kk-web"
     },
     "https://www.sangao.com": {
-      "repo": "ClearLovePlus/chatgpt-demo"
+      "repo": "ClearLovePlus/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
     },
     "https://sangao.com": {
-      "repo": "ClearLovePlus/chatgpt-demo"
+      "repo": "ClearLovePlus/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
     },
     "https://chatgpt-demo-eta-azure.vercel.app": {
       "needVPN": true,
-      "repo": "ClearLovePlus/chatgpt-demo"
+      "repo": "ClearLovePlus/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
     },
     "https://chat.sicer.top": {
-      "repo": "mansicer/chatgpt-demo"
+      "repo": "mansicer/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
     },
     "https://chatgpt-demo-mu-wine.vercel.app": {
       "needVPN": true,
-      "repo": "mansicer/chatgpt-demo"
+      "repo": "mansicer/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
     },
     "https://chatgpt-demo-sjandsy.vercel.app": {
       "needVPN": true,
       "repo": "sjandsy/chatgpt-demo",
-      "desc": "404 - Not Found",
-      "needVerify": 2
+      "desc": "[error][-1]timeout",
+      "needVerify": 3
     },
     "https://gpt.zhheo.com": {
-      "repo": "zhheo/chatgpt-vercel"
+      "repo": "zhheo/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
     },
     "https://my-chatgpt-taosu.vercel.app": {
       "needVPN": true,
       "repo": "0xtaosu/MyChatgpt",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]timeout"
     },
     "https://chatgpt-demo-keep4ing.vercel.app": {
       "needVPN": true,
-      "repo": "keep4ing/chatgpt-demo"
+      "repo": "keep4ing/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
     },
     "https://chat.skynetx007.top": {
-      "repo": "SkyNetX007/chatgpt-vercel"
+      "repo": "SkyNetX007/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
     },
     "https://chatgpt-demo-delta.vercel.app": {
       "needVPN": true,
-      "repo": "ruoduan-hub/chatgpt-demo"
+      "repo": "ruoduan-hub/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
     },
     "https://chatgpt-demo-cyan-eight.vercel.app": {
       "needVPN": true,
-      "repo": "JexLau/chatgpt-demo"
+      "repo": "JexLau/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
     },
     "https://chatgpt-joke.vercel.app": {
       "needVPN": true,
@@ -675,8 +720,8 @@
     "https://chatgpt-samyzy.vercel.app": {
       "needVPN": true,
       "repo": "samyzy/chatgpt-demo",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-five.vercel.app": {
       "needVPN": true,
@@ -865,7 +910,9 @@
       "repo": "HuntzzZ/chatgpt-demo"
     },
     "https://chatgpt.adwangmai.com": {
-      "repo": "wukongtime/chatgpt-demo"
+      "repo": "wukongtime/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND chatgpt.adwangmai.com"
     },
     "https://chatgpt.jellybeans.love": {
       "repo": "wukongtime/chatgpt-demo"
@@ -886,14 +933,14 @@
     "https://chatgpt-echostars-seven.vercel.app": {
       "needVPN": true,
       "repo": "echostars/chatgpt",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-echostars-echostars.vercel.app": {
       "repo": "echostars/chatgpt",
       "needVPN": 1,
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-three-pi.vercel.app": {
       "needVPN": true,
@@ -961,7 +1008,9 @@
       "repo": "blubana/chatgpt-demo"
     },
     "https://chatgpt.github56796590.me": {
-      "repo": "www5t1cn/chatgpt-demo"
+      "repo": "www5t1cn/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND chatgpt.github56796590.me"
     },
     "https://chatgpt-demo2-fawn.vercel.app": {
       "needVPN": true,
@@ -1137,11 +1186,13 @@
     "https://chatgpt-demo-0.vercel.app": {
       "needVPN": true,
       "repo": "huangxinjie1/chatgpt-demo_0",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][404]Not Found"
     },
     "https://chat.icelo.cn": {
-      "repo": "iceloX/chatgpt-demo"
+      "repo": "iceloX/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND chat.icelo.cn"
     },
     "https://chat-icelox.vercel.app": {
       "needVPN": true,
@@ -1176,7 +1227,9 @@
       "repo": "nasodaengineer/chatgpt-demo"
     },
     "https://chat.jingran.vip": {
-      "repo": "andrewjr1991/chatgpt-demo"
+      "repo": "andrewjr1991/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
     },
     "https://chatgpt-demo-eight-delta.vercel.app": {
       "needVPN": true,
@@ -1188,8 +1241,8 @@
     "https://chatgpt-z1oplk.vercel.app": {
       "needVPN": true,
       "repo": "z1oplk/chatgpt-demo",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-qq309381.vercel.app": {
       "needVPN": true,
@@ -1307,12 +1360,6 @@
     "https://chat.dsdog.tk": {
       "repo": "callacat/chatgpt-demo"
     },
-    "https://chatgpt-demo-dswang.vercel.app": {
-      "needVPN": true,
-      "repo": "callacat/chatgpt-demo",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://chat.594144.xyz": {
       "repo": "M1saka10010/chatgpt-web"
     },
@@ -1328,7 +1375,9 @@
       "repo": "lianxia2020/chatgpt"
     },
     "https://danielzhang.dynv6.net": {
-      "repo": "Danielypzhang/chatgpt-demo"
+      "repo": "Danielypzhang/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND danielzhang.dynv6.net"
     },
     "https://chatgpt-bot-seven.vercel.app": {
       "needVPN": true,
@@ -1418,8 +1467,8 @@
     },
     "https://chat.yougan.cc": {
       "repo": "xbdsky/chatgpt-demo",
-      "needVerify": 1,
-      "desc": "308 - Permanent Redirect"
+      "needVerify": 2,
+      "desc": "[error][-1]Hostname/IP does not match certificate's altnames: Host: chat.yougan.cc. is not in the cert's altnames: DNS:*.twitter.com, DNS:twitter.com"
     },
     "https://ai.yougan.cc": {
       "repo": "xbdsky/chatgpt-demo"
@@ -1455,12 +1504,6 @@
     "https://chatgpt-demo-sigma-ten.vercel.app": {
       "needVPN": true,
       "repo": "Caroline520f/chatgpt-demo"
-    },
-    "https://chatgpt-demo-roan.vercel.app": {
-      "needVPN": true,
-      "repo": "PeterFile/chatgpt-demo",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
     },
     "https://chatgpt-demo-ifeng.vercel.app": {
       "needVPN": true,
@@ -1657,7 +1700,9 @@
       "repo": "vivipure/chatgpt-turbo-bot"
     },
     "https://chatgpt.zhanhongzhu.top": {
-      "repo": "zhanhongzhu/chatgpt-demo"
+      "repo": "zhanhongzhu/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Hostname/IP does not match certificate's altnames: Host: chatgpt.zhanhongzhu.top. is not in the cert's altnames: DNS:zhanhongzhu.top, DNS:www.zhanhongzhu.top"
     },
     "https://chatgpt-demo-rosy.vercel.app": {
       "needVPN": true,
@@ -1755,7 +1800,9 @@
       "repo": "wilsonmk/chatgpt"
     },
     "https://chatgpt.ideo.dev": {
-      "repo": "wendaleruan/chatgpt"
+      "repo": "wendaleruan/chatgpt",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND chatgpt.ideo.dev"
     },
     "https://chatgpt-omega-ivory.vercel.app": {
       "needVPN": true,
@@ -1844,10 +1891,14 @@
       "repo": "fatedier/chatgpt-demo"
     },
     "https://www.aisiwangrobot.cnm": {
-      "repo": "weiyunhelong/chatgpt-demo"
+      "repo": "weiyunhelong/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND www.aisiwangrobot.cnm"
     },
     "https://aisiwangrobot.cnm": {
-      "repo": "weiyunhelong/chatgpt-demo"
+      "repo": "weiyunhelong/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND aisiwangrobot.cnm"
     },
     "https://chatgpt.sometimes.cool": {
       "repo": "HeroadZ/chatgpt-demo"
@@ -2021,7 +2072,9 @@
       "repo": "quzard/chatgpt-demo"
     },
     "https://chatgpt.deniffer.com": {
-      "repo": "Deniffer/chatgpt-demo"
+      "repo": "Deniffer/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND chatgpt.deniffer.com"
     },
     "https://chatgpt-demo-o9fu.vercel.app": {
       "needVPN": true,
@@ -2108,10 +2161,14 @@
       "repo": "sysnu/chatgpt-vercel"
     },
     "https://gpt-prompts.xyz": {
-      "repo": "ahxh2000/chatgpt-vercel"
+      "repo": "ahxh2000/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Hostname/IP does not match certificate's altnames: Host: gpt-prompts.xyz. is not in the cert's altnames: DNS:raa.namecheap.com, DNS:www.raa.namecheap.com"
     },
     "https://www.gpt-prompts.xyz": {
-      "repo": "ahxh2000/chatgpt-vercel"
+      "repo": "ahxh2000/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Hostname/IP does not match certificate's altnames: Host: www.gpt-prompts.xyz. is not in the cert's altnames: DNS:raa.namecheap.com, DNS:www.raa.namecheap.com"
     },
     "https://chatgpt-vercel-ahxh2000.vercel.app": {
       "needVPN": true,
@@ -2495,7 +2552,9 @@
       "repo": "leonasdev/chatgpt-vercel"
     },
     "https://chat.drz.ink": {
-      "repo": "Dreamin121/chatgpt"
+      "repo": "Dreamin121/chatgpt",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND chat.drz.ink"
     },
     "https://chatgpt-vercel-tawny-five.vercel.app": {
       "needVPN": true,
@@ -2623,10 +2682,14 @@
       "repo": "The-Infinite-Man/chatgpt-vercel"
     },
     "https://www.askopenai.cn": {
-      "repo": "ClarenceDan/chatgpt-vercel"
+      "repo": "ClarenceDan/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]read ECONNRESET"
     },
     "https://askopenai.cn": {
-      "repo": "ClarenceDan/chatgpt-vercel"
+      "repo": "ClarenceDan/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]read ECONNRESET"
     },
     "https://ai.wlei.cc": {
       "repo": "iwlei/chatgpt-vercel"
@@ -2641,8 +2704,8 @@
     },
     "https://chatgpt.busiyi.world": {
       "repo": "korruz/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatwithgpt.netlify.app": {
       "repo": "mgpai22/chat-with-gpt",
@@ -2659,12 +2722,6 @@
       "needVPN": true,
       "repo": "houhoz/chatgpt-demo"
     },
-    "https://chatgpt10.vercel.app": {
-      "needVPN": true,
-      "repo": "DonTuttle/chatgpt-demo",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://chatgpt-vercel-virid.vercel.app": {
       "needVPN": true,
       "repo": "Accerss/chatgpt-vercel"
@@ -2675,13 +2732,19 @@
     },
     "https://chatgpt-vercel-coral-three.vercel.app": {
       "needVPN": true,
-      "repo": "rossman22590/chatgpt-vercel"
+      "repo": "rossman22590/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][404]Not Found"
     },
     "https://676888.xyz": {
-      "repo": "cola-sys/chatgpt-vercel"
+      "repo": "cola-sys/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND 676888.xyz"
     },
     "https://www.676888.xyz": {
-      "repo": "cola-sys/chatgpt-vercel"
+      "repo": "cola-sys/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND www.676888.xyz"
     },
     "https://chatgpt-vercel-cola-sys.vercel.app": {
       "needVPN": true,
@@ -2722,7 +2785,9 @@
       "repo": "Stool233/chatgpt-demo"
     },
     "https://chat.laijiahao.cn": {
-      "repo": "kjhuanhao/chatgpt-demo"
+      "repo": "kjhuanhao/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]write EPROTO C0D7BCB35D7F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:\n"
     },
     "https://chatgpt-demo-kjhuanhao.vercel.app": {
       "needVPN": true,
@@ -2767,8 +2832,8 @@
     "https://chat-ming.vercel.app": {
       "needVPN": true,
       "repo": "SSmallMonster/chatgpt-vercel",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-ten-eta.vercel.app": {
       "needVPN": true,
@@ -2828,8 +2893,8 @@
     "https://chatgpt-bot-lyart.vercel.app": {
       "needVPN": true,
       "repo": "itsdanielwei/ChatGPTBot",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt.text-input1234.tk": {
       "repo": "Thomas311926/chatgpt"
@@ -3020,7 +3085,9 @@
       "repo": "CheckCoder/chatgpt-vercel"
     },
     "https://new.dusk.chat": {
-      "repo": "MC-dusk/chatgpt-vercel"
+      "repo": "MC-dusk/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND new.dusk.chat"
     },
     "https://ytdb.vercel.app": {
       "needVPN": true,
@@ -3053,11 +3120,15 @@
       "repo": "outshineamaze/chatgpt"
     },
     "https://chatai.whg6.com": {
-      "repo": "s337443501/chatgpt-demo"
+      "repo": "s337443501/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND chatai.whg6.com"
     },
     "https://chatgpt-demo-delta-ten.vercel.app": {
       "needVPN": true,
-      "repo": "s337443501/chatgpt-demo"
+      "repo": "s337443501/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-hiufan.vercel.app": {
       "needVPN": true,
@@ -3077,8 +3148,8 @@
     },
     "https://ai.anlu.fun": {
       "repo": "carryhcc/chatgpt-demo",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-liart.vercel.app": {
       "needVPN": true,
@@ -3242,12 +3313,6 @@
       "needVPN": true,
       "repo": "lxxself/chatgpt-demo"
     },
-    "https://chatgpt-demo-hexianzhi.vercel.app": {
-      "needVPN": true,
-      "repo": "hexianzhi/chatgpt-demo",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://chatgpt.singee.me": {
       "repo": "ImSingee/chatgpt-online",
       "needVerify": 7,
@@ -3294,8 +3359,8 @@
     "https://chatgpt-vercel-songxff.vercel.app": {
       "needVPN": true,
       "repo": "songxff/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-eta-smoky.vercel.app": {
       "needVPN": true,
@@ -3325,8 +3390,8 @@
     "https://chatgpt-vercel-h.vercel.app": {
       "needVPN": true,
       "repo": "Erichongyongjie/chatgpt-vercel-h",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][404]Not Found"
     },
     "https://u-web-seven.vercel.app": {
       "needVPN": true,
@@ -3359,7 +3424,9 @@
       "repo": "pzcn/chatgpt-vercel"
     },
     "https://chat.eryajf.net": {
-      "repo": "eryajf/chatgpt-vercel"
+      "repo": "eryajf/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Hostname/IP does not match certificate's altnames: Host: chat.eryajf.net. is not in the cert's altnames: DNS:comment.eryajf.net"
     },
     "https://eryajf.vercel.app": {
       "needVPN": true,
@@ -3447,8 +3514,8 @@
     },
     "https://www.speakwithgodnow.com": {
       "repo": "statfoxbeats/speakwithgodnow",
-      "desc": "404 - Not Found",
-      "needVerify": 3
+      "desc": "[error][404]Not Found",
+      "needVerify": 4
     },
     "https://bot.oho.cool": {
       "repo": "ifangyong/chatgpt-vercel"
@@ -3500,7 +3567,9 @@
       "repo": "constself/chatgpt-demo"
     },
     "http://chatgpt.mhacd.com": {
-      "repo": "mhacd/chatgpt-demo"
+      "repo": "mhacd/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND chatgpt.mhacd.com"
     },
     "https://gpt-ljwh.vercel.app": {
       "needVPN": true,
@@ -3540,12 +3609,14 @@
       "repo": "Me-turing/chatgpt-vercel"
     },
     "https://chat.h7ml.cn": {
-      "repo": "h7ml/chatgpt-vercel"
+      "repo": "h7ml/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]connect ECONNREFUSED 180.163.28.105:443"
     },
     "https://chatgpt-flutter.h7ml.cn": {
       "repo": "h7ml/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-h7ml.vercel.app": {
       "needVPN": true,
@@ -3561,26 +3632,32 @@
     },
     "https://gpt.sheepig.top/chat": {},
     "https://gpt.tool00.com": {},
-    "https://openaizh.com/chatgpt.html": {},
+    "https://openaizh.com/chatgpt.html": {
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
+    },
     "https://hi.icu": {},
-    "https://ai.zecoba.cn": {},
+    "https://ai.zecoba.cn": {
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND ai.zecoba.cn"
+    },
     "https://chat35.com/chat": {},
     "https://chat.moyunav.com": {},
     "https://chater.lanyun1103.top": {
       "needPay": 1,
       "hide": 1
     },
-    "https://chat.javaex.cn": {},
-    "https://aitools.run": {},
+    "https://chat.javaex.cn": {
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
+    },
+    "https://aitools.run": {
+      "needVerify": 1,
+      "desc": "[error][-1]timeout"
+    },
     "https://chatgpt-demo-puce-omega.vercel.app": {
       "needVPN": true,
       "repo": "DreamingCats/chatgpt-demo"
-    },
-    "https://chatgpt-demo-mzkal.vercel.app": {
-      "needVPN": true,
-      "repo": "Mzkal/chatgpt-demo",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
     },
     "https://chat.bingsight.com": {
       "repo": "isight/chatgpt",
@@ -3603,12 +3680,6 @@
       "needVPN": true,
       "repo": "irmowan/chatgpt-demo"
     },
-    "https://chatgpt-demo-ranyouli.vercel.app": {
-      "needVPN": true,
-      "repo": "ranyouli/chatgpt-demo",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://chat.cyihx.me": {
       "repo": "iHx-rainbow/chatgpt-demo"
     },
@@ -3626,13 +3697,9 @@
     },
     "https://chatgpt-vercel-stray-z.vercel.app": {
       "needVPN": true,
-      "repo": "Stray-Z/chatgpt-vercel"
-    },
-    "https://chatgpt-vercel-gamma-inky.vercel.app": {
-      "needVPN": true,
-      "repo": "deviledgeknife/chatgpt-vercel",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
+      "repo": "Stray-Z/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-xibexp.vercel.app": {
       "needVPN": true,
@@ -3642,28 +3709,9 @@
       "needVPN": true,
       "repo": "lfb-cd/chatgpt-vercel"
     },
-    "https://chatgpt-vercel-xngzs.vercel.app": {
-      "needVPN": true,
-      "repo": "xngzs/chatgpt-vercel",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
-    "https://chatgpt-vercel-wheat-seven.vercel.app": {
-      "needVPN": true,
-      "repo": "DreamingCats/chatgpt-vercel",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://chatgpt-vercel-red.vercel.app": {
       "needVPN": true,
       "repo": "shuiwudengli/chatgpt-vercel",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
-    "https://chatgpt-vercel-one-phi.vercel.app": {
-      "needVPN": true,
-      "repo": "zhangyg0123456/chatgpt-vercel",
-      "needVerify": 5,
       "desc": "404 - Not Found"
     },
     "https://chatgpt-vercel-spades996.vercel.app": {
@@ -3675,7 +3723,9 @@
       "repo": "nddszy/ChatgptByVercel"
     },
     "https://coplus.crowai.xyz": {
-      "repo": "CrowAIXYZ/chatgpt-vercel"
+      "repo": "CrowAIXYZ/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND coplus.crowai.xyz"
     },
     "https://coplus.vercel.app": {
       "needVPN": true,
@@ -3693,17 +3743,11 @@
       "needVPN": true,
       "repo": "fang-17/chatgpt-vercel"
     },
-    "https://chatgpt-vercel-opal-one.vercel.app": {
-      "needVPN": true,
-      "repo": "qunhe-yihui/chatgpt-vercel",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
     "https://chat-gpt-534m.vercel.app": {
       "needVPN": true,
       "repo": "AFoxLove/ChatGPT",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt.bowlofnoodles.top": {
       "repo": "bowlofnoodles/chatgpt-vercel"
@@ -3742,14 +3786,14 @@
     "https://chatgpt-vercel-chieffucker.vercel.app": {
       "needVPN": true,
       "repo": "ChiefFucker/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chat-colin.vercel.app": {
       "needVPN": true,
       "repo": "ColinTX/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-ziboh.vercel.app": {
       "needVPN": true,
@@ -3766,8 +3810,8 @@
     "https://chatgpt-vercel-waltonhe.vercel.app": {
       "needVPN": true,
       "repo": "WaltonHe/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][404]Not Found"
     },
     "https://chat-gpt-pyubun.vercel.app": {
       "needVPN": true,
@@ -3788,8 +3832,8 @@
     "https://chatgpt-vercel-k3382410.vercel.app": {
       "needVPN": true,
       "repo": "hurcdn/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-five-alpha.vercel.app": {
       "needVPN": true,
@@ -3805,8 +3849,8 @@
     "https://chatgpt-vercel-1-ten.vercel.app": {
       "needVPN": true,
       "repo": "0xhardman/chatgpt-vercel-1",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-narwhrl.vercel.app": {
       "needVPN": true,
@@ -3827,8 +3871,8 @@
     "https://chatgpt-demo-aqm5.vercel.app": {
       "needVPN": true,
       "repo": "qimuwen/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-leaders53.vercel.app": {
       "needVPN": true,
@@ -3837,8 +3881,8 @@
     "https://chatgpt-demo-marx2014.vercel.app": {
       "needVPN": true,
       "repo": "Marx2014/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-steel-rho.vercel.app": {
       "needVPN": true,
@@ -3851,179 +3895,164 @@
     "https://chatgpt-demo-six-umber.vercel.app": {
       "needVPN": true,
       "repo": "iCloudBot/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://egemen.vercel.app": {
       "needVPN": true,
       "repo": "egemenkorkmaz/chatgpt-net",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://uzgpt.vercel.app": {
       "needVPN": true,
       "repo": "professor93/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-goodhzy.vercel.app": {
       "needVPN": true,
       "repo": "goodhzy/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo2-lilac.vercel.app": {
       "needVPN": true,
       "repo": "suyu-dins/chatgpt-demo1",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-one-mu.vercel.app": {
       "needVPN": true,
       "repo": "protendpaopao/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-pi-opal.vercel.app": {
       "needVPN": true,
       "repo": "zluu0033/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-beryl-nine.vercel.app": {
       "needVPN": true,
       "repo": "shusaoxinhao/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-imp.vercel.app": {
       "needVPN": true,
       "repo": "bilalnawaz072/chatgpt-demo-imp",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://studiochatsandbox.vercel.app": {
       "needVPN": true,
       "repo": "celdiniz/CreativeWebChat",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-hot.vercel.app": {
       "needVPN": true,
       "repo": "happyhuizai/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-livid-eight.vercel.app": {
       "needVPN": true,
       "repo": "FatihArridho/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt3-5-seven.vercel.app": {
       "needVPN": true,
       "repo": "WayneJin88888/chatgpt3.5",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-ten-red.vercel.app": {
       "needVPN": true,
       "repo": "project4linwang/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-nine-green.vercel.app": {
       "needVPN": true,
       "repo": "yousaforever/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-lemon-chi.vercel.app": {
       "needVPN": true,
       "repo": "ZhangZhi-1155116040/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-two-mauve.vercel.app": {
       "needVPN": true,
       "repo": "sangshaoxuan/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-alpha-two.vercel.app": {
       "needVPN": true,
       "repo": "Umbrella-J/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-puce-xi.vercel.app": {
       "needVPN": true,
       "repo": "EEEElvin/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://sure-peach.vercel.app": {
       "needVPN": true,
       "repo": "vennyan/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
-    },
-    "https://chatgpt-demo-bjw321.vercel.app": {
-      "needVPN": true,
-      "repo": "bjw321/chatgpt-demo",
       "needVerify": 5,
-      "desc": "404 - Not Found"
-    },
-    "https://sherlock.emreisik.dev": {
-      "repo": "emreisik95/sherlock",
-      "needVerify": 5,
-      "desc": "404 - Not Found"
+      "desc": "[error][404]Not Found"
     },
     "https://sherlock-iota.vercel.app": {
       "needVPN": true,
       "repo": "emreisik95/sherlock",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-swart-chi.vercel.app": {
       "needVPN": true,
       "repo": "zjfoxcn168/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
-    },
-    "https://chatgpt-demo-zw6097.vercel.app": {
-      "needVPN": true,
-      "repo": "zw6097/chatgpt-demo",
       "needVerify": 5,
-      "desc": "404 - Not Found"
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-yexkt1.vercel.app": {
       "needVPN": true,
       "repo": "yexkt1/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-make.vercel.app": {
       "needVPN": true,
       "repo": "Makepen0/chatgpt-make",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://gpt-dialog-i-huandume.vercel.app": {
       "needVPN": true,
-      "repo": "huandu/chatgpt-demo"
+      "repo": "huandu/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-fy2git.vercel.app": {
       "needVPN": true,
       "repo": "fy2git/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgptturbo.vercel.app": {
       "needVPN": true,
       "repo": "data7799/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://one.ie": {
       "repo": "one-ie/ONE"
@@ -4077,14 +4106,14 @@
     "https://chatgpt-vercel-psi-one.vercel.app": {
       "needVPN": true,
       "repo": "ZuoChen888/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://c2-lovat.vercel.app": {
       "needVPN": true,
       "repo": "ShowMeTheMoney2023/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://www.lwray.top": {
       "repo": "lwwwray/chatgpt-vercel"
@@ -4099,14 +4128,14 @@
     "https://chatgpt-vercel-qiangua.vercel.app": {
       "needVPN": true,
       "repo": "QIanGua/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-one-rose.vercel.app": {
       "needVPN": true,
       "repo": "TangGSen/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-one-mu.vercel.app": {
       "needVPN": true,
@@ -4115,26 +4144,26 @@
     "https://chatgpt-vercel-rouge-rho.vercel.app": {
       "needVPN": true,
       "repo": "larryzhou021/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-fangvivi.vercel.app": {
       "needVPN": true,
       "repo": "fangvivi/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-bay.vercel.app": {
       "needVPN": true,
       "repo": "quanquan-dane/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-bot-tau.vercel.app": {
       "needVPN": true,
       "repo": "harryhook/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://try-chat-gpt.vercel.app": {
       "needVPN": true,
@@ -4143,8 +4172,8 @@
     "https://testwizef.vercel.app": {
       "needVPN": true,
       "repo": "amWizef/vercel-gpt.wiz",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-blush-kappa.vercel.app": {
       "needVPN": true,
@@ -4204,11 +4233,13 @@
     "https://chatgpt-demo-eight-lemon.vercel.app": {
       "needVPN": true,
       "repo": "YunchaoZheng/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-pw2ps0ci-lsqs2022.4everland.app)<br/>[https://chatgpt-demo-7.4everland.app": {
-      "repo": "lsqs2022/chatgpt-demo"
+      "repo": "lsqs2022/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Invalid URL"
     },
     "https://chatgpt-demo-kqfrv.vercel.app": {
       "needVPN": true,
@@ -4251,8 +4282,8 @@
     "https://chatgpt-demo-1-pi.vercel.app": {
       "needVPN": true,
       "repo": "statfoxbeats/chatgpt-demo-1",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo.wangziyi.xyz": {
       "repo": "ziyiwxyz/chatgpt-demo"
@@ -4274,14 +4305,14 @@
     "https://chatgpt-demo-bwcxgl.vercel.app": {
       "needVPN": true,
       "repo": "bwcxgl/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-nine-sooty.vercel.app": {
       "needVPN": true,
       "repo": "1257453786/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-web-ten.vercel.app": {
       "needVPN": true,
@@ -4297,14 +4328,14 @@
     "https://chatgpt-02xx.vercel.app": {
       "needVPN": true,
       "repo": "02XX/chatgpt",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-kaiwenfeng.vercel.app": {
       "needVPN": true,
       "repo": "KaiwenFeng/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-bilter1001.vercel.app": {
       "needVPN": true,
@@ -4313,8 +4344,8 @@
     "https://chatgpt-demo-flax-five.vercel.app": {
       "needVPN": true,
       "repo": "jackyoung022/chatgpt-demo",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-demo-p.vercel.app": {
       "needVPN": true,
@@ -4327,8 +4358,8 @@
     "https://chatgpt-vercel-two-rose.vercel.app": {
       "needVPN": true,
       "repo": "eric202301/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-lovat-delta.vercel.app": {
       "needVPN": true,
@@ -4337,8 +4368,8 @@
     "https://chatgpt-vercel-jiyu1994.vercel.app": {
       "needVPN": true,
       "repo": "jiyu1994/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-guhungjou.vercel.app": {
       "needVPN": true,
@@ -4401,8 +4432,8 @@
     "https://chatgpt-vercel-pmd7.vercel.app": {
       "needVPN": true,
       "repo": "10fantastic/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-rho-cyan.vercel.app": {
       "needVPN": true,
@@ -4484,14 +4515,14 @@
     "https://cchat-three.vercel.app": {
       "needVPN": true,
       "repo": "txssxt/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-sudatuu.vercel.app": {
       "needVPN": true,
       "repo": "sudatuu/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-woad-two.vercel.app": {
       "needVPN": true,
@@ -4510,8 +4541,8 @@
     "https://aitoolschatgptbot.vercel.app": {
       "needVPN": true,
       "repo": "AitoolsPro/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-zuotiya.vercel.app": {
       "needVPN": true,
@@ -4577,8 +4608,8 @@
     "https://chatver.vercel.app": {
       "needVPN": true,
       "repo": "alexandrawallace/chatver",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-rose.vercel.app": {
       "needVPN": true,
@@ -4606,8 +4637,8 @@
     "https://chatgpt-vercel-psi-sable.vercel.app": {
       "needVPN": true,
       "repo": "jianyun8023/chatgpt-vercel",
-      "needVerify": 4,
-      "desc": "404 - Not Found"
+      "needVerify": 5,
+      "desc": "[error][404]Not Found"
     },
     "https://www.sotai.cc": {
       "repo": "dckill/chatgpt-vercel"
@@ -4658,8 +4689,8 @@
     "https://chatgpt-vercel-pink-nu.vercel.app": {
       "needVPN": true,
       "repo": "fromatlantis/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][404]Not Found"
     },
     "https://chat.internetip.cn": {
       "repo": "zttztztz/chatgpt-vercel"
@@ -4670,11 +4701,15 @@
     },
     "https://chatgpt-vercel-five-tau.vercel.app": {
       "needVPN": true,
-      "repo": "307914070/chatgpt-vercel"
+      "repo": "307914070/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel1-sandy.vercel.app": {
       "needVPN": true,
-      "repo": "ZhangZiFei/chatgpt-vercel1"
+      "repo": "ZhangZiFei/chatgpt-vercel1",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-hyang57.vercel.app": {
       "needVPN": true,
@@ -4687,20 +4722,20 @@
     "https://chatgpt-vercel-moeyys.vercel.app": {
       "needVPN": true,
       "repo": "moeyys/chatgpt-vercel",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-sanfanse.vercel.app": {
       "needVPN": true,
       "repo": "Sanfanse/chatgpt-vercel",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://markerchatgpt.vercel.app": {
       "needVPN": true,
       "repo": "02XX/chatgpt-vercel",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://modelscope.cn": {
       "desc": "魔塔社区（阿里达摩院）",
@@ -4710,8 +4745,8 @@
     "https://theb.ai": {
       "star": 2,
       "repo": "Chanzhaoyu/chatgpt-web",
-      "needVerify": 4,
-      "desc": "403 - Forbidden"
+      "needVerify": 5,
+      "desc": "[error][403]Forbidden"
     },
     "https://chat.gow66.tech": {
       "repo": "GOWxx/chatgpt-vercel"
@@ -4725,7 +4760,9 @@
     },
     "https://chatgpt-demo-yarray.vercel.app": {
       "needVPN": true,
-      "repo": "yarray/chatgpt-demo"
+      "repo": "yarray/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-xll1105.vercel.app": {
       "needVPN": true,
@@ -4734,32 +4771,38 @@
     "https://chatgpt-demo-pachyming.vercel.app": {
       "needVPN": true,
       "repo": "pachyming/chatgpt-demo",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-blandykevin.vercel.app": {
       "needVPN": true,
-      "repo": "caijiya/chatgpt_blandykevin"
+      "repo": "caijiya/chatgpt_blandykevin",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-noctug.vercel.app": {
       "needVPN": true,
-      "repo": "NoctuG/chatgpt-demo"
+      "repo": "NoctuG/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-thg.vercel.app": {
       "needVPN": true,
-      "repo": "homlador/chatgpt-demo"
+      "repo": "homlador/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-sigma-five.vercel.app": {
       "needVPN": true,
       "repo": "imingsmings/chatgpt",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][404]Not Found"
     },
     "https://chatgpt-bice-ten.vercel.app": {
       "needVPN": true,
       "repo": "imingsmings/chatgpt",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-cyan-ten.vercel.app": {
       "needVPN": true,
@@ -4772,15 +4815,19 @@
     "https://wchat-ten.vercel.app": {
       "needVPN": true,
       "repo": "carefree2005/chatgpt-demo",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][404]Not Found"
     },
     "https://ai.kim.kim": {
-      "repo": "bbroot/chatAI"
+      "repo": "bbroot/chatAI",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat-ai-gules.vercel.app": {
       "needVPN": true,
-      "repo": "bbroot/chatAI"
+      "repo": "bbroot/chatAI",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-elonehoo.vercel.app": {
       "needVPN": true,
@@ -4789,8 +4836,8 @@
     "https://chat-online-peach.vercel.app": {
       "needVPN": true,
       "repo": "likaiwen95/chatgpt-demo",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-webpage.vercel.app": {
       "needVPN": true,
@@ -4799,918 +4846,1277 @@
     "https://chatgpt-eight-bay.vercel.app": {
       "needVPN": true,
       "repo": "chiczheng/chatgpt-demo",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.ponjs.com": {
-      "repo": "ponjs/chatgpt-demo"
+      "repo": "ponjs/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-ponjs.vercel.app": {
       "needVPN": true,
-      "repo": "ponjs/chatgpt-demo"
+      "repo": "ponjs/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-hueryan.vercel.app": {
       "needVPN": true,
       "repo": "hueryan/chatgpt-demo",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "http://124.71.24.240:8080": {
       "repo": "Fiyx0526/chatgpt-demo"
     },
     "https://www.rockyzhong.buzz": {
-      "repo": "tramadolzz/chatgpt-demo"
+      "repo": "tramadolzz/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://rockyzhong.buzz": {
       "repo": "tramadolzz/chatgpt-demo"
     },
     "https://chatgpt-demo-tramadolzz.vercel.app": {
       "needVPN": true,
-      "repo": "tramadolzz/chatgpt-demo"
+      "repo": "tramadolzz/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-garpu.vercel.app": {
       "needVPN": true,
-      "repo": "kevinmp/chatgpt-demo"
+      "repo": "kevinmp/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-1-seven.vercel.app": {
       "needVPN": true,
       "repo": "zcazca1998/chatgpt-demo-1",
-      "needVerify": 3,
-      "desc": "404 - Not Found"
+      "needVerify": 4,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-wei.vercel.app": {
       "needVPN": true,
-      "repo": "Anmizi/chatgpt-demo"
+      "repo": "Anmizi/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://vip.jjzn.top": {
       "needPwd": 1,
-      "desc": "极简智能"
+      "desc": "极简智能",
+      "needVerify": 1
     },
     "https://chatjoy.site": {
       "repo": "deanxizian/chatgpt-demo"
     },
     "https://chatgpt-demo-axingde.vercel.app": {
       "needVPN": true,
-      "repo": "axingde/chatgpt-demo"
+      "repo": "axingde/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chagptiiiis-ss.vercel.app": {
       "needVPN": true,
       "repo": "czlcj888/chagptiiiis_ss",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatchat-gold.vercel.app": {
       "needVPN": true,
       "repo": "JackMa67/chatchat-demo",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-kiesun.vercel.app": {
       "needVPN": true,
-      "repo": "KieSun/chatgpt-demo"
+      "repo": "KieSun/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-virid-mu.vercel.app": {
       "needVPN": true,
       "repo": "w-xuefeng/chatgpt-demo",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt.keke.cc": {
       "repo": "Bernankez/chatgpt-demo"
     },
     "https://chatgpt-demo-bernankez.vercel.app": {
       "needVPN": true,
-      "repo": "Bernankez/chatgpt-demo"
+      "repo": "Bernankez/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.06.chat": {
       "repo": "MAXHONG/chatgpt-web"
     },
     "https://chatgpt-demo-3-nine.vercel.app": {
       "needVPN": true,
-      "repo": "fanyanggod/chatgpt-demo"
+      "repo": "fanyanggod/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-tau-jet.vercel.app": {
       "needVPN": true,
-      "repo": "doom-9/chatgpt-demo"
+      "repo": "doom-9/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-6.vercel.app": {
       "needVPN": true,
       "repo": "hizzd/chatgpt-demo",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-fivesmallq.vercel.app": {
       "needVPN": true,
-      "repo": "fivesmallq/chatgpt-demo"
+      "repo": "fivesmallq/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-ten-beryl.vercel.app": {
       "needVPN": true,
       "repo": "malizheng/chatgpt-demo",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-ws.vercel.app": {
       "needVPN": true,
       "repo": "wss0106/chatgpt-demo",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-soren152.vercel.app": {
       "needVPN": true,
       "repo": "soren6666/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-90v5.vercel.app": {
       "needVPN": true,
-      "repo": "90v5/chatgpt-vercel"
+      "repo": "90v5/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://ai2.622622.xyz": {
-      "repo": "Weitacha/ChatGPT-API-Demo02"
+      "repo": "Weitacha/ChatGPT-API-Demo02",
+      "needVerify": 1,
+      "desc": "[error][403]Forbidden"
     },
     "https://chat-gpt-api-demo02.vercel.app": {
       "needVPN": true,
-      "repo": "Weitacha/ChatGPT-API-Demo02"
+      "repo": "Weitacha/ChatGPT-API-Demo02",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-teal-eta.vercel.app": {
       "needVPN": true,
-      "repo": "CNSAMYLOVE/chatgpt-vercel"
+      "repo": "CNSAMYLOVE/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-rosy-two.vercel.app": {
       "needVPN": true,
-      "repo": "BetterZ3/chatgpt-vercel"
+      "repo": "BetterZ3/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-six-lilac.vercel.app": {
       "needVPN": true,
-      "repo": "gtgc2005/chatgpt-vercel"
+      "repo": "gtgc2005/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-pi-lovat.vercel.app": {
       "needVPN": true,
-      "repo": "LesterHoly/chatgpt-vercel"
+      "repo": "LesterHoly/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-ineyee.vercel.app": {
       "needVPN": true,
-      "repo": "ineyee/chatgpt-vercel"
+      "repo": "ineyee/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-whindsky.vercel.app": {
       "needVPN": true,
-      "repo": "WHINDSKY/chatgpt-vercel"
+      "repo": "WHINDSKY/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vesugier.vercel.app": {
       "needVPN": true,
-      "repo": "EVAyo/chatgpt-vercel"
+      "repo": "EVAyo/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.barrygreen.top": {
       "repo": "xuhairui1/chatgpt-vercel"
     },
     "https://chatgpt-vercel-zeta-one.vercel.app": {
       "needVPN": true,
-      "repo": "xuhairui1/chatgpt-vercel"
+      "repo": "xuhairui1/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-ruddy-ten.vercel.app": {
       "needVPN": true,
-      "repo": "1245168174/chatgpt-vercel"
+      "repo": "1245168174/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.dywa.tech": {
-      "repo": "toryren/chatgpt-vercel"
+      "repo": "toryren/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-toryren.vercel.app": {
       "needVPN": true,
-      "repo": "toryren/chatgpt-vercel"
+      "repo": "toryren/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-simplees.vercel.app": {
       "needVPN": true,
-      "repo": "simplees/chatgpt-vercel"
+      "repo": "simplees/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-okamifeng.vercel.app": {
       "needVPN": true,
-      "repo": "OkamiFeng/chatgpt-vercel"
+      "repo": "OkamiFeng/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://gpt5.life": {
-      "repo": "SXD727/chatgpt-vercel"
+      "repo": "SXD727/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://www.gpt5.life": {
-      "repo": "SXD727/chatgpt-vercel"
+      "repo": "SXD727/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-tss-r.vercel.app": {
       "needVPN": true,
-      "repo": "SXD727/chatgpt-vercel"
+      "repo": "SXD727/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt.notemi.cn": {
-      "repo": "FlickerMi/chatgpt-vercel"
+      "repo": "FlickerMi/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-flickermi.vercel.app": {
       "needVPN": true,
-      "repo": "FlickerMi/chatgpt-vercel"
+      "repo": "FlickerMi/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-two-psi.vercel.app": {
       "needVPN": true,
-      "repo": "hanchaocode/chatgpt-vercel"
+      "repo": "hanchaocode/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-xingad92.vercel.app": {
       "needVPN": true,
-      "repo": "Xingad92/chatgpt-vercel"
+      "repo": "Xingad92/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-xyqy.vercel.app": {
       "needVPN": true,
-      "repo": "xyqy/chatgpt-vercel"
+      "repo": "xyqy/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://noyashow.xyz": {
-      "repo": "db-root/chatgpt-vercel"
+      "repo": "db-root/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-nu-red.vercel.app": {
       "needVPN": true,
       "repo": "db-root/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://ai.91duoniu.cn": {
-      "repo": "zhanghaott66/chatgpt-vercel-1"
+      "repo": "zhanghaott66/chatgpt-vercel-1",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-1-783548244-qqcom.vercel.app": {
       "needVPN": true,
-      "repo": "zhanghaott66/chatgpt-vercel-1"
+      "repo": "zhanghaott66/chatgpt-vercel-1",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-gilt-two.vercel.app": {
       "needVPN": true,
       "repo": "zhaolinghe/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-netsa.vercel.app": {
       "needVPN": true,
       "repo": "zhangbei59/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.929635.me": {
-      "repo": "L-Y-L/chatgpt-vercel"
+      "repo": "L-Y-L/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-1-tyt.vercel.app": {
       "needVPN": true,
-      "repo": "L-Y-L/chatgpt-vercel"
+      "repo": "L-Y-L/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.junknow.cn": {
-      "repo": "daidaixiaomo/chatgpt-vercel"
+      "repo": "daidaixiaomo/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-test1.vercel.app": {
       "needVPN": true,
       "repo": "daidaixiaomo/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-heyoulaing.vercel.app": {
       "needVPN": true,
       "repo": "Heyoulaing/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-luoyger.vercel.app": {
       "needVPN": true,
-      "repo": "luoyger/chatgpt-vercel"
+      "repo": "luoyger/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-xi-wheat.vercel.app": {
       "needVPN": true,
-      "repo": "xkchen-astro/chatgpt-vercel"
+      "repo": "xkchen-astro/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.mxla1.com": {
-      "repo": "wsinine/chatgpt-vercel"
+      "repo": "wsinine/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-wsinine.vercel.app": {
       "needVPN": true,
-      "repo": "wsinine/chatgpt-vercel"
+      "repo": "wsinine/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-eight-chi.vercel.app": {
       "needVPN": true,
-      "repo": "chenxi-Guo/chatgpt-vercel"
+      "repo": "chenxi-Guo/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-nova8ossa.vercel.app": {
       "needVPN": true,
-      "repo": "nova8ossa/chatgpt-vercel"
+      "repo": "nova8ossa/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-omega-liard.vercel.app": {
       "needVPN": true,
-      "repo": "Gnose/chatgpt-vercel"
+      "repo": "Gnose/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-beige-mu.vercel.app": {
       "needVPN": true,
-      "repo": "LeoCreate/chatgpt-vercel"
+      "repo": "LeoCreate/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatchat-topaz.vercel.app": {
       "needVPN": true,
-      "repo": "JackMa67/chatgpt-vercel"
+      "repo": "JackMa67/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-topaz-five.vercel.app": {
       "needVPN": true,
-      "repo": "China-hanliyi/chatgpt-vercel"
+      "repo": "China-hanliyi/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.mcself.me": {
       "repo": "mcself/chatgpt-vercel"
     },
     "https://chatgpt-vercel-mcself.vercel.app": {
       "needVPN": true,
-      "repo": "mcself/chatgpt-vercel"
+      "repo": "mcself/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://www.jn-chat.xyz": {
-      "repo": "arrowifjn/chatgpt-vercel"
+      "repo": "arrowifjn/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://jn-chat.xyz": {
-      "repo": "arrowifjn/chatgpt-vercel"
+      "repo": "arrowifjn/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-hazel-zeta.vercel.app": {
       "needVPN": true,
-      "repo": "arrowifjn/chatgpt-vercel"
+      "repo": "arrowifjn/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-whatcowl.vercel.app": {
       "needVPN": true,
-      "repo": "whatcowl/chatgpt-vercel"
+      "repo": "whatcowl/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgptbushu.vercel.app": {
       "needVPN": true,
       "repo": "luis9703/llugpt",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-bot-jade.vercel.app": {
       "needVPN": true,
-      "repo": "iouAkira/chatgpt-bot"
+      "repo": "iouAkira/chatgpt-bot",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://ocean-chatgpt.vercel.app": {
       "needVPN": true,
-      "repo": "oceanjaya/chatgpt-vercel"
+      "repo": "oceanjaya/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://gpt.limitzou.cn": {
-      "repo": "LimitZou/chatgpt-vercel"
+      "repo": "LimitZou/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-limitzou.vercel.app": {
       "needVPN": true,
-      "repo": "LimitZou/chatgpt-vercel"
+      "repo": "LimitZou/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-amosink.vercel.app": {
       "needVPN": true,
-      "repo": "AmosInk/chatgpt-vercel"
+      "repo": "AmosInk/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-ridter.vercel.app": {
       "needVPN": true,
-      "repo": "Ridter/chatgpt-vercel"
+      "repo": "Ridter/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://www.gptmust.top": {
-      "repo": "zhaoziqi066/chatgpt-vercel"
+      "repo": "zhaoziqi066/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://gptmust.top": {
-      "repo": "zhaoziqi066/chatgpt-vercel"
+      "repo": "zhaoziqi066/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND gptmust.top"
     },
     "https://chatgpt-vercel-zhaoziqi066.vercel.app": {
       "needVPN": true,
-      "repo": "zhaoziqi066/chatgpt-vercel"
+      "repo": "zhaoziqi066/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-pi-jade.vercel.app": {
       "needVPN": true,
-      "repo": "ddxxyy2002/chatgpt-vercel"
+      "repo": "ddxxyy2002/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://www.kernelgpt.uk": {
-      "repo": "ljxw88/chatgpt-vercel"
+      "repo": "ljxw88/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://kernelgpt.uk": {
-      "repo": "ljxw88/chatgpt-vercel"
+      "repo": "ljxw88/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-ljxw88.vercel.app": {
       "needVPN": true,
-      "repo": "ljxw88/chatgpt-vercel"
+      "repo": "ljxw88/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-sigma-silk.vercel.app": {
       "needVPN": true,
       "repo": "capricehuangrong/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-navy-one.vercel.app": {
       "needVPN": true,
-      "repo": "tjz12345/chatgpt-vercel"
+      "repo": "tjz12345/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-mu-peach.vercel.app": {
       "needVPN": true,
       "repo": "fanweibin2018/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-hww067.vercel.app": {
       "needVPN": true,
-      "repo": "Hww067/chatgpt-vercel"
+      "repo": "Hww067/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-jokerxx.vercel.app": {
       "needVPN": true,
-      "repo": "zhufacai/chatgpt-vercel"
+      "repo": "zhufacai/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-bice-seven.vercel.app": {
       "needVPN": true,
-      "repo": "Wsy459293827/chatgpt-vercel"
+      "repo": "Wsy459293827/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-roan-eight.vercel.app": {
       "needVPN": true,
-      "repo": "meimaola/chatgpt-vercel"
+      "repo": "meimaola/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-sxk218.vercel.app": {
       "needVPN": true,
-      "repo": "sxk218/chatgpt-vercel"
+      "repo": "sxk218/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.bigs.top": {
-      "repo": "450083aa/chatgpt-vercel"
+      "repo": "450083aa/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-pi-silk.vercel.app": {
       "needVPN": true,
-      "repo": "450083aa/chatgpt-vercel"
+      "repo": "450083aa/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-panw98.vercel.app": {
       "needVPN": true,
-      "repo": "panw98/chatgpt-vercel"
+      "repo": "panw98/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-cvood.vercel.app": {
       "needVPN": true,
-      "repo": "cvood/chatgpt-vercel"
+      "repo": "cvood/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-chacodady.vercel.app": {
       "needVPN": true,
-      "repo": "ChacoDady/chatgpt-vercel"
+      "repo": "ChacoDady/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-chi-eight.vercel.app": {
       "needVPN": true,
       "repo": "lixin82611/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-chudric.vercel.app": {
       "needVPN": true,
-      "repo": "Chudric/chatgpt-vercel"
+      "repo": "Chudric/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-echostars.vercel.app": {
       "needVPN": true,
-      "repo": "echostars/chatgpt-vercel"
+      "repo": "echostars/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-gamma-ten.vercel.app": {
       "needVPN": true,
-      "repo": "rainlw/chatgpt-vercel"
+      "repo": "rainlw/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-mvp7.vercel.app": {
       "needVPN": true,
-      "repo": "siweibozhe/chatgpt-vercel"
+      "repo": "siweibozhe/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-maxvll.vercel.app": {
       "needVPN": true,
-      "repo": "maxvll/chatgpt-vercel"
+      "repo": "maxvll/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt.dduh.net": {
-      "repo": "baishui1818/chatgpt-vercel"
+      "repo": "baishui1818/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-alpha-kohl.vercel.app": {
       "needVPN": true,
-      "repo": "baishui1818/chatgpt-vercel"
+      "repo": "baishui1818/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-mocha-iota.vercel.app": {
       "needVPN": true,
-      "repo": "fomalhaut1998/chatgpt-vercel"
+      "repo": "fomalhaut1998/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-pi-six.vercel.app": {
       "needVPN": true,
       "repo": "zzy-ac/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://web-chatgpt.vercel.app": {
       "needVPN": true,
-      "repo": "XiaoSeS/web-chatgpt"
+      "repo": "XiaoSeS/web-chatgpt",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-italks.vercel.app": {
       "needVPN": true,
-      "repo": "italks/chatgpt-vercel"
+      "repo": "italks/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-oycodesite.vercel.app": {
       "needVPN": true,
-      "repo": "OYCodeSite/chatgpt-vercel"
+      "repo": "OYCodeSite/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-azz212.vercel.app": {
       "needVPN": true,
-      "repo": "azz212/chatgpt-vercel"
+      "repo": "azz212/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-clarkshao.vercel.app": {
       "needVPN": true,
-      "repo": "clarkshao/chatgpt-vercel"
+      "repo": "clarkshao/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-two-eta.vercel.app": {
       "needVPN": true,
-      "repo": "shiba2046/chatgpt-vercel"
+      "repo": "shiba2046/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-tau-orpin.vercel.app": {
       "needVPN": true,
-      "repo": "lukewjh/chatgpt-vercel"
+      "repo": "lukewjh/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-asdf3201.vercel.app": {
       "needVPN": true,
-      "repo": "asdf3201/chatgpt-vercel"
+      "repo": "asdf3201/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-ljcute.vercel.app": {
       "needVPN": true,
-      "repo": "ljcute/chatgpt-vercel"
+      "repo": "ljcute/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-1012am.vercel.app": {
       "needVPN": true,
       "repo": "1012am/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-eta-seven.vercel.app": {
       "needVPN": true,
-      "repo": "panther125/chatgpt-vercel"
+      "repo": "panther125/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://tschatgpt.top": {
-      "repo": "TSaber7/chatgpt-vercel"
+      "repo": "TSaber7/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-tsaber7.vercel.app": {
       "needVPN": true,
-      "repo": "TSaber7/chatgpt-vercel"
+      "repo": "TSaber7/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-alanschick.vercel.app": {
       "needVPN": true,
-      "repo": "alanschick/chatgpt-vercel"
+      "repo": "alanschick/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-inwinter04.vercel.app": {
       "needVPN": true,
-      "repo": "inwinter04/chatgpt-vercel"
+      "repo": "inwinter04/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt.wuhen4213.xyz": {
-      "repo": "wuhen2333/chatgpt-vercel"
+      "repo": "wuhen2333/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND chatgpt.wuhen4213.xyz"
     },
     "https://chatgpt-vercel-wuhen2333.vercel.app": {
       "needVPN": true,
-      "repo": "wuhen2333/chatgpt-vercel"
+      "repo": "wuhen2333/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-toner.vercel.app": {
       "needVPN": true,
-      "repo": "iloter/chatgpt-vercel"
+      "repo": "iloter/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-three-xi.vercel.app": {
       "needVPN": true,
-      "repo": "yj1414/chatgpt-vercel"
+      "repo": "yj1414/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-kmfb.vercel.app": {
       "needVPN": true,
-      "repo": "kmfb/chatgpt-vercel"
+      "repo": "kmfb/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://fiyx-gpt.vercel.app": {
       "needVPN": true,
-      "repo": "Fiyx0526/chatgpt-vercel"
+      "repo": "Fiyx0526/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt35-zeta.vercel.app": {
       "needVPN": true,
-      "repo": "oliver-com/chatgpt-vercel"
+      "repo": "oliver-com/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-pipi369.vercel.app": {
       "needVPN": true,
-      "repo": "pipi369/chatgpt-vercel"
+      "repo": "pipi369/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-5c07t.vercel.app": {
       "needVPN": true,
-      "repo": "5c07t/chatgpt-vercel"
+      "repo": "5c07t/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://gptkkleno.top": {
-      "repo": "a1254759391/chatgpt-vercel"
+      "repo": "a1254759391/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND gptkkleno.top"
     },
     "https://www.gptkkleno.top": {
-      "repo": "a1254759391/chatgpt-vercel"
+      "repo": "a1254759391/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-a1254759391.vercel.app": {
       "needVPN": true,
-      "repo": "a1254759391/chatgpt-vercel"
+      "repo": "a1254759391/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-one-blue.vercel.app": {
       "needVPN": true,
-      "repo": "wangdali7730/chatgpt-vercel"
+      "repo": "wangdali7730/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-ten-liart.vercel.app": {
       "needVPN": true,
       "repo": "553899811/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://icechats.com": {
-      "repo": "darkdepth/chatgpt-vercel"
+      "repo": "darkdepth/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND icechats.com"
     },
     "https://www.icechats.com": {
-      "repo": "darkdepth/chatgpt-vercel"
+      "repo": "darkdepth/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-three-rust.vercel.app": {
       "needVPN": true,
-      "repo": "darkdepth/chatgpt-vercel"
+      "repo": "darkdepth/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://sokon-chatgpt.vercel.app": {
       "needVPN": true,
-      "repo": "yion1987/chatgpt-vercel"
+      "repo": "yion1987/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-phi-one.vercel.app": {
       "needVPN": true,
       "repo": "SnnYoung/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://www.aibi.one": {
-      "repo": "bitdayone/chatgpt-vercel"
+      "repo": "bitdayone/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://aibi.one": {
-      "repo": "bitdayone/chatgpt-vercel"
+      "repo": "bitdayone/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-chi-one.vercel.app": {
       "needVPN": true,
-      "repo": "bitdayone/chatgpt-vercel"
+      "repo": "bitdayone/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.walton.host": {
-      "repo": "WeitaoHe/chatgpt-vercel"
+      "repo": "WeitaoHe/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.0xtomb.com": {
-      "repo": "0xhardman/chatgpt-vercel"
+      "repo": "0xhardman/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-1-iota.vercel.app": {
       "needVPN": true,
-      "repo": "0xhardman/chatgpt-vercel"
+      "repo": "0xhardman/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-oeyoews.vercel.app": {
       "needVPN": true,
-      "repo": "oeyoews/chatgpt-vercel"
+      "repo": "oeyoews/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-uqi4.vercel.app": {
       "needVPN": true,
       "repo": "AllynYonge/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://dev.lihail.cn": {
       "repo": "liu-ziting/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-five-rho.vercel.app": {
       "needVPN": true,
       "repo": "liu-ziting/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://msicom.vercel.app": {
       "needVPN": true,
       "repo": "msicom/ChatGPT-Vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-huyanyou.vercel.app": {
       "needVPN": true,
-      "repo": "huyanyou/chatgpt-vercel"
+      "repo": "huyanyou/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat-with-gpt-three.vercel.app": {
       "needKey": true,
       "needVPN": true,
-      "repo": "kotobuki09/chat-with-gpt"
+      "repo": "kotobuki09/chat-with-gpt",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-proxy-yy2324.vercel.app": {
       "needVPN": true,
-      "repo": "YPAtob/chatgpt-proxy-yy"
+      "repo": "YPAtob/chatgpt-proxy-yy",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-weld-delta.vercel.app": {
       "needVPN": true,
-      "repo": "PangPangDog/chatgpt-demo"
+      "repo": "PangPangDog/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat-gh-onlie.vercel.app": {
       "needVPN": true,
-      "repo": "guohui666/chatgpt-proxy-gh"
+      "repo": "guohui666/chatgpt-proxy-gh",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-shaoli.vercel.app": {
       "needVPN": true,
-      "repo": "shaojs321/chatgpt-demo"
+      "repo": "shaojs321/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt.datalab.icu": {
-      "repo": "wdzhwsh4067/chatgpt-demo"
+      "repo": "wdzhwsh4067/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-murex-beta.vercel.app": {
       "needVPN": true,
-      "repo": "wdzhwsh4067/chatgpt-demo"
+      "repo": "wdzhwsh4067/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-fan.vercel.app": {
       "needVPN": true,
-      "repo": "Fan03z/chatgpt-demo"
+      "repo": "Fan03z/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-giaophanphucuong.vercel.app": {
       "needVPN": true,
-      "repo": "trunghieu8668/chatgpt-demo"
+      "repo": "trunghieu8668/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-blue-one.vercel.app": {
       "needVPN": true,
-      "repo": "shiliuzi8686/chatgpt-demo"
+      "repo": "shiliuzi8686/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://aixiyoucode.vercel.app": {
       "needVPN": true,
-      "repo": "roboger/chatgpt-3.5"
+      "repo": "roboger/chatgpt-3.5",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-gamma-sable.vercel.app": {
       "needVPN": true,
       "repo": "getfirendsbyid/chatgpt-demo",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-1-nu.vercel.app": {
       "needVPN": true,
       "repo": "hengzhe-zhang/chatgpt-demo-1",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://www.wow-chatgpt.fun": {
       "repo": "trusfortlichenyang/chatgpt-demo",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-my.vercel.app": {
       "needVPN": true,
-      "repo": "trusfortlichenyang/chatgpt-demo"
+      "repo": "trusfortlichenyang/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-vert-xi.vercel.app": {
       "needVPN": true,
-      "repo": "demonstan/chatgpt-demo"
+      "repo": "demonstan/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-880802ll.vercel.app": {
       "needVPN": true,
       "repo": "880802ll/chatgpt-demo",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt.lubangyan.top": {
-      "repo": "SAKURA-LBY/chatgpt-demo"
+      "repo": "SAKURA-LBY/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-ashy-one.vercel.app": {
       "needVPN": true,
-      "repo": "SAKURA-LBY/chatgpt-demo"
+      "repo": "SAKURA-LBY/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-iwanalq.vercel.app": {
       "needVPN": true,
-      "repo": "IWanalq/chatgpt-demo"
+      "repo": "IWanalq/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatweb-ask.vercel.app": {
       "needVPN": true,
-      "repo": "aivoo/chatgpt-demo"
+      "repo": "aivoo/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-phi-bay.vercel.app": {
       "needVPN": true,
-      "repo": "allenxing/chatgpt-demo"
+      "repo": "allenxing/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.buygpt.shop": {
-      "repo": "rico-c/chatgpt-vercel"
+      "repo": "rico-c/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-theta-ten.vercel.app": {
       "needVPN": true,
-      "repo": "rico-c/chatgpt-vercel"
+      "repo": "rico-c/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-denge12345.vercel.app": {
       "needVPN": true,
-      "repo": "Denge12345/chatgpt-vercel"
+      "repo": "Denge12345/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-minglq.vercel.app": {
       "needVPN": true,
-      "repo": "iwill/chatgpt-vercel"
+      "repo": "iwill/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-futheads.vercel.app": {
       "needVPN": true,
-      "repo": "futheads/chatgpt-vercel"
+      "repo": "futheads/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatmlb.vercel.app": {
       "needVPN": true,
-      "repo": "xiaoluobo58/chatgpt"
+      "repo": "xiaoluobo58/chatgpt",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-three-gray.vercel.app": {
       "needVPN": true,
       "repo": "Mr-abner-dot/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-kohaku233.vercel.app": {
       "needVPN": true,
-      "repo": "Kohaku233/chatgpt-vercel"
+      "repo": "Kohaku233/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.genge.cc": {
-      "repo": "hzgcoding/chatgpt-vercel"
+      "repo": "hzgcoding/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-hzgcoding.vercel.app": {
       "needVPN": true,
-      "repo": "hzgcoding/chatgpt-vercel"
+      "repo": "hzgcoding/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-cdata.vercel.app": {
       "needVPN": true,
-      "repo": "yhb5678/chatgpt-vercel-cdata"
+      "repo": "yhb5678/chatgpt-vercel-cdata",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-ten-wine.vercel.app": {
       "needVPN": true,
-      "repo": "zyusuixin/chatgpt-vercel"
+      "repo": "zyusuixin/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-bice.vercel.app": {
       "needVPN": true,
-      "repo": "Yuxi65536/chatgpt-vercel"
+      "repo": "Yuxi65536/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-moli-238.vercel.app": {
       "needVPN": true,
-      "repo": "17683863152/chatgpt-vercel"
+      "repo": "17683863152/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-azure-xi.vercel.app": {
       "needVPN": true,
       "repo": "cyc3693/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-ljx914.vercel.app": {
       "needVPN": true,
-      "repo": "ljx914/chatgpt-vercel"
+      "repo": "ljx914/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-dy-geek.vercel.app": {
       "needVPN": true,
-      "repo": "Dy-Geek/chatgpt-vercel"
+      "repo": "Dy-Geek/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-tyloo-zy.vercel.app": {
       "needVPN": true,
-      "repo": "aboyzy/chatgpt-vercel"
+      "repo": "aboyzy/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-zeta-pink.vercel.app": {
       "needVPN": true,
-      "repo": "NikiLee919/chatgpt-vercel"
+      "repo": "NikiLee919/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-ten-theta.vercel.app": {
       "needVPN": true,
       "repo": "Peaces-a/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-imshire.vercel.app": {
       "needVPN": true,
       "repo": "imShire/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-gcluiszf.vercel.app": {
       "needVPN": true,
-      "repo": "GCLuisZF/chatgpt-vercel"
+      "repo": "GCLuisZF/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://doraemon.alone.wiki": {
-      "repo": "zw-95/chatgpt-vercel-2"
+      "repo": "zw-95/chatgpt-vercel-2",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-2-zw-95.vercel.app": {
       "needVPN": true,
-      "repo": "zw-95/chatgpt-vercel-2"
+      "repo": "zw-95/chatgpt-vercel-2",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-omega-six.vercel.app": {
       "needVPN": true,
-      "repo": "jins88899/chatgpt-vercel"
+      "repo": "jins88899/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-rho-bice.vercel.app": {
       "needVPN": true,
-      "repo": "nikotongzheyu/chatgpt-vercel"
+      "repo": "nikotongzheyu/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://gpt.v.marquez.work": {
-      "repo": "Camusama/chatgpt-vercel-1"
+      "repo": "Camusama/chatgpt-vercel-1",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://gpt.marquez.work": {
-      "repo": "Camusama/chatgpt-vercel-1"
+      "repo": "Camusama/chatgpt-vercel-1",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-two-zeta.vercel.app": {
       "needVPN": true,
-      "repo": "Camusama/chatgpt-vercel-1"
+      "repo": "Camusama/chatgpt-vercel-1",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-550w.vercel.app": {
       "needVPN": true,
-      "repo": "33646341/chatgpt-vercel"
+      "repo": "33646341/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-jwdstef.vercel.app": {
       "needVPN": true,
-      "repo": "jwdstef/chatgpt-vercel"
+      "repo": "jwdstef/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-aux5.vercel.app": {
       "needVPN": true,
       "repo": "RitaRossweiss/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-hu2014.vercel.app": {
       "needVPN": true,
-      "repo": "hu2014/chatgpt-vercel"
+      "repo": "hu2014/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-hk112019.vercel.app": {
       "needVPN": true,
-      "repo": "hk112019/chatgpt-vercel"
+      "repo": "hk112019/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-bigpig2001.vercel.app": {
       "needVPN": true,
-      "repo": "bigpig2001/chatgpt-vercel"
+      "repo": "bigpig2001/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://www.fwrite.tech": {
-      "repo": "almosting/chatgpt-vercel"
+      "repo": "almosting/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://fwrite.tech": {
-      "repo": "almosting/chatgpt-vercel"
+      "repo": "almosting/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-almosting.vercel.app": {
       "needVPN": true,
-      "repo": "almosting/chatgpt-vercel"
+      "repo": "almosting/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt.wole.gq": {
       "repo": "house100/chatgpt-vercel"
@@ -5720,147 +6126,203 @@
     },
     "https://chatgpt-lake-nu.vercel.app": {
       "needVPN": true,
-      "repo": "house100/chatgpt-vercel"
+      "repo": "house100/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-flax-one.vercel.app": {
       "needVPN": true,
       "repo": "WangYueJoe/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-gdcoolme.vercel.app": {
       "needVPN": true,
       "repo": "gdcoolme/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.roboticsu.com": {
-      "repo": "gongc41/chatgpt-vercel"
+      "repo": "gongc41/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-robot-two.vercel.app": {
       "needVPN": true,
-      "repo": "gongc41/chatgpt-vercel"
+      "repo": "gongc41/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-beta-six.vercel.app": {
       "needVPN": true,
-      "repo": "niuxvdong/chatgpt-vercel"
+      "repo": "niuxvdong/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-pi-tan.vercel.app": {
       "needVPN": true,
-      "repo": "xupengzheng/chatgpt-vercel"
+      "repo": "xupengzheng/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-amber-gamma.vercel.app": {
       "needVPN": true,
-      "repo": "sumeiduck/chatgpt-vercel"
+      "repo": "sumeiduck/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-dusky-eta.vercel.app": {
       "needVPN": true,
-      "repo": "liuxiaoxuanxx/chatgpt-vercel"
+      "repo": "liuxiaoxuanxx/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-wddzzz.vercel.app": {
       "needVPN": true,
-      "repo": "wddclass/chatgpt-vercel"
+      "repo": "wddclass/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-yeahjack.vercel.app": {
       "needVPN": true,
-      "repo": "yeahjack/chatgpt-vercel"
+      "repo": "yeahjack/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://www.henrygpt.top": {
-      "repo": "henrywxk817/chatgpt-vercel"
+      "repo": "henrywxk817/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://henrygpt.top": {
-      "repo": "henrywxk817/chatgpt-vercel"
+      "repo": "henrywxk817/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-woad-psi.vercel.app": {
       "needVPN": true,
-      "repo": "henrywxk817/chatgpt-vercel"
+      "repo": "henrywxk817/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://my-chatgpt-vercel-snowy.vercel.app": {
       "needVPN": true,
-      "repo": "zhuquantai/chatgpt-vercel"
+      "repo": "zhuquantai/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-lnright.vercel.app": {
       "needVPN": true,
       "repo": "LNRight/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt.cy1973.cn": {
-      "repo": "cy19734682/chatgpt-vercel"
+      "repo": "cy19734682/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-cy19734682.vercel.app": {
       "needVPN": true,
-      "repo": "cy19734682/chatgpt-vercel"
+      "repo": "cy19734682/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-xiyou.vercel.app": {
       "needVPN": true,
       "repo": "roboger/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-gilt-one.vercel.app": {
       "needVPN": true,
       "repo": "studentye/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-jiao.vercel.app": {
       "needVPN": true,
-      "repo": "JssDream/chatgpt-vercel"
+      "repo": "JssDream/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-gaei.vercel.app": {
       "needVPN": true,
-      "repo": "lost1984/chatgpt-vercel"
+      "repo": "lost1984/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://ai.chat-pi.top": {
-      "repo": "ppliang13/chatgpt-vercel"
+      "repo": "ppliang13/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-ppliang13.vercel.app": {
       "needVPN": true,
-      "repo": "ppliang13/chatgpt-vercel"
+      "repo": "ppliang13/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-rust-eight.vercel.app": {
       "needVPN": true,
-      "repo": "lzxiaohuihui/chatgpt-vercel"
+      "repo": "lzxiaohuihui/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://ai.ijike.wang": {
-      "repo": "moyuanhua/chatgpt-vercel"
+      "repo": "moyuanhua/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-moyuanhua.vercel.app": {
       "needVPN": true,
-      "repo": "moyuanhua/chatgpt-vercel"
+      "repo": "moyuanhua/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.yhnoxn.top": {
-      "repo": "yhnoxn/chatgpt-vercel"
+      "repo": "yhnoxn/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-yhnoxn.vercel.app": {
       "needVPN": true,
-      "repo": "yhnoxn/chatgpt-vercel"
+      "repo": "yhnoxn/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-weitaohe.vercel.app": {
       "needVPN": true,
-      "repo": "WeitaoHe/chatgpt-vercel"
+      "repo": "WeitaoHe/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://github.com/MC-dusk/chatgpt-demo": {
       "repo": "MC-dusk/chatgpt-vercel"
     },
     "https://chat-gpt-c4vh.vercel.app": {
       "needVPN": true,
-      "repo": "lengkq/chatgpt-vercel"
+      "repo": "lengkq/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-hime-hina.vercel.app": {
       "needVPN": true,
       "repo": "Hime-Hina/chatgpt-vercel",
-      "needVerify": 2,
-      "desc": "404 - Not Found"
+      "needVerify": 3,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-nu-five.vercel.app": {
       "needVPN": true,
-      "repo": "727474430/chatgpt-vercel"
+      "repo": "727474430/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-lyp.vercel.app": {
       "needVPN": true,
-      "repo": "xmengnet/chatgpt-lyp"
+      "repo": "xmengnet/chatgpt-lyp",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "http://175.178.88.119": {
       "star": 2,
@@ -5869,372 +6331,1241 @@
     },
     "https://chatgpt-demo-theta-ten.vercel.app": {
       "needVPN": true,
-      "repo": "jianruolan/chatgpt-demo"
+      "repo": "jianruolan/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-ikurum.vercel.app": {
       "needVPN": true,
-      "repo": "iKurum/chatgpt"
+      "repo": "iKurum/chatgpt",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://powgpt.vercel.app": {
       "needVPN": true,
-      "repo": "mrpow737/PowGPT"
+      "repo": "mrpow737/PowGPT",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-nine-eta.vercel.app": {
       "needVPN": true,
-      "repo": "777nx/chatgpt-demo"
+      "repo": "777nx/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-870384300.vercel.app": {
       "needVPN": true,
-      "repo": "870384300/chatgpt-demo"
+      "repo": "870384300/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-online-jonny023.vercel.app": {
       "needVPN": true,
-      "repo": "Jonny023/chatgpt-online-demo"
+      "repo": "Jonny023/chatgpt-online-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-tau-sandy.vercel.app": {
       "needVPN": true,
-      "repo": "ruixing1001/chatgpt-demo"
+      "repo": "ruixing1001/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-three-nu.vercel.app": {
       "needVPN": true,
       "repo": "RoboticPA/chatgpt-demo",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt.lik.sale": {
-      "repo": "songgq/chatgpt-demo"
+      "repo": "songgq/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-songgq.vercel.app": {
       "needVPN": true,
-      "repo": "songgq/chatgpt-demo"
+      "repo": "songgq/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-hazel-zeta.vercel.app": {
       "needVPN": true,
-      "repo": "c13031386249/chatgpt-demo"
+      "repo": "c13031386249/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://achieve-dream.netlify.app": {
       "repo": "achieve-dream1221/chatgpt-demo"
     },
     "https://chatgpt-online-yoyo-18181.vercel.app": {
       "needVPN": true,
-      "repo": "YOYO181818/chatgpt-demo-yoyo"
+      "repo": "YOYO181818/chatgpt-demo-yoyo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-zeta-one.vercel.app": {
       "needVPN": true,
       "repo": "nsv2051/chatgpt-demo",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt9.xyz": {
-      "repo": "PPPP1987/chatgpt-demo"
+      "repo": "PPPP1987/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-501505005-qqcom.vercel.app": {
       "needVPN": true,
-      "repo": "PPPP1987/chatgpt-demo"
+      "repo": "PPPP1987/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-chi-six.vercel.app": {
       "needVPN": true,
       "repo": "DawnMagnet/chatgpt-demo",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://cortex-3-5.vercel.app": {
       "needVPN": true,
-      "repo": "x03ck0x/chatgpt-demo"
+      "repo": "x03ck0x/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-demo-phi-dusky.vercel.app": {
       "needVPN": true,
       "repo": "Einstein1905/chatgpt-demo",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt.ifdown.online": {
-      "repo": "hugoyue/chatgpt-vercel"
+      "repo": "hugoyue/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-hugoyue.vercel.app": {
       "needVPN": true,
-      "repo": "hugoyue/chatgpt-vercel"
+      "repo": "hugoyue/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-colder112.vercel.app": {
       "needVPN": true,
-      "repo": "colder112/chatgpt-vercel"
+      "repo": "colder112/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt.davidweng.tk": {
-      "repo": "thedavidweng/chatgpt-vercel"
+      "repo": "thedavidweng/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-redfiue.vercel.app": {
       "needVPN": true,
-      "repo": "RedfiUe/chatgpt-vercel"
+      "repo": "RedfiUe/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://wartuqysostyvozkbnwbindwrtryod.vercel.app": {
       "needVPN": true,
       "repo": "justtesttestit/wartuqysostyvozkbnwbindwrtryod",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-liart.vercel.app": {
       "needVPN": true,
-      "repo": "adolsai/chatgpt-vercel"
+      "repo": "adolsai/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-timgugugu.vercel.app": {
       "needVPN": true,
-      "repo": "Timgugugu/chatgpt-vercel"
+      "repo": "Timgugugu/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-bcent.vercel.app": {
       "needVPN": true,
-      "repo": "bcent/chatgpt-vercel"
+      "repo": "bcent/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-aadooo.vercel.app": {
       "needVPN": true,
       "repo": "aadooo/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://www.ad1865.xyz": {
-      "repo": "xiaobai9998/chatgpt-vercel"
+      "repo": "xiaobai9998/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://ad1865.xyz": {
-      "repo": "xiaobai9998/chatgpt-vercel"
+      "repo": "xiaobai9998/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-zeta-navy.vercel.app": {
       "needVPN": true,
-      "repo": "xiaobai9998/chatgpt-vercel"
+      "repo": "xiaobai9998/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-roan-two.vercel.app": {
       "needVPN": true,
-      "repo": "777nx/chatgpt-vercel"
+      "repo": "777nx/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-six-tau.vercel.app": {
       "needVPN": true,
-      "repo": "homekdio/chatgpt-vercel"
+      "repo": "homekdio/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-scjjwan.vercel.app": {
       "needVPN": true,
-      "repo": "scjjwan/chatgpt-vercel"
+      "repo": "scjjwan/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-mu-silk.vercel.app": {
       "needVPN": true,
-      "repo": "hubbybob2015/chatgpt-vercel"
+      "repo": "hubbybob2015/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-zeta-green.vercel.app": {
       "needVPN": true,
-      "repo": "dagewoshixiaobao/chatgpt-vercel"
+      "repo": "dagewoshixiaobao/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-risfeng.vercel.app": {
       "needVPN": true,
-      "repo": "risfeng/chatgpt-vercel"
+      "repo": "risfeng/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.gnn.ac.cn": {
-      "repo": "YaKaiLi/chatgpt-vercel"
+      "repo": "YaKaiLi/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-yakaili.vercel.app": {
       "needVPN": true,
-      "repo": "YaKaiLi/chatgpt-vercel"
+      "repo": "YaKaiLi/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-ten-mu.vercel.app": {
       "needVPN": true,
-      "repo": "LinlinDu/chatgpt-vercel"
+      "repo": "LinlinDu/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-one-flax.vercel.app": {
       "needVPN": true,
-      "repo": "tangjunyan2010/chatgpt-vercel"
+      "repo": "tangjunyan2010/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-five-beta.vercel.app": {
       "needVPN": true,
       "repo": "y-arookie/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-snowy-phi.vercel.app": {
       "needVPN": true,
       "repo": "ctro15547/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgptdemo1.ccfx.cc": {
-      "repo": "c13031386249/chatgpt-vercel"
+      "repo": "c13031386249/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]connect ECONNREFUSED 127.0.0.1:443"
     },
     "https://chatgpt-vercel-nine-flame.vercel.app": {
       "needVPN": true,
-      "repo": "c13031386249/chatgpt-vercel"
+      "repo": "c13031386249/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-ziming.vercel.app": {
       "needVPN": true,
       "repo": "ZLIKH/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-talentjxw.vercel.app": {
       "needVPN": true,
-      "repo": "talentjxw/chatgpt-vercel"
+      "repo": "talentjxw/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://ly0nx-chatgpt-vercel.vercel.app": {
       "needVPN": true,
-      "repo": "c2h6s/chatgpt-Vercel"
+      "repo": "c2h6s/chatgpt-Vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://www.snowgao.cn": {
-      "repo": "sumaliqinghua/chatgpt-vercel"
+      "repo": "sumaliqinghua/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://snowgao.cn": {
-      "repo": "sumaliqinghua/chatgpt-vercel"
+      "repo": "sumaliqinghua/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://iamchatgpt.top": {
-      "repo": "sumaliqinghua/chatgpt-vercel"
+      "repo": "sumaliqinghua/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://www.iamchatgpt.top": {
-      "repo": "sumaliqinghua/chatgpt-vercel"
+      "repo": "sumaliqinghua/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-nine-phi.vercel.app": {
       "needVPN": true,
-      "repo": "sumaliqinghua/chatgpt-vercel"
+      "repo": "sumaliqinghua/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-self-six.vercel.app": {
       "needVPN": true,
       "repo": "zhenbang/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-ingxhe.vercel.app": {
       "needVPN": true,
-      "repo": "ingxhe/chatgpt-vercel"
+      "repo": "ingxhe/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://cxpller-chatgpt.vercel.app": {
       "needVPN": true,
-      "repo": "Cxpller/chatgpt-vercel"
+      "repo": "Cxpller/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-cxpller.vercel.app": {
       "needVPN": true,
-      "repo": "Cxpller/chatgpt-vercel"
+      "repo": "Cxpller/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://1ight.xyz": {
-      "repo": "J1ight/chatgpt-vercel"
+      "repo": "J1ight/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://www.1ight.xyz": {
-      "repo": "J1ight/chatgpt-vercel"
+      "repo": "J1ight/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-j1ight.vercel.app": {
       "needVPN": true,
       "repo": "J1ight/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-aigc.vercel.app": {
       "needVPN": true,
-      "repo": "aigctool/chatgpt-vercel"
+      "repo": "aigctool/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://laguar.vercel.app": {
       "needVPN": true,
-      "repo": "FortuneCat0884/chatgpt-vercel-1"
+      "repo": "FortuneCat0884/chatgpt-vercel-1",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-sand.vercel.app": {
       "needVPN": true,
       "repo": "empty-233/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://ranxin.love": {
-      "repo": "grstars/chatgpt-vercel"
+      "repo": "grstars/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]getaddrinfo ENOTFOUND ranxin.love"
     },
     "https://www.ranxin.love": {
-      "repo": "grstars/chatgpt-vercel"
+      "repo": "grstars/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-grstars.vercel.app": {
       "needVPN": true,
-      "repo": "grstars/chatgpt-vercel"
+      "repo": "grstars/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-coral-rho.vercel.app": {
       "needVPN": true,
-      "repo": "chenfan-kk/chatgpt-vercel"
+      "repo": "chenfan-kk/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-993.vercel.app": {
       "needVPN": true,
-      "repo": "WangXingFan/chatgpt"
+      "repo": "WangXingFan/chatgpt",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat.laughmetal.com": {
-      "repo": "demonbug/chatgpt-vercel"
+      "repo": "demonbug/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://demonbug-chat.vercel.app": {
       "needVPN": true,
-      "repo": "demonbug/chatgpt-vercel"
+      "repo": "demonbug/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat1.wlei.online": {
-      "repo": "RoboticPA/chatgpt-vercel"
+      "repo": "RoboticPA/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-roboticpa.vercel.app": {
       "needVPN": true,
-      "repo": "RoboticPA/chatgpt-vercel"
+      "repo": "RoboticPA/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-olive-kappa.vercel.app": {
       "needVPN": true,
-      "repo": "ruixing1001/chatgpt-vercel"
+      "repo": "ruixing1001/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-sable-rho.vercel.app": {
       "needVPN": true,
       "repo": "onelastsmoke/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-cjw.vercel.app": {
       "needVPN": true,
-      "repo": "jiawen2077/chatgpt-vercel"
+      "repo": "jiawen2077/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-yuym.vercel.app": {
       "needVPN": true,
       "repo": "jackbon8/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-eight-fawn.vercel.app": {
       "needVPN": true,
-      "repo": "cyuanyuan520/chatgpt-vercel"
+      "repo": "cyuanyuan520/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-pachyming.vercel.app": {
       "needVPN": true,
-      "repo": "pachyming/chatgpt-vercel"
+      "repo": "pachyming/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-one-beta.vercel.app": {
       "needVPN": true,
       "repo": "robercae/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-three-roan.vercel.app": {
       "needVPN": true,
       "repo": "Yellowsea2000/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-roan.vercel.app": {
       "needVPN": true,
       "repo": "kuberhan/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-five-mu.vercel.app": {
       "needVPN": true,
       "repo": "Audience16/chatgpt",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chatgpt-vercel-flame-phi.vercel.app": {
       "needVPN": true,
       "repo": "DuoLaVDream/chatgpt-vercel",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://cwg-five.vercel.app": {
       "needKey": true,
       "needVPN": true,
       "repo": "Greyfs/CWG",
-      "needVerify": 1,
-      "desc": "404 - Not Found"
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     },
     "https://chat-with-gpt-sooty.vercel.app": {
       "needKey": true,
       "needVPN": true,
       "repo": "kenpath1234/chat-with-gpt",
+      "needVerify": 2,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-demo999.vercel.app": {
+      "needVPN": true,
+      "repo": "QAQ1004/chatgpt-demo999",
       "needVerify": 1,
-      "desc": "404 - Not Found"
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-demo-qingzhou.vercel.app": {
+      "needVPN": true,
+      "repo": "yyqzh/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-wrcl.vercel.app": {
+      "needVPN": true,
+      "repo": "SakenTam/chatgpt",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-theta-henna.vercel.app": {
+      "needVPN": true,
+      "repo": "Duorhs/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-five-eta.vercel.app": {
+      "needVPN": true,
+      "repo": "240011814/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-demo-flax-kappa.vercel.app": {
+      "needVPN": true,
+      "repo": "Soontao/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-demo-soontao.vercel.app": {
+      "needVPN": true,
+      "repo": "Soontao/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-demo-seven-rust.vercel.app": {
+      "needVPN": true,
+      "repo": "liuhh666233/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-demo-delta-khaki.vercel.app": {
+      "needVPN": true,
+      "repo": "liuke291336211/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://du-alpha.vercel.app": {
+      "needVPN": true,
+      "repo": "heyseere/du",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-sigma-blush.vercel.app": {
+      "needVPN": true,
+      "repo": "imingsmings/chatgpt",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-demo-lkyxuan.vercel.app": {
+      "needVPN": true,
+      "repo": "lkyxuan/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chat-anyone.vercel.app": {
+      "needVPN": true,
+      "repo": "cocpublic/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-demo-yp1y.vercel.app": {
+      "needVPN": true,
+      "repo": "hackhy2020/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://cd-private-gpt4.vercel.app": {
+      "needVPN": true,
+      "repo": "chundongwang/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-demo-nu-gold.vercel.app": {
+      "needVPN": true,
+      "repo": "robercae/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-demo-asmboy.vercel.app": {
+      "needVPN": true,
+      "repo": "asmboy/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-chi-orpin.vercel.app": {
+      "needVPN": true,
+      "repo": "dislazy/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-demo-alpha-five.vercel.app": {
+      "needVPN": true,
+      "repo": "ai88030669/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://c.thagki9.com": {
+      "repo": "THaGKI9/chatgpt-demo"
+    },
+    "https://chatgpt-web-tonyke.vercel.app": {
+      "needVPN": true,
+      "repo": "THaGKI9/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-demo1-alpha.vercel.app": {
+      "needVPN": true,
+      "repo": "ayoubelmhamdi/chatgpt-demo",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-zhong.vercel.app": {
+      "needVPN": true,
+      "repo": "2572011512/chatgpt-zhong",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-omega-coral.vercel.app": {
+      "needVPN": true,
+      "repo": "xiaowan-tiger/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-wht300.vercel.app": {
+      "needVPN": true,
+      "repo": "wht300/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-seven-nu.vercel.app": {
+      "needVPN": true,
+      "repo": "junjunhhhh/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-cirzear.vercel.app": {
+      "needVPN": true,
+      "repo": "Cirzear/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-xsfecho.vercel.app": {
+      "needVPN": true,
+      "repo": "xsfecho/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-himicos.vercel.app": {
+      "needVPN": true,
+      "repo": "HimiCos/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-nine-zeta.vercel.app": {
+      "needVPN": true,
+      "repo": "Golorcsh/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-zjytbb.vercel.app": {
+      "needVPN": true,
+      "repo": "zjytbb/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-smacricket.vercel.app": {
+      "needVPN": true,
+      "repo": "Smacricket/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-jade-one.vercel.app": {
+      "needVPN": true,
+      "repo": "mowenyushang/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-fxizenta.vercel.app": {
+      "needVPN": true,
+      "repo": "Fxizenta/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-murex-mu.vercel.app": {
+      "needVPN": true,
+      "repo": "gongjunweivip/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-dogcraft.vercel.app": {
+      "needVPN": true,
+      "repo": "ybw2016v/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://xianchen.xyz": {
+      "repo": "kuangkung/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://www.xianchen.xyz": {
+      "repo": "kuangkung/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-flax-rho.vercel.app": {
+      "needVPN": true,
+      "repo": "kuangkung/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-steel.vercel.app": {
+      "needVPN": true,
+      "repo": "FigoHu/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-mu-one.vercel.app": {
+      "needVPN": true,
+      "repo": "xiwang126/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-boyi.vercel.app": {
+      "needVPN": true,
+      "repo": "boyi/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://tao-chat.vercel.app": {
+      "needVPN": true,
+      "repo": "shizitao/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-godghost.vercel.app": {
+      "needVPN": true,
+      "repo": "godghost/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel.ssiswent.cc": {
+      "repo": "Ssiswent/chatgpt-vercel"
+    },
+    "https://chatgpt-vercel-ssiswent.vercel.app": {
+      "needVPN": true,
+      "repo": "Ssiswent/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-pi-ten.vercel.app": {
+      "needVPN": true,
+      "repo": "wsgtcyx/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-smileboyi.vercel.app": {
+      "needVPN": true,
+      "repo": "smileboyi/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-xp9477.vercel.app": {
+      "needVPN": true,
+      "repo": "xp9477/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-sk1688.vercel.app": {
+      "needVPN": true,
+      "repo": "skymaster1688/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-hqw567.vercel.app": {
+      "needVPN": true,
+      "repo": "hqw567/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-gaofy3.vercel.app": {
+      "needVPN": true,
+      "repo": "Gaofy3/chatgpt",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-ten-steel.vercel.app": {
+      "needVPN": true,
+      "repo": "CherryLover/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-scutseason.vercel.app": {
+      "needVPN": true,
+      "repo": "SCUTSeason/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-six-gamma.vercel.app": {
+      "needVPN": true,
+      "repo": "Strangeryuu/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-aksudya.vercel.app": {
+      "needVPN": true,
+      "repo": "aksudya/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://ai.gggg.plus": {
+      "repo": "qinfengge/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-two-henna.vercel.app": {
+      "needVPN": true,
+      "repo": "qinfengge/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-hailong-three.vercel.app": {
+      "needVPN": true,
+      "repo": "lwjcjmx123/chatgpt-hailong",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-aha2mao.vercel.app": {
+      "needVPN": true,
+      "repo": "aha2mao/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-wlc002.vercel.app": {
+      "needVPN": true,
+      "repo": "wlc002/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-cn-p5.vercel.app": {
+      "needVPN": true,
+      "repo": "CN-P5/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-swart-six.vercel.app": {
+      "needVPN": true,
+      "repo": "eminem031121/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://gpg.icu": {
+      "repo": "gooker/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-gooker.vercel.app": {
+      "needVPN": true,
+      "repo": "gooker/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-lookhang.vercel.app": {
+      "needVPN": true,
+      "repo": "lookhang/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-five-tawny.vercel.app": {
+      "needVPN": true,
+      "repo": "k2archer/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://jyp-chatgpt-vercel.vercel.app": {
+      "needVPN": true,
+      "repo": "PenPen9712/JYP-chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-yikwongee.vercel.app": {
+      "needVPN": true,
+      "repo": "yikwongee/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-cjlyyds.vercel.app": {
+      "needVPN": true,
+      "repo": "cjlyyds/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://www.shibuzhuo.top": {
+      "repo": "shibuzhuo/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://shibuzhuo.top": {
+      "repo": "shibuzhuo/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-phi-rosy.vercel.app": {
+      "needVPN": true,
+      "repo": "shibuzhuo/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-lazily.vercel.app": {
+      "needVPN": true,
+      "repo": "mylazily/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-keanu.vercel.app": {
+      "needVPN": true,
+      "repo": "keanuHu/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chat.bigpotato.cn": {
+      "repo": "cn720map/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-giscloud.vercel.app": {
+      "needVPN": true,
+      "repo": "cn720map/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-bamboo512.vercel.app": {
+      "needVPN": true,
+      "repo": "bamboo512/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://gpt.livewithai.top": {
+      "repo": "kyojujor/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-kyojujor.vercel.app": {
+      "needVPN": true,
+      "repo": "kyojujor/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-two-mu.vercel.app": {
+      "needVPN": true,
+      "repo": "Grealin/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chat.wiblog.cn": {
+      "repo": "weimin96/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-weimin96.vercel.app": {
+      "needVPN": true,
+      "repo": "weimin96/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://gpt.skybreezy.com": {
+      "repo": "SkyHighR/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-murex-nine.vercel.app": {
+      "needVPN": true,
+      "repo": "SkyHighR/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-cookbear.vercel.app": {
+      "needVPN": true,
+      "repo": "cookbear/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt.linjuorange.top": {
+      "repo": "yitizi/ourongxing-chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://ourongxing-chatgpt-vercel.vercel.app": {
+      "needVPN": true,
+      "repo": "yitizi/ourongxing-chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-qipan2021.vercel.app": {
+      "needVPN": true,
+      "repo": "Qipan2021/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://xiaodu.vercel.app": {
+      "needVPN": true,
+      "repo": "heyseere/xiaodu",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-ten-tau.vercel.app": {
+      "needVPN": true,
+      "repo": "isawall317/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-li0329.vercel.app": {
+      "needVPN": true,
+      "repo": "Li0329/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-sooty-ten.vercel.app": {
+      "needVPN": true,
+      "repo": "patternvip/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-test-pearl.vercel.app": {
+      "needVPN": true,
+      "repo": "Xin-Huang-and-Liu/chatgpt-vercel-test",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://vercel.onlybot.club": {
+      "repo": "yuezy3/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-yuezy3.vercel.app": {
+      "needVPN": true,
+      "repo": "yuezy3/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chat2.ikun99.cf": {
+      "repo": "fangyuan99/fygpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://fygpt-vercel.vercel.app": {
+      "needVPN": true,
+      "repo": "fangyuan99/fygpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chat.rustup.me": {
+      "repo": "rust-kotlin/chatgpt-vercel"
+    },
+    "https://gptweb.vercel.app": {
+      "needVPN": true,
+      "repo": "rust-kotlin/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatai.v4coder.cn": {
+      "repo": "wewelove/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-wewelove.vercel.app": {
+      "needVPN": true,
+      "repo": "wewelove/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-seven-jade.vercel.app": {
+      "needVPN": true,
+      "repo": "bhk545145/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-xiaow.vercel.app": {
+      "needVPN": true,
+      "repo": "wimdaw/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://kdy4.top": {
+      "repo": "sbdrin/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://gpt-sbdrin.vercel.app": {
+      "needVPN": true,
+      "repo": "sbdrin/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-lite.vercel.app": {
+      "needVPN": true,
+      "repo": "boynTeam/chatgpt-vercel-lite",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-fawn-psi.vercel.app": {
+      "needVPN": true,
+      "repo": "tsingheng/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-pi-sepia.vercel.app": {
+      "needVPN": true,
+      "repo": "magiconch/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-luolp.vercel.app": {
+      "needVPN": true,
+      "repo": "luolp/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chat.techoc.cn": {
+      "repo": "Techoc/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chat.acgh.top": {
+      "repo": "Techoc/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://cha6689knhbv-flax.vercel.app": {
+      "needVPN": true,
+      "repo": "10fantastic/cha6689knhbv",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-inky.vercel.app": {
+      "needVPN": true,
+      "repo": "mansicer/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-thebeginning.vercel.app": {
+      "needVPN": true,
+      "repo": "zhangxiao766/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://vercel-wopao.vercel.app": {
+      "needVPN": true,
+      "repo": "wopao/vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-nine-rho.vercel.app": {
+      "needVPN": true,
+      "repo": "songjunwei/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-indol-three.vercel.app": {
+      "needVPN": true,
+      "repo": "MyGoodTime/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://ai.xiaokai.dev": {
+      "repo": "xiaokaike/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-don04.vercel.app": {
+      "needVPN": true,
+      "repo": "xiaokaike/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-5dlh.vercel.app": {
+      "needVPN": true,
+      "repo": "augety-x/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercelx.vercel.app": {
+      "needVPN": true,
+      "repo": "joyapple/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-vercel-lac-zeta.vercel.app": {
+      "needVPN": true,
+      "repo": "q19889030/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt.niwo.win": {
+      "repo": "mirtlecn/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chatgpt-mirtle.vercel.app": {
+      "needVPN": true,
+      "repo": "mirtlecn/chatgpt-vercel",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://chat-with-gpt-ruby.vercel.app": {
+      "needKey": true,
+      "needVPN": true,
+      "repo": "rossman22590/chat-with-gpt",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
+    },
+    "https://bongpt.netlify.app": {
+      "needKey": true,
+      "needVPN": true,
+      "repo": "BongoCaat/chat-with-gpt3"
+    },
+    "https://chat-with-gpt-six.vercel.app": {
+      "needKey": true,
+      "needVPN": true,
+      "repo": "christophercelaya/chat-with-gpt",
+      "needVerify": 1,
+      "desc": "[error][-1]Client network socket disconnected before secure TLS connection was established"
     }
   }
 }
