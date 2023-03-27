@@ -1,6 +1,7 @@
 import { concurrency, color } from '@lzwme/fe-utils';
+import { httpLinkChecker } from '@lzwme/fe-utils/cjs/node/lib/httpLinkChecker';
 import { config } from './config';
-import { getRepoForks, getUrlsFromLatestCommitComment, logger, fixSiteUrl, httpLinkChecker } from './utils';
+import { getRepoForks, getUrlsFromLatestCommitComment, logger, fixSiteUrl } from './utils';
 
 async function repoCommentBot(repo: string, maxForks = 1000) {
   let siteList: { [repo: string]: string[] } = {};
@@ -80,7 +81,8 @@ export function siteUrlVerify() {
         if (item.needVerify >= 6 && r.statusCode === 404) {
           delete config.siteInfo[r.url]; // 超过 6 次均 404 则移除
         } else {
-          if (!item.desc || /^\d+ - /.test(item.desc)) item.desc = `${r.statusCode} - ${r.errmsg}`;
+          if (!item.desc || /^\d+ - /.test(item.desc)) item.desc = `[error][${r.statusCode}]${r.errmsg}`;
+          else item.desc = item.desc.replace(/\[error\]\[.+\].+$/, `[error][${r.statusCode}]${r.errmsg}`);
         }
         logger.warn(`[urlVerify][${color.yellow(url)}]`, r.statusCode, r.errmsg.slice(0, 300), r.url == url ? '' : color.cyan(r.url));
       }
@@ -89,7 +91,7 @@ export function siteUrlVerify() {
     }
 
     const timeCost = Date.now() - startTime;
-    if (timeCost > 5000) logger.warn(`[urlVerify][slow]`, color.magenta(url), color.red(timeCost), r);
+    if (timeCost > 5000 && !r.code) logger.warn(`[urlVerify][slow]`, color.magenta(url), color.red(timeCost), r);
     else logger.debug(`[urlVerify]done!`, color.green(url), color.cyan(timeCost), r);
     return r;
   });
