@@ -28,6 +28,8 @@ export interface SiteInfo {
   hide?: BoolLike;
   /** 描述信息 */
   desc?: string;
+  /** 程序检测到的错误信息 */
+  errmsg?: string;
   /** @TODO 分类类别 */
   cate?: 'chat' | 'tool' | 'ai';
 }

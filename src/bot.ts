@@ -81,13 +81,15 @@ export function siteUrlVerify() {
         if (item.needVerify >= 6 && r.statusCode === 404) {
           delete config.siteInfo[r.url]; // 超过 6 次均 404 则移除
         } else {
-          if (!item.desc || /^\d+ - /.test(item.desc)) item.desc = `[error][${r.statusCode}]${r.errmsg}`;
-          else item.desc = item.desc.replace(/\[error\]\[.+\].+$/, `[error][${r.statusCode}]${r.errmsg}`);
+          item.errmsg = `[error][${r.statusCode || r.code}]${r.errmsg}`;
+          // @TODO: 兼容包含 error 的格式，后续移除
+          if (item.desc) item.desc = item.desc.replace(/\[error\]\[.+\].+$/, '');
         }
         logger.warn(`[urlVerify][${color.yellow(url)}]`, r.statusCode, r.errmsg.slice(0, 300), r.url == url ? '' : color.cyan(r.url));
       }
     } else if ('needVerify' in item) {
-      delete item.needVerify;
+      if (item.needVerify && item.needVerify > 0) delete item.needVerify;
+      if (item.errmsg) delete item.errmsg;
     }
 
     const timeCost = Date.now() - startTime;
