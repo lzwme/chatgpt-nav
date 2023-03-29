@@ -68,7 +68,7 @@ export function siteUrlVerify() {
 
     logger.debug(`[urlVerify] start for`, color.green(url));
     const startTime = Date.now();
-    const r = await httpLinkChecker(url, { verify: body => /<body/i.test(body) });
+    const r = await httpLinkChecker(url, { verify: body => /<body/i.test(body), reqOptions: { rejectUnauthorized: false } });
 
     if (r.code) {
       if (r.redirected) {
@@ -87,9 +87,16 @@ export function siteUrlVerify() {
         }
         logger.warn(`[urlVerify][${color.yellow(url)}]`, r.statusCode, r.errmsg.slice(0, 300), r.url == url ? '' : color.cyan(r.url));
       }
-    } else if ('needVerify' in item) {
-      if (item.needVerify && item.needVerify > 0) delete item.needVerify;
-      if (item.errmsg) delete item.errmsg;
+    } else {
+      if ('needVerify' in item) {
+        if (item.needVerify && item.needVerify > 0) delete item.needVerify;
+        if (item.errmsg) delete item.errmsg;
+      }
+
+      if (!item.desc && r.body) {
+        const title = r.body.match(/<title>(.*)<\/title>/)?.[1];
+        if (title) item.desc = title;
+      }
     }
 
     const timeCost = Date.now() - startTime;
