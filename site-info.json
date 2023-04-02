@@ -9714,6 +9714,11 @@
       "needVerify": 1,
       "errmsg": "[error][404]Not Found"
     },
+    "https://openai.gflish.xyz": {
+      "needPwd": 1,
+      "title": "ChatGPT Next Web",
+      "desc": "需关注公众号获取授权码"
+    },
     "https://chat-with-gpt-eight.vercel.app": {
       "needKey": true,
       "needVPN": true,

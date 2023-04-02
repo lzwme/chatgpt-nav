@@ -71,7 +71,7 @@ export function siteUrlVerify() {
     const r = await httpLinkChecker(url, { verify: body => /<body/i.test(body), reqOptions: { timeout: 10_000, rejectUnauthorized: false } });
 
     // ignore TSL error
-    if (r.code && r.body.includes('network socket disconnected before secure TLS connection')) {
+    if (r.code && r.errmsg.includes('network socket disconnected before secure TLS connection')) {
       r.code = 0;
       r.body = '';
     }
@@ -99,9 +99,10 @@ export function siteUrlVerify() {
       }
       if (item.errmsg) delete item.errmsg;
 
-      if (!item.desc && r.body) {
+      if (!item.title && r.body) {
         const title = r.body.match(/<title>(.*)<\/title>/)?.[1];
-        if (title) item.desc = title;
+        if (title) item.title = title;
+        if (item.title === item.desc) delete item.desc;
       }
     }
 

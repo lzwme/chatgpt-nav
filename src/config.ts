@@ -26,6 +26,7 @@ export interface SiteInfo {
   invalid?: BoolLike | string;
   /** 不展示（失效超过30天等） */
   hide?: BoolLike;
+  title?: string;
   /** 描述信息 */
   desc?: string;
   /** 程序检测到的错误信息 */

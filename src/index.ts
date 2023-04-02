@@ -32,7 +32,9 @@ function formatSiteList() {
       if (info.needPay) prefix += '💰';
       if (info.needKey) prefix += '🔑';
       if (info.needVPN) prefix += '🚀';
-      return `1. [[${prefix || '⭐'}] ${url}](${url}) ${info.desc || ''} ${info.errmsg ? `\`${info.errmsg}\`` : ''}`.trim();
+      return `1. [[${prefix || '⭐'}] ${url}](${url}) ${info.title ? `**${info.title}。**` : ''}${info.desc || ''} ${
+        info.errmsg ? `\`${info.errmsg}\`` : ''
+      }`.trim();
     });
 }
 
@@ -58,7 +60,7 @@ export async function start() {
   return total;
 }
 
-start().then((total) => {
+start().then(total => {
   logger.info(`done! Total: ${total} / ${Object.keys(config.siteInfo).length}`);
   process.nextTick(() => process.exit());
 });
