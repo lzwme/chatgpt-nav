@@ -34,6 +34,7 @@
     "https://www.chat2ai.cn": {
       "star": -1,
       "desc": "ThinkBot - 基于ChatGPT实现",
+      "errmsg": "接网信办通知，ThinkBot需要进行相关内容的整改",
       "title": "ThinkBot"
     },
     "https://chat.ninvfeng.xyz": {
@@ -41,14 +42,15 @@
       "title": "ChatGPT Web"
     },
     "https://chat.yqcloud.top": {
-      "star": 2,
+      "star": 1,
+      "needVPN": 1,
       "desc": "基于 GPT3。域名已被 DNS 污染",
       "hide": 1
     },
     "https://fastgpt.app": {
       "star": 1,
       "invalid": 1,
-      "desc": "无法访问",
+      "needKey": 1,
       "title": "New chat"
     },
     "https://chat.zecoba.cn": {
@@ -66,13 +68,6 @@
       "star": 2,
       "repo": "handongke/chatgpt-vercel",
       "title": "ChatGPT"
-    },
-    "https://www.aitoolgpt.com": {
-      "repo": "ourongxing/chatgpt-vercel",
-      "star": 2,
-      "needVerify": 7,
-      "desc": "",
-      "errmsg": "[error][-1]timeout"
     },
     "https://chilloutai.com": {
       "desc": "你的虚拟女友",
@@ -193,9 +188,9 @@
       "errmsg": "[error][-1]timeout"
     },
     "https://ai-toolbox.codefuture.top": {
-      "desc": "AI帮个忙：多功能AI小帮手",
+      "desc": "多功能AI小帮手",
       "cate": "tool",
-      "title": "AI帮个忙 | 多功能AI小帮手"
+      "title": "AI帮个忙"
     },
     "https://harry-potter.openai-lab.co": {
       "needVerify": 7,
@@ -203,7 +198,9 @@
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND harry-potter.openai-lab.co"
     },
     "https://94gpt.com": {
-      "title": "加载页面中..."
+      "title": "Chat GPT",
+      "needVPN": 1,
+      "desc": "上下文仅支持2条对话，设置自己 Key 后可去除限制"
     },
     "https://www.teach-anything.com": {
       "desc": "Teach you Anything in seconds",
@@ -249,11 +246,11 @@
       "errmsg": "[error][-1]timeout"
     },
     "https://ai117.com": {
-      "desc": "403 - Forbidden",
-      "title": "301 Moved Permanently"
+      "title": "AI Chat"
     },
     "https://chat.livepo.top": {
-      "desc": "401 - Unauthorized"
+      "desc": "401 - Unauthorized",
+      "invalid": 1
     },
     "https://chat.eaten.fun": {
       "title": "chat"
@@ -627,7 +624,7 @@
     },
     "https://chat.chunkiu.hk": {
       "invalid": 1,
-      "desc": "无回复，key 失效",
+      "desc": "key 已失效",
       "repo": "6102yk/chatgpt",
       "title": "ChatGPT"
     },
@@ -5915,7 +5912,9 @@
     "https://chat.06.chat": {
       "repo": "MAXHONG/chatgpt-web",
       "desc": "ChatGPT API Demo",
-      "title": "301 Moved Permanently"
+      "needVPN": 1,
+      "invalid": 1,
+      "title": "ChatGPT Web"
     },
     "https://chatgpt-demo-3-nine.vercel.app": {
       "needVPN": true,
@@ -6924,10 +6923,10 @@
       "title": "ChatGPT"
     },
     "http://175.178.88.119": {
-      "star": 2,
       "repo": "caipeizhi/freechatgpt",
       "desc": "免费访问chatgpt",
-      "title": "301 Moved Permanently"
+      "needKey": 1,
+      "title": "chathome"
     },
     "https://chatgpt-demo-theta-ten.vercel.app": {
       "needVPN": true,
@@ -10105,6 +10104,18 @@
       "needKey": true,
       "needVPN": true,
       "repo": "BongoCaat/chat-with-gpt3"
+    },
+    "https://chat.lmsys.org": {
+      "cate": "ai",
+      "title": "FastChat",
+      "star": 2,
+      "desc": "基于 Vicuna: An Open Chatbot Impressing GPT-4"
+    },
+    "http://lmflow.com": {
+      "cate": "ai",
+      "start": 2,
+      "title": "LMFlow",
+      "desc": "一个可扩展、方便、高效的工具箱，用于微调大型机器学习模型，设计为用户友好、快速可靠，并可供整个社区访问"
     },
     "https://chat-with-gpt-six.vercel.app": {
       "needKey": true,

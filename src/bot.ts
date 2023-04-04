@@ -85,7 +85,7 @@ export function siteUrlVerify() {
       } else {
         item.needVerify = (item.needVerify || 0) + 1;
         if (item.needVerify >= 6 && r.statusCode === 404) {
-          delete config.siteInfo[r.url]; // 超过 6 次均 404 则移除
+          delete config.siteInfo[url]; // 超过 6 次均 404 则移除
         } else {
           item.errmsg = `[error][${r.statusCode || r.code}]${r.errmsg}`;
           // @TODO: 兼容包含 error 的格式，后续移除
