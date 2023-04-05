@@ -11,7 +11,7 @@
 
 ## 参与贡献
 
-由于部分站点从网络自动搜集，尚未作可用性验证，欢迎欢迎提 [Issues](https://github.com/lzwme/chatgpt-sites/issues) 或 PR 对其矫正。您可以：
+由于部分站点从网络自动搜集，尚未作可用性验证，欢迎提 [Issues](https://github.com/lzwme/chatgpt-sites/issues) 或 PR 对其矫正。您可以：
 
 - 推荐并添加好用的站点。
 - 验证已有站点列表的可用性、有效性并更正。

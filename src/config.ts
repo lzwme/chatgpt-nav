@@ -44,6 +44,8 @@ export const config = {
   debug: false,
   isOnlyNew: false,
   gptDemoRepos: new Map<string, SiteInfo>([
+    [`Yidadaa/ChatGPT-Next-Web`, {}],
+    [`lvwzhen/teach-anything`, {}],
     [`ddiu8081/chatgpt-demo`, {}],
     [`ourongxing/chatgpt-vercel`, {}],
     [`cogentapps/chat-with-gpt`, { needKey: true, needVPN: true }],
