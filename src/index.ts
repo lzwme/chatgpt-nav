@@ -32,7 +32,7 @@ function formatSiteList() {
       if (info.needPay) prefix += '💰';
       if (info.needKey) prefix += '🔑';
       if (info.needVPN) prefix += '🚀';
-      return `1. [[${prefix || '⭐'}] ${url}](${url}) ${info.title ? `**${info.title}。**` : ''}${info.desc || ''} ${
+      return `1. [[${prefix || '⭐'}] ${url}](${url}) ${info.title ? `**${info.title}。** ` : ''}${info.desc || ''} ${
         info.errmsg ? `\`${info.errmsg}\`` : ''
       }`.trim();
     });

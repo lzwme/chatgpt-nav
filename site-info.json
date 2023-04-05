@@ -3505,8 +3505,7 @@
     },
     "https://chat.laijiahao.cn": {
       "repo": "kjhuanhao/chatgpt-demo",
-      "needVerify": 7,
-      "desc": "[error][-1]write EPROTO C0D7BCB35D7F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:\n",
+      "hide": 1,
       "errmsg": "[error][-1]write EPROTO C0575D637B7F0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:355:\n"
     },
     "https://chatgpt-demo-kjhuanhao.vercel.app": {
@@ -5174,7 +5173,13 @@
       "needVerify": 7,
       "desc": ""
     },
-    "https://chatgpt-demo-pw2ps0ci-lsqs2022.4everland.app)<br/>[https://chatgpt-demo-7.4everland.app": {
+    "https://chatgpt-demo-7.4everland.app": {
+      "repo": "lsqs2022/chatgpt-demo",
+      "needVerify": 7,
+      "desc": "",
+      "errmsg": "[error][-1]Invalid URL"
+    },
+    "https://chatgpt-demo-pw2ps0ci-lsqs2022.4everland.app": {
       "repo": "lsqs2022/chatgpt-demo",
       "needVerify": 7,
       "desc": "",
@@ -5741,7 +5746,7 @@
     },
     "https://modelscope.cn": {
       "desc": "魔塔社区（阿里达摩院）",
-      "star": 2,
+      "star": 3,
       "cate": "ai"
     },
     "https://theb.ai": {
@@ -6891,9 +6896,9 @@
       "repo": "xmengnet/chatgpt-lyp",
       "title": "ChatGPT"
     },
-    "http://175.178.88.119": {
+    "https://175.178.88.119": {
       "repo": "caipeizhi/freechatgpt",
-      "desc": "免费访问chatgpt",
+      "desc": "免费访问chatgpt", 
       "needKey": 1,
       "title": "chathome"
     },
@@ -10432,12 +10437,12 @@
     "https://chat.lmsys.org": {
       "cate": "ai",
       "title": "FastChat",
-      "star": 2,
+      "star": 3,
       "desc": "基于 Vicuna: An Open Chatbot Impressing GPT-4"
     },
     "http://lmflow.com": {
       "cate": "ai",
-      "start": 2,
+      "start": 3,
       "title": "LMFlow",
       "desc": "一个可扩展、方便、高效的工具箱，用于微调大型机器学习模型，设计为用户友好、快速可靠，并可供整个社区访问"
     },
@@ -10618,6 +10623,10 @@
       "repo": "joymmm/chatgpt-vercel",
       "needVerify": 1,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND relax8.eu.org"
+    },
+    "https://chatgpt3.fun": {
+      "title": "ChatGPT Pro",
+      "desc": "需关注公众号获取授权码"
     },
     "https://www.aitoolgpt.com": {
       "repo": "pachyming/chatgpt-vercel",

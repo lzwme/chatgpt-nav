@@ -9,12 +9,45 @@
 - 程序自动抓取开源仓库信息。定时任务每日更新。
 - More...
 
+## 参与贡献
+
+由于部分站点从网络自动搜集，尚未作可用性验证，欢迎欢迎提 [Issues](https://github.com/lzwme/chatgpt-sites/issues) 或 PR 对其矫正。您可以：
+
+- 推荐并添加好用的站点。
+- 验证已有站点列表的可用性、有效性并更正。
+- 自荐您的站点。如果您的站点可以稳定长期运行、使用收费 API KEY 且免费使用等，可增加推荐星级。
+- more...
+
+站点配置信息在 `site-info.json` 文件中设置，基本格式参考：
+
+```ts
+{
+  "https://gpt.demo.com": {
+      "repo": 'lzwme/gpt-demo', // 来源仓库
+      "invalid": '20230310',    // 已失效，标注发现时间
+      "star": 1,                // 推荐星级，0-3。0 用于标记可访问但不可用、使用受限
+      "hide": 0,                // 不显示在列表中，失效并将移除
+      "needKey": 0,             // 是否需要自己输入 API KEY
+      "needPwd": 0,             // 是否需要密码、账号登录才能访问
+      "needPay": 0,             // 付费应用
+      "needVerify": 0,          // 需人工验证确认状态。-1 表示可用且无需程序验证
+      "needVPN": 0,             // 需科学上网
+      "desc": "描述",
+      "title": "标题"
+  },
+}
+```
+
+## 声明
+
+以下站点列表来源于网络收集、GitHub 开源仓库信息搜集和网友推荐。**若您的站点不希望被公开访问，应当设置密码等安全防范措施**。若有侵权请提 [Issues](https://github.com/lzwme/chatgpt-sites/issues) 处理。
+
 ## 站点列表
 
 ```
-⭐ 推荐星级。默认一星。免费、无需代理、无需 KEY，可增加星级
+⭐ 推荐星级。默认一星。免费、无需代理、无需 KEY 等，可增加星级
 ⛔ 0星标记。表示可访问，但功能暂不可用、使用受限等
-🔑 需输入API KEY。可使用自己的 KEY（**应谨慎使用，避免您的 API KEY 泄露**）
+🔑 需输入API KEY。可使用自己的 KEY（应注意甄别、谨慎使用，避免您的 API KEY 泄露）
 🚀 需代理。可代理登录、免费试用
 🔒 需登录。注册账号时请仔细甄别相关页面，不要使用常用密码
 💰 需付费。请仔细识别，谨防受骗
@@ -24,8 +57,8 @@
 
 站点列表(2112)：
 
-1. [[⭐⭐] https://chat.binjie.site:7777](https://chat.binjie.site:7777) **仅用于开发学习交流。**基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索
-1. [[⭐⭐] https://chat.lmsys.org](https://chat.lmsys.org) **FastChat。**基于 Vicuna: An Open Chatbot Impressing GPT-4
+1. [[⭐⭐] https://chat.binjie.site:7777](https://chat.binjie.site:7777) **仅用于开发学习交流。** 基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索
+1. [[⭐⭐] https://chat.lmsys.org](https://chat.lmsys.org) **FastChat。** 基于 Vicuna: An Open Chatbot Impressing GPT-4
 1. [[⭐⭐] https://modelscope.cn](https://modelscope.cn) 魔塔社区（阿里达摩院）
 1. [[⭐⭐] https://www.chatsverse.xyz](https://www.chatsverse.xyz) **ChatGPT。**
 1. [[⭐] https://chat.ninvfeng.xyz](https://chat.ninvfeng.xyz) **ChatGPT Web。**
@@ -2138,36 +2171,3 @@
 1. [[❌🔒] https://1.hktwilight.eu.org](https://1.hktwilight.eu.org) ChatGPT API Demo `[error][-1]getaddrinfo ENOTFOUND 1.hktwilight.eu.org`
 1. [[❌🔒🚀] https://gpt-hk.vercel.app](https://gpt-hk.vercel.app)  `[error][404]Not Found`
 1. [[❌] https://chat.axz.me](https://chat.axz.me) 308 - Permanent Redirect
-
-## 参与贡献
-
-由于部分站点从网络自动搜集，尚未作可用性验证，欢迎欢迎提 [Issues](https://github.com/lzwme/chatgpt-sites/issues) 或 PR 对其矫正。您可以：
-
-- 推荐并添加好用的站点。
-- 验证已有站点列表的可用性、有效性并更正。
-- 欢迎自荐您的站点。如果您的站点可以稳定长期运行、使用收费 API KEY 且免费使用，可增加推荐星级。
-- more...
-
-站点配置信息在 `site-info.json` 文件中设置，基本格式为：
-
-```ts
-{
-  "https://gpt.demo.com": {
-      "repo": 'lzwme/gpt-demo', // 来源仓库
-      "invalid": '20230310',    // 已失效，标注发现时间
-      "star": 1,                // 推荐星级，0-3。0 用于标记可访问但不可用、使用受限
-      "hide": 0,                // 不显示在列表中，失效并将移除
-      "needKey": 0,             // 是否需要自己输入 API KEY
-      "needPwd": 0,             // 是否需要密码、账号登录才能访问
-      "needPay": 0,             // 付费应用
-      "needVerify": 0,          // 需人工验证确认状态。-1 表示可用且无需程序验证
-      "needVPN": 0,             // 需科学上网
-      "desc": "描述",
-      "title": "标题"
-  },
-}
-```
-
-## 声明
-
-以上体验站点来源于网络收集、GitHub 开源仓库信息搜集和网友推荐。若您的站点不希望被公开访问，应当设置密码等安全防范措施。若有侵权请提 [Issues](https://github.com/lzwme/chatgpt-sites/issues) 处理。
