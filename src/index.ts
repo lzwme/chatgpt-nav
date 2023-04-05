@@ -42,7 +42,7 @@ async function updateReadme() {
   const rdFile = resolve(config.rootDir, 'README.md');
   const list = formatSiteList();
   const content = readFileSync(rdFile, 'utf8');
-  const updated = content.replace(/站点列表\([\s\S]+## 参与贡献/g, `站点列表(${list.length})：\n\n${list.join(`\n`)}\n\n## 参与贡献`);
+  const updated = content.replace(/站点列表\([\s\S]+\n\n## /g, `站点列表(${list.length})：\n\n${list.join(`\n`)}\n\n## `);
   if (updated !== content) writeFileSync(rdFile, updated, 'utf8');
   else logger.debug('[UPDATE-READE] No Chagned');
   return list.length;
