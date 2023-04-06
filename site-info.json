@@ -41,6 +41,11 @@
       "needVerify": 7,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND gpt.demo.com"
     },
+    "https://chatgptfly.club": {
+      "star": 2,
+      "desc": "程序员 Jack Dog 和 Tom Dog 为了方便部分同学使用而开发的免费社区平台",
+      "title": "ChatGPT"
+    },
     "https://www.chat2ai.cn": {
       "star": -1,
       "hide": 1,
@@ -1705,13 +1710,16 @@
     "https://chat.yougan.cc": {
       "repo": "xbdsky/chatgpt-demo",
       "needVerify": 7,
-      "desc": "",
+      "invalid": 1,
+      "hide": 1,
       "errmsg": "[error][-1]timeout"
     },
     "https://ai.yougan.cc": {
       "repo": "xbdsky/chatgpt-demo",
       "title": "ChatGPT API",
       "needVerify": 2,
+      "invalid": 1,
+      "hide": 1,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.xbdsky.cn": {
@@ -1727,6 +1735,7 @@
       "repo": "curly210102/chatgpt-demo",
       "desc": "ChatGPT API Demo",
       "needVerify": 7,
+      "hide": 1,
       "errmsg": "[error][-1]connect ENETUNREACH 2a03:2880:f12a:83:face:b00c:0:25de:443 - Local (:::0)"
     },
     "https://chatgpt-demo-mauve.vercel.app": {
@@ -2117,10 +2126,12 @@
     },
     "https://ai.wilsonmk.xyz": {
       "repo": "wilsonmk/chatgpt",
+      "hide": 1,
       "title": "哈哈XD"
     },
     "https://chatgpt-wilsonmk.vercel.app": {
       "needVPN": true,
+      "hide": 1,
       "repo": "wilsonmk/chatgpt",
       "title": "哈哈XD"
     },
@@ -4562,13 +4573,17 @@
     },
     "https://ai.raywang.win": {
       "repo": "wrxx2019/chatgpt-vercel",
-      "desc": "Shell",
+      "desc": "ChatGPT Shell",
+      "needPwd": 1,
+      "hide": 1,
       "title": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-wrxx2019-s-team.vercel.app": {
       "needVPN": true,
       "repo": "wrxx2019/chatgpt-vercel",
       "desc": "Shell",
+      "needPwd": 1,
+      "hide": 1,
       "title": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-chieffucker.vercel.app": {
@@ -7590,6 +7605,8 @@
     },
     "https://ai.windego.cn": {
       "repo": "zhangwj0520/chatgpt-demo",
+      "needPwd": 1,
+      "hide": 1,
       "title": "ChatGPT API Demo"
     },
     "https://chatgpt-demo-gyf.vercel.app": {
@@ -10674,11 +10691,13 @@
       "repo": "doudoupower/ChatGPT-Next-Web"
     },
     "https://ai.wefoundi.top": {
-      "repo": "EricYangXD/ChatGPT-Next"
+      "repo": "EricYangXD/ChatGPT-Next",
+      "needPwd": 1
     },
     "https://chatgpt-next-ericyangxd.vercel.app": {
       "needVPN": true,
-      "repo": "EricYangXD/ChatGPT-Next"
+      "repo": "EricYangXD/ChatGPT-Next",
+      "needPwd": 1
     },
     "https://chataptrenke.vercel.app": {
       "needVPN": true,
@@ -11849,17 +11868,25 @@
       "repo": "SteveHan7717/ChatGPT-Next-Web"
     },
     "https://ai.shunz.cc": {
-      "repo": "shunz/ChatGPT-Next-Web"
+      "repo": "shunz/ChatGPT-Next-Web",
+      "hide": 1,
+      "needPwd": 1
     },
     "https://4.shunz.cc": {
-      "repo": "shunz/ChatGPT-Next-Web"
+      "repo": "shunz/ChatGPT-Next-Web",
+      "hide": 1,
+      "needPwd": 1
     },
     "https://demo.shunz.cc": {
-      "repo": "shunz/ChatGPT-Next-Web"
+      "repo": "shunz/ChatGPT-Next-Web",
+      "hide": 1,
+      "needPwd": 1
     },
     "https://chat-gpt-next-web-shunz.vercel.app": {
       "needVPN": true,
-      "repo": "shunz/ChatGPT-Next-Web"
+      "repo": "shunz/ChatGPT-Next-Web",
+      "hide": 1,
+      "needPwd": 1
     },
     "https://chat-gpt-next-web-grwang.vercel.app": {
       "needVPN": true,
@@ -13494,15 +13521,18 @@
     },
     "https://ai.ncwuhz.cn": {
       "repo": "Scenx/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web"
+      "title": "ChatGPT Next Web",
+      "needPwd": 1
     },
     "https://iam.customgroup.icu": {
       "repo": "Scenx/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web"
+      "title": "ChatGPT Next Web",
+      "needPwd": 1
     },
     "https://chat-gpt-next-web-scenx.vercel.app": {
       "needVPN": true,
-      "repo": "Scenx/ChatGPT-Next-Web"
+      "repo": "Scenx/ChatGPT-Next-Web",
+      "needPwd": 1
     },
     "https://gpt.lainbo.com": {
       "repo": "lainbo/ChatGPT-Next-Web"
@@ -15317,9 +15347,12 @@
     "https://cc.myvip.one": {
       "repo": "ltlt999/ChatGPT-Next-Web-1",
       "needVerify": 1,
+      "hide": 1,
       "errmsg": "[error][308]Permanent Redirect"
     },
     "https://ai.myvip.one": {
+      "star": 0,
+      "desc": "key 已失效",
       "repo": "ltlt999/ChatGPT-Next-Web-1"
     },
     "https://chat-gpt-next-web-1-ochre.vercel.app": {
