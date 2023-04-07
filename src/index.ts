@@ -52,11 +52,19 @@ export async function start() {
   const argv = parser(process.argv.slice(2));
   logger.debug('argv', argv);
   initConfig(argv);
-  if (argv.bot !== false) await repoBot(config.debug ? 10 : 2000);
-  if (argv.urlCheck !== false) await siteUrlVerify();
+
+  if (!argv.onlyUpdate) {
+    if (argv.bot !== false) await repoBot(config.debug ? 10 : 2000);
+    if (argv.urlCheck !== false) await siteUrlVerify();
+  }
+
   const total = await updateReadme();
-  saveConfig();
-  if (config.ci || argv.ci) gitCommit();
+
+  if (!argv.onlyUpdate) {
+    saveConfig();
+    if (config.ci || argv.ci) gitCommit();
+  }
+
   return total;
 }
 

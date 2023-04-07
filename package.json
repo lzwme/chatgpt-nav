@@ -12,16 +12,16 @@
   "type": "module",
   "scripts": {
     "start": "tsx src/index.ts",
-    "update": "tsx src/index.ts --no-bot --no-url-check",
+    "update": "tsx src/index.ts --no-bot --no-url-check --only-update",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "chatgpt"
   ],
   "devDependencies": {
-    "@types/node": "^18.15.10",
+    "@types/node": "^18.15.11",
     "tsx": "^3.12.6",
-    "typescript": "^5.0.2"
+    "typescript": "^5.0.3"
   },
   "dependencies": {
     "@lzwme/fe-utils": "^1.5.1",
