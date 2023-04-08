@@ -21,11 +21,13 @@
     "JaronTF/chatgpt-demo",
     "Chilfish/chatgpt-demo",
     "Chilfish/ChilGPT",
+    "leaders53/chatgpt-vercel",
     "ecust-bes2022/chatgpt-demo",
     "ClearLovePlus/chatgpt-demo",
     "linuxliker1/chatgpt-demo",
     "boyongye218617/ChatGPT-Next-Web",
     "lorilee/ChatGPT-Next-Web",
+    "lainbo/ChatGPT-Next-Web",
     "aigithub2023/ChatGPT-Next-Web"
   ],
   "siteInfo": {
@@ -3406,13 +3408,6 @@
       "repo": "h7ml/chatgpt-demo",
       "title": "ChatGPT API Demo"
     },
-    "https://chatgpt-vercel-five-iota.vercel.app": {
-      "needVPN": true,
-      "repo": "leaders53/chatgpt-vercel",
-      "title": "ChatGPT",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://chatgpt-vercel-likenttt.vercel.app": {
       "needVPN": true,
       "repo": "Likenttt/chatgpt-vercel",
@@ -3461,25 +3456,6 @@
       "needVPN": true,
       "repo": "codavidgarcia/david-chatgpt",
       "title": "ChatGPT"
-    },
-    "https://nvtest.xyz": {
-      "repo": "leaders53/chatgpt-vercel",
-      "title": "ChatGPT",
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND nvtest.xyz"
-    },
-    "https://www.nvtest.xyz": {
-      "repo": "leaders53/chatgpt-vercel",
-      "title": "ChatGPT",
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.nvtest.xyz"
-    },
-    "https://chatgpt-vercel-leaders53.vercel.app": {
-      "needVPN": true,
-      "repo": "leaders53/chatgpt-vercel",
-      "title": "ChatGPT",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
     },
     "https://chat.sky350.com": {
       "repo": "abaobro/chatgpt"
@@ -4604,13 +4580,6 @@
       "repo": "qimuwen/chatgpt-demo",
       "needVerify": 7,
       "desc": ""
-    },
-    "https://chatgpt-demo-leaders53.vercel.app": {
-      "needVPN": true,
-      "repo": "leaders53/chatgpt-demo",
-      "title": "ChatGPT API Demo",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
     },
     "https://chatgpt-demo-marx2014.vercel.app": {
       "needVPN": true,
@@ -13480,13 +13449,6 @@
       "needVPN": true,
       "repo": "Scenx/ChatGPT-Next-Web",
       "needPwd": 1
-    },
-    "https://gpt.lainbo.com": {
-      "repo": "lainbo/ChatGPT-Next-Web"
-    },
-    "https://chat-gpt-next-web-lainbo.vercel.app": {
-      "needVPN": true,
-      "repo": "lainbo/ChatGPT-Next-Web"
     },
     "https://chat-gpt-next-web-luoyeeth.vercel.app": {
       "needVPN": true,
