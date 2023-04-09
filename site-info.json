@@ -250,6 +250,13 @@
     "https://chat.eaten.fun": {
       "title": "chat"
     },
+    "https://www.weijiwangluo.com/talk/": {
+      "cate": "ai",
+      "title": "ATalk",
+      "star": 3,
+      "needVPN": 0,
+      "desc": "是一个基于gpt-3.5-turbo引擎封装的网站,通过输入文本，输出相应的回答，实现智能聊天的功能 "
+    },
     "https://chat.binjie.site:7777": {
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
