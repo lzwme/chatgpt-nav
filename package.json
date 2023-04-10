@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/node": "^18.15.11",
     "tsx": "^3.12.6",
-    "typescript": "^5.0.3"
+    "typescript": "^5.0.4"
   },
   "dependencies": {
     "@lzwme/fe-utils": "^1.5.1",

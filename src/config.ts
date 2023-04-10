@@ -20,6 +20,8 @@ export interface SiteInfo {
   needVPN?: BoolLike;
   /** 需要密码(暂不展示，除非有密码) */
   needPwd?: BoolLike | string;
+  /** 需要登录 */
+  needLogin?: BoolLike;
   /** 付费应用 */
   needPay?: BoolLike | string;
   /** 已失效 */
@@ -60,8 +62,8 @@ export const config = {
     'https://gpt.demo.com': {
       repo: 'lzwme/gpt-demo', // 来源仓库
       star: 1, // 推荐星级，1-3
-      invalid: '20230310', // 已失效，标注发现时间
-      hide: 0, // 不显示在首页
+      invalid: 1, // 已失效
+      hide: 1, // 不显示在首页
       needKey: 0, // 是否需要自己输入 API KEY
       needPwd: 0, // 【受限】是否需要密码、账号登录才能访问
       needPay: 0, // 付费应用

@@ -28,10 +28,11 @@ function formatSiteList() {
       if (info.star && info.star > 0) prefix += '⭐'.repeat(Math.min(3, info.star));
       else if (info.star == 0) prefix += '⛔';
 
-      if (info.needPwd) prefix += '🔒';
+      if (info.needPwd) prefix += '🔐'; // 🔐
       if (info.needPay) prefix += '💰';
       if (info.needKey) prefix += '🔑';
       if (info.needVPN) prefix += '🚀';
+      if (info.needLogin) prefix += '🧑‍💻';
       return `1. [[${prefix || '⭐'}] ${url}](${url}) ${info.title ? `**${info.title}。** ` : ''}${info.desc || ''} ${
         info.errmsg ? `\`${info.errmsg}\`` : ''
       }`.trim();
