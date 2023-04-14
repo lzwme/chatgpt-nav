@@ -15,7 +15,6 @@
     "trampbyte/chatgpt-vercel",
     "aychtang-int-acc/chatgpt-demo",
     "codinglihl/chatgpt-demo",
-    "bill1234566/chatgpt-vercel",
     "zhujian49/chatgpt-demo",
     "xiaowansm5/chatgpt-demo",
     "JaronTF/chatgpt-demo",
@@ -62,6 +61,10 @@
       "desc": "支持文字、语音、翻译、画图的聊天机器人",
       "source": "recommend",
       "title": "WoChat"
+    },
+    "https://chatgpt1680.zeabur.app/": {
+      "star": 2,
+      "source": "recommend"
     },
     "www.gptbot.icu": {
       "star": 2,
@@ -12209,14 +12212,19 @@
     },
     "https://www.927792.xyz": {
       "repo": "asaketsu/ChatGPT-Next-Web",
+      "invalid": 1,
+      "hide": 1,
       "title": "927792.xyz&nbsp;-&nbsp;927792 Resources and Information."
     },
     "https://927792.xyz": {
       "repo": "asaketsu/ChatGPT-Next-Web",
+      "invalid": 1,
+      "hide": 1,
       "title": "Orange‘s AI"
     },
     "https://chat-gpt-next-web-asaketsu.vercel.app": {
       "needVPN": true,
+      "needKey": 1,
       "repo": "asaketsu/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
@@ -13136,10 +13144,12 @@
     },
     "https://ai.d9j.com": {
       "repo": "gaodimsuic/ChatGPT-Next-Web",
+      "errmsg": "KEY 额度已用完",
       "title": "ChatGPT Next Web"
     },
     "https://chat-gpt-next-web-pearl-one-77.vercel.app": {
       "needVPN": true,
+      "errmsg": "KEY 额度已用完",
       "repo": "gaodimsuic/ChatGPT-Next-Web"
     },
     "https://chat-gpt-hellosp.vercel.app": {
@@ -13196,6 +13206,8 @@
       "title": "ChatGPT Next Web"
     },
     "https://ai.miku01.tech": {
+      "invalid": 1,
+      "hide": 1,
       "repo": "MEKXH/ChatGPT-Next-Web02"
     },
     "https://chatgpt02.vercel.app": {
@@ -13217,11 +13229,14 @@
       "title": "ChatGPT Next Web"
     },
     "https://alexsay.top": {
+      "invalid": 1,
+      "errmsg": "域名无解析",
       "repo": "KumaBoom/ChatGPT-Next-Web"
     },
     "https://www.alexsay.top": {
       "repo": "KumaBoom/ChatGPT-Next-Web",
       "needVerify": 1,
+      "invalid": 1,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-kumaboom.vercel.app": {
@@ -13590,6 +13605,7 @@
       "repo": "Tongvivi/ChatGPT-Next-Web"
     },
     "https://ai.gizfly.com": {
+      "errmsg": "KEY 额度已用完",
       "repo": "Tongvivi/ChatGPT-Next-Web"
     },
     "https://chat-gpt-next-web-tongvivi.vercel.app": {
@@ -13912,11 +13928,8 @@
     "https://ai.vanker.tk": {
       "repo": "canasca/ChatGPT-Next-Web",
       "needVerify": 2,
+      "invalid": 1,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai.vanker.tk"
-    },
-    "https://chat-gpt-next-web-canasca.vercel.app": {
-      "needVPN": true,
-      "repo": "canasca/ChatGPT-Next-Web"
     },
     "https://chat-gpt-next-web-1-henna.vercel.app": {
       "needVPN": true,
@@ -14221,9 +14234,12 @@
       "repo": "hehehai/ChatGPT-Next-Web"
     },
     "https://ai.pingchn.com": {
+      "invalid": 1,
+      "desc": "key 已失效",
       "repo": "jiangpinghsu/ChatGPT-Next-Web"
     },
     "https://chat.pingchn.com": {
+      "needKey": 1,
       "repo": "jiangpinghsu/ChatGPT-Next-Web"
     },
     "https://chat-gpt-next-web-ju5u.vercel.app": {
@@ -14264,11 +14280,13 @@
       "repo": "PenYuChen/ChatGPT-Next-Web"
     },
     "https://ai.galend.com": {
+      "needKey": 1,
       "repo": "galendai/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
     "https://chat-gpt-next-web-galendai.vercel.app": {
       "needVPN": true,
+      "needKey": 1,
       "repo": "galendai/ChatGPT-Next-Web"
     },
     "https://chat-gpt-next-web-itrizon.vercel.app": {
@@ -14473,10 +14491,13 @@
     "https://ai.wooy.cc": {
       "repo": "WooyJen/ChatGPT-Next-Web",
       "needVerify": 2,
+      "invalid": 1,
+      "needKey": 1,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai.wooy.cc"
     },
     "https://chat-gpt-next-web-wooyjen.vercel.app": {
       "needVPN": true,
+      "needKey": 1,
       "repo": "WooyJen/ChatGPT-Next-Web"
     },
     "https://chatgpt.mocn.io": {
@@ -16348,24 +16369,32 @@
       "title": "ChatGPT Next Web"
     },
     "https://shangzhou.eu.org": {
+      "needKey": 1,
+      "needVPN": true,
       "repo": "xia-shangzhou/ChatGPT-Next-Web"
     },
     "https://www.shangzhou.eu.org": {
+      "needKey": 1,
+      "needVPN": true,
       "repo": "xia-shangzhou/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
     "https://chat-gpt-next-web-hazel-one-28.vercel.app": {
       "needVPN": true,
+      "needKey": 1,
       "repo": "xia-shangzhou/ChatGPT-Next-Web",
       "needVerify": 1,
       "errmsg": "[error][404]Not Found"
     },
     "https://chatgpt.ssssp.net": {
       "repo": "xufan6/ChatGPT-Next-Web",
+      "needVPN": 1,
+      "needKey": 1,
       "title": "ChatGPT Next Web"
     },
     "https://chat-gpt-next-web-xufan6.vercel.app": {
       "needVPN": true,
+      "needKey": 1,
       "repo": "xufan6/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
@@ -16743,10 +16772,13 @@
     },
     "https://gpt.chatmomo.tech": {
       "repo": "bitart09/ChatGPT-Next-Web",
+      "needVPN": 1,
+      "needKey": 1,
       "title": "ChatGPT Next Web"
     },
     "https://chatmomo.vercel.app": {
       "needVPN": true,
+      "needKey": 1,
       "repo": "bitart09/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
@@ -16883,15 +16915,19 @@
     },
     "https://www.qingmumao.cloud": {
       "repo": "QingMuCat/ChatGPT-Next-Web",
+      "hide": 1,
+      "invalid": 1,
       "title": "青木猫的小窝"
     },
     "https://qingmumao.cloud": {
+      "hide": 1,
+      "invalid": 1,
       "repo": "QingMuCat/ChatGPT-Next-Web"
     },
     "https://chat-gpt-next-web-qingmucat.vercel.app": {
       "needVPN": true,
       "repo": "QingMuCat/ChatGPT-Next-Web",
-      "needVerify": 1,
+      "hide": 1,
       "errmsg": "[error][404]Not Found"
     },
     "https://chat-gpt-next-web-nu-green.vercel.app": {
@@ -18817,9 +18853,11 @@
       "repo": "239144498/ChatGPT-Next-Web"
     },
     "https://www.3688.bio": {
+      "needKey": 1,
       "repo": "asyuan/ChatGPT-Next-Web"
     },
     "https://3688.bio": {
+      "needKey": 1,
       "repo": "asyuan/ChatGPT-Next-Web"
     },
     "https://chat-gpt-next-web-asyuan.vercel.app": {
