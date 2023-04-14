@@ -54,7 +54,29 @@
     "https://chatgptfly.club": {
       "star": 2,
       "desc": "程序员 Jack Dog 和 Tom Dog 为了方便部分同学使用而开发的免费社区平台",
+      "source": "recommend",
       "title": "ChatGPT"
+    },
+    "www.gptbot.icu": {
+      "star": 2,
+      "needLogin": 1,
+      "source": "recommend",
+      "desc": "网站密码关注公众号：Maynor学长 回复“密码”获取",
+      "title": "ChatGPT"
+    },
+    "https://gpt.xcbl.cc": {
+      "star": 2,
+      "source": "recommend",
+      "desc": "您的私人ChatGPT聊天机器人。",
+      "title": "老北鼻AI智能助手"
+    },
+    "https://a.aizh.app": {
+      "star": 2,
+      "source": "recommend",
+      "needPay": 1,
+      "needLogin": 1,
+      "desc": "AI 聊天问答、AI 绘图、AI 小应用。登录使用，有限使用次数，超出可付费购买",
+      "title": "ChatGPT中文"
     },
     "https://www.chat2ai.cn": {
       "star": -1,
