@@ -46,11 +46,11 @@ export const config = {
   debug: false,
   isOnlyNew: false,
   gptDemoRepos: new Map<string, SiteInfo>([
-    [`Yidadaa/ChatGPT-Next-Web`, { needKey: 1, needPwd: 1 }],
     [`lvwzhen/teach-anything`, {}],
     [`ddiu8081/chatgpt-demo`, {}],
     [`ourongxing/chatgpt-vercel`, {}],
     [`cogentapps/chat-with-gpt`, { needKey: true, needVPN: true }],
+    // [`Yidadaa/ChatGPT-Next-Web`, { needKey: 1, needPwd: 1 }],
     // [`yesmore/QA`, {}],
   ]),
   /** github 仓库禁止列表: hide=1、[siteInfo].repoBlockList */

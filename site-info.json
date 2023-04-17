@@ -53,6 +53,12 @@
       "needVerify": 7,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND gpt.demo.com"
     },
+    "https://chatgpt.peterdavehello.org": {
+      "star": 2,
+      "desc": "This is a free ChatGPT provided by @PeterDaveHello for testing purpose",
+      "source": "recommend",
+      "title": "Free ChatGPT"
+    },
     "https://chat.wobcw.com": {
       "star": 2,
       "desc": "程序员 Jack Dog 和 Tom Dog 为了方便部分同学使用而开发的免费社区平台",
