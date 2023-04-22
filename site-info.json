@@ -53,14 +53,29 @@
       "needVerify": 7,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND gpt.demo.com"
     },
-    "https://chat.openai.com": {
+    "https://beta.openai.com": {
       "star": 3,
       "needVPN": 1,
       "needKey": 1,
-      "desc": "ChatGPT 官方入口",
+      "desc": "ChatGPT(beta) 官方入口",
       "title": "OpenAI ChatGPT",
       "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
+    },
+    "http://chat.cutim.top": {
+      "star": 2,
+      "source": "recommend"
+    },
+    "https://app.haitunchat.com": {
+      "star": 2,
+      "needLogin": 1,
+      "source": "recommend",
+      "title": "海豚Chat",
+      "desc": "需要注册登录。每天最多可以免费发送100条消息"
+    },
+    "http://chaosu.vip": {
+      "star": 2,
+      "source": "recommend"
     },
     "https://www.hayo.com": {
       "star": 2,
