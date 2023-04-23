@@ -76,7 +76,7 @@ export function siteUrlVerify() {
       r.body = '';
     }
 
-    if (r.code) {
+    if (r.code && r.code !== 200) {
       if (r.redirected) {
         delete item.needVerify;
         item.desc = `Redirect to: ${r.url}`;
@@ -87,7 +87,7 @@ export function siteUrlVerify() {
         if (item.needVerify >= 6 && r.statusCode === 404) {
           delete config.siteInfo[url]; // 超过 6 次均 404 则移除
         } else {
-          item.errmsg = `[error][${r.statusCode || r.code}]${r.errmsg}`;
+          item.errmsg = `[error][${r.statusCode || r.code}]${r.errmsg}`.slice(0, 200);
           // @TODO: 兼容包含 error 的格式，后续移除
           if (item.desc) item.desc = item.desc.replace(/\[error\]\[.+\].+$/, '');
         }
