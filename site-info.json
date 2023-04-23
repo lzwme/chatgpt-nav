@@ -60,6 +60,11 @@
       "desc": "ChatGPT(beta) 官方入口",
       "title": "OpenAI ChatGPT"
     },
+    "https://sofast.ai/chat": {
+      "star": 2,
+      "source": "recommend",
+      "desc": "将ChatGPT分成了不同的角色方便对话。可免费体验，邀请好友可获得更多的体验流量"
+    },
     "http://chat.cutim.top": {
       "star": 2,
       "source": "recommend",
