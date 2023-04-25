@@ -70,13 +70,17 @@ export function siteUrlVerify() {
     const startTime = Date.now();
     const r = await httpLinkChecker(url, { verify: body => /<body/i.test(body), reqOptions: { timeout: 10_000, rejectUnauthorized: false } });
 
-    // ignore TSL error
-    if (r.code && r.errmsg.includes('network socket disconnected before secure TLS connection')) {
-      r.code = 0;
-      r.body = '';
+    if (r.code) {
+      // ignore TSL error
+      if (r.errmsg.includes('network socket disconnected before secure TLS connection')) {
+        r.code = 0;
+        r.body = '';
+      }
+
+      if (String(r.errmsg).startsWith('<html><script>')) r.code = 0;
     }
 
-    if (r.code && r.code !== 200) {
+    if (r.code) {
       if (r.redirected) {
         delete item.needVerify;
         item.desc = `Redirect to: ${r.url}`;
