@@ -47,6 +47,7 @@ export async function repoBot(maxForks = 3000) {
     Object.assign(result, r);
     for (const [forkRepo, urls] of Object.entries(r)) {
       for (const url of urls) {
+        if (url.startsWith('https://github.com')) continue;
         if (!config.siteInfo[url]) config.siteInfo[url] = Object.assign({}, defaultInfo);
         if (url.includes('.vercel.app')) config.siteInfo[url].needVPN = true;
         if (!config.siteInfo[url].repo) config.siteInfo[url].repo = forkRepo;

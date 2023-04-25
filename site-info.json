@@ -640,10 +640,6 @@
       "needVPN": true,
       "repo": "zhengbangbo/chatgpt-demo"
     },
-    "https://github.com/ourongxing/chatgpt-vercel": {
-      "repo": "MC-dusk/chatgpt-demo",
-      "hide": 1
-    },
     "https://dusk.chat": {
       "repo": "MC-dusk/chatgpt-demo"
     },
@@ -4002,10 +3998,6 @@
       "repo": "ccbikai/chatgpt-demo",
       "title": "ChatGPT Next Web"
     },
-    "https://github.com/MC-dusk/chatgpt-vercel": {
-      "repo": "MC-dusk/chatgpt-demo",
-      "title": "GitHub - MC-dusk/chatgpt-vercel: Powered by OpenAI API (gpt-3.5-turbo) and Vercel"
-    },
     "https://lukobichatgpt.vercel.app": {
       "needVPN": true,
       "repo": "leonguyen52/chatgpt-demo",
@@ -6457,10 +6449,6 @@
       "needVPN": true,
       "repo": "WeitaoHe/chatgpt-vercel",
       "title": "ChatGPT"
-    },
-    "https://github.com/MC-dusk/chatgpt-demo": {
-      "repo": "MC-dusk/chatgpt-vercel",
-      "title": "GitHub - MC-dusk/chatgpt-demo: A demo repo based on OpenAI API (gpt-3.5-turbo)"
     },
     "https://chat-gpt-c4vh.vercel.app": {
       "needVPN": true,
@@ -10334,9 +10322,11 @@
     },
     "https://jpt.ma": {
       "repo": "Zizwar/jpt-ma",
-      "title": "ChatDPT</title><meta property=\"og:locale\" content=\"en_US\" /><meta property=\"og:site_name\" content=\"ChatDpt\" /><meta property=\"og:title\" content=\"ChatDpt\" /><meta property=\"og:description\" content=\"ChatDpt\" /><meta property=\"og:type\" content=\"website\" /><meta name=\"robots\" content=\"index, follow\" /><meta name=\"keywords\" content=\"gpt, oprnai, Deno, DenoLand, Development, JavaScript, TypeScript, chat, ai\" /><link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css\" /><link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css\" /><link rel=\"stylesheet\" href=\"/css/home.css\" /><title>Deno Chat"
+      "needVPN": 1,
+      "title": "ChatGPT Next Web"
     },
     "https://www.jpt.ma": {
+      "needVPN": 1,
       "repo": "Zizwar/jpt-ma",
       "title": "ChatGPT Next Web"
     },
@@ -20265,10 +20255,6 @@
       "needVPN": true,
       "repo": "hi-jaylen/CahtGPT-ddiu",
       "title": "ChatGPT API Demo"
-    },
-    "https://github.com/Chilfish/ChilGPT": {
-      "repo": "Chilfish/ChilGPT",
-      "title": "GitHub - Chilfish/ChilGPT: ChilGPT based on OpenAI API (gpt-3.5-turbo)"
     },
     "https://chatgpt-demo-daog.vercel.app": {
       "needVPN": true,
