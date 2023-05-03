@@ -61,7 +61,12 @@
       "desc": "需要排队申请资格",
       "title": "文心一言"
     },
-    "https://chat.getgpt.com.cn": {
+    "https://ai-pig-fly.space": {
+      "star": 2,
+      "desc": "免费 ChatGpt、免费 Vip 视频、 国内外 Ai 网站全收录、最新国内外 Ai 资讯",
+      "title": "因为穷，所以 Ai"
+    },
+    "https://chat.getgpt.world": {
       "star": 2,
       "source": "recommend",
       "desc": "方便快速，免费使用",
@@ -117,7 +122,7 @@
       "source": "recommend",
       "title": "SmartChat"
     },
-    "https://smartchat.yihezu.cn": {
+    "https://status.smartagi.top": {
       "star": 2,
       "source": "recommend",
       "title": "SmartChat"
