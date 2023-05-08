@@ -50,6 +50,7 @@ export async function repoBot(maxForks = 3000) {
         if (url.startsWith('https://github.com')) continue;
         if (!config.siteInfo[url]) config.siteInfo[url] = Object.assign({}, defaultInfo);
         if (url.includes('.vercel.app')) config.siteInfo[url].needVPN = true;
+        else config.siteInfo[url].hide = 9;
         if (!config.siteInfo[url].repo) config.siteInfo[url].repo = forkRepo;
       }
     }

@@ -5,7 +5,7 @@ import {config as dConfig } from 'dotenv';
 import { logger, ghReq, fixSiteUrl } from './utils';
 import { writeFileSync } from 'node:fs';
 
-type BoolLike = boolean | 0 | 1;
+type BoolLike = boolean | 0 | 1 | 9;
 
 export interface SiteInfo {
   /** github 仓库 */
