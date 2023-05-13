@@ -61,7 +61,7 @@ export async function repoBot(maxForks = 3000) {
 export function siteUrlVerify() {
   const tasks = Object.entries(config.siteInfo).map(([url, item]) => async () => {
     if (config.debug && url.endsWith('vercel.app')) return true;
-    if (item.hide) return true;
+    if (Number(item.hide) === 1) return true;
 
     if (item.needVerify != null) {
       if (item.needVerify < 0) return true;
@@ -90,7 +90,7 @@ export function siteUrlVerify() {
         logger.debug(`[urlVerify][${color.cyan(url)}]`, color.greenBright(item.desc), r);
       } else {
         item.needVerify = (item.needVerify || 0) + 1;
-        if (item.needVerify >= 6 && r.statusCode === 404) {
+        if (item.needVerify >= 6 && (r.statusCode === 404 || /getaddrinfo ENOTFOUND/.test('' + item.errmsg))) {
           delete config.siteInfo[url]; // 超过 6 次均 404 则移除
         } else {
           item.errmsg = `[error][${r.statusCode || r.code}]${r.errmsg}`.slice(0, 200);
