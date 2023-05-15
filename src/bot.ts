@@ -65,7 +65,7 @@ export function siteUrlVerify() {
 
     if (item.needVerify != null) {
       if (item.needVerify < 0) return true;
-      if (item.needVerify > 6) return false;
+      if (item.needVerify > 7) return false;
     }
 
     logger.debug(`[urlVerify] start for`, color.green(url));
