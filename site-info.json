@@ -88,6 +88,14 @@
     "https://shutu.cn": {
       "star": 2,
       "needLogin": 1,
+      "needPay": 1,
+      "needKey": 1,
+      "source": "recommend",
+      "title": "oneperfect-gpt"
+    },
+    "https://srgfdfsf.xiaowenzi.xyz": {
+      "star": 2,
+      "needLogin": 1,
       "source": "recommend",
       "title": "TreeMind数图",
       "cate": "tool",
@@ -147,8 +155,9 @@
       "title": "海豚Chat",
       "desc": "需要注册登录。每天最多可以免费发送100条消息"
     },
-    "http://chaosu.vip": {
+    "http://20200.cn": {
       "star": 2,
+      "title":"AIGPT",
       "source": "recommend"
     },
     "https://www.hayo.com": {
