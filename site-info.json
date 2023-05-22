@@ -108,6 +108,14 @@
       "desc": "需申请资格，但审核非常快",
       "title": "讯飞星火认知大模型"
     },
+    "https://chat.rot.one": {
+      "star": 2,
+      "needLogin": 1,
+      "needPay": 1,
+      "source": "recommend",
+      "title": "智汇AI ChatGPT"
+
+    },
     "https://shutu.cn": {
       "star": 2,
       "needLogin": 1,
@@ -115,6 +123,10 @@
       "needKey": 1,
       "source": "recommend",
       "title": "oneperfect-gpt"
+    },
+    "https://gpt.lovebaby.today": {
+      "star": 2,
+      "title": "oneperfect-gpt发布页"
     },
     "https://srgfdfsf.xiaowenzi.xyz": {
       "star": 2,
