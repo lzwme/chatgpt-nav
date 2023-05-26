@@ -106,6 +106,26 @@
       "desc": "需申请资格，但审核非常快",
       "title": "讯飞星火认知大模型"
     },
+    "http://a1ya.cn/6d79eecc96fa2a7d": {
+      "star": 2,
+      "needLogin": 1,
+      "source": "recommend",
+      "title": "AIyaaa",
+      "desc": "每天签到分享送免费次数，需要微信登录和注册，初次注册送10次，带风控"
+    },
+    "https://carps.ink": {
+      "star": 2,
+      "needLogin": 1,
+      "source": "recommend",
+      "title": "在线ChatGPT",
+      "desc": "无需魔法，国内可用，支持AI绘画，支持联网搜索，谷歌搜索，必应搜索，支持多达60余种角色对话，支持语音合成，多达60余种AI语音。后续会支持文档对话等等"
+    },
+    "https://gpt.nowait.xin/chat": {
+      "star": 2,
+      "needLogin": 1,
+      "source": "recommend",
+      "desc": "每天可免费提问10次，会员无限制。实打实向微软付费，企业级服务接口，速度快，非常稳定"
+    },
     "https://chat.rot.one": {
       "star": 2,
       "needLogin": 1,
