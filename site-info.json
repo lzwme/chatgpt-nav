@@ -109,6 +109,27 @@
       "desc": "需申请资格，但审核非常快",
       "title": "讯飞星火认知大模型"
     },
+    "https://ai.douresources.com": {
+      "star": 2,
+      "needLogin": 1,
+      "source": "recommend",
+      "title": "ChatGPT Web",
+      "desc": "关注微信公众号登录，享受免费chatgpt问答"
+    },
+    "http://chat4.manongzyg.one": {
+      "star": 2,
+      "source": "recommend",
+      "title": "AI-ChatGPT",
+      "needKey": 1,
+      "desc": "关注公众号【编程】获取密码"
+    },
+    "https://home.v50.ltd": {
+      "star": 2,
+      "needLogin": 1,
+      "source": "recommend",
+      "title": "T-CHAT",
+      "desc": "免费的AI画图"
+    },
     "http://a1ya.cn/6d79eecc96fa2a7d": {
       "star": 2,
       "needLogin": 1,
@@ -345,7 +366,7 @@
     },
     "https://gpt.lzw.me": {
       "needPwd": 1,
-      "start": 0,
+      "star": 0,
       "repo": "renxia/chatgpt-demo",
       "title": "ChatGPT",
       "needVerify": 1,
@@ -7343,7 +7364,7 @@
     },
     "http://lmflow.com": {
       "cate": "ai",
-      "start": 3,
+      "star": 3,
       "title": "LMFlow",
       "invalid": 1,
       "desc": "一个可扩展、方便、高效的工具箱，用于微调大型机器学习模型，设计为用户友好、快速可靠，并可供整个社区访问"
