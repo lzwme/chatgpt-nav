@@ -44,6 +44,16 @@
       "needVerify": 7,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND gpt.demo.com"
     },
+    "https://www.magicaibot.com/talk": {
+      "star": 3,                // 推荐星级，0-3。0 用于标记可访问但不可用、使用受限
+      "hide": 0,                // 不显示在列表中，失效并将移除
+      "needKey": 0,             // 是否需要自己输入 API KEY
+      "needPwd": 0,             // 是否需要密码、账号登录才能访问
+      "needLogin": 1,           // 需要注册或绑定账号登录才可使用
+      "needVPN": 0,             // 需科学上网
+      "desc": "集成chatgpt和midjourney两大AI引擎网站，响应速度极快",
+      "title": "MagicAI"
+    },
     "https://chatgptfly.club": {
       "star": 2,
       "desc": "程序员 Jack Dog 和 Tom Dog 为了方便部分同学使用而开发的免费社区平台",
