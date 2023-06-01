@@ -268,6 +268,16 @@
       "needVerify": 8,
       "errmsg": "[error][-1]timeout"
     },
+    "https://www.magicaibot.com/talk": {
+      "star": 3,              
+      "hide": 0,               
+      "needKey": 0,            
+      "needPwd": 0,            
+      "needLogin": 1,           
+      "needVPN": 0,        
+      "desc": "集成chatgpt和midjourney两大AI引擎网站，响应速度极快",
+      "title": "MagicAI"
+    },
     "https://chatgptfly.club": {
       "star": 2,
       "desc": "程序员Jack Dog 和 Tom Dog 为了方便部分同学使用而开发的免费社区平台。支持文字、语音、翻译、画图的聊天机器人",
