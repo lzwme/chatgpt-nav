@@ -7,7 +7,12 @@ import { config, initConfig, saveConfig } from './config';
 
 function formatSiteList() {
   return Object.entries(config.siteInfo)
-    .filter(([_url, info]) => !info.hide)
+    .filter(([_url, info]) => {
+      Object.entries(info).forEach(([key, value]) => {
+        if (value === 0 || value === false) delete info[key];
+      });
+      return !info.hide;
+    })
     .sort((a, b) => {
       for (const key of ['invalid', 'needVerify', 'needVPN', 'needPwd', 'needPay', 'needKey'] as const) {
         if ('needVerify' == key) {

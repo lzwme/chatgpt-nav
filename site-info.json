@@ -238,6 +238,7 @@
     },
     "http://20200.cn": {
       "star": 2,
+      "needVPN": 1,
       "title": "AIGPT",
       "source": "recommend"
     },
@@ -266,17 +267,11 @@
       "star": 2,
       "desc": "支持文字、翻译、画图的聊天机器人",
       "source": "recommend",
-      "title": "AIChat",
-      "needVerify": 8,
-      "errmsg": "[error][-1]timeout"
+      "title": "AIChat"
     },
     "https://www.magicaibot.com/talk": {
-      "star": 3,
-      "hide": 0,
-      "needKey": 0,
-      "needPwd": 0,
+      "star": 2,
       "needLogin": 1,
-      "needVPN": 0,
       "desc": "集成chatgpt和midjourney两大AI引擎网站，响应速度极快",
       "title": "MagicAI"
     },
@@ -294,6 +289,7 @@
       "source": "recommend",
       "desc": "【发布页】您的私人ChatGPT聊天机器人。",
       "title": "老北鼻AI智能助手",
+      "invalid": 1,
       "errmsg": "[error][-1]timeout",
       "needVerify": 8
     },
@@ -1240,12 +1236,6 @@
       "needVPN": true,
       "repo": "Lordding12/chatgpt-demo",
       "title": "ChatGPT API Demo"
-    },
-    "https://chatgpt.zwhi.top": {
-      "repo": "hui122667209/chatgpt-demo",
-      "title": "人工智能",
-      "needVerify": 8,
-      "errmsg": "[error][-1]connect ENETUNREACH 2a03:2880:f112:83:face:b00c:0:25de:443 - Local (:::0)"
     },
     "https://chatgpt-demo-xinnice.vercel.app": {
       "needVPN": true,
@@ -2362,12 +2352,6 @@
       "repo": "regomne/chatgpt-vercel",
       "title": "ChatGPT"
     },
-    "https://vip.8eth.cc": {
-      "repo": "Thek28/Chatgpt-Thek28",
-      "title": "机智的小团子",
-      "needVerify": 8,
-      "errmsg": "[error][-1]connect ENETUNREACH 2a03:2880:f117:83:face:b00c:0:25de:443 - Local (:::0)"
-    },
     "https://chatgpt-thek28.vercel.app": {
       "needVPN": true,
       "repo": "Thek28/Chatgpt-Thek28",
@@ -2764,13 +2748,6 @@
       "needVPN": true,
       "repo": "Ratol/chatgpt-demo",
       "title": "ChatGPT API Demo"
-    },
-    "https://chat.up4dev.com": {
-      "repo": "andyzhshg/chatgpt-demo",
-      "needPwd": 1,
-      "desc": "ChatGPT API Demo",
-      "needVerify": 8,
-      "errmsg": "[error][-1]connect ENETUNREACH 2a03:2880:f126:83:face:b00c:0:25de:443 - Local (:::0)"
     },
     "https://chatgpt-vercel-mpp5.vercel.app": {
       "needVPN": true,
@@ -4032,12 +4009,6 @@
       "needVPN": true,
       "repo": "xiaobei56/chatgpt-vercel",
       "title": "ChatGPT"
-    },
-    "https://www.fssflyang.icu": {
-      "repo": "fssflyang/chatgpt-vercel",
-      "title": "ChatGPT",
-      "needVerify": 8,
-      "errmsg": "[error][-1]connect ENETUNREACH 2a03:2880:f10d:83:face:b00c:0:25de:443 - Local (:::0)"
     },
     "https://chatgpt-vercel-1-ruby.vercel.app": {
       "needVPN": true,
@@ -5942,12 +5913,6 @@
       "repo": "tanloo/chatgpt-vercel",
       "title": "ChatGPT"
     },
-    "https://synchat.haoqih.com": {
-      "repo": "xung/chatgpt-vercel",
-      "title": "MySynChat",
-      "needVerify": 8,
-      "errmsg": "[error][-1]connect ENETUNREACH 2a03:2880:f127:83:face:b00c:0:25de:443 - Local (:::0)"
-    },
     "https://chatgpt-vercel-ffxung.vercel.app": {
       "needVPN": true,
       "repo": "xung/chatgpt-vercel",
@@ -6019,13 +5984,6 @@
       "needVPN": true,
       "repo": "SMALLINESSTUTU/chatgpt-vercel",
       "title": "ChatGPT"
-    },
-    "https://chatgptandy.vercel.app": {
-      "needVPN": true,
-      "repo": "johnan0528/chatgpt-vercel",
-      "title": "ChatGPT",
-      "needVerify": 3,
-      "errmsg": "[error][404]Not Found"
     },
     "https://chatgpt-vercel-theta-dun.vercel.app": {
       "needVPN": true,
@@ -6248,13 +6206,6 @@
       "needVPN": true,
       "repo": "fisherv2023/chatgpt-vercel",
       "title": "ChatGPT"
-    },
-    "https://chatgpt-vercel-tsunexdz.vercel.app": {
-      "needVPN": true,
-      "repo": "TsuneXDZ/chatgpt-vercel",
-      "title": "ChatGPT",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
     },
     "https://xjy-chat.vercel.app": {
       "needVPN": true,
@@ -8437,12 +8388,6 @@
       "repo": "zqybegin/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
-    "https://gpt.islu.cn": {
-      "repo": "aloeJun/ChatGPT-Next-Web",
-      "title": "QAGPT",
-      "needVerify": 8,
-      "errmsg": "[error][-1]connect ENETUNREACH 2a03:2880:f10c:83:face:b00c:0:25de:443 - Local (:::0)"
-    },
     "https://chat-gpt-next-web-colpoe2.vercel.app": {
       "needVPN": true,
       "repo": "colpoe2/ChatGPT-Next-Web",
@@ -8844,12 +8789,6 @@
       "needVPN": true,
       "repo": "yjw8336/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
-    },
-    "https://chat.mrryan.cn": {
-      "repo": "ChongzhengZhao/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web",
-      "needVerify": 8,
-      "errmsg": "[error][-1]connect ENETUNREACH 2a03:2880:f131:83:face:b00c:0:25de:443 - Local (:::0)"
     },
     "https://chat-gpt-next-web-indol-xi.vercel.app": {
       "needVPN": true,
@@ -9330,12 +9269,6 @@
       "needVPN": true,
       "repo": "BlindArcherBX/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
-    },
-    "https://chat.linuxcast.cn": {
-      "repo": "LoongYu/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web",
-      "needVerify": 8,
-      "errmsg": "[error][-1]connect ENETUNREACH 2a03:2880:f10c:283:face:b00c:0:25de:443 - Local (:::0)"
     },
     "https://aixiaoyu.vercel.app": {
       "needVPN": true,
@@ -10470,11 +10403,6 @@
       "repo": "kubohardt/ChatGPT-Next-Web",
       "needVerify": 8,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND jidaoinfo.com"
-    },
-    "https://www.jidaoinfo.com": {
-      "repo": "kubohardt/ChatGPT-Next-Web",
-      "needVerify": 8,
-      "errmsg": "[error][-1]connect ENETUNREACH 2a03:2880:f134:83:face:b00c:0:25de:443 - Local (:::0)"
     },
     "https://chat-gpt-next-web-kubohardt.vercel.app": {
       "needVPN": true,
@@ -13831,12 +13759,6 @@
       "repo": "loong0306/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
-    "https://chat.hqts.cn": {
-      "repo": "26hertz/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web",
-      "needVerify": 8,
-      "errmsg": "[error][-1]connect ENETUNREACH 2a03:2880:f11b:83:face:b00c:0:25de:443 - Local (:::0)"
-    },
     "https://chatgpt-next-web-cyan.vercel.app": {
       "needVPN": true,
       "repo": "26hertz/ChatGPT-Next-Web",
@@ -15828,14 +15750,6 @@
       "needVPN": true,
       "repo": "betgo/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
-    },
-    "https://chat.mapleafgo.cn": {
-      "needKey": 1,
-      "needPwd": 1,
-      "repo": "mapleafgo/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web",
-      "needVerify": 8,
-      "errmsg": "[error][-1]connect ENETUNREACH 2a03:2880:f11a:83:face:b00c:0:25de:443 - Local (:::0)"
     },
     "https://chat-gpt-next-web-mapleafgo.vercel.app": {
       "needKey": 1,
