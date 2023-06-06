@@ -113,6 +113,21 @@
       "desc": "需申请资格，但审核非常快",
       "title": "讯飞星火认知大模型"
     },
+    "https://chat.newstop.asia": {
+      "star": 2,
+      "needLogin": 1,
+      "needPay": 1,
+      "source": "recommend",
+      "title": "Chat智能机器人"
+    },
+    "https://ct5.xiami.monster": {
+      "star": 2,
+      "needLogin": 1,
+      "needPay": 1,
+      "source": "recommend",
+      "title": "虾米AI",
+      "desc": "免费使用，支持绘画、支持3.5"
+    },
     "http://ai.bamboochat.cn": {
       "star": 2,
       "needLogin": 1,
