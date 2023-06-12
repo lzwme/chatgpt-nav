@@ -118,11 +118,23 @@
       "desc": "需申请资格，但审核非常快",
       "title": "讯飞星火认知大模型"
     },
-    "https://chat.newstop.asia": {
+    "https://askgpt.cn": {
+      "star": 2,
+      "source": "recommend",
+      "title": "AskGPT",
+      "desc": "不需要登录，打开即用！"
+    },
+    "https://chat.bo-e.com": {
       "star": 2,
       "needLogin": 1,
-      "needPay": 1,
       "source": "recommend",
+      "title": "博弈Ai",
+      "desc": "基于ChatGPT4及3.5的智能聊天机器人国产镜像"
+    },
+    "https://chat.newstop.asia": {
+      "star": 2,
+      "source": "recommend",
+      "desc": "无需登录，免费使用，可选模版",
       "title": "Chat智能机器人"
     },
     "https://ct5.xiami.monster": {
@@ -4285,7 +4297,8 @@
       "repo": "Anmizi/chatgpt-demo",
       "title": "ChatGPT API Demo"
     },
-    "https://vip.jjzn.top": {
+    "https://bot.jjzn.top": {
+      "star": 2,
       "needPwd": 1,
       "desc": "极简智能",
       "title": "极简智能AI-Chatgpt会员版",
