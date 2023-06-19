@@ -120,6 +120,21 @@
       "desc": "需申请资格，但审核非常快",
       "title": "讯飞星火认知大模型"
     },
+    "https://chat.weuseing.com": {
+      "star": 2,
+      "source": "recommend",
+      "desc": "无需登录，免费使用",
+      "title": "Chat机器人"
+      },
+
+    "https://c1ns.cn/wlyzs": {
+      "star": 2,
+      "source": "recommend",
+      "desc": "PC+公众号H5多端同步+支持ai绘画",
+      "title": "未来云助手",
+      "needPay": 1,
+      "needLogin": 1
+      },
     "https://askgpt.cn": {
       "star": 2,
       "source": "recommend",
