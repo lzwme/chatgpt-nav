@@ -90,6 +90,15 @@
     "superkeep/chatgpt-bot"
   ],
   "siteInfo": {
+    "https://chat.immuseai.com": {
+      "desc": "灵沐AI（Immuse AI)。免梯子，支持GPT4，双端通用，界面简单友好。将来会集成更多的大模型应用。",
+      "star": 3,
+      "needKey": 0,
+      "needPwd": 0,
+      "needLogin": 1,
+      "needVPN": 0,
+      "title": "灵沐AI（Immuse AI)"
+    },
     "https://gpt.demo.com": {
       "repo": "lzwme/gpt-demo",
       "invalid": "20230310",
@@ -125,8 +134,7 @@
       "source": "recommend",
       "desc": "无需登录，免费使用",
       "title": "Chat机器人"
-      },
-
+    },
     "https://c1ns.cn/wlyzs": {
       "star": 2,
       "source": "recommend",
@@ -134,7 +142,7 @@
       "title": "未来云助手",
       "needPay": 1,
       "needLogin": 1
-      },
+    },
     "https://askgpt.cn": {
       "star": 2,
       "source": "recommend",
