@@ -93,10 +93,8 @@
     "https://chat.immuseai.com": {
       "desc": "灵沐AI（Immuse AI)。免梯子，支持GPT4，双端通用，界面简单友好。将来会集成更多的大模型应用。",
       "star": 3,
-      "needKey": 0,
-      "needPwd": 0,
       "needLogin": 1,
-      "needVPN": 0,
+      "source": "recommend",
       "title": "灵沐AI（Immuse AI)"
     },
     "https://gpt.demo.com": {
