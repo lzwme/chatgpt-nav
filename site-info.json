@@ -104,6 +104,7 @@
       "desc": "灵沐AI（Immuse AI)。免梯子，支持GPT4，双端通用，界面简单友好。将来会集成更多的大模型应用。",
       "star": 3,
       "needLogin": 1,
+      "needPay": 1,
       "source": "recommend",
       "title": "灵沐AI（Immuse AI)"
     },
@@ -131,6 +132,13 @@
       "desc": "需申请资格，但审核非常快",
       "title": "讯飞星火认知大模型"
     },
+    "https://firstai.opao.xyz": {
+      "star": 2,
+      "source": "recommend",
+      "desc": "最新可用地址发布页",
+      "title": "ChatGPT Next"
+    },
+
     "https://chat.weuseing.com": {
       "star": 2,
       "source": "recommend",
