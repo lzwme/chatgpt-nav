@@ -132,6 +132,18 @@
       "desc": "需申请资格，但审核非常快",
       "title": "讯飞星火认知大模型"
     },
+    "http://chat.newstop.uk": {
+      "star": 2,
+      "source": "recommend",
+      "desc": "无需登录，免费使用，可选模版",
+      "title": "Chat智能机器人"
+    },
+    "https://gpt.aifree.site": {
+      "star": 2,
+      "source": "recommend",
+      "desc": "免费,无需登陆,无需翻墙,无限次数",
+      "title": "FREEGPT"
+    },
     "https://firstai.opao.xyz": {
       "star": 2,
       "source": "recommend",
