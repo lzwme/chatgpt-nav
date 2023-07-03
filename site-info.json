@@ -144,6 +144,33 @@
       "desc": "需申请资格，但审核非常快",
       "title": "讯飞星火认知大模型"
     },
+    "https://backre.com": {
+      "star": 2,
+      "source": "recommend",
+      "needLogin": 1,
+      "desc": "国内可访问，提供免费额度",
+      "title": "百库"
+    },
+    "https://chattyaid.com": {
+      "star": 2,
+      "source": "recommend",
+      "needLogin": 1,
+      "desc": "Best AI Content Writer",
+      "title": "ChattyAid"
+    },
+    "https://chat.free2gpt.xyz": {
+      "star": 2,
+      "source": "recommend",
+      "desc": "无需魔法 无需登录 不限次数",
+      "title": "Free2gpt"
+    },
+    "https://chattoai.cc": {
+      "star": 2,
+      "source": "recommend",
+      "needLogin": 1,
+      "desc": "基于GPT3.5和GPT4开发的主打一键生成式小应用，支持一键生成思维导图，与GPT4自由对话，使用企业付费接口部署分布式API，高速稳定",
+      "title": "AiAiChat"
+      },
     "http://chat.newstop.uk": {
       "star": 2,
       "source": "recommend",
