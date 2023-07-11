@@ -152,6 +152,19 @@
       "desc": "需申请资格，但审核非常快",
       "title": "讯飞星火认知大模型"
     },
+    "https://aassdd.opao.xyz": {
+      "star": 2,
+      "source": "recommend",
+      "needLogin": 1,
+      "desc": "使用了120美刀账号。没有任何速率限制，访问速度飞快",
+      "title": "oneperfect-gpt"
+    },
+    "https://newstop.c1ns.cn": {
+      "star": 2,
+      "source": "recommend",
+      "desc": "无需登录，免费使用，可选模版",
+      "title": "Chat智能机器人"
+    },
     "https://backre.com": {
       "star": 2,
       "source": "recommend",
