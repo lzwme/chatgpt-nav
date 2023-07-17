@@ -155,6 +155,19 @@
       "desc": "需申请资格，但审核非常快",
       "title": "讯飞星火认知大模型"
     },
+    "https://chat.pinkfong.cn": {
+      "star": 2,
+      "source": "recommend",
+      "desc": "双端支持，可免费使用，支持GPT4",
+      "title": "hao-gpt",
+      "needPay": 1
+    },
+    "https://jntm.opengpt88.com": {
+      "star": 2,
+      "source": "recommend",
+      "needLogin": 1,
+      "title": "ChatGPT"
+    },
     "https://aassdd.opao.xyz": {
       "star": 2,
       "source": "recommend",
