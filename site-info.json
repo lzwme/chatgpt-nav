@@ -124,14 +124,6 @@
       "hide": 1,
       "desc": "描述示例项"
     },
-    "https://chat.immuseai.com": {
-      "desc": "灵沐AI（Immuse AI)。免梯子，支持GPT4，双端通用，界面简单友好。将来会集成更多的大模型应用。",
-      "star": 3,
-      "needLogin": 1,
-      "needPay": 1,
-      "source": "recommend",
-      "title": "灵沐AI（Immuse AI)"
-    },
     "https://beta.openai.com": {
       "star": 3,
       "needVPN": 1,
@@ -139,8 +131,9 @@
       "desc": "ChatGPT(beta) 官方入口",
       "title": "OpenAI ChatGPT"
     },
-    "https://modelscope.cn": {
-      "desc": "魔塔社区（阿里达摩院）",
+    "https://qianwen.aliyun.com": {
+      "desc": "需申请体验",
+      "title": "【大厂】通义千问",
       "star": 3,
       "cate": "ai"
     },
@@ -148,13 +141,29 @@
       "star": 3,
       "needLogin": 1,
       "desc": "需要排队申请资格",
-      "title": "文心一言"
+      "title": "【大厂】文心一言"
     },
     "https://xinghuo.xfyun.cn": {
       "star": 3,
       "needLogin": 1,
       "desc": "需申请资格，但审核非常快",
-      "title": "讯飞星火认知大模型"
+      "title": "【大厂】讯飞星火认知大模型"
+    },
+    "https://chat.oldwei.com": {
+      "star": 2,
+      "needLogin": 1,
+      "source": "recommend",
+      "desc": "使用ChatGPT多账号轮询逆向官网接口，Claude逆向工程做第二备用，ChatGPT官方收费API KEY做第三备用。系统稳定可长期免费使用",
+      "title": "openfish",
+      "repo": "oldweipro/gin-admin-naive-ui"
+    },
+    "https://chat.immuseai.com": {
+      "desc": "灵沐AI（Immuse AI)。免梯子，支持GPT4，双端通用，界面简单友好。将来会集成更多的大模型应用。",
+      "star": 2,
+      "needLogin": 1,
+      "needPay": 1,
+      "source": "recommend",
+      "title": "灵沐AI（Immuse AI)"
     },
     "https://chat.pinkfong.cn": {
       "star": 2,
@@ -169,21 +178,16 @@
       "needLogin": 1,
       "title": "ChatGPT"
     },
-    "https://aassdd.opao.xyz": {
-      "star": 2,
-      "source": "recommend",
-      "needLogin": 1,
-      "desc": "使用了120美刀账号。没有任何速率限制，访问速度飞快",
-      "title": "oneperfect-gpt"
-    },
     "https://newstop.c1ns.cn": {
       "star": 2,
+      "needVPN": 1,
       "source": "recommend",
       "desc": "无需登录，免费使用，可选模版",
       "title": "Chat智能机器人"
     },
     "https://backre.com": {
       "star": 2,
+      "needVPN": 1,
       "source": "recommend",
       "needLogin": 1,
       "desc": "国内可访问，提供免费额度",
@@ -193,17 +197,19 @@
       "star": 2,
       "source": "recommend",
       "needLogin": 1,
+      "sort": 0,
       "desc": "Best AI Content Writer",
       "title": "ChattyAid"
     },
     "https://chat.free2gpt.xyz": {
-      "star": 2,
+      "star": 3,
       "source": "recommend",
       "desc": "无需魔法 无需登录 不限次数",
       "title": "Free2gpt"
     },
     "https://chattoai.cc": {
       "star": 2,
+      "needVPN": 1,
       "source": "recommend",
       "needLogin": 1,
       "desc": "基于GPT3.5和GPT4开发的主打一键生成式小应用，支持一键生成思维导图，与GPT4自由对话，使用企业付费接口部署分布式API，高速稳定",
@@ -217,18 +223,29 @@
     },
     "https://gpt.aifree.site": {
       "star": 2,
+      "needVPN": 1,
       "source": "recommend",
       "desc": "免费,无需登陆,无需翻墙,无限次数",
       "title": "FREEGPT"
     },
     "https://firstai.opao.xyz": {
       "star": 2,
+      "needVPN": 1,
       "source": "recommend",
       "desc": "最新可用地址发布页",
       "title": "ChatGPT Next"
     },
+    "https://aassdd.opao.xyz": {
+      "star": 2,
+      "needVPN": 1,
+      "source": "recommend",
+      "needLogin": 1,
+      "desc": "使用了120美刀账号。没有任何速率限制，访问速度飞快",
+      "title": "oneperfect-gpt"
+    },
     "https://chat.weuseing.com": {
       "star": 2,
+      "needVPN": 1,
       "source": "recommend",
       "desc": "无需登录，免费使用",
       "title": "Chat机器人"
@@ -278,7 +295,7 @@
       "star": 2,
       "needLogin": 1,
       "source": "recommend",
-      "title": "CoolAI",
+      "title": "CoolAI地址发布页",
       "desc": "每日登录后，签到即可获取125次chatgpt3.5对话额度，也可使用额度进行思维导图绘制，midjourney绘画。同时每日会更新卡密供用户使用"
     },
     "https://ai.douresources.com": {
@@ -343,6 +360,7 @@
     },
     "https://srgfdfsf.xiaowenzi.xyz": {
       "star": 2,
+      "needVPN": 1,
       "needLogin": 1,
       "source": "recommend",
       "title": "TreeMind数图",
@@ -358,7 +376,7 @@
     },
     "https://ai-pig-fly.space": {
       "star": 2,
-      "needVPN": 1,
+      "invalid": 1,
       "desc": "免费 ChatGpt、免费 Vip 视频、 国内外 Ai 网站全收录、最新国内外 Ai 资讯",
       "title": "因为穷，所以 Ai",
       "needVerify": 8,
@@ -366,6 +384,7 @@
     },
     "https://chat.getgpt.world": {
       "star": 2,
+      "needVPN": 1,
       "source": "recommend",
       "desc": "方便快速，免费使用",
       "title": "Get GPT"
@@ -398,6 +417,7 @@
     },
     "https://chat.gptplus.one": {
       "star": 2,
+      "needVPN": 1,
       "source": "recommend",
       "title": "ChatGPT Web"
     },
@@ -16184,11 +16204,10 @@
       "title": "ChatGPT"
     },
     "https://www.weijiwangluo.com/talk": {
-      "cate": "ai",
       "title": "ATalk",
-      "star": 3,
+      "star": 2,
       "needLogin": 1,
-      "desc": "是一个基于gpt-3.5-turbo引擎封装的网站,通过输入文本，输出相应的回答，实现智能聊天的功能 "
+      "desc": "是一个基于gpt-3.5-turbo引擎封装的网站,通过输入文本，输出相应的回答，实现智能聊天的功能"
     },
     "https://chat.wylu.me": {
       "needKey": 1,
