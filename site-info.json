@@ -150,6 +150,12 @@
       "desc": "需申请资格，但审核非常快",
       "title": "【大厂】讯飞星火认知大模型"
     },
+    "https://ai.360.cn": {
+      "star": 3,
+      "needLogin": 1,
+      "desc": "需申请资格",
+      "title": "【大厂】360智脑"
+    },
     "https://chat.oldwei.com": {
       "star": 2,
       "needLogin": 1,
@@ -204,7 +210,7 @@
       "title": "ChattyAid"
     },
     "https://chat.free2gpt.xyz": {
-      "star": 3,
+      "star": 2,
       "source": "recommend",
       "desc": "无需魔法 无需登录 不限次数",
       "title": "Free2gpt"
@@ -220,7 +226,8 @@
     "http://chat.newstop.uk": {
       "star": 2,
       "source": "recommend",
-      "desc": "无需登录，免费使用，可选模版",
+      "needVPN": 1,
+      "desc": "无需登录，免费使用，可选模版【域名DNS已被污染，可 VPN 访问】",
       "title": "Chat智能机器人"
     },
     "https://gpt.aifree.site": {
@@ -262,6 +269,8 @@
     },
     "https://askgpt.cn": {
       "star": 2,
+      "needVPN": 1,
+      "sort": 1,
       "source": "recommend",
       "title": "AskGPT",
       "desc": "不需要登录，打开即用！"
@@ -568,6 +577,7 @@
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.51buygpt.com": {
+      "needVPN": 1,
       "title": "ChatGPT社区免费版 | 51BuyGPT"
     },
     "https://freechatgpt.chat": {
@@ -637,10 +647,12 @@
       "hide": 9
     },
     "https://chat.1kcode.com": {
+      "needVPN": 1,
       "repo": "Chanzhaoyu/chatgpt-bot",
       "title": "ChatGPT Web"
     },
     "https://ai117.com": {
+      "needVPN": 1,
       "title": "AI Chat"
     },
     "https://chat.binjie.site:7777": {
@@ -676,6 +688,7 @@
       "title": "Paul Graham GPT"
     },
     "https://chat-langchainjs.fly.dev": {
+      "needVPN": 1,
       "repo": "sullivan-sean/chat-langchainjs",
       "title": "LangChain Chat"
     },
@@ -1053,6 +1066,7 @@
       "title": "ChatGPT API Demo"
     },
     "https://ai.6ix.com": {
+      "needVPN": true,
       "repo": "6ix-Inc/chatgpt-demo",
       "title": "6ixAI"
     },
@@ -1239,6 +1253,7 @@
       "title": "ChatGPT API Demo"
     },
     "https://ai.i-misaka.com": {
+      "needVPN": true,
       "repo": "shugo-chara/chatgpt-demo",
       "title": "Index Ai"
     },
@@ -1312,6 +1327,7 @@
       "title": "ChatGPT Demo"
     },
     "https://chat.aigc101.net": {
+      "needVPN": true,
       "repo": "jingyan/chatgpt-demo",
       "title": "ChatGPT API Demo"
     },
@@ -1511,14 +1527,9 @@
       "title": "ChatGPT API Demo"
     },
     "https://chat.abc123.site": {
+      "needVPN": true,
       "repo": "xiaojun207/chatgpt-demo",
       "title": "ChatGPT API Demo"
-    },
-    "https://bot.abc123.site": {
-      "repo": "xiaojun207/chatgpt-demo",
-      "title": "ChatGPT API Demo",
-      "needVerify": 8,
-      "errmsg": "[error][-1]timeout"
     },
     "https://chat-robot.vercel.app": {
       "needVPN": true,
@@ -1919,6 +1930,7 @@
       "title": "ChatGPT For Slim4K"
     },
     "https://chat.caoayu.top": {
+      "invalid": 1,
       "repo": "ayuayue/chatgpt-demo",
       "title": "GPT3.5 Turbo",
       "needVerify": 2,
@@ -1940,10 +1952,12 @@
       "title": "ChatGPT API Demo"
     },
     "https://www.askwhyai.xyz": {
+      "needVPN": true,
       "repo": "bbbwizard/chatgpt-demo",
       "title": "Ask Why AI"
     },
     "https://askwhyai.xyz": {
+      "needVPN": true,
       "repo": "bbbwizard/chatgpt-demo"
     },
     "https://askwhy.vercel.app": {
@@ -2230,15 +2244,6 @@
       "repo": "ahxh2000/chatgpt-vercel",
       "title": "ChatGPT"
     },
-    "https://ai.aiyuanyuzhou.com": {
-      "repo": "wvwb/chatgpt-vercel",
-      "title": "正义的ChatGPT"
-    },
-    "https://chatgpt-vercel-wvwb.vercel.app": {
-      "needVPN": true,
-      "repo": "wvwb/chatgpt-vercel",
-      "title": "正义的ChatGPT"
-    },
     "https://chatgpt-vercel-ffwxuhao.vercel.app": {
       "needVPN": true,
       "repo": "ffwxuhao/chatgpt-vercel",
@@ -2284,6 +2289,7 @@
       "title": "ChatGPT"
     },
     "https://bengbu.icu": {
+      "needVPN": true,
       "repo": "MarkNFT/chatgpt-vercel",
       "title": "ChatGPT"
     },
@@ -2347,11 +2353,6 @@
       "needVPN": true,
       "repo": "lin2006yuo/chatgpt-vercel-lxy",
       "title": "ChatGPT"
-    },
-    "https://ai.jiangyuesong.me": {
-      "repo": "ysjiang4869/chatgpt-vercel",
-      "desc": "ChatGPT",
-      "title": "ChatGPT Next Web"
     },
     "https://chatgpt-vercel-chell.vercel.app": {
       "needVPN": true,
@@ -2466,11 +2467,14 @@
       "title": "ChatGPT"
     },
     "https://aiv.erbanku.com": {
+      "needVPN": true,
+      "star": 2,
       "repo": "erbanku/chatgpt-vercel",
-      "title": "ChatGPT"
+      "title": "VisualGPT"
     },
     "https://chatgpt-vercel-jade.vercel.app": {
       "needVPN": true,
+      "invalid": 1,
       "repo": "erbanku/chatgpt-vercel",
       "title": "ChatGPT"
     },
@@ -2495,6 +2499,7 @@
       "title": "ChatGPT3.5 with your key"
     },
     "https://chat.417521.xyz": {
+      "needVPN": true,
       "repo": "zwz-wwj/chatgpt-vercel",
       "title": "ChatGPT"
     },
@@ -3290,6 +3295,7 @@
       "title": "ChatGPT"
     },
     "https://bot.sy1120.top": {
+      "needVPN": true,
       "repo": "sylvanus9/chatgpt-vercel",
       "title": "ChatGPT"
     },
@@ -3986,15 +3992,6 @@
       "repo": "EthanWuJF/chatgpt-vercel",
       "title": "ChatGPT"
     },
-    "https://aitools.fans": {
-      "repo": "AitoolsPro/chatgpt-vercel"
-    },
-    "https://www.aitools.fans": {
-      "repo": "AitoolsPro/chatgpt-vercel",
-      "title": "Aitools.fans",
-      "needVerify": 8,
-      "errmsg": "[error][-1]timeout"
-    },
     "https://chatgpt-vercel-zuotiya.vercel.app": {
       "needVPN": true,
       "repo": "zuotiya/chatgpt-vercel",
@@ -4112,6 +4109,7 @@
       "title": "ChatGPT"
     },
     "https://chat.aurai.online": {
+      "needVPN": true,
       "repo": "fromatlantis/chatgpt-vercel",
       "title": "Aurai"
     },
@@ -4169,16 +4167,6 @@
       "needVPN": true,
       "repo": "xiaoyueyuey/chatgpt-demo",
       "title": "ChatGPT API Demo"
-    },
-    "https://ai.kim.kim": {
-      "repo": "bbroot/chatAI",
-      "desc": "ChatGPT AI",
-      "title": "ChatGPT"
-    },
-    "https://chat-ai-gules.vercel.app": {
-      "needVPN": true,
-      "repo": "bbroot/chatAI",
-      "title": "ChatGPT AI"
     },
     "https://chatgpt-demo-elonehoo.vercel.app": {
       "needVPN": true,
@@ -4706,12 +4694,13 @@
       "title": "ChatGPT"
     },
     "https://www.aibi.one": {
+      "needVPN": true,
       "repo": "bitdayone/chatgpt-vercel",
       "title": "ChatGPT"
     },
     "https://aibi.one": {
+      "needVPN": true,
       "repo": "bitdayone/chatgpt-vercel",
-      "desc": "",
       "title": "ChatGPT"
     },
     "https://chatgpt-vercel-1-iota.vercel.app": {
@@ -5293,6 +5282,7 @@
       "title": "ChatGPT API Demo"
     },
     "https://c.thagki9.com": {
+      "needVPN": true,
       "repo": "THaGKI9/chatgpt-demo",
       "title": "ChatGPT Next Web"
     },
@@ -5557,11 +5547,8 @@
       "repo": "magiconch/chatgpt-vercel",
       "title": "ChatGPT"
     },
-    "https://chat.techoc.cn": {
-      "repo": "Techoc/chatgpt-vercel",
-      "title": "ChatGPT"
-    },
     "https://chat.acgh.top": {
+      "needVPN": true,
       "repo": "Techoc/chatgpt-vercel",
       "title": "ChatGPT"
     },
@@ -5571,6 +5558,7 @@
       "desc": "ChatGPT"
     },
     "https://ai.xiaokai.dev": {
+      "needVPN": true,
       "repo": "xiaokaike/chatgpt-vercel",
       "title": "ChatGPT"
     },
@@ -5859,6 +5847,7 @@
       "title": "ChatGPT API Demo"
     },
     "https://chat.by-pro.cn": {
+      "needVPN": true,
       "repo": "boyuaner/chatgpt-demo",
       "title": "ChatGPT API Demo"
     },
@@ -6366,24 +6355,13 @@
       "repo": "zzy2008/chatgpt-demo",
       "title": "ChatGPT API Demo"
     },
-    "https://www.jianhua2017.top": {
-      "repo": "jianhua2017/my-demo",
-      "desc": "My API Demo",
-      "title": "ChatGPT API Demo",
-      "needVerify": 8,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.jianhua2017.top"
-    },
-    "https://jianhua2017.top": {
-      "repo": "jianhua2017/my-demo",
-      "needVerify": 8,
-      "errmsg": "[error][-1]timeout"
-    },
     "https://chatgpt-demo-ysomeone.vercel.app": {
       "needVPN": true,
       "repo": "Ysomeone/chatgpt-demo",
       "title": "ChatGPT API Demo"
     },
     "https://ai.youmeng.me": {
+      "needVPN": true,
       "repo": "youmengme/chatgpt-demo",
       "title": "ChatGPT API"
     },
@@ -6737,15 +6715,6 @@
       "repo": "Walker24125/chatgpt-demo-vercel",
       "title": "ChatGPT API Demo"
     },
-    "https://ai.chatmi.vip": {
-      "repo": "yuxinle1996/chatgpt-demo-Netlify",
-      "title": "大咪的ChatGPT"
-    },
-    "https://chatgpt-new-green.vercel.app": {
-      "needVPN": true,
-      "repo": "yuxinle1996/chatgpt-demo-Netlify",
-      "title": "大咪的ChatGPT"
-    },
     "https://chatgpt-demo-zeta-one.vercel.app": {
       "needVPN": true,
       "repo": "nsv2051/chatgpt-demo",
@@ -6837,17 +6806,9 @@
       "repo": "yanglin8/chatgpt-vercel-tpinecone",
       "title": "ChatGPT"
     },
-    "https://www.chatmi.vip": {
-      "repo": "yuxinle1996/chatgpt-vercel",
-      "title": "大咪的ChatGPT"
-    },
-    "https://chatmi.vip": {
-      "repo": "yuxinle1996/chatgpt-vercel",
-      "needVerify": 8,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chatmi.vip"
-    },
     "https://chatgpt-vercel-dami521.vercel.app": {
       "needVPN": true,
+      "needKey": 1,
       "repo": "yuxinle1996/chatgpt-vercel",
       "title": "大咪的ChatGPT"
     },
@@ -6887,6 +6848,7 @@
       "title": "ChatGPT"
     },
     "https://chat-bzl.maybee.shop": {
+      "needVPN": true,
       "repo": "cocpublic/chatgpt-vercel",
       "title": "ChatGPT"
     },
@@ -7530,6 +7492,7 @@
       "title": "ChatGPT Next Web"
     },
     "https://c.icean.xyz": {
+      "needVPN": true,
       "repo": "lucifer9/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
@@ -7597,17 +7560,6 @@
       "repo": "EricYangXD/ChatGPT-Next",
       "needPwd": 1,
       "title": "ChatGPT Next Web"
-    },
-    "https://ai.meizi.me": {
-      "repo": "wejudging/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web"
-    },
-    "https://ai-meizi-me-wejudging.vercel.app": {
-      "needVPN": true,
-      "repo": "wejudging/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
     },
     "https://chat-gpt-next-web-personuo.vercel.app": {
       "needVPN": true,
@@ -7694,18 +7646,6 @@
       "repo": "strivingwang/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
-    "https://www.634876912.xyz": {
-      "repo": "hevi1991/ChatGPT-Next-Web"
-    },
-    "https://634876912.xyz": {
-      "repo": "hevi1991/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web"
-    },
-    "https://chat-gpt-next-web-hevi1991.vercel.app": {
-      "needVPN": true,
-      "repo": "hevi1991/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web"
-    },
     "https://chat-gpt-next-web-simonliao.vercel.app": {
       "needVPN": true,
       "repo": "simonliao/ChatGPT-Next-Web",
@@ -7761,6 +7701,7 @@
       "title": "ChatGPT Windt"
     },
     "https://chat.19970212.xyz": {
+      "needVPN": true,
       "repo": "a985858166/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
@@ -7827,6 +7768,7 @@
       "title": "ChatGPT Next Web"
     },
     "https://chat.bravecai.lol": {
+      "needVPN": true,
       "repo": "bravecai/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
@@ -8017,11 +7959,16 @@
       "title": "ChatGPT Next Web"
     },
     "https://ai.wilr-life.top": {
+      "needVPN": true,
+      "invalid": 1,
+      "desc": "token 已用完",
       "repo": "wangkebin1990/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
     "https://wilr.vercel.app": {
       "needVPN": true,
+      "invalid": 1,
+      "desc": "token 已用完",
       "repo": "wangkebin1990/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },

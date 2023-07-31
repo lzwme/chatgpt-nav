@@ -19,7 +19,7 @@
     "chatgpt"
   ],
   "devDependencies": {
-    "@types/node": "^20.4.2",
+    "@types/node": "^20.4.5",
     "tsx": "^3.12.7",
     "typescript": "^5.1.6"
   },
