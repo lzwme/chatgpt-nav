@@ -1,6 +1,5 @@
 import { Request, getLogger, sleep } from '@lzwme/fe-utils';
 import { execSync } from 'node:child_process';
-import { IncomingHttpHeaders } from 'node:http2';
 
 export const logger = getLogger();
 export const ghReq = new Request();
@@ -99,17 +98,19 @@ export function fixSiteUrl(url: string) {
 
 export async function gitCommit() {
   const changes = execSync('git status --short', { encoding: 'utf8' }).trim(); // --untracked-files=no
+  const isGitHubCi = process.env.GITHUB_CI != null;
+
   if (changes.length > 5) {
     logger.info('[gitCommit]Changes:\n', changes);
     const cmds = [
-      `git config user.name "github-actions[bot]"`,
-      `git config user.email "41898282+github-actions[bot]@users.noreply.github.com"`,
+      isGitHubCi ? `git config user.name "github-actions[bot]"` : '',
+      isGitHubCi ? `git config user.email "41898282+github-actions[bot]@users.noreply.github.com"` : '',
       `git add --all`,
       `git commit -m "Updated at ${new Date().toISOString()}"`,
       `git push`,
     ];
 
-    for (const cmd of cmds) execSync(cmd, { encoding: 'utf8', maxBuffer: 1024 * 1024 * 100 });
+    for (const cmd of cmds) cmd && execSync(cmd, { encoding: 'utf8', maxBuffer: 1024 * 1024 * 100 });
   } else {
     logger.info('[gitCommit]Not Updated');
   }

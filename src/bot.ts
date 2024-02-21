@@ -59,7 +59,15 @@ export async function repoBot(maxForks = 3000) {
 }
 
 export function siteUrlVerify() {
-  const tasks = Object.entries(config.siteInfo).map(([url, item]) => async () => {
+  const needGFWKeywords = ['vercel.app', 'openai.com'];
+  const isGitHubCi = (process.env.GITHUB_CI || process.env.SYNC) != null;
+
+  const tasks = Object.entries(config.siteInfo).map(([url, item], idx) => async () => {
+    if (!isGitHubCi) {
+      if (needGFWKeywords.some(key => url.includes(key))) return true;
+      if (item.star! >= 3) return;
+    }
+
     if (config.debug && url.endsWith('vercel.app')) return true;
     if (Number(item.hide) === 1) return true;
 
@@ -68,7 +76,7 @@ export function siteUrlVerify() {
       if (item.needVerify > 7) return false;
     }
 
-    logger.debug(`[urlVerify] start for`, color.green(url));
+    logger.debug(`[urlVerify][${idx}] start for`, color.green(url));
     const startTime = Date.now();
     const r = await httpLinkChecker(url, { verify: body => /<body/i.test(body), reqOptions: { timeout: 10_000, rejectUnauthorized: false } });
 
@@ -97,13 +105,14 @@ export function siteUrlVerify() {
           // @TODO: 兼容包含 error 的格式，后续移除
           if (item.desc) item.desc = item.desc.replace(/\[error\]\[.+\].+$/, '');
         }
-        logger.warn(`[urlVerify][${color.yellow(url)}]`, r.statusCode, r.errmsg.slice(0, 300), r.url == url ? '' : color.cyan(r.url));
+        logger.warn(`[urlVerify][${idx}][${color.yellow(url)}]`, r.statusCode, r.errmsg.slice(0, 300), r.url == url ? '' : color.cyan(r.url));
       }
     } else {
       if ('needVerify' in item) {
         if (item.needVerify && item.needVerify > 0) delete item.needVerify;
       }
-      if (item.errmsg) delete item.errmsg;
+
+      ['errmsg', 'invalid'].forEach(k => item[k] && delete item[k]);
 
       if (!item.title && r.body) {
         const title = r.body.match(/<title>(.*)<\/title>/)?.[1];
@@ -113,8 +122,8 @@ export function siteUrlVerify() {
     }
 
     const timeCost = Date.now() - startTime;
-    if (timeCost > 5000 && !r.code) logger.warn(`[urlVerify][slow]`, color.magenta(url), color.red(timeCost), r);
-    else logger.debug(`[urlVerify]done!`, color.green(url), color.cyan(timeCost), r);
+    if (timeCost > 5000 && !r.code) logger.warn(`[urlVerify][${idx}][slow]`, color.magenta(url), color.red(timeCost), r);
+    else logger.debug(`[urlVerify][${idx}]done!`, color.green(url), color.cyan(timeCost), r);
     return r;
   });
 

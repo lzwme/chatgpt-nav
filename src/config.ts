@@ -78,7 +78,6 @@ export function initConfig(argv: Record<string, unknown>) {
   config.isOnlyNew = Boolean(argv.onlyNew);
 
   const token = (process.env.GH_TOKEN || process.env.GITHUB_TOKEN || '').trim();
-  console.log('token', token.length);
   if (token) ghReq.setHeaders({ Authorization: `Bearer ${token}` });
   else logger.warn('Not found GH TOKEN');
 
