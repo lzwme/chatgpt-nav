@@ -275,43 +275,6 @@
       "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
-    "https://c1ns.cn/wlyzs": {
-      "star": 2,
-      "source": "recommend",
-      "desc": "PC+公众号H5多端同步+支持ai绘画",
-      "title": "未来云助手",
-      "needPay": 1,
-      "needLogin": 1
-    },
-    "https://askgpt.cn": {
-      "star": 2,
-      "needVPN": 1,
-      "sort": 1,
-      "source": "recommend",
-      "title": "AskGPT",
-      "desc": "不需要登录，打开即用！",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://chat.bo-e.com": {
-      "star": 2,
-      "needLogin": 1,
-      "source": "recommend",
-      "title": "博弈Ai",
-      "desc": "基于ChatGPT4及3.5的智能聊天机器人国产镜像",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://ct5.xiami.monster": {
-      "star": 2,
-      "needLogin": 1,
-      "needPay": 1,
-      "source": "recommend",
-      "title": "虾米AI",
-      "desc": "免费使用，支持绘画、支持3.5",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
-    },
     "http://ai.bamboochat.cn": {
       "star": 2,
       "needLogin": 1,
@@ -327,39 +290,12 @@
       "title": "CoolAI地址发布页",
       "desc": "每日登录后，签到即可获取125次chatgpt3.5对话额度，也可使用额度进行思维导图绘制，midjourney绘画。同时每日会更新卡密供用户使用"
     },
-    "https://ai.douresources.com": {
-      "star": 2,
-      "needLogin": 1,
-      "source": "recommend",
-      "title": "ChatGPT Web",
-      "desc": "关注微信公众号登录，享受免费chatgpt问答",
-      "needVerify": 2,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai.douresources.com"
-    },
-    "http://chat4.manongzyg.one": {
-      "star": 2,
-      "source": "recommend",
-      "title": "AI-ChatGPT",
-      "needKey": 1,
-      "desc": "关注公众号【编程】获取密码",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
-    },
     "https://home.v50.ltd": {
       "star": 2,
       "needLogin": 1,
       "source": "recommend",
       "title": "T-CHAT",
       "desc": "免费的AI画图"
-    },
-    "http://a1ya.cn/6d79eecc96fa2a7d": {
-      "star": 2,
-      "needLogin": 1,
-      "source": "recommend",
-      "title": "AIyaaa",
-      "desc": "每天签到分享送免费次数，需要微信登录和注册，初次注册送10次，带风控",
-      "needVerify": 2,
-      "errmsg": "[error][404]Not Found"
     },
     "https://carps.ink": {
       "star": 2,
@@ -383,54 +319,12 @@
       "source": "recommend",
       "title": "oneperfect-gpt"
     },
-    "https://gpt.lovebaby.today": {
-      "star": 2,
-      "needVPN": 1,
-      "title": "oneperfect-gpt发布页",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://chatyou.lovebaby.today": {
-      "star": 2,
-      "needKey": 1,
-      "title": "oneperfect-gpt发布页。需要扫码加群获取密码使用",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://srgfdfsf.xiaowenzi.xyz": {
-      "star": 2,
-      "needVPN": 1,
-      "needLogin": 1,
-      "source": "recommend",
-      "title": "TreeMind数图",
-      "cate": "tool",
-      "desc": "新一代“AI人工智能”思维导图。（非 chatGPT 生成式对话类站点）",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
-    },
     "http://bamboochat.kebakeba.com": {
       "star": 2,
       "needLogin": 1,
       "source": "recommend",
       "desc": "国内可直接畅想的 chatgpt 服务，基于 GPT3.5tubro 和 GPT4 构建",
       "title": "BambooChat"
-    },
-    "https://ai-pig-fly.space": {
-      "star": 2,
-      "invalid": 1,
-      "desc": "免费 ChatGpt、免费 Vip 视频、 国内外 Ai 网站全收录、最新国内外 Ai 资讯",
-      "title": "因为穷，所以 Ai",
-      "needVerify": 8,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://chat.getgpt.world": {
-      "star": 2,
-      "needVPN": 1,
-      "source": "recommend",
-      "desc": "方便快速，免费使用",
-      "title": "Get GPT",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
     },
     "https://sofast.ai/chat": {
       "star": 2,
@@ -445,39 +339,6 @@
       "source": "recommend",
       "title": "ChatGPT Web--免费的国内ChatGPT"
     },
-    "https://app.haitunchat.com": {
-      "star": 2,
-      "needLogin": 1,
-      "source": "recommend",
-      "title": "海豚Chat",
-      "desc": "需要注册登录。每天最多可以免费发送100条消息",
-      "needVerify": 2,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND app.haitunchat.com"
-    },
-    "https://www.hayo.com": {
-      "star": 2,
-      "source": "recommend",
-      "title": "HayoAI",
-      "desc": "一款融合AI聊天、AI艺术创作、AI工具推荐、AI资讯及技术创新交流的高效应用。【每日使用次数限制为每项功能50次，重置时间为北京时间的0点】",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://chat.gptplus.one": {
-      "star": 2,
-      "needVPN": 1,
-      "source": "recommend",
-      "title": "ChatGPT Web",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://chat.wobcw.com": {
-      "star": 2,
-      "desc": "支持文字、翻译、画图的聊天机器人",
-      "source": "recommend",
-      "title": "AIChat",
-      "needVerify": 8,
-      "errmsg": "[error][-1]read ECONNRESET"
-    },
     "https://www.magicaibot.com/talk": {
       "star": 2,
       "needLogin": 1,
@@ -486,35 +347,11 @@
       "needVerify": 2,
       "errmsg": "[error][502]Bad Gateway"
     },
-    "https://chatgptfly.club": {
-      "star": 2,
-      "desc": "程序员Jack Dog 和 Tom Dog 为了方便部分同学使用而开发的免费社区平台。支持文字、语音、翻译、画图的聊天机器人",
-      "source": "recommend",
-      "title": "WoChat",
-      "invalid": 1,
-      "errmsg": "[error][-1]timeout",
-      "needVerify": 8
-    },
-    "https://gpt.xcbl.cc": {
-      "star": 2,
-      "source": "recommend",
-      "desc": "【发布页】您的私人ChatGPT聊天机器人。",
-      "title": "老北鼻AI智能助手",
-      "invalid": 1,
-      "errmsg": "[error][-1]timeout",
-      "needVerify": 8
-    },
     "https://www.chat2ai.cn": {
       "star": -1,
       "hide": 1,
       "desc": "根据信息安全法和相关法律法规的要求，我们从即日起将停止 chat2ai 网站的运营",
       "title": "ThinkBot"
-    },
-    "https://chat.ninvfeng.xyz": {
-      "needVPN": 1,
-      "title": "ChatGPT Web",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
     },
     "https://chat.yqcloud.top": {
       "needVPN": 1,
@@ -535,16 +372,6 @@
       "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
-    "https://chilloutai.com": {
-      "desc": "你的虚拟女友",
-      "title": "Her | AI 在线聊天 | ChilloutAI",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://wordstory.streamlit.app": {
-      "needVerify": -1,
-      "desc": "使用OpenAI ChatGPT为你的英语单词编故事"
-    },
     "https://lzwme-gpt.netlify.app": {
       "needKey": 1,
       "repo": "renxia/chat-with-gpt",
@@ -553,10 +380,9 @@
       "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
-    "https://chatgpt.gengai.net/ChatGPT.html": {
-      "title": "MyGPT",
-      "needVerify": 8,
-      "errmsg": "[error][-1]timeout"
+    "https://mymoss.com.cn/web/": {
+      "title": "MyMOSS",
+      "desc": "我拥有强大的AI引擎，可以辅助你快速写作，赶快试一试吧！"
     },
     "https://chatgpt-demo-gilt.vercel.app": {
       "needVPN": true,
@@ -586,21 +412,6 @@
       "repo": "wangsrGit119/chatgpt-proxy-online",
       "title": "ChatGPT API Demo"
     },
-    "https://gpt.lzw.me": {
-      "needPwd": 1,
-      "repo": "renxia/chatgpt-demo",
-      "title": "ChatGPT",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://chat.paoying.net": {
-      "needPay": 1,
-      "title": "Flet",
-      "invalid": 1,
-      "desc": "您好，因不可抗力，我们无法继续提供服务，谢谢您的理解。付费用户请添加微信退款",
-      "needVerify": 8,
-      "errmsg": "[error][-1]read ECONNRESET"
-    },
     "https://chat.alpaca-bi.com": {
       "needPay": 1,
       "needLogin": 1,
@@ -612,29 +423,9 @@
       "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
-    "https://chat.tgbot.co": {
-      "needVerify": -1,
-      "invalid": 1,
-      "desc": "开始封号了，停止公开服务观察一段时期"
-    },
-    "https://chat.geekr.cool": {
-      "needVerify": -1,
-      "desc": "支持语音的免费体验版ChatGPT"
-    },
-    "https://xc.com": {
-      "needVPN": 1,
-      "title": "Xc.Com 免登陆，免注册的chatgpt。最方便体验最快最好的网站，永久域名Xc.Com",
-      "needVerify": 8,
-      "errmsg": "[error][-1]timeout"
-    },
     "https://chat.51buygpt.com": {
       "needVPN": 1,
       "title": "ChatGPT社区免费版 | 51BuyGPT",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://freechatgpt.chat": {
-      "title": "Free ChatGPT",
       "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
@@ -661,15 +452,6 @@
       "needVerify": 8,
       "errmsg": "[error][301]Moved Permanently"
     },
-    "https://www.teach-anything.com": {
-      "desc": "Teach you Anything in seconds",
-      "needVPN": 1,
-      "title": "Teach Anything",
-      "repo": "efewijum/teach-anything",
-      "hide": 9,
-      "needVerify": 2,
-      "errmsg": "[error][-1]connect ECONNREFUSED 103.42.176.244:443"
-    },
     "http://free-gpt.store": {
       "needVerify": 2,
       "hide": 1,
@@ -677,8 +459,7 @@
     },
     "https://weeklyreport.avemaria.fun": {
       "desc": "周报生成器。仅于周一、五、六、日免费使用，其余时间自备 OpenAI API Key",
-      "needKey": 1,
-      "needVerify": -1
+      "needKey": 1
     },
     "https://email-helper.vercel.app": {
       "desc": "Generate your business emails in seconds",
@@ -691,9 +472,7 @@
     },
     "http://itecheasy.com.cn": {
       "needVPN": 1,
-      "title": "ChatGpt-智能Ai",
-      "needVerify": 2,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND itecheasy.com.cn"
+      "title": "ChatGpt-智能Ai"
     },
     "https://trychatgp.com": {
       "title": "GPTalk",
@@ -715,15 +494,11 @@
     "https://chat.1kcode.com": {
       "needVPN": 1,
       "repo": "Chanzhaoyu/chatgpt-bot",
-      "title": "ChatGPT Web",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "title": "ChatGPT Web"
     },
     "https://ai117.com": {
       "needVPN": 1,
-      "title": "AI Chat",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "title": "AI Chat"
     },
     "https://chat.binjie.site:7777": {
       "star": 2,
@@ -764,9 +539,7 @@
     "https://chat-langchainjs.fly.dev": {
       "needVPN": 1,
       "repo": "sullivan-sean/chat-langchainjs",
-      "title": "LangChain Chat",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "title": "LangChain Chat"
     },
     "https://chatgpt-demo-hryen.vercel.app": {
       "needVPN": true,
@@ -896,9 +669,7 @@
     },
     "https://chatgpt.eclipsewww.tech": {
       "repo": "EclipseWww/chatgpt-eclipsewww",
-      "title": "ChatGPT API Demo",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "title": "ChatGPT API Demo"
     },
     "https://chatgpt.eclipsewww.xyz": {
       "repo": "EclipseWww/chatgpt-eclipsewww",
@@ -937,24 +708,10 @@
       "repo": "MC-dusk/chatgpt-demo",
       "title": "Welcome to Dusk."
     },
-    "https://chat.chunkiu.hk": {
-      "invalid": 1,
-      "desc": "key 已失效",
-      "repo": "6102yk/chatgpt",
-      "title": "ChatGPT",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
-    },
     "https://chunkiu.hk": {
       "repo": "6102yk/chatgpt",
       "needVerify": -1,
       "hide": 1
-    },
-    "https://www.chunkiu.hk": {
-      "repo": "6102yk/chatgpt",
-      "needVerify": -1,
-      "hide": 1,
-      "desc": "301 to https://chat.chunkiu.hk"
     },
     "https://ai.chunkiu.hk": {
       "repo": "6102yk/chatgpt",
@@ -980,17 +737,6 @@
     "https://chatgpt-demo-teal-gamma.vercel.app": {
       "needVPN": true,
       "repo": "liushuishui233/chatgpt-demo",
-      "title": "ChatGPT API Demo"
-    },
-    "https://chatgpt.acos.one": {
-      "repo": "0xd2ae/chatgpt",
-      "title": "ChatGPT API Demo",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://chatgpt-cyan-phi.vercel.app": {
-      "needVPN": true,
-      "repo": "0xd2ae/chatgpt",
       "title": "ChatGPT API Demo"
     },
     "https://chatgpt-demo-hkng.vercel.app": {
@@ -1938,10 +1684,6 @@
       "needVPN": true,
       "repo": "vivipure/chatgpt-turbo-bot",
       "title": "ChatGPT Turbo Bot"
-    },
-    "https://chatgpt.zhanhongzhu.top": {
-      "repo": "zhanhongzhu/chatgpt-demo",
-      "title": "叫我詹躲躲"
     },
     "https://chatgpt-demo-rosy.vercel.app": {
       "needVPN": true,

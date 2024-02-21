@@ -64,8 +64,9 @@ export function siteUrlVerify() {
 
   const tasks = Object.entries(config.siteInfo).map(([url, item], idx) => async () => {
     if (!isGitHubCi) {
+      if (item.needVPN) return true;
       if (needGFWKeywords.some(key => url.includes(key))) return true;
-      if (item.star! >= 3) return;
+      if (item.star! >= 3) return true;
     }
 
     if (config.debug && url.endsWith('vercel.app')) return true;
