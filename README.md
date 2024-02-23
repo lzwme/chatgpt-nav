@@ -77,7 +77,7 @@
 1. [[⭐⭐🧑‍💻] https://gpt.nowait.xin/chat](https://gpt.nowait.xin/chat) **33GPT - 为内容创客打造的AI对话工具。** 每天可免费提问10次，会员无限制。实打实向微软付费，企业级服务接口，速度快，非常稳定
 1. [[⭐⭐🧑‍💻] https://home.v50.ltd](https://home.v50.ltd) **T-CHAT。** 免费的AI画图
 1. [[⭐⭐🧑‍💻] https://www.weijiwangluo.com/talk](https://www.weijiwangluo.com/talk) **ATalk。** 是一个基于gpt-3.5-turbo引擎封装的网站,通过输入文本，输出相应的回答，实现智能聊天的功能
-1. [[⭐⭐🧑‍💻] https://xmind.ai](https://xmind.ai) **Xmind Copilot。** Xmind Copilot 思维导图 AI 助手 `[error][-1]read ECONNRESET`
+1. [[⭐⭐🧑‍💻] https://xmind.ai](https://xmind.ai) **Xmind Copilot。** Xmind Copilot 思维导图 AI 助手
 1. [[⭐] https://ai-toolbox.codefuture.top](https://ai-toolbox.codefuture.top) **AI帮个忙。** 多功能AI小帮手
 1. [[⭐] https://ai.zecoba.cn](https://ai.zecoba.cn) **301 Moved Permanently。**
 1. [[⭐] https://aigcfun.com](https://aigcfun.com) **AI EDU。** 该站点已暂停访问
@@ -2802,12 +2802,12 @@
 1. [[❓] https://chat.chatgptworld.net](https://chat.chatgptworld.net) **ChatGPT API Demo。**  `[error][-1]timeout`
 1. [[❓] https://chat1.osfpu.com](https://chat1.osfpu.com) ChatGPT API Demo `[error][-1]timeout`
 1. [[❓] https://chat.milomoon.com](https://chat.milomoon.com) **欢迎来到畅的AI。**  `[error][-1]timeout`
-1. [[❓] https://www.majiangnp.top](https://www.majiangnp.top)  `[error][-1]timeout`
-1. [[❓] https://majiangnp.top](https://majiangnp.top) **ChatGPT 小美版。**  `[error][-1]getaddrinfo ENOTFOUND majiangnp.top`
+1. [[❓] https://www.majiangnp.top](https://www.majiangnp.top)  `[error][-1]getaddrinfo ENOTFOUND www.majiangnp.top`
+1. [[❓] https://majiangnp.top](https://majiangnp.top) **ChatGPT 小美版。**  `[error][-1]timeout`
 1. [[❓] https://chatgpt.ppt6666.com](https://chatgpt.ppt6666.com) **ChatGPT API Demo。** ChatGPT 智能AI机器人 `[error][-1]timeout`
 1. [[❓] https://www.shifeiti.pro](https://www.shifeiti.pro)  `[error][-1]timeout`
 1. [[❓] https://shifeiti.pro](https://shifeiti.pro) **ChatGPT API Demo。**  `[error][-1]timeout`
-1. [[❓] https://www.lazyboy.top](https://www.lazyboy.top) **ChatGPT API Demo。**  `[error][-1]connect ECONNREFUSED 179.60.193.16:443`
+1. [[❓] https://www.lazyboy.top](https://www.lazyboy.top) **ChatGPT API Demo。**  `[error][-1]timeout`
 1. [[❓] https://lazyboy.top](https://lazyboy.top)  `[error][-1]timeout`
 1. [[❓] https://chat.m1saka.eu.org](https://chat.m1saka.eu.org) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://chatgpt.moeyy.cn](https://chatgpt.moeyy.cn) **302 Found。**  `[error][403]Forbidden`
@@ -2859,7 +2859,7 @@
 1. [[❓] https://chat.chlorine.site](https://chat.chlorine.site) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://chatgpt.outshine.me](https://chatgpt.outshine.me) **ChatGPT For Outshine。**  `[error][-1]timeout`
 1. [[❓] https://ai.ppclub.ml](https://ai.ppclub.ml) 308 - Permanent Redirect `[error][-1]getaddrinfo ENOTFOUND ai.ppclub.ml`
-1. [[❓] https://zhenghaoyun.cn](https://zhenghaoyun.cn) **ChatGPT。**  `[error][-1]read ECONNRESET`
+1. [[❓] https://zhenghaoyun.cn](https://zhenghaoyun.cn) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://www.zhenghaoyun.cn](https://www.zhenghaoyun.cn)  `[error][-1]timeout`
 1. [[❓] https://chat.zhenghaoyun.cn](https://chat.zhenghaoyun.cn) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://chat.exi.software](https://chat.exi.software) **ChatGPT API Demo。**  `[error][-1]timeout`
@@ -2874,7 +2874,7 @@
 1. [[❓] https://justrrry.xyz](https://justrrry.xyz)  `[error][-1]timeout`
 1. [[❓] https://kais.live](https://kais.live)  `[error][-1]timeout`
 1. [[❓] https://www.kais.live](https://www.kais.live) **ChatGPT。**  `[error][-1]timeout`
-1. [[❓] https://kehangbio.com](https://kehangbio.com) **Minesweeper。**  `[error][-1]getaddrinfo ENOTFOUND kehangbio.com`
+1. [[❓] https://kehangbio.com](https://kehangbio.com) **Minesweeper。**  `[error][-1]timeout`
 1. [[❓] https://x.chate.chat](https://x.chate.chat) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://www.meturing.top](https://www.meturing.top) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://meturing.top](https://meturing.top)  `[error][-1]timeout`
@@ -2884,8 +2884,8 @@
 1. [[❓] https://hi.icu](https://hi.icu) **https://hi.icu 中文ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://chat35.com/chat](https://chat35.com/chat) **ChatGPT中文版 - Chat97.com。**  `[error][-1]timeout`
 1. [[❓] https://chat.moyunav.com](https://chat.moyunav.com) **ChatGPT。**  `[error][-1]timeout`
-1. [[❓] https://chat.cyihx.me](https://chat.cyihx.me) **ChatGPT API Demo。**  `[error][-1]timeout`
-1. [[❓] https://chatgpt.bowlofnoodles.top](https://chatgpt.bowlofnoodles.top) **ChatGPT。**  `[error][-1]timeout`
+1. [[❓] https://chat.cyihx.me](https://chat.cyihx.me) **ChatGPT API Demo。**  `[error][-1]connect ECONNREFUSED 67.230.169.182:443`
+1. [[❓] https://chatgpt.bowlofnoodles.top](https://chatgpt.bowlofnoodles.top) **ChatGPT。**  `[error][-1]read ECONNRESET`
 1. [[❓] https://chat.tiabless.com](https://chat.tiabless.com) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://gpt.exci.me](https://gpt.exci.me) **ChatGPT API Demo。**  `[error][-1]timeout`
 1. [[❓] https://chatgpt-demo-7.4everland.app](https://chatgpt-demo-7.4everland.app) **/ipfs/bafybeidg3bhwcatzb6jacizknk7ykdv7k6cpawpbhdpueiwh23rgf2wwai/。**  `[error][502]Bad Gateway`
@@ -2897,7 +2897,7 @@
 1. [[❓] https://chat.sciencat.net](https://chat.sciencat.net) **ChatGPT 公益站 By Sciencat。**  `[error][-1]timeout`
 1. [[❓] https://www.imgpt.top](https://www.imgpt.top) ChatGPT `[error][526]HTTP_526`
 1. [[❓] https://mygpt.moinkhao.me](https://mygpt.moinkhao.me) **ChatGPT。**  `[error][-1]timeout`
-1. [[❓] https://chat.e7.work](https://chat.e7.work) **ChatGPT。**  `[error][-1]timeout`
+1. [[❓] https://chat.e7.work](https://chat.e7.work) **ChatGPT。**  `[error][-1]connect ECONNREFUSED 124.11.210.175:443`
 1. [[❓] https://chat4u.me](https://chat4u.me)  `[error][-1]timeout`
 1. [[❓] https://www.chat4u.me](https://www.chat4u.me) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://chat.internetip.cn](https://chat.internetip.cn) **智能AI。**  `[error][-1]connect ECONNREFUSED 43.156.104.190:443`
@@ -2928,7 +2928,7 @@
 1. [[❓] https://chat.genge.cc](https://chat.genge.cc) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://www.fwrite.tech](https://www.fwrite.tech) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://chatgpt.wole.gq](https://chatgpt.wole.gq) **ChatGPT。**  `[error][-1]timeout`
-1. [[❓] https://chat.wole.gq](https://chat.wole.gq) **ChatGPT。**  `[error][-1]connect ECONNREFUSED 4.78.139.54:443`
+1. [[❓] https://chat.wole.gq](https://chat.wole.gq) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://chatgpt.cy1973.cn](https://chatgpt.cy1973.cn) **机器人花花。**  `[error][-1]timeout`
 1. [[❓🔑] https://175.178.88.119](https://175.178.88.119) **chathome。** 免费访问chatgpt `[error][-1]timeout`
 1. [[❓] https://chatgpt.lik.sale](https://chatgpt.lik.sale) **ChatGPT菠萝头AI。**  `[error][-1]timeout`
@@ -2942,7 +2942,7 @@
 1. [[❓] https://iamchatgpt.top](https://iamchatgpt.top)  `[error][-1]read ECONNRESET`
 1. [[❓] https://www.iamchatgpt.top](https://www.iamchatgpt.top) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓🔐🔑] https://1ight.xyz](https://1ight.xyz)  `[error][-1]timeout`
-1. [[❓🔐🔑] https://www.1ight.xyz](https://www.1ight.xyz) **ChatGPT。**  `[error][-1]timeout`
+1. [[❓🔐🔑] https://www.1ight.xyz](https://www.1ight.xyz) **ChatGPT。**  `[error][-1]connect ECONNREFUSED 103.246.246.144:443`
 1. [[❓] https://www.ranxin.love](https://www.ranxin.love) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://chat.laughmetal.com](https://chat.laughmetal.com) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://chatgpt-vercel.ssiswent.cc](https://chatgpt-vercel.ssiswent.cc) **ChatGPT。**  `[error][-1]timeout`
@@ -2962,7 +2962,7 @@
 1. [[❓] https://chat2.ai.guoshenghuaxing.com](https://chat2.ai.guoshenghuaxing.com) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://chatgpt.panxox.xyz](https://chatgpt.panxox.xyz) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://chatgpt.oeerp.com](https://chatgpt.oeerp.com) **ChatGPT API Demo。**  `[error][-1]timeout`
-1. [[❓] https://dev-chat.zhuscat.com](https://dev-chat.zhuscat.com) **ChatBot。**  `[error][-1]timeout`
+1. [[❓] https://dev-chat.zhuscat.com](https://dev-chat.zhuscat.com) **ChatBot。**  `[error][-1]read ECONNRESET`
 1. [[❓] https://yjtx.online](https://yjtx.online)  `[error][-1]getaddrinfo ENOTFOUND yjtx.online`
 1. [[❓] https://www.yjtx.online](https://www.yjtx.online) **ChatGPT。**  `[error][-1]getaddrinfo ENOTFOUND www.yjtx.online`
 1. [[❓] https://gpts.wxredcover.cn](https://gpts.wxredcover.cn) **ChatGPT。** GPT 3.5 Model。需关注公众号获取密码 `[error][-1]timeout`
@@ -3000,15 +3000,15 @@
 1. [[❓] https://chat.ciit.ltd](https://chat.ciit.ltd) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://chatgpt.xichuang-china.com](https://chatgpt.xichuang-china.com) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://fy99.cf](https://fy99.cf) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 47.113.228.237:443`
-1. [[❓] https://chat3.fy99.cf](https://chat3.fy99.cf) **ChatGPT Next Web。**  `[error][-1]timeout`
+1. [[❓] https://chat3.fy99.cf](https://chat3.fy99.cf) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 4.78.139.54:443`
 1. [[❓] https://www.keco.tk](https://www.keco.tk) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://keco.tk](https://keco.tk) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://gpt.166266366.xyz](https://gpt.166266366.xyz) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓🔐] https://ai.wefoundi.top](https://ai.wefoundi.top) **ChatGPT Next Web。**  `[error][-1]timeout`
-1. [[❓] https://www.nununu.net](https://www.nununu.net) **ChatGPT Next Web。**  `[error][-1]timeout`
+1. [[❓] https://www.nununu.net](https://www.nununu.net) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 108.160.167.174:443`
 1. [[❓] https://nununu.net](https://nununu.net)  `[error][-1]timeout`
 1. [[❓] https://chat.marlonlu.cn](https://chat.marlonlu.cn) **ChatGPT Next Web。**  `[error][-1]read ECONNRESET`
-1. [[❓] https://dataweng.com](https://dataweng.com) **ChatGPT Next Web。**  `[error][-1]timeout`
+1. [[❓] https://dataweng.com](https://dataweng.com) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 103.246.246.144:443`
 1. [[❓] https://www.dfsqs.com](https://www.dfsqs.com) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://dfsqs.com](https://dfsqs.com)  `[error][-1]timeout`
 1. [[❓] https://dd299.life](https://dd299.life) **ChatGPT Next Web。**  `[error][-1]timeout`
@@ -3016,13 +3016,13 @@
 1. [[❓] https://gpt.wustca.club](https://gpt.wustca.club) **ChatGPT Next Web。**  `[error][-1]read ECONNRESET`
 1. [[❓] https://www.starryu.cn](https://www.starryu.cn) **Chat GPT。**  `[error][-1]timeout`
 1. [[❓] https://starryu.cn](https://starryu.cn)  `[error][-1]timeout`
-1. [[❓] https://x.chen.rs](https://x.chen.rs) **ChatGPT Next Web。**  `[error][-1]timeout`
+1. [[❓] https://x.chen.rs](https://x.chen.rs) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 157.240.12.36:443`
 1. [[❓] https://chat.iosshop.xyz](https://chat.iosshop.xyz) **ChatGPT 探索分享。**  `[error][-1]timeout`
 1. [[❓] https://888.i33i.top](https://888.i33i.top) **抱歉，站点已暂停。**  `[error][-1]timeout`
 1. [[❓] https://chat.xiaobubu.asia](https://chat.xiaobubu.asia) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://www.yydsyy.top](https://www.yydsyy.top) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://yydsyy.top](https://yydsyy.top) **ChatGPT Next Web。**  `[error][-1]getaddrinfo ENOTFOUND yydsyy.top`
-1. [[❓] https://gpt.selfshepherd.site](https://gpt.selfshepherd.site) **ChatGPT Next Web。**  `[error][-1]timeout`
+1. [[❓] https://gpt.selfshepherd.site](https://gpt.selfshepherd.site) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 4.78.139.50:443`
 1. [[❓] https://gpt.fcsy.fit](https://gpt.fcsy.fit) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://www.yaozheng.men](https://www.yaozheng.men) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://yaozheng.men](https://yaozheng.men) **ChatGPT Next Web。**  `[error][-1]timeout`
@@ -3040,7 +3040,7 @@
 1. [[❓] https://chat.iecho.cc](https://chat.iecho.cc) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://chat.mijk.top](https://chat.mijk.top) **ChatGPT Next Web。**  `[error][-1]getaddrinfo ENOTFOUND chat.mijk.top`
 1. [[❓] https://ai.renhotec.com](https://ai.renhotec.com)  `[error][403]Forbidden`
-1. [[❓] https://chat.kimwong.me](https://chat.kimwong.me) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 179.60.193.16:443`
+1. [[❓] https://chat.kimwong.me](https://chat.kimwong.me) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://chat.teap.online](https://chat.teap.online) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 43.153.87.227:443`
 1. [[❓] https://chat.doctoroyy.net](https://chat.doctoroyy.net) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://chat.xwls.eu.org](https://chat.xwls.eu.org) **ChatGPT Next Web。**  `[error][-1]timeout`
@@ -3082,7 +3082,7 @@
 1. [[❓] https://jidaoinfo.com](https://jidaoinfo.com)  `[error][-1]getaddrinfo ENOTFOUND jidaoinfo.com`
 1. [[❓] https://chat.bslo.ltd](https://chat.bslo.ltd)  `[error][-1]timeout`
 1. [[❓🔑] https://ai.galend.com](https://ai.galend.com) **ChatGPT Next Web。**  `[error][-1]timeout`
-1. [[❓] https://chat.vanav.eu.org](https://chat.vanav.eu.org) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 103.246.246.144:443`
+1. [[❓] https://chat.vanav.eu.org](https://chat.vanav.eu.org) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓🔐] https://ai.ncwuhz.cn](https://ai.ncwuhz.cn) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓🔐] https://iam.customgroup.icu](https://iam.customgroup.icu) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://vercel-gpt.gkirito.com](https://vercel-gpt.gkirito.com) **ChatGPT Next Web。**  `[error][-1]timeout`
@@ -3193,7 +3193,7 @@
 1. [[❓] https://chat.rano.ltd](https://chat.rano.ltd) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://xiaodengchat.xyz](https://xiaodengchat.xyz) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://www.xiaodengchat.xyz](https://www.xiaodengchat.xyz)  `[error][-1]timeout`
-1. [[❓] https://chatgpt.ionia.lol](https://chatgpt.ionia.lol) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 67.230.169.182:443`
+1. [[❓] https://chatgpt.ionia.lol](https://chatgpt.ionia.lol) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓] https://zzfer.crytomato.online](https://zzfer.crytomato.online)  `[error][-1]read ECONNRESET`
 1. [[❓🔑] https://www.3688.bio](https://www.3688.bio)  `[error][-1]timeout`
 1. [[❓🔑] https://3688.bio](https://3688.bio) **ChatGPT Next Web。**  `[error][-1]timeout`
@@ -3217,7 +3217,7 @@
 1. [[❓🔐🔑] https://openai.aisavepet.com](https://openai.aisavepet.com) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓🔐🔑] https://chat-cf.xtuly.cn](https://chat-cf.xtuly.cn) **ChatGPT Next Web。**  `[error][-1]getaddrinfo ENOTFOUND chat-cf.xtuly.cn`
 1. [[❓🔐🔑] https://chat.xtuly.cn](https://chat.xtuly.cn) **ChatGPT Next Web。**  `[error][-1]getaddrinfo ENOTFOUND chat.xtuly.cn`
-1. [[❓🔐🔑] https://gpt.flying86.tk](https://gpt.flying86.tk) **ChatGPT Next Web。**  `[error][-1]timeout`
+1. [[❓🔐🔑] https://gpt.flying86.tk](https://gpt.flying86.tk) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 31.13.69.245:443`
 1. [[❓🔐🔑] https://chat.tanyuecn.com](https://chat.tanyuecn.com) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 198.211.58.238:443`
 1. [[❓🔐🔑] https://chat.coolcwift.top](https://chat.coolcwift.top) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓🔐🔑] https://www.edgeplan.top](https://www.edgeplan.top) **ChatGPT Next Web。**  `[error][-1]getaddrinfo ENOTFOUND www.edgeplan.top`
@@ -3250,7 +3250,7 @@
 1. [[❓] https://lynngpt.club](https://lynngpt.club)  `[error][-1]read ECONNRESET`
 1. [[❓] https://ztule.com](https://ztule.com) **ChatGPT。**  `[error][-1]timeout`
 1. [[❓] https://www.ztule.com](https://www.ztule.com) **ChatGPT。**  `[error][-1]timeout`
-1. [[❓🔐🔑] https://chat.wylu.me](https://chat.wylu.me) **ChatGPT Next Web。**  `[error][-1]connect ECONNREFUSED 108.160.167.174:443`
+1. [[❓🔐🔑] https://chat.wylu.me](https://chat.wylu.me) **ChatGPT Next Web。**  `[error][-1]timeout`
 1. [[❓🔐🔑] https://www.chatares.com](https://www.chatares.com) **ChatAres Web。**  `[error][-1]timeout`
 1. [[❓🚀] https://chatgpt-vercel-henna-two.vercel.app](https://chatgpt-vercel-henna-two.vercel.app) **ChatGPT。**  `[error][402]Payment Required`
 1. [[❓🔐🔑] http://chat.pason.cc](http://chat.pason.cc)  `[error][-1]timeout`
