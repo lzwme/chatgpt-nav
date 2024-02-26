@@ -116,7 +116,18 @@
     "lmwuxia/chatgpt-demo",
     "biscuitwarf/chatgpt-demo",
     "abbsbssb123432/chatgpt-demo",
-    "2879304849/chatgpt-vercel"
+    "2879304849/chatgpt-vercel",
+    "shiqixixixi/chatgpt-vercel",
+    "lizhe2004/chatgpt-demo",
+    "qumoptly/chatgpt-demo",
+    "xielaoban13/chatgpt-demo",
+    "msicom/ChatGPT",
+    "changeng2006/chatgpt-vercel",
+    "kxsh2020/chatgpt-vercel",
+    "MilkyBoat/chatgpt-demo",
+    "railwaycenter/chatgpt-demo-1",
+    "athlonreg/chatgpt-demo",
+    "athlonreg/chatgpt-vercel"
   ],
   "siteInfo": {
     "https://gpt.demo.com": {
@@ -184,7 +195,7 @@
       "source": "recommend",
       "needLogin": 1,
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://newstop.c1ns.cn": {
@@ -216,7 +227,7 @@
       "source": "recommend",
       "desc": "无需魔法 无需登录 不限次数",
       "title": "Free2gpt",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chattoai.cc": {
@@ -324,7 +335,9 @@
       "needLogin": 1,
       "source": "recommend",
       "desc": "国内可直接畅想的 chatgpt 服务，基于 GPT3.5tubro 和 GPT4 构建",
-      "title": "BambooChat"
+      "title": "BambooChat",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND bamboochat.kebakeba.com"
     },
     "https://sofast.ai/chat": {
       "star": 2,
@@ -344,7 +357,7 @@
       "needLogin": 1,
       "desc": "集成chatgpt和midjourney两大AI引擎网站，响应速度极快",
       "title": "MagicAI",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.chat2ai.cn": {
@@ -377,7 +390,7 @@
       "repo": "renxia/chat-with-gpt",
       "title": "Chat with GPT | Unofficial ChatGPT app",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-gilt.vercel.app": {
@@ -416,7 +429,7 @@
     "https://freegpt.cc": {
       "needKey": 1,
       "title": "ChatGPT Playground - freeGPT.cc",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.51buygpt.com": {
@@ -429,7 +442,7 @@
       "desc": "ChatGPT 镜像站",
       "needKey": 1,
       "title": "小鱼智能客服 - ai.yiios.com",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://aigcfun.com": {
@@ -472,19 +485,19 @@
     },
     "https://trychatgp.com": {
       "title": "GPTalk",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt.ddiu.io": {
       "repo": "ddiu8081/chatgpt-demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt.ddiu.me": {
       "repo": "ddiu8081/chatgpt-demo",
       "title": "ChatGPT API Demo",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.1kcode.com": {
@@ -504,7 +517,7 @@
     "https://chatgpt123.fyi": {
       "repo": "xuxizhen/chatgpt-demo",
       "title": "ChatGPT123.FYI",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-simplifier.imzbb.cc": {
@@ -517,7 +530,7 @@
       "desc": "立即使用海量的 ChatGPT 应用，或在几秒钟内创建属于自己的应用",
       "repo": "futantan/OpenGpt",
       "title": "OpenGPT - Create ChatGpt Application in seconds | OpenGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-blush-three.vercel.app": {
@@ -603,7 +616,7 @@
       "repo": "Hime-Hina/chatgpt-demo",
       "invalid": 1,
       "title": "ChatGPT 聊天",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-hime-hina.vercel.app": {
@@ -666,13 +679,13 @@
     "https://chatgpt.eclipsewww.tech": {
       "repo": "EclipseWww/chatgpt-eclipsewww",
       "title": "ChatGPT API Demo",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt.eclipsewww.xyz": {
       "repo": "EclipseWww/chatgpt-eclipsewww",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-1-omega.vercel.app": {
@@ -745,7 +758,7 @@
     "https://chat.irss.eu.org": {
       "repo": "ithou/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-ralphgj.vercel.app": {
@@ -864,7 +877,7 @@
     "https://chatgpt.930621.xyz": {
       "repo": "zhongycurtin/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-zhongycurtin.vercel.app": {
@@ -875,7 +888,7 @@
     "https://chat.closeai.me": {
       "repo": "yybot/chatgpt-demo",
       "title": "ChatGPT Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-gzw518.vercel.app": {
@@ -887,7 +900,7 @@
       "repo": "shipengfish/chatgpt-demo-1",
       "needPwd": 1,
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-1.vercel.app": {
@@ -920,8 +933,8 @@
     "https://chatgpt.svxte.ch": {
       "repo": "SVXTECH/ChatGPT",
       "title": "ChatGPT | SVX TECH",
-      "needVerify": 5,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "needVerify": 6,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-keva0v0.vercel.app": {
       "needVPN": true,
@@ -946,7 +959,7 @@
     "https://chatgpt.canbingzt.com": {
       "repo": "canbingzt/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-silk.vercel.app": {
@@ -957,13 +970,13 @@
     "https://chat.opencf.xyz": {
       "repo": "hbyxzpf/chatgpt-web",
       "title": "ChatGPT Web Online",
-      "needVerify": 5,
-      "errmsg": "[error][-1]connect ECONNREFUSED 108.160.167.174:443"
+      "needVerify": 6,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat.gog.one": {
       "repo": "mystique/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-gog.vercel.app": {
@@ -1030,7 +1043,7 @@
     "https://chatgpt.jellybeans.love": {
       "repo": "wukongtime/chatgpt-demo",
       "title": "ChatGPT - 旺脉",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-wm.vercel.app": {
@@ -1159,7 +1172,7 @@
     "https://chat.chatgptworld.net": {
       "repo": "JiNG-JiN/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-pi-drab.vercel.app": {
@@ -1231,7 +1244,7 @@
     "https://chat.milomoon.com": {
       "repo": "milomoon/chatgpt-demo",
       "title": "欢迎来到畅的AI",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-mhbn.vercel.app": {
@@ -1253,17 +1266,6 @@
       "needVPN": true,
       "repo": "iceloX/chatgpt-demo",
       "title": "ChatGPT API Demo"
-    },
-    "https://www.majiangnp.top": {
-      "repo": "oylinv/chatgpt-demo",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.majiangnp.top"
-    },
-    "https://majiangnp.top": {
-      "repo": "oylinv/chatgpt-demo",
-      "title": "ChatGPT 小美版",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND majiangnp.top"
     },
     "https://chatgpt-demo-oylinv.vercel.app": {
       "needVPN": true,
@@ -1300,13 +1302,13 @@
     },
     "https://www.shifeiti.pro": {
       "repo": "i-abc/chatgpt-demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://shifeiti.pro": {
       "repo": "i-abc/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-iabc.vercel.app": {
@@ -1357,12 +1359,12 @@
     "https://www.lazyboy.top": {
       "repo": "songxff/chat",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://lazyboy.top": {
       "repo": "songxff/chat",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-songxff.vercel.app": {
@@ -1373,7 +1375,7 @@
     "https://chat.m1saka.eu.org": {
       "repo": "M1saka10010/chatgpt-web",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-web-misaka.vercel.app": {
@@ -1546,13 +1548,13 @@
     "https://gpt2.pedroz.eu.org": {
       "repo": "pzcn/gpt3",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.pedroz.eu.org": {
       "repo": "pzcn/gpt3",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://gpt3-pedroz.vercel.app": {
@@ -1633,7 +1635,7 @@
     "https://chatgpt-demo.ainetshop.com": {
       "repo": "owenilc/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-owenilc.vercel.app": {
@@ -1644,12 +1646,12 @@
     "https://www.gptcc.cc": {
       "repo": "jukebox133/chatgpt-cc3.5",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://gptcc.cc": {
       "repo": "jukebox133/chatgpt-cc3.5",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-qtcq.vercel.app": {
@@ -1660,7 +1662,7 @@
     "https://chat.ctcd.cc": {
       "repo": "chatmeetgpt/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-taupe.vercel.app": {
@@ -1691,7 +1693,7 @@
     "https://talk.xiu.ee": {
       "repo": "lifespy/chatgpt-demo",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-lifespy.vercel.app": {
@@ -1707,7 +1709,7 @@
     "https://chatgpt.lxzh.app": {
       "repo": "lxzh/chatgpt-demo",
       "title": "ChatGPT Smart assistant",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://ai.lpsee.com": {
@@ -1733,8 +1735,8 @@
     "https://chat.gptku.com": {
       "repo": "yorzi/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]connect ECONNREFUSED 179.60.193.16:443"
     },
     "https://chatgpt-demo-ruddy.vercel.app": {
       "needVPN": true,
@@ -1808,12 +1810,6 @@
       "repo": "wilsonmk/chatgpt",
       "title": "哈哈XD"
     },
-    "https://susu.email": {
-      "repo": "boysusu/chatgpt-demo",
-      "title": "ChatGPT Crawler",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND susu.email"
-    },
     "https://chatgpt-demo-boysusu.vercel.app": {
       "needVPN": true,
       "repo": "boysusu/chatgpt-demo",
@@ -1861,7 +1857,7 @@
       "repo": "skrleo/chatgpt",
       "desc": "402 - Payment Required",
       "title": "CoolChat",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-skrleo.vercel.app": {
@@ -1882,7 +1878,7 @@
     "https://chat.rmb.run": {
       "repo": "ljnchn/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://cnchat.vercel.app": {
@@ -1979,13 +1975,13 @@
     "https://scn.pandazki.im": {
       "repo": "pandazki/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://showcase.pandazki.im": {
       "repo": "pandazki/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-peach.vercel.app": {
@@ -1996,7 +1992,7 @@
     "https://chat.tradergalax.xyz": {
       "repo": "TraderGalax/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-rho.vercel.app": {
@@ -2017,14 +2013,14 @@
     "https://www.chatgpt123.fyi": {
       "repo": "xuxizhen/chatgpt-demo",
       "title": "ChatGPT123.FYI",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.lucascool.social": {
       "repo": "wanglz111/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
-      "errmsg": "[error][-1]connect ECONNREFUSED 103.246.246.144:443"
+      "needVerify": 6,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-one.vercel.app": {
       "needVPN": true,
@@ -2060,7 +2056,7 @@
       "repo": "quzard/chatgpt-demo",
       "title": "Docker",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-o9fu.vercel.app": {
@@ -2071,7 +2067,7 @@
     "https://chatgpt.jingbh.cloud": {
       "repo": "JingBh/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-jingbh.vercel.app": {
@@ -2138,7 +2134,7 @@
     "https://chat.gptly.net": {
       "repo": "jingyan/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-jingyan.vercel.app": {
@@ -2149,7 +2145,7 @@
     "https://chat.fcc.cm": {
       "repo": "sysnu/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-pink.vercel.app": {
@@ -2185,7 +2181,7 @@
     "https://chat.locationwith.com": {
       "repo": "anme3/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-gamma-azure.vercel.app": {
@@ -2224,7 +2220,7 @@
       "repo": "Wtko1/chatgpt-vercel",
       "desc": "ChatGPT",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-wtko1.vercel.app": {
@@ -2285,13 +2281,13 @@
     },
     "https://ytliu.top": {
       "repo": "Yaotian-Liu/chatgpt-vercel",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ytliu.top"
     },
     "https://www.ytliu.top": {
       "repo": "Yaotian-Liu/chatgpt-vercel",
       "title": "Yaotian  Liu",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]connect ECONNREFUSED 101.36.113.86:443"
     },
     "https://chatgpt-vercel-ebon.vercel.app": {
@@ -2384,13 +2380,13 @@
     "https://lyuhang.top": {
       "repo": "leonlyu1996/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.lyuhang.top": {
       "repo": "leonlyu1996/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-puce.vercel.app": {
@@ -2426,7 +2422,7 @@
       "repo": "YongMai/chatgpt-with-key",
       "needKey": 1,
       "title": "ChatGPT3.5 with your key",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-with-key.vercel.app": {
@@ -2503,7 +2499,7 @@
     "https://chat.leonas.dev": {
       "repo": "leonasdev/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-peach.vercel.app": {
@@ -2573,7 +2569,7 @@
     "https://gpt.toolkit.show": {
       "repo": "a1667834841/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-self.vercel.app": {
@@ -2595,7 +2591,7 @@
     "https://chatgpt.yuexun.me": {
       "repo": "ahonn/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-two.vercel.app": {
@@ -2677,7 +2673,7 @@
       "needKey": 1,
       "title": "Chat with GPT | Unofficial ChatGPT app",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.chatwithgpt.ai": {
@@ -2685,7 +2681,7 @@
       "title": "Chat with GPT | Unofficial ChatGPT app",
       "repo": "newmacoder/chat-with-gpt",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-foxmn.vercel.app": {
@@ -2780,7 +2776,7 @@
       "repo": "LovinHQ/chatgpt-vercel",
       "needKey": 1,
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-lovinhq.vercel.app": {
@@ -2935,13 +2931,6 @@
       "needVerify": 8,
       "errmsg": "[error][308]Permanent Redirect"
     },
-    "https://chatgpt.daysdream.top": {
-      "repo": "feihuobuzhun/chatgpt-vercel-1",
-      "desc": "ChatGPT",
-      "title": "404",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chatgpt.daysdream.top"
-    },
     "https://chatgpt1111-2.4everland.app": {
       "repo": "Easonyule/chatgpt",
       "needVerify": 8,
@@ -2955,7 +2944,7 @@
     "https://chatgpt.ago88.com": {
       "repo": "ago88/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-ago88.vercel.app": {
@@ -2992,7 +2981,7 @@
     "https://chatgpt.outshine.me": {
       "repo": "outshineamaze/chatgpt",
       "title": "ChatGPT For Outshine",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-outshineamaze.vercel.app": {
@@ -3069,18 +3058,18 @@
     "https://zhenghaoyun.cn": {
       "repo": "ZhengHaoYun/my-chatgpt",
       "title": "ChatGPT",
-      "needVerify": 5,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "needVerify": 6,
+      "errmsg": "[error][-1]connect ECONNREFUSED 130.211.15.150:443"
     },
     "https://www.zhenghaoyun.cn": {
       "repo": "ZhengHaoYun/my-chatgpt",
-      "needVerify": 6,
+      "needVerify": 7,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.zhenghaoyun.cn": {
       "repo": "ZhengHaoYun/my-chatgpt",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://my-chatgpt-eight.vercel.app": {
@@ -3131,7 +3120,7 @@
     "https://chat.exi.software": {
       "repo": "rowink/chatgpt-vercel",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-ai50.vercel.app": {
@@ -3198,7 +3187,7 @@
     "https://chatgpt.jerryfage.top": {
       "repo": "Jerry-FaGe/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://chatgpt-demo-aersasse.vercel.app": {
@@ -3224,13 +3213,13 @@
     "https://www.hoofthrower.com": {
       "repo": "InferenceAsia/chatgpt-vercel.1",
       "title": "ChatGPT",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.hoofthrower.com"
     },
     "https://hoofthrower.com": {
       "repo": "InferenceAsia/chatgpt-vercel.1",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND hoofthrower.com"
     },
     "https://aibus.vercel.app": {
       "needVPN": true,
@@ -3277,13 +3266,13 @@
     "https://chat.pedroz.app": {
       "repo": "pzcn/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.eryajf.net": {
       "repo": "eryajf/chatgpt-vercel",
       "desc": "",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://eryajf.vercel.app": {
@@ -3309,7 +3298,7 @@
     "https://chat.miantiao.me": {
       "repo": "ccbikai/chatgpt-demo",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-ccbikai.vercel.app": {
@@ -3330,12 +3319,12 @@
     "https://www.justrrry.xyz": {
       "repo": "alphafitz11/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://justrrry.xyz": {
       "repo": "alphafitz11/chatgpt-vercel",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-alphafitz11.vercel.app": {
@@ -3360,13 +3349,13 @@
     },
     "https://kais.live": {
       "repo": "switer/chatgpt-vercel",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.kais.live": {
       "repo": "switer/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-six-chi.vercel.app": {
@@ -3392,7 +3381,7 @@
     "https://kehangbio.com": {
       "repo": "snowords/chatgpt-muzz",
       "title": "Minesweeper",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-muzz.vercel.app": {
@@ -3483,17 +3472,17 @@
       "title": "ChatGPT"
     },
     "https://www.mulaen.com": {
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://gpt.sheepig.top/chat": {
       "title": "OpenAI",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://gpt.tool00.com": {
       "title": "AI免费中文公益版 - 提供GPT模型的实时聊天功能",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://hi.icu": {
@@ -3507,12 +3496,12 @@
     },
     "https://chat35.com/chat": {
       "title": "ChatGPT中文版 - Chat97.com",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.moyunav.com": {
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chater.lanyun1103.top": {
@@ -3543,7 +3532,7 @@
     "https://chat.cyihx.me": {
       "repo": "iHx-rainbow/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-ihx-rainbow.vercel.app": {
@@ -3598,7 +3587,7 @@
     "https://chatgpt.bowlofnoodles.top": {
       "repo": "bowlofnoodles/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-seven-wheat.vercel.app": {
@@ -3682,7 +3671,7 @@
       "repo": "one-ie/ONE",
       "hide": 9,
       "title": "ONE - Elevate With AI",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel21.vercel.app": {
@@ -3694,7 +3683,7 @@
       "repo": "ouxu/chatgpt-vercel",
       "title": "ChatGPT",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://chatgpt-vercel-ouxu.vercel.app": {
@@ -3710,7 +3699,7 @@
     "https://chat.tiabless.com": {
       "repo": "Arcsion/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-arcsion.vercel.app": {
@@ -3751,7 +3740,7 @@
     "https://gpt.exci.me": {
       "repo": "skylayer/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://gpt-ab7s.vercel.app": {
@@ -3835,13 +3824,13 @@
     },
     "https://luqman.chat": {
       "repo": "mansarip/chatgpt-demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.luqman.chat": {
       "repo": "mansarip/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatluqman.vercel.app": {
@@ -4040,7 +4029,7 @@
     "https://mygpt.moinkhao.me": {
       "repo": "H539251932/gpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://mygpt-jet.vercel.app": {
@@ -4071,7 +4060,7 @@
     "https://chat.e7.work": {
       "repo": "w1zard/chatgpt-vercel-1",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-tan.vercel.app": {
@@ -4102,13 +4091,13 @@
     },
     "https://chat4u.me": {
       "repo": "hanzhejia/chatgpt-vercel",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.chat4u.me": {
       "repo": "hanzhejia/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-hanzhejia.vercel.app": {
@@ -4141,7 +4130,7 @@
     "https://chat.internetip.cn": {
       "repo": "zttztztz/chatgpt-vercel",
       "title": "智能AI",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]connect ECONNREFUSED 43.156.104.190:443"
     },
     "https://chatgpt-vercel-zttztztz.vercel.app": {
@@ -4169,7 +4158,7 @@
     "https://chat.gow66.tech": {
       "repo": "GOWxx/chatgpt-vercel",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-yarray.vercel.app": {
@@ -4210,12 +4199,12 @@
     "https://www.rockyzhong.buzz": {
       "repo": "tramadolzz/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://rockyzhong.buzz": {
       "repo": "tramadolzz/chatgpt-demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-tramadolzz.vercel.app": {
@@ -4245,7 +4234,7 @@
       "repo": "deanxizian/chatgpt-demo",
       "title": "ChatGPT Demo",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-axingde.vercel.app": {
@@ -4261,7 +4250,7 @@
     "https://chatgpt.keke.cc": {
       "repo": "Bernankez/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-bernankez.vercel.app": {
@@ -4359,13 +4348,13 @@
     "https://gpt5.life": {
       "repo": "SXD727/chatgpt-vercel",
       "desc": "",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.gpt5.life": {
       "repo": "SXD727/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-tss-r.vercel.app": {
@@ -4512,13 +4501,13 @@
     "https://www.kernelgpt.uk": {
       "repo": "ljxw88/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://kernelgpt.uk": {
       "repo": "ljxw88/chatgpt-vercel",
       "desc": "",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-ljxw88.vercel.app": {
@@ -4926,13 +4915,13 @@
     "https://chatgpt.wole.gq": {
       "repo": "house100/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
-      "errmsg": "[error][-1]connect ECONNREFUSED 103.42.176.244:443"
+      "needVerify": 6,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat.wole.gq": {
       "repo": "house100/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-robot-two.vercel.app": {
@@ -5062,7 +5051,7 @@
     "https://chatgpt.lik.sale": {
       "repo": "songgq/chatgpt-demo",
       "title": "ChatGPT菠萝头AI",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-songgq.vercel.app": {
@@ -5079,7 +5068,7 @@
       "repo": "achieve-dream1221/chatgpt-demo",
       "title": "ChatGPT API Demo",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-online-yoyo-18181.vercel.app": {
@@ -5100,7 +5089,7 @@
     "https://chatgpt.davidweng.tk": {
       "repo": "thedavidweng/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-redfiue.vercel.app": {
@@ -5116,13 +5105,13 @@
     "https://www.ad1865.xyz": {
       "repo": "xiaobai9998/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://ad1865.xyz": {
       "repo": "xiaobai9998/chatgpt-vercel",
       "desc": "",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-roan-two.vercel.app": {
@@ -5230,7 +5219,7 @@
       "repo": "J1ight/chatgpt-vercel",
       "needKey": 1,
       "needPwd": 1,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.1ight.xyz": {
@@ -5238,7 +5227,7 @@
       "needKey": 1,
       "needPwd": 1,
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-aigc.vercel.app": {
@@ -5280,7 +5269,7 @@
     "https://chat.laughmetal.com": {
       "repo": "demonbug/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://demonbug-chat.vercel.app": {
@@ -5418,7 +5407,7 @@
     "https://chatgpt-vercel.ssiswent.cc": {
       "repo": "Ssiswent/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-ssiswent.vercel.app": {
@@ -5459,7 +5448,7 @@
     "https://gpg.icu": {
       "repo": "gooker/chatgpt-vercel",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-lookhang.vercel.app": {
@@ -5498,7 +5487,7 @@
       "repo": "cn720map/chatgpt-vercel",
       "title": "ChatGPT",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-giscloud.vercel.app": {
@@ -5520,12 +5509,6 @@
       "needVPN": true,
       "repo": "cookbear/chatgpt-vercel",
       "title": "ChatGPT"
-    },
-    "https://chatgpt.linjuorange.top": {
-      "repo": "yitizi/ourongxing-chatgpt-vercel",
-      "title": "ChatGPT",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chatgpt.linjuorange.top"
     },
     "https://ourongxing-chatgpt-vercel.vercel.app": {
       "needVPN": true,
@@ -5555,7 +5538,7 @@
     "https://vercel.onlybot.club": {
       "repo": "yuezy3/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-yuezy3.vercel.app": {
@@ -5566,7 +5549,7 @@
     "https://chat2.ikun99.cf": {
       "repo": "fangyuan99/fygpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://fygpt-vercel.vercel.app": {
@@ -5882,7 +5865,7 @@
     "https://chatgpt.panxox.xyz": {
       "repo": "panxox/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-lllxh.vercel.app": {
@@ -5966,7 +5949,7 @@
     "https://dev-chat.zhuscat.com": {
       "repo": "zhuscat/chatgpt-vercel",
       "title": "ChatBot",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-zhuscat.vercel.app": {
@@ -6448,7 +6431,7 @@
       "repo": "sulishi0327/chatgpt-demo_for-",
       "title": "ChatGPT API Demo",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.kcalb.wang": {
@@ -6545,7 +6528,7 @@
     "https://chat.weifu.host": {
       "repo": "waferwong/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-v-theta.vercel.app": {
@@ -6627,7 +6610,7 @@
       "repo": "gyhui1019/chatplay",
       "title": "ChatGPT 3.5",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://chatgpt-vercel-rho-virid.vercel.app": {
@@ -6697,13 +6680,13 @@
     },
     "https://heshaobin.top": {
       "repo": "he1215894612/chatgpt-vercel",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.heshaobin.top": {
       "repo": "he1215894612/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-two-swart.vercel.app": {
@@ -6802,13 +6785,13 @@
     },
     "https://msu.best": {
       "repo": "YUAN-DL/chatgpt-vercel",
-      "needVerify": 5,
-      "errmsg": "[error][-1]connect ECONNREFUSED 162.125.32.13:443"
+      "needVerify": 6,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.msu.best": {
       "repo": "YUAN-DL/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-yuan-dl.vercel.app": {
@@ -6981,7 +6964,7 @@
     "https://test.nekoko.top": {
       "repo": "bamboo512/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://vlvlupogsvmmwcssjjpkhtxwtjpvay.vercel.app": {
@@ -7043,7 +7026,7 @@
       "invalid": 1,
       "repo": "meifatang/chat",
       "title": "Chat",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-pi-rust.vercel.app": {
@@ -7060,7 +7043,7 @@
     "https://www.timely-rain.top": {
       "repo": "1299608167/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://timely2-1299608167.vercel.app": {
@@ -7081,7 +7064,7 @@
     "https://www.dsssc.top": {
       "repo": "dsssc/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-dsssc.vercel.app": {
@@ -7188,7 +7171,7 @@
     "https://chatgpt3.fun": {
       "title": "ChatGPT Pro",
       "desc": "需关注公众号获取授权码",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.aitoolgpt.com": {
@@ -7205,7 +7188,7 @@
     "https://gpt.xt98.xyz": {
       "repo": "woshixuantao/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-woshixuantao.vercel.app": {
@@ -7505,7 +7488,7 @@
     "https://gpt.hopequan.com": {
       "repo": "zmingchun/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.ciit.ltd": {
@@ -7564,7 +7547,7 @@
     "https://chat3.fy99.cf": {
       "repo": "fangyuan99/fyGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-ashinwu.vercel.app": {
@@ -7622,13 +7605,13 @@
     "https://www.keco.tk": {
       "repo": "Kuron88/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]connect ECONNREFUSED 103.42.176.244:443"
     },
     "https://keco.tk": {
       "repo": "Kuron88/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-kuron88.vercel.app": {
@@ -7644,7 +7627,7 @@
     "https://gpt.166266366.xyz": {
       "repo": "doudoupower/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-doudoupower.vercel.app": {
@@ -7656,7 +7639,7 @@
       "repo": "EricYangXD/ChatGPT-Next",
       "needPwd": 1,
       "title": "ChatGPT Next Web",
-      "needVerify": 6,
+      "needVerify": 7,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-next-ericyangxd.vercel.app": {
@@ -7678,12 +7661,12 @@
     "https://www.nununu.net": {
       "repo": "kcity/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://nununu.net": {
       "repo": "kcity/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://k-gpt-kcity.vercel.app": {
@@ -7724,8 +7707,8 @@
     "https://chat.marlonlu.cn": {
       "repo": "marlonlu/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "needVerify": 6,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-marlonlu.vercel.app": {
       "needVPN": true,
@@ -7735,7 +7718,7 @@
     "https://dataweng.com": {
       "repo": "ymma/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-ymma.vercel.app": {
@@ -7766,23 +7749,18 @@
     "https://www.dfsqs.com": {
       "repo": "varwav/realchat",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
-    },
-    "https://dfsqs.com": {
-      "repo": "varwav/realchat",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND dfsqs.com"
     },
     "https://dd299.life": {
       "repo": "DeeWooo/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.dd299.life": {
       "repo": "DeeWooo/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-deewooo.vercel.app": {
@@ -7931,7 +7909,7 @@
     "https://x.chen.rs": {
       "repo": "abisuq/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-abisuq.vercel.app": {
@@ -7942,7 +7920,7 @@
     "https://chat.iosshop.xyz": {
       "repo": "lymesh/ChatGPT-Next-Web-1",
       "title": "ChatGPT 探索分享",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-tansuo.vercel.app": {
@@ -8224,7 +8202,7 @@
     "https://chat.xiaobubu.asia": {
       "repo": "bigbubu233/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-bigbubu233.vercel.app": {
@@ -8297,7 +8275,7 @@
     "https://gpt.selfshepherd.site": {
       "repo": "self-shepherd/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-burgertown.vercel.app": {
@@ -8384,13 +8362,13 @@
     "https://www.yaozheng.men": {
       "repo": "ErikYaoZ/ChatGPT-Next-Web-Railway",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://yaozheng.men": {
       "repo": "ErikYaoZ/ChatGPT-Next-Web-Railway",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-railway.vercel.app": {
@@ -8436,7 +8414,7 @@
     "https://chat.tobyqin.cn": {
       "repo": "tobyqin/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-tobyqin.vercel.app": {
@@ -8462,7 +8440,7 @@
     "https://web.lnk4all.com": {
       "repo": "heeyfan/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://itsfan115.vercel.app": {
@@ -8557,7 +8535,7 @@
     "https://llm.i207m.top": {
       "repo": "i207M/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-blond-xi-35.vercel.app": {
@@ -8567,13 +8545,13 @@
     },
     "https://chatdage.com": {
       "repo": "lileiaa/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.chatdage.com": {
       "repo": "lileiaa/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-lileiaa.vercel.app": {
@@ -8715,7 +8693,7 @@
     "https://gpt.nyanners.moe": {
       "repo": "X-Zero-L/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-x-zero-l.vercel.app": {
@@ -8812,7 +8790,7 @@
     "https://chat.iecho.cc": {
       "repo": "nonPointer/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-ebon-beta.vercel.app": {
@@ -9010,7 +8988,7 @@
     "https://chat.kimwong.me": {
       "repo": "kimw/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-next-web-kimw.vercel.app": {
@@ -9067,7 +9045,7 @@
     "https://chat.doctoroyy.net": {
       "repo": "doctoroyy/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://hello-chatgpt.vercel.app": {
@@ -9103,7 +9081,7 @@
     "https://chat.xwls.eu.org": {
       "repo": "xwls/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-xwls.vercel.app": {
@@ -9191,7 +9169,7 @@
     "https://chat.slouch.top": {
       "repo": "Uuclear/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-uuclear.vercel.app": {
@@ -9267,8 +9245,8 @@
       "title": "ChatGPT Next Web",
       "invalid": 1,
       "needKey": 1,
-      "needVerify": 7,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "needVerify": 8,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-sepia.vercel.app": {
       "needVPN": true,
@@ -9331,7 +9309,7 @@
     "https://chatgpt.mnnm.tech": {
       "repo": "dydong/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-dyd.vercel.app": {
@@ -9392,7 +9370,7 @@
     "https://chat.xizhibei.me": {
       "repo": "xizhibei/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-xizhibei.vercel.app": {
@@ -9438,7 +9416,7 @@
     "https://chat.zhuanjie.ltd": {
       "repo": "Zhuanjier/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-zhuanjier.vercel.app": {
@@ -9487,7 +9465,7 @@
     "https://chat.nidu.fun": {
       "repo": "akiisan/ChatGPT-Next-Web-1",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-web-livid.vercel.app": {
@@ -9579,8 +9557,8 @@
     "https://chatgpt.woc.moe": {
       "repo": "jmglsi/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]connect ECONNREFUSED 103.246.246.144:443"
     },
     "https://chatgpt-jmglsi.vercel.app": {
       "needVPN": true,
@@ -9646,7 +9624,7 @@
     "https://robot.suebi.top": {
       "repo": "Martinix99/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-jade-alpha.vercel.app": {
@@ -9822,7 +9800,7 @@
     "https://chatgpt.cros3hadow.org": {
       "repo": "Ynewtime/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-ynewtime.vercel.app": {
@@ -9834,14 +9812,14 @@
       "needKey": 1,
       "repo": "genzj/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.chen.lu": {
       "repo": "genzj/ChatGPT-Next-Web",
       "needKey": 1,
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-genzj.vercel.app": {
@@ -9884,15 +9862,15 @@
       "needKey": 1,
       "repo": "abrahamgreyson/gpt-web",
       "title": "刘阳的 ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.abrahamgreyson.me": {
       "needKey": 1,
       "repo": "abrahamgreyson/gpt-web",
       "title": "刘阳的 ChatGPT",
-      "needVerify": 5,
-      "errmsg": "[error][-1]connect ECONNREFUSED 108.160.167.174:443"
+      "needVerify": 6,
+      "errmsg": "[error][-1]timeout"
     },
     "https://gpt-web-mu.vercel.app": {
       "needVPN": true,
@@ -9903,7 +9881,7 @@
     "https://chat.w630.cc": {
       "repo": "ccw630/ChatGPT-Next-Web",
       "title": "ChatGPT Private Limited - ccw",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-ccw630.vercel.app": {
@@ -9929,12 +9907,12 @@
     "https://www.gabrlie.online": {
       "repo": "Gabrlie/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]connect ECONNREFUSED 130.211.15.150:443"
     },
     "https://gabrlie.online": {
       "repo": "Gabrlie/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-gabrlie.vercel.app": {
@@ -10165,7 +10143,7 @@
       "desc": "key 已失效",
       "repo": "jiangpinghsu/ChatGPT-Next-Web",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-orpin-iota.vercel.app": {
@@ -10202,7 +10180,7 @@
       "needKey": 1,
       "repo": "galendai/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-galendai.vercel.app": {
@@ -10240,7 +10218,7 @@
     "https://chat.vanav.eu.org": {
       "repo": "KmBase/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-junlai.vercel.app": {
@@ -10322,14 +10300,14 @@
       "repo": "Scenx/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
       "needPwd": 1,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://iam.customgroup.icu": {
       "repo": "Scenx/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
       "needPwd": 1,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-scenx.vercel.app": {
@@ -10356,7 +10334,7 @@
     "https://vercel-gpt.gkirito.com": {
       "repo": "youaremywind/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-xi-lovat.vercel.app": {
@@ -10438,7 +10416,7 @@
       "needKey": 1,
       "repo": "casemaka/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-next-web-taupe.vercel.app": {
@@ -10481,7 +10459,7 @@
     "https://chat.laizn.com": {
       "repo": "lonelam/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-lonelam.vercel.app": {
@@ -10507,7 +10485,7 @@
     "https://chatgpt-next.aab.icu": {
       "repo": "lybil/ChatGPT-Next-Web-1",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-1-lybil.vercel.app": {
@@ -10518,7 +10496,7 @@
     "https://gpt.demochen.com": {
       "repo": "helloChenLei/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-forestchen06-gmailcom.vercel.app": {
@@ -10655,7 +10633,7 @@
       "needKey": 1,
       "repo": "thinktip/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-tomsux.vercel.app": {
@@ -10727,7 +10705,7 @@
     "https://openai.juzi.in": {
       "repo": "ccchan/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-xi-dusky.vercel.app": {
@@ -10758,7 +10736,7 @@
     "https://gpt.ppqq.me": {
       "repo": "qianphong/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-qianphong.vercel.app": {
@@ -10809,7 +10787,7 @@
     "https://chat.walletong.win": {
       "repo": "yolylight/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-yolylight.vercel.app": {
@@ -10835,8 +10813,8 @@
     "https://magic2.defiweb3.games": {
       "repo": "magiconch/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]connect ECONNREFUSED 4.78.139.50:443"
     },
     "https://chat-gpt-next-web-cjpb.vercel.app": {
       "needVPN": true,
@@ -10901,7 +10879,7 @@
     "https://chat.visualzhou.com": {
       "repo": "visualzhou/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-visualzhou.vercel.app": {
@@ -10927,7 +10905,7 @@
     "https://doraemon.hosealle.cloud": {
       "repo": "jjhhyyg/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-six-rose.vercel.app": {
@@ -10960,7 +10938,7 @@
       "needKey": 1,
       "needPwd": 1,
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-web-ccinoo.vercel.app": {
@@ -10989,7 +10967,7 @@
     "https://gpt.chenliang.org": {
       "repo": "leonfancy/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://liang-gpt.vercel.app": {
@@ -11040,7 +11018,7 @@
     "https://chatgpt.orcas.link": {
       "repo": "Antake2333/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-antake2333.vercel.app": {
@@ -11056,7 +11034,7 @@
     "https://chatgpt.erichub.xyz": {
       "repo": "ericzhoujh/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-lac-pi-25.vercel.app": {
@@ -11072,7 +11050,7 @@
     "https://chatgpt.allprompt.org": {
       "repo": "wqbyc/ChatGPT-Web",
       "title": "ChatGPT WebUI",
-      "needVerify": 6,
+      "needVerify": 7,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-web-wqbyc.vercel.app": {
@@ -11206,7 +11184,7 @@
       "needKey": 1,
       "needPwd": 1,
       "title": "Ai Health",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-1-mipang.vercel.app": {
@@ -11241,7 +11219,7 @@
       "needKey": 1,
       "needPwd": 1,
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.artifidea.com": {
@@ -11249,8 +11227,8 @@
       "needKey": 1,
       "needPwd": 1,
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]connect ECONNREFUSED 31.13.69.245:443"
+      "needVerify": 6,
+      "errmsg": "[error][-1]connect ECONNREFUSED 179.60.193.16:443"
     },
     "https://chat-gpt-next-web-surgit.vercel.app": {
       "needVPN": true,
@@ -11267,7 +11245,7 @@
     "https://chat.owen666.top": {
       "repo": "mgcseop/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-mgcseop.vercel.app": {
@@ -11325,7 +11303,7 @@
       "needPwd": 1,
       "repo": "s1mcode/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-theta-murex.vercel.app": {
@@ -11353,7 +11331,7 @@
     "https://chatgpt.liukaiqi.cn": {
       "repo": "NicolasLiu/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-nicolasliu1.vercel.app": {
@@ -11376,7 +11354,7 @@
       "needKey": 1,
       "needPwd": 1,
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-app4ai.vercel.app": {
@@ -11431,7 +11409,7 @@
     "https://chat.zuomu.org": {
       "repo": "ElooonMusk/ChatGPT_Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-oever.vercel.app": {
@@ -11469,7 +11447,7 @@
     "https://chat.zgu9.one": {
       "repo": "zgu9/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-zgu9.vercel.app": {
@@ -11492,7 +11470,7 @@
       "needKey": 1,
       "needPwd": 1,
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-hljpeter.vercel.app": {
@@ -11608,7 +11586,7 @@
     "https://chatweb.intoodoo.com": {
       "repo": "ccdos/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-ccdos.vercel.app": {
@@ -11630,14 +11608,6 @@
       "needVPN": true,
       "repo": "mrwh85/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
-    },
-    "https://chat.95wolf.buzz": {
-      "repo": "scyslz/ChatGPT-Next-Web",
-      "needKey": 1,
-      "needPwd": 1,
-      "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.95wolf.buzz"
     },
     "https://chat-gpt-next-web-scyslz.vercel.app": {
       "needVPN": true,
@@ -11784,12 +11754,12 @@
     "https://www.gogpt.online": {
       "repo": "margox/ChatGPT-Next-Web",
       "title": "Go ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://gogpt.online": {
       "repo": "margox/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-margox.vercel.app": {
@@ -11800,7 +11770,7 @@
     "https://gpt.yujian.icu": {
       "repo": "YuJian920/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-yujian920.vercel.app": {
@@ -11892,7 +11862,7 @@
       "needKey": 1,
       "needPwd": 1,
       "repo": "CharlesCCC/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.charlesc.ai": {
@@ -11900,7 +11870,7 @@
       "needPwd": 1,
       "repo": "CharlesCCC/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-charlesccc.vercel.app": {
@@ -11926,12 +11896,12 @@
     "https://nenesoft.live": {
       "repo": "nenenene0721/ChatGPT-Next-Web",
       "title": "NeneGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.nenesoft.live": {
       "repo": "nenenene0721/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-nenenene0721.vercel.app": {
@@ -11987,7 +11957,7 @@
     "https://chatgpt.junjiewen.com": {
       "repo": "jackwen/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-jackwen.vercel.app": {
@@ -12024,13 +11994,13 @@
     },
     "https://yatoooon.ltd": {
       "repo": "yatoooon/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.yatoooon.ltd": {
       "repo": "yatoooon/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-red-xi.vercel.app": {
@@ -12100,7 +12070,7 @@
     "https://chatgpt.yuanx.me": {
       "repo": "imyuanx/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-yuanx.vercel.app": {
@@ -12144,7 +12114,7 @@
       "desc": "key 已失效",
       "repo": "ltlt999/ChatGPT-Next-Web-1",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-1-ochre.vercel.app": {
@@ -12155,7 +12125,7 @@
     "https://chatgpt.lioy3.me": {
       "repo": "lioY3/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-lioy3.vercel.app": {
@@ -12178,14 +12148,14 @@
       "needPwd": 1,
       "repo": "hutao562/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://aitao.live": {
       "needKey": 1,
       "needPwd": 1,
       "repo": "hutao562/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-tao-web.vercel.app": {
@@ -12200,7 +12170,7 @@
     "https://chat.redhut.eu.org": {
       "repo": "opzede/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-zedeq.vercel.app": {
@@ -12220,13 +12190,13 @@
     },
     "https://www.yuistar.eu.org": {
       "repo": "qinastar/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://yuistar.eu.org": {
       "repo": "qinastar/ChatGPT-Next-Web",
       "title": "YuiChat",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-qinastar.vercel.app": {
@@ -12242,7 +12212,7 @@
     "https://chatgpt.ntlx.top": {
       "repo": "NTLx/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 6,
+      "needVerify": 7,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-lx3325360.vercel.app": {
@@ -12253,7 +12223,7 @@
     "https://zhishi.one": {
       "repo": "zhanglunet/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-zhanglunet.vercel.app": {
@@ -12314,7 +12284,7 @@
     "https://chatgpt.oyas-nano.com": {
       "repo": "tonywu2518/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-tonywu2518.vercel.app": {
@@ -12415,7 +12385,7 @@
     "https://gpt.pkuphy.com": {
       "repo": "pkuphy/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-timcook0358.vercel.app": {
@@ -12431,7 +12401,7 @@
     "https://chat.zyxianzi.moe": {
       "repo": "ZyXianzi/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-zyxianzi.vercel.app": {
@@ -12505,7 +12475,7 @@
     "https://gpt.irss.eu.org": {
       "repo": "ithou/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-pinerphil.vercel.app": {
@@ -12526,7 +12496,7 @@
     "https://www.xdliang123.xyz": {
       "repo": "zhongyi-byte/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-five-opal.vercel.app": {
@@ -12539,7 +12509,7 @@
       "needPwd": 1,
       "repo": "lzl/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-lzl.vercel.app": {
@@ -12605,12 +12575,12 @@
     "https://www.fengyan.co": {
       "repo": "chenwynn/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://fengyan.co": {
       "repo": "chenwynn/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-ten-sigma.vercel.app": {
@@ -12641,7 +12611,7 @@
     "https://loveai.site": {
       "repo": "Koreyhan/ChatGPT",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-koreyhan.vercel.app": {
@@ -12672,7 +12642,7 @@
     "https://chat.dofun.tech": {
       "repo": "rinex20/ChatGPT-Next-Web-1",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-1-xi.vercel.app": {
@@ -12723,7 +12693,7 @@
     "https://chat.landon.li": {
       "repo": "LandonLi/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-landonli.vercel.app": {
@@ -12744,8 +12714,8 @@
     "https://gpt.elliclee.com": {
       "repo": "elliclee/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]connect ECONNREFUSED 103.246.246.144:443"
     },
     "https://chat-gpt-next-web-pub.vercel.app": {
       "needVPN": true,
@@ -12801,12 +12771,12 @@
     "https://www.nonchalantlyunparagoned.asia": {
       "repo": "dumbcoder42/CNW",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://nonchalantlyunparagoned.asia": {
       "repo": "dumbcoder42/CNW",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-dumbcoder42.vercel.app": {
@@ -12835,7 +12805,7 @@
     },
     "https://chat.onking.fun": {
       "repo": "MyZest/teach-anything",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://mychatgpt-ruddy.vercel.app": {
@@ -12846,8 +12816,8 @@
       "repo": "CodesBolt/teach-anything",
       "title": "Teach Anything",
       "hide": 9,
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND futurewei.tech"
     },
     "https://teach-anything-khaki.vercel.app": {
       "needVPN": true,
@@ -12928,7 +12898,7 @@
       "repo": "chunboss/chatgpt-4",
       "title": "抱歉，站点已暂停",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-cnscccc.vercel.app": {
@@ -13034,7 +13004,7 @@
     "https://op.edgenetcast.com": {
       "repo": "jUstHaa/ChatGPT-1",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-1-gules.vercel.app": {
@@ -13070,7 +13040,7 @@
     "https://chat-with-me.uniori.xyz": {
       "repo": "bronya5th/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-uniori.vercel.app": {
@@ -13126,7 +13096,7 @@
     "https://404find.me": {
       "repo": "Achieve777/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-rouge-pi.vercel.app": {
@@ -13192,8 +13162,8 @@
     "https://chat.solodu.com": {
       "repo": "ttluts/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]connect ECONNREFUSED 179.60.193.16:443"
     },
     "https://chat-gpt-next-web-zebradu.vercel.app": {
       "needVPN": true,
@@ -13243,13 +13213,13 @@
     "https://baxi.rocks": {
       "repo": "introject/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.baxi.rocks": {
       "repo": "introject/ChatGPT-Next-Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]connect ECONNREFUSED 103.246.246.144:443"
     },
     "https://chat-gpt-next-web-introject.vercel.app": {
       "needVPN": true,
@@ -13324,7 +13294,7 @@
     "https://gpt.kitkong.xyz": {
       "repo": "nvmmonkey/My-Next-ChatGPT",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://my-next-chat-gpt-nvmmonkey.vercel.app": {
@@ -13391,7 +13361,7 @@
     "https://chatgpt.cly.life": {
       "repo": "Changshengsheng/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-iota-sable.vercel.app": {
@@ -13444,7 +13414,7 @@
     "https://ai.16661905.xyz": {
       "repo": "pluto1997yang/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://ryosuke.vercel.app": {
@@ -13485,7 +13455,7 @@
     "https://chat.wyih.net": {
       "repo": "wyih/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-wyih.vercel.app": {
@@ -13586,7 +13556,7 @@
     "https://chat.hktkdy.com": {
       "repo": "zhangolve/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-2-zhangolve.vercel.app": {
@@ -13817,7 +13787,7 @@
     "https://chat.rano.ltd": {
       "repo": "ztelliot/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://ad690a93-73a4-495c-bb95-be13ed1633ba-ztelliot.vercel.app": {
@@ -13838,12 +13808,12 @@
     "https://xiaodengchat.xyz": {
       "repo": "NeilDengg/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.xiaodengchat.xyz": {
       "repo": "NeilDengg/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-neildengg.vercel.app": {
@@ -13884,7 +13854,7 @@
     "https://chatgpt.ionia.lol": {
       "repo": "bingoYB/ChatGPT-Next-Web-1",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-bingoyb.vercel.app": {
@@ -13955,14 +13925,14 @@
     "https://www.3688.bio": {
       "needKey": 1,
       "repo": "asyuan/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://3688.bio": {
       "needKey": 1,
       "repo": "asyuan/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-asyuan.vercel.app": {
@@ -14003,7 +13973,7 @@
     "https://gpt.gitshuo.com": {
       "repo": "jmu/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-jmu.vercel.app": {
@@ -14029,12 +13999,12 @@
     "https://cham.pub": {
       "repo": "kiwiit/ChatGPT-Next-Web-1",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.cham.pub": {
       "repo": "kiwiit/ChatGPT-Next-Web-1",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-kiwiit.vercel.app": {
@@ -14045,7 +14015,7 @@
     "https://gpt.eamclan.com": {
       "repo": "zsutomato/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-zsutomato.vercel.app": {
@@ -14082,7 +14052,7 @@
     "https://chat.shuishui.dev": {
       "repo": "shuishuiwawa/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://gptpessoal-pedroserigy.vercel.app": {
@@ -14114,7 +14084,7 @@
     "https://next.wio.me": {
       "repo": "mindcont/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-mindcont.vercel.app": {
@@ -14195,7 +14165,7 @@
     "https://chat.zzzytd.top": {
       "repo": "zzywcjagn/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-six-nu.vercel.app": {
@@ -14275,7 +14245,7 @@
       "needPwd": 1,
       "repo": "magicnight/Chaos-GPT",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chaos-gpt.vercel.app": {
@@ -14655,14 +14625,14 @@
       "needPwd": 1,
       "repo": "Ericforce/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.luvul.me": {
       "needKey": 1,
       "needPwd": 1,
       "repo": "Ericforce/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-ericforce.vercel.app": {
@@ -14789,7 +14759,7 @@
       "needPwd": 1,
       "repo": "ERCB/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-erc.vercel.app": {
@@ -14959,7 +14929,7 @@
       "needPwd": 1,
       "repo": "Timeo/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-timeo1.vercel.app": {
@@ -14983,22 +14953,6 @@
       "repo": "kidcvs/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
-    "https://chat-cf.xtuly.cn": {
-      "needKey": 1,
-      "needPwd": 1,
-      "repo": "Ylarod/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat-cf.xtuly.cn"
-    },
-    "https://chat.xtuly.cn": {
-      "needKey": 1,
-      "needPwd": 1,
-      "repo": "Ylarod/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.xtuly.cn"
-    },
     "https://chat-gpt-next-web-ylarod.vercel.app": {
       "needKey": 1,
       "needPwd": 1,
@@ -15011,7 +14965,7 @@
       "needPwd": 1,
       "repo": "zhangchi19/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-y7qj.vercel.app": {
@@ -15229,7 +15183,7 @@
       "needPwd": 1,
       "repo": "scans/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-coolcwift.vercel.app": {
@@ -15302,14 +15256,6 @@
       "repo": "Kled-Skaarl/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
-    "https://www.edgeplan.top": {
-      "needKey": 1,
-      "needPwd": 1,
-      "repo": "Femoon/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.edgeplan.top"
-    },
     "https://chat-gpt-next-web-femoon.vercel.app": {
       "needKey": 1,
       "needPwd": 1,
@@ -15328,7 +15274,7 @@
       "needKey": 1,
       "needPwd": 1,
       "repo": "betgo/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://5805801.xyz": {
@@ -15336,7 +15282,7 @@
       "needPwd": 1,
       "repo": "betgo/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-betgo.vercel.app": {
@@ -15423,7 +15369,7 @@
       "needPwd": 1,
       "repo": "origamirabbit/C-N-W-D",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.forriver.net": {
@@ -15431,7 +15377,7 @@
       "needPwd": 1,
       "repo": "origamirabbit/C-N-W-D",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://ai.jxyp.cc": {
@@ -15439,7 +15385,7 @@
       "needPwd": 1,
       "repo": "fengcharles/ChatGPT-Next-Web-latest",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-latest-ten.vercel.app": {
@@ -15475,7 +15421,7 @@
       "needPwd": 1,
       "repo": "Nervdy/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://chat-gpt-next-web-nervdy.vercel.app": {
@@ -15490,7 +15436,7 @@
       "needPwd": 1,
       "repo": "hysios/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-hysios.vercel.app": {
@@ -15511,7 +15457,7 @@
       "needKey": 1,
       "needPwd": 1,
       "repo": "i5ea/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://jupt.cc": {
@@ -15519,7 +15465,7 @@
       "needPwd": 1,
       "repo": "i5ea/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://xiaopp.vercel.app": {
@@ -15597,13 +15543,13 @@
     },
     "https://cheapxyzs.online": {
       "repo": "xingstarx/chatgpt-vercel",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.cheapxyzs.online": {
       "repo": "xingstarx/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-xi-red.vercel.app": {
@@ -16168,7 +16114,7 @@
       "needPwd": 1,
       "repo": "moneydwei/ChatGPT-Next-Web-1",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://jingmu-moneydwei.vercel.app": {
@@ -16183,14 +16129,14 @@
       "needPwd": 1,
       "repo": "asdfunl/ChatGPT-Next-Web",
       "title": "ChatMao-cy",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://duruo.cyou": {
       "needKey": 1,
       "needPwd": 1,
       "repo": "asdfunl/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.chat222.asia": {
@@ -16198,7 +16144,7 @@
       "needPwd": 1,
       "repo": "asdfunl/ChatGPT-Next-Web",
       "title": "敬恒CHATGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat222.asia": {
@@ -16206,7 +16152,7 @@
       "needPwd": 1,
       "repo": "asdfunl/ChatGPT-Next-Web",
       "title": "量化管理后台",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-asdfunl.vercel.app": {
@@ -16386,12 +16332,12 @@
     "https://www.lynngpt.club": {
       "repo": "hilynnxiong/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://lynngpt.club": {
       "repo": "hilynnxiong/chatgpt-vercel",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://lynngpt.vercel.app": {
@@ -16477,7 +16423,7 @@
       "needPwd": 1,
       "repo": "wylu/chatgpt",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://ChatGPTByAlexYY.vercel.app": {
@@ -16492,7 +16438,7 @@
       "needPwd": 1,
       "repo": "bihu88/ChatAres-Web",
       "title": "ChatAres Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://blog.zhuliansoft.com": {
@@ -16549,7 +16495,7 @@
       "repo": "hiiruki/chatgpt-web",
       "title": "ChatGPT Web",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-hiiruki.vercel.app": {
@@ -16632,7 +16578,7 @@
       "needKey": 1,
       "needPwd": 1,
       "repo": "pasonx/ChatGPT-Next-Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-service.vercel.app": {
@@ -16681,7 +16627,7 @@
     "https://zoujinfa.me": {
       "repo": "zoujfgit/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-five-pi.vercel.app": {
@@ -16716,7 +16662,7 @@
     "https://chat.kirito.life": {
       "repo": "kirito718/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-one-lime.vercel.app": {
@@ -16794,7 +16740,7 @@
       "needPwd": 1,
       "repo": "real-jiakai/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-gpt-next-web-52lxcloud.vercel.app": {
@@ -17128,20 +17074,12 @@
       "repo": "CoCo-yyds/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web"
     },
-    "https://chat.thatcoder.cn": {
-      "needKey": 1,
-      "needPwd": 1,
-      "repo": "ThatCoders/ChatGPT-Next-Web",
-      "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.thatcoder.cn"
-    },
     "https://chat.yunwuu.com": {
       "needKey": 1,
       "needPwd": 1,
       "repo": "yunwuu/ChatGPT-Next-Web",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-lime-tau.vercel.app": {
@@ -17174,7 +17112,7 @@
       "needPwd": 1,
       "repo": "bentwnghk/ChatGPT-Next-Web",
       "title": "Docker",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://z-chat-three.vercel.app": {
@@ -17328,7 +17266,7 @@
     "https://robot.kahao360.com": {
       "repo": "qw860862/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-pi-ebon.vercel.app": {
@@ -17407,9 +17345,7 @@
       "source": "recommend",
       "title": "Xmind Copilot",
       "needLogin": 1,
-      "desc": "Xmind Copilot 思维导图 AI 助手",
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "desc": "Xmind Copilot 思维导图 AI 助手"
     },
     "https://chatgpt-demo-two-pink.vercel.app": {
       "needVPN": true,
@@ -17480,7 +17416,7 @@
     "https://chat.nide.app": {
       "repo": "sunsulei/chatgpt-demo",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-sunsulei.vercel.app": {
@@ -17554,7 +17490,7 @@
     },
     "https://chat.sheg.eu.org": {
       "repo": "wddxg/chatgpt-vercel",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-ykonly.vercel.app": {
@@ -17590,7 +17526,7 @@
     "https://7o5.fun": {
       "repo": "gudao7/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-gudao7.vercel.app": {
@@ -17611,12 +17547,12 @@
     "https://www.chatmeta.top": {
       "repo": "Meta217/chatgpt-vercel",
       "title": "ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatmeta.top": {
       "repo": "Meta217/chatgpt-vercel",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-vercel-seven-khaki.vercel.app": {
@@ -17663,8 +17599,8 @@
       "repo": "choirulanwar/chatgpt",
       "title": "ChatGPT API Demo",
       "hide": 9,
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chatgpt.choirulanwar.com"
     },
     "https://chatgpt-seven-lilac.vercel.app": {
       "needVPN": true,
@@ -17736,12 +17672,12 @@
     "https://www.ylychatgpt.chat": {
       "repo": "MasonYang07/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://ylychatgpt.chat": {
       "repo": "MasonYang07/chatgpt-demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-qudancao.vercel.app": {
@@ -17758,14 +17694,8 @@
       "repo": "shiqixixixi/chatgpt-demo",
       "title": "ChatGPT API Demo",
       "hide": 9,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
-    },
-    "https://chatgpt-vercel.ityxx.net": {
-      "repo": "shiqixixixi/chatgpt-vercel",
-      "hide": 9,
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chatgpt-vercel.ityxx.net"
     },
     "https://www.mychat.icu": {
       "repo": "CVEngineer66/chatgpt-vercel",
@@ -17803,7 +17733,7 @@
     "https://chatgpt-yyds.fun": {
       "repo": "hezhenwen502/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://my-chatgpt-demo-coral.vercel.app": {
@@ -17814,7 +17744,7 @@
     "https://gpt.bactive.bio": {
       "repo": "maxturning/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://gpt-demo-w17a.vercel.app": {
@@ -17888,13 +17818,6 @@
       "repo": "Lcy23/chatgpt-demo",
       "title": "ChatGPT API Demo"
     },
-    "https://chat2.lizhe.io": {
-      "hide": 9,
-      "repo": "lizhe2004/chatgpt-demo",
-      "title": "ChatGPT API Demo",
-      "needVerify": 5,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://lz-chatgpt-demo.vercel.app": {
       "needVPN": true,
       "repo": "lizhe2004/chatgpt-demo",
@@ -17923,35 +17846,10 @@
       "needVerify": 8,
       "errmsg": "[error][-1]connect ECONNREFUSED 150.158.141.18:443"
     },
-    "https://demo.limly.eu.org": {
-      "hide": 9,
-      "repo": "qumoptly/chatgpt-demo",
-      "title": "ChatGPT API Demo",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND demo.limly.eu.org"
-    },
     "https://chatgpt-demo-qumoptly.vercel.app": {
       "needVPN": true,
       "repo": "qumoptly/chatgpt-demo",
       "title": "ChatGPT API Demo"
-    },
-    "https://dreamzhm519.eu.org": {
-      "hide": 9,
-      "repo": "xielaoban13/chatgpt-demo",
-      "invalid": 1,
-      "desc": "需私有密码",
-      "title": "DREAM💖BLUE",
-      "needVerify": 5,
-      "errmsg": "[error][404]Not Found"
-    },
-    "https://glkcv.eu.org": {
-      "hide": 9,
-      "repo": "msicom/ChatGPT",
-      "invalid": 1,
-      "desc": "需私有密码",
-      "title": "ChatGPT API Demo",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND glkcv.eu.org"
     },
     "https://chat.91duoniu.com": {
       "hide": 9,
@@ -18067,12 +17965,6 @@
       "repo": "asdChenJin/chatgpt-demo",
       "title": "ChatGPT 冲浪"
     },
-    "https://chatgpt2.cgweb.top": {
-      "hide": 9,
-      "repo": "changeng2006/chatgpt-vercel",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chatgpt2.cgweb.top"
-    },
     "https://dev-query.vercel.app": {
       "needVPN": true,
       "repo": "fortunehan/chatgpt-web"
@@ -18158,7 +18050,7 @@
       "hide": 9,
       "repo": "DreamingCats/chatgpt-demo",
       "title": "ChatGPT API Demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://envygpt.vercel.app": {
@@ -18175,7 +18067,7 @@
       "hide": 9,
       "repo": "yang10560/chatgpt-demo",
       "title": "ChatGPT API",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatgpt-demo-baoeig.vercel.app": {
@@ -18246,22 +18138,22 @@
     "http://chatgpt.mhacd.com": {
       "hide": 9,
       "repo": "mhacd/chatgpt-demo",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://rite.chat": {
       "hide": 9,
       "repo": "PlayerYK/rite-chat",
       "title": "ChatGPT API Demo",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.rite.chat": {
       "hide": 9,
       "repo": "PlayerYK/rite-chat",
       "title": "ChatGPT API Demo",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 2,
+      "errmsg": "[error][-1]connect ETIMEDOUT 198.251.84.92:443"
     },
     "https://chatgpt-demo-ecru-seven.vercel.app": {
       "needVPN": true,
@@ -18286,13 +18178,6 @@
       "needVPN": true,
       "repo": "spp00/chatgpt-demo",
       "title": "ChatGPT API Demo"
-    },
-    "https://4k.b21c.com": {
-      "hide": 9,
-      "repo": "kxsh2020/chatgpt-vercel",
-      "title": "ChatGPT",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND 4k.b21c.com"
     },
     "https://chatgpt-demo-minterjia.vercel.app": {
       "needVPN": true,
@@ -18343,13 +18228,6 @@
       "repo": "iRedScarf/chatgpt-demo",
       "title": "ChatGPT API Demo"
     },
-    "https://chat.milkyship.cn": {
-      "hide": 9,
-      "repo": "MilkyBoat/chatgpt-demo",
-      "title": "ChatGPT For Free",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.milkyship.cn"
-    },
     "https://chatgpt-wss.vercel.app": {
       "needVPN": true,
       "repo": "wss0106/chatgpt-demo",
@@ -18365,31 +18243,10 @@
       "repo": "ChenyqThu/GPT",
       "title": "尘世の歌🌸AIGC"
     },
-    "https://chat.ledudu.tk": {
-      "hide": 9,
-      "repo": "railwaycenter/chatgpt-demo-1",
-      "title": "ChatGPT Next Web",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.ledudu.tk"
-    },
     "https://ezai.vercel.app": {
       "needVPN": true,
       "repo": "railwaycenter/chatgpt-demo-1",
       "title": "ChatGPT API Demo"
-    },
-    "https://chatgpt-demo.tlhub.cn": {
-      "hide": 9,
-      "repo": "athlonreg/chatgpt-demo",
-      "title": "ChatGPT API Demo",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chatgpt-demo.tlhub.cn"
-    },
-    "http://betterchatgpt.tlhub.cn": {
-      "hide": 9,
-      "repo": "athlonreg/chatgpt-vercel",
-      "title": "Better ChatGPT",
-      "needVerify": 5,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND betterchatgpt.tlhub.cn"
     },
     "https://binghub.zeabur.app/web/index.html#": {
       "hide": 9,
@@ -18424,7 +18281,7 @@
       "hide": 9,
       "repo": "YPAtob/chatgpt-proxy-yy",
       "title": "ChatGPT Next Web",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat.outred.org": {
@@ -18435,7 +18292,7 @@
     "https://mymoss.com.cn/web": {
       "title": "MyMOSS",
       "desc": "我拥有强大的AI引擎，可以辅助你快速写作，赶快试一试吧！",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][301]Moved Permanently"
     }
   }
