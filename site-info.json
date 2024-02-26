@@ -143,23 +143,47 @@
       "desc": "ChatGPT(beta) 官方入口",
       "title": "OpenAI ChatGPT"
     },
-    "https://qianwen.aliyun.com": {
-      "desc": "需申请体验",
-      "title": "【大厂】通义千问",
-      "star": 3,
-      "cate": "ai"
-    },
     "https://yiyan.baidu.com": {
       "star": 3,
+      "sort": -90,
       "needLogin": 1,
       "desc": "已全面开放，使用百度账号登录即可",
       "title": "【大厂】文心一言"
     },
+    "https://qianwen.aliyun.com": {
+      "desc": "需申请体验",
+      "title": "【大厂】通义千问",
+      "star": 3,
+      "sort": -88,
+      "cate": "ai"
+    },
     "https://xinghuo.xfyun.cn": {
       "star": 3,
+      "sort": -86,
       "needLogin": 1,
       "desc": "需申请资格，但审核非常快",
       "title": "【大厂】讯飞星火认知大模型"
+    },
+    "https://chatglm.cn": {
+      "star": 3,
+      "sort": -84,
+      "needLogin": 1,
+      "desc": "清华大学孵化的智谱AI提供的千亿参数对话模型ChatGLM",
+      "title": "【大厂】智谱清言"
+    },
+    "https:chat.tiangong.cn": {
+      "star": 3,
+      "sort": -80,
+      "needLogin": 1,
+      "desc": "昆仑万维提供的对标 ChatGPT 的双千亿级大语言模型，也是一个对话式AI助手",
+      "title": "【大厂】天工AI"
+    },
+    "https://so.csdn.net/chat": {
+      "star": 3,
+      "sort": -80,
+      "needLogin": 1,
+      "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
+      "title": "【大厂】C知道"
     },
     "https://ai.360.cn": {
       "star": 3,
