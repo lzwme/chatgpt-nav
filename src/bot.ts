@@ -63,6 +63,12 @@ export function siteUrlVerify() {
   const isGitHubCi = (process.env.GITHUB_CI || process.env.SYNC) != null;
 
   const tasks = Object.entries(config.siteInfo).map(([url, item], idx) => async () => {
+    // 移除全部 vercel.app 的信息
+    if (url.includes('vercel.app')) {
+      delete config.siteInfo[url];
+      return true;
+    }
+
     if (!isGitHubCi) {
       if (item.needVPN) return true;
       if (needGFWKeywords.some(key => url.includes(key))) return true;
