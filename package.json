@@ -27,6 +27,5 @@
     "@lzwme/fe-utils": "^1.5.2",
     "dotenv": "^16.3.1",
     "yargs-parser": "^21.1.1"
-  },
-  "packageManager": "pnpm@8.29.0"
+  }
 }

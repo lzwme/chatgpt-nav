@@ -33,8 +33,8 @@ export interface SiteInfo {
   desc?: string;
   /** 程序检测到的错误信息 */
   errmsg?: string;
-  /** @TODO 分类类别 */
-  cate?: 'chat' | 'tool' | 'ai';
+  /** 类别 */
+  type?: string | string[];
 }
 
 const rootDir = resolve(fileURLToPath(import.meta.url), '../..');
@@ -59,16 +59,7 @@ export const config = {
   siteBlockList: new Set([]) as Set<string>,
   /** 站点信息 */
   siteInfo: {
-    'https://gpt.demo.com': {
-      repo: 'lzwme/gpt-demo', // 来源仓库
-      star: 1, // 推荐星级，1-3
-      invalid: 1, // 已失效
-      hide: 1, // 不显示在首页
-      needKey: 0, // 是否需要自己输入 API KEY
-      needPwd: 0, // 【受限】是否需要密码、账号登录才能访问
-      needPay: 0, // 付费应用
-      desc: '描述',
-    },
+
   } as { [url: string]: SiteInfo },
 };
 

@@ -1,3 +1,10 @@
+/*
+ * @Author: renxia
+ * @Date: 2023-04-06 13:25:28
+ * @LastEditors: renxia
+ * @LastEditTime: 2024-04-29 16:05:44
+ * @Description:
+ */
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import parser from 'yargs-parser';
@@ -60,7 +67,7 @@ export async function start() {
   initConfig(argv);
 
   if (!argv.onlyUpdate) {
-    if (argv.bot !== false) await repoBot(config.debug ? 10 : 2000);
+    if (argv.bot) await repoBot(config.debug ? 10 : 2000);
     if (argv.urlCheck !== false) await siteUrlVerify();
   }
 

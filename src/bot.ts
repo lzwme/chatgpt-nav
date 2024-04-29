@@ -2,6 +2,7 @@ import { concurrency, color } from '@lzwme/fe-utils';
 import { httpLinkChecker } from '@lzwme/fe-utils/cjs/node/lib/httpLinkChecker';
 import { config } from './config';
 import { getRepoForks, getUrlsFromLatestCommitComment, logger, fixSiteUrl } from './utils';
+import { getTypes } from './ai-type';
 
 async function repoCommentBot(repo: string, maxForks = 1000) {
   let siteList: { [repo: string]: string[] } = {};
@@ -64,10 +65,12 @@ export function siteUrlVerify() {
 
   const tasks = Object.entries(config.siteInfo).map(([url, item], idx) => async () => {
     // 移除全部 vercel.app 的信息
-    if (url.includes('vercel.app')) {
+    if (url.includes('vercel.app') || Number(item.needVerify) >= 2) {
       delete config.siteInfo[url];
       return true;
     }
+
+    if (item.type) item.type = getTypes(item.type);
 
     if (!isGitHubCi) {
       if (item.needVPN) return true;
@@ -75,12 +78,10 @@ export function siteUrlVerify() {
       if (item.star! >= 3) return true;
     }
 
-    if (config.debug && url.endsWith('vercel.app')) return true;
     if (Number(item.hide) === 1) return true;
 
     if (item.needVerify != null) {
       if (item.needVerify < 0) return true;
-      if (item.needVerify > 7) return false;
     }
 
     logger.debug(`[urlVerify][${idx}] start for`, color.green(url));
@@ -105,7 +106,7 @@ export function siteUrlVerify() {
         logger.debug(`[urlVerify][${color.cyan(url)}]`, color.greenBright(item.desc), r);
       } else {
         item.needVerify = (item.needVerify || 0) + 1;
-        if (item.needVerify >= 6 && (r.statusCode === 404 || /getaddrinfo ENOTFOUND/.test('' + item.errmsg))) {
+        if (item.needVerify >= 7) {
           delete config.siteInfo[url]; // 超过 6 次均 404 则移除
         } else {
           item.errmsg = `[error][${r.statusCode || r.code}]${r.errmsg}`.slice(0, 200);

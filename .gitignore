@@ -8,6 +8,7 @@ npm-debug.log
 /cjs
 /docs
 /config
+/cache
 tmp
 coverage
 package-lock.json
