@@ -44,15 +44,6 @@
       "desc": "已全面开放，使用百度账号登录即可",
       "title": "【大厂】文心一言"
     },
-    "https://qianwen.aliyun.com": {
-      "type": [
-        "AI 聊天对话"
-      ],
-      "desc": "阿里达摩院提供的一个不断进化的AI大模型",
-      "title": "【大厂】通义千问",
-      "star": 3,
-      "sort": -88
-    },
     "https://xinghuo.xfyun.cn": {
       "type": [
         "AI 聊天对话"
@@ -92,16 +83,6 @@
       "needLogin": 1,
       "desc": "腾讯混元生图",
       "title": "【大厂】混元生图"
-    },
-    "https://chat.tiangong.cn": {
-      "type": [
-        "AI 聊天对话"
-      ],
-      "star": 3,
-      "sort": -80,
-      "needLogin": 1,
-      "desc": "昆仑万维提供的对标 ChatGPT 的双千亿级大语言模型，也是一个对话式AI助手",
-      "title": "【大厂】天工AI"
     },
     "https://so.csdn.net/chat": {
       "star": 3,
@@ -243,7 +224,7 @@
       "title": "AI EDU",
       "desc": "该站点已暂停访问"
     },
-    "https://ai-toolbox.codefuture.top": {
+    "https://aibang.run": {
       "desc": "多功能AI小帮手",
       "type": [
         "AI 综合工具"
@@ -274,6 +255,7 @@
     "https://chat.binjie.site:7777": {
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
+      "icon": 0,
       "title": "仅用于开发学习交流"
     },
     "https://chat-simplifier.imzbb.cc": {
@@ -323,33 +305,9 @@
       "hide": 1,
       "needPwd": 1
     },
-    "https://6758tkma.chattobot.xyz": {
-      "repo": "MmYYAIS/chatgpt-3.5",
-      "hide": 1,
-      "needPwd": 1
-    },
-    "https://newgpt3-5.chattobot.xyz": {
-      "repo": "MmYYAIS/chatgpt-3.5",
-      "hide": 1,
-      "needPwd": 1
-    },
-    "https://wbs003.world": {
-      "repo": "hi-jaylen/chatgpt-vercel",
-      "needKey": 1,
-      "hide": 1
-    },
-    "https://codeink.ink": {
-      "repo": "idongtt/idong-ChatGPT",
-      "hide": 1
-    },
-    "https://chat.eryajf.net": {
-      "repo": "eryajf/chatgpt-vercel",
-      "desc": "",
-      "title": "AList-Eryajf"
-    },
-    "https://ai.zecoba.cn": {
-      "desc": "",
-      "title": "301 Moved Permanently"
+    "https://chat.xiaozeai.com": {
+      "desc": "为您提供小泽全能模式、小泽应用商店、小泽3.5、小泽4、联网、插件、高级数据分析、绘图等功能和模式",
+      "title": "小泽AI"
     },
     "https://aitools.run": {
       "desc": "",
@@ -416,6 +374,7 @@
       "type": [
         "AI 聊天对话"
       ],
+      "needVPN": true,
       "title": "ChatGPT",
       "desc": "Open Ai旗下的聊天产品，全球最火的chatgpt产品。",
       "star": 3
@@ -424,6 +383,7 @@
       "type": [
         "AI 聊天对话"
       ],
+      "needVPN": true,
       "title": "Google Bard",
       "desc": "Google推出的聊天机器人。",
       "star": 3
@@ -445,13 +405,15 @@
       "star": 3,
       "sort": -89
     },
-    "https://tongyi.aliyun.com": {
+    "https://qianwen.aliyun.com": {
       "type": [
         "AI 聊天对话"
       ],
+      "desc": "阿里达摩院提供的一个不断进化的AI大模型",
       "title": "通义千问",
-      "desc": "阿里大模型统一品牌，覆盖语言、听觉、多模态等领域，致力于实现接近人类智慧的通用智能。",
-      "star": 3
+      "icon": "https://img.alicdn.com/imgextra/i4/O1CN01FOwagl1XBpyVA2QVy_!!6000000002886-2-tps-512-512.png",
+      "star": 3,
+      "sort": -88
     },
     "https://pangu.huaweicloud.com": {
       "type": [
@@ -526,8 +488,7 @@
       ],
       "title": "Myshell",
       "desc": "MyShell是一个创新的聊天机器人平台，你可以在这里遇到各种拥有独特个性和声音的虚拟角色存在。作为创建者，你可以赋予你的聊天机器人一个非常生动的声音，并整合任何知识，超越现有的基于LLM的系统。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://www.chatbase.co": {
       "type": [
@@ -639,16 +600,19 @@
         "AI 搜索引擎"
       ],
       "title": "You",
-      "desc": "You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "[需VPN访问] You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。",
+      "needVPN": 1
     },
-    "https://search.tiangong.cn": {
+    "https://www.tiangong.cn": {
       "type": [
-        "AI 搜索引擎"
+        "AI 聊天对话", "AI 搜索引擎"
       ],
-      "title": "天工搜索",
-      "desc": "昆仑万维旗下的天工搜索引擎。"
+      "star": 3,
+      "sort": -80,
+      "needLogin": 1,
+      "icon": "https://ai-nav.lzw.me/favicon/www.tiangong.cn.ico",
+      "desc": "昆仑万维提供的对标 ChatGPT 的双千亿级大语言模型，也是一个对话式AI助手",
+      "title": "天工AI"
     },
     "https://metaso.cn": {
       "type": [
@@ -872,6 +836,7 @@
       ],
       "title": "火山写作",
       "desc": "火山写作是由字节跳动推出的，集成创作、润色、纠错、改写、翻译等能力的中英文AI 写作助手。",
+      "icon": "https://lf-cdn-tos.bytescm.com/obj/static/fe/writingo/web/favicon.svg",
       "star": 3
     },
     "https://chuangyi.taobao.com/pages/aiCopy": {
@@ -1078,13 +1043,6 @@
       "desc": "沉浸式翻译是一款免费的，好用的，没有废话的，革命性的，饱受赞誉的，AI 驱动的双语网页翻译扩展。",
       "star": 3
     },
-    "https://fanyi.caiyunapp.com": {
-      "type": [
-        "AI 翻译工具"
-      ],
-      "title": "彩云小译",
-      "desc": "彩云小译提供高效准确的在线翻译工具，包括文字翻译、文档翻译、网页翻译、术语库、浏览器插件和双语对照服务。"
-    },
     "https://sight.youdao.com": {
       "type": [
         "AI 翻译工具"
@@ -1256,6 +1214,7 @@
         "AI 绘图"
       ],
       "title": "6pen",
+      "icon": "https://6pen.art/favicon.svg",
       "desc": "6pen是一个为大多数人打造的AI绘画创作社区"
     },
     "https://playgroundai.com": {
@@ -1657,6 +1616,7 @@
       "type": [
         "AI 视频生成"
       ],
+      "needVPN": 1,
       "title": "Pika",
       "desc": "Pika致力于用AI让每个人都能成为自己故事的导演，并激发我们每个人的创造力。",
       "star": 3
@@ -1695,6 +1655,7 @@
       ],
       "title": "HeyGen",
       "desc": "AI生成真人营销视频",
+      "needVPN": 1,
       "star": 3
     },
     "https://zenvideo.qq.com": {
@@ -1761,6 +1722,8 @@
       "type": [
         "AI 绘图"
       ],
+      "needVPN": true,
+      "start": 3,
       "title": "DALL·E2",
       "desc": "OpenAI出品的绘画工具"
     },
@@ -2069,6 +2032,7 @@
       "type": [
         "AI 图像处理"
       ],
+      "icon": "https://ai.meitu.com/favicon.png",
       "title": "美图AI开放平台",
       "desc": "美图推出的AI人脸图像处理平台"
     },
@@ -2447,6 +2411,8 @@
       "type": [
         "AI 视频生成"
       ],
+      "needVPN": true,
+      "star": 3,
       "title": "Sora",
       "desc": "碾压级更新！颠覆性的文生视频大模型"
     },
@@ -2464,7 +2430,7 @@
       "title": "Wonder Studio",
       "desc": "真人表演自动转换为CG"
     },
-    "https://b.jimmylv.cn": {
+    "https://bibigpt.co": {
       "type": [
         "AI 视频生成"
       ],
@@ -2748,6 +2714,7 @@
       "type": [
         "AI 翻译工具"
       ],
+      "icon": "https://ydlunacommon-cdn.nosdn.127.net/31cf4b56e6c0b3af668aa079de1a898c.png",
       "title": "有道翻译",
       "desc": "网易旗下深受用户喜欢的口碑型学习工具产品"
     },
@@ -2769,6 +2736,7 @@
       "type": [
         "AI 翻译工具"
       ],
+      "needVPN": true,
       "title": "Google翻译",
       "desc": "Google免费提供上100种语言智能即时翻译工具"
     },
@@ -2776,6 +2744,7 @@
       "type": [
         "AI 翻译工具"
       ],
+      "icon": "https://fanyi.xfyun.cn/assets/logo.0cb48385.svg",
       "title": "讯飞智能翻译",
       "desc": "科大讯飞推出的人工智能翻译平台"
     },
@@ -2786,17 +2755,19 @@
       "title": "百度翻译",
       "desc": "提供即时免费200+语言翻译服务"
     },
-    "https://fanyi.caiyunapp.com/#": {
+    "https://fanyi.caiyunapp.com": {
       "type": [
         "AI 翻译工具"
       ],
+      "icon": "https://www.caiyunapp.com/imgs/xiaoyilogo.png",
       "title": "彩云小译",
-      "desc": "推荐！兼具“你边说，我边译”的字字幕翻译功能"
+      "desc": "兼具“你边说，我边译”的字字幕翻译功能。包括文字翻译、文档翻译、网页翻译、术语库、浏览器插件和双语对照服务"
     },
     "https://fanyi.sogou.com/text": {
       "type": [
         "AI 翻译工具"
       ],
+      "icon": "https://dlweb.sogoucdn.com/translate/favicon.ico?v=20180424",
       "title": "搜狗翻译",
       "desc": "支持中、英、法、日等50多种语言之间的互译功能"
     },
@@ -2925,6 +2896,11 @@
       ],
       "title": "Hidden Door",
       "desc": "热门！小说作品生成在线社交角色扮演游戏"
+    },
+    "https://ai-nav.lzw.me": {
+      "type": ["AI 综合工具", "AI 聊天对话"],
+      "title": "AI网址导航",
+      "desc": "收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性"
     },
     "https://latitude.io": {
       "type": [
