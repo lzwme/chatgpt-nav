@@ -2,7 +2,7 @@
  * @Author: renxia
  * @Date: 2023-04-06 13:25:28
  * @LastEditors: renxia
- * @LastEditTime: 2024-04-29 16:05:44
+ * @LastEditTime: 2024-05-11 15:33:56
  * @Description:
  */
 import { readFileSync, writeFileSync } from 'node:fs';
@@ -75,7 +75,7 @@ export async function start() {
 
   if (!argv.onlyUpdate) {
     saveConfig();
-    if (config.ci || argv.ci) gitCommit();
+    if (config.ci || argv.ci || argv.commit) gitCommit();
   }
 
   return total;

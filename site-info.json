@@ -138,7 +138,6 @@
     },
     "https://newstop.c1ns.cn": {
       "star": 2,
-      "needVPN": 1,
       "source": "recommend",
       "desc": "无需登录，免费使用，可选模版",
       "title": "Chat智能机器人"
@@ -157,13 +156,6 @@
       "source": "recommend",
       "title": "BambooChat",
       "desc": "3.5和4.0 API构建的CHATGPT网站"
-    },
-    "https://chat.coolai.vip": {
-      "star": 2,
-      "needLogin": 1,
-      "source": "recommend",
-      "title": "CoolAI地址发布页",
-      "desc": "每日登录后，签到即可获取125次chatgpt3.5对话额度，也可使用额度进行思维导图绘制，midjourney绘画。同时每日会更新卡密供用户使用"
     },
     "https://home.v50.ltd": {
       "star": 2,
@@ -199,21 +191,17 @@
       "source": "recommend",
       "title": "ChatGPT Web--免费的国内ChatGPT"
     },
-    "https://www.chat2ai.cn": {
-      "star": -1,
-      "hide": 1,
+    "https://www.aicpw.cn": {
+      "type": [
+        "AI 综合工具"
+      ],
       "desc": "收录热门AI产品",
       "title": "AI产品导航站"
     },
     "https://chat.yqcloud.top": {
       "needVPN": 1,
-      "desc": "基于 GPT3。域名已被 DNS 污染",
+      "desc": "可正常访问，但接口无响应",
       "hide": 1
-    },
-    "https://chat.zecoba.cn": {
-      "needPwd": 1,
-      "desc": "为了配合网信办技术安全审核，网站暂时关闭",
-      "title": "泽科巴AI对话"
     },
     "https://chat.alpaca-bi.com": {
       "needPay": 1,
@@ -255,7 +243,6 @@
     "https://chat.binjie.site:7777": {
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
-      "icon": 0,
       "title": "仅用于开发学习交流"
     },
     "https://chat-simplifier.imzbb.cc": {
@@ -270,72 +257,40 @@
       "repo": "sullivan-sean/chat-langchainjs",
       "title": "LangChain Chat"
     },
-    "https://ydzykt.cn": {
-      "repo": "khum08/chatgpt-demo",
-      "hide": 1,
-      "invalid": 1
-    },
     "https://chat.wangyaodi.com": {
       "repo": "yorzi/chatgpt-demo",
       "title": "NextChat"
     },
-    "https://ai.wilsonmk.xyz": {
-      "repo": "wilsonmk/chatgpt",
-      "hide": 1,
-      "title": "哈哈XD"
-    },
-    "https://ai.ci": {
+    "https://ai.ls": {
       "repo": "airyland/chatgpt-demo",
-      "hide": 1
-    },
-    "https://www.ai.ci": {
-      "repo": "airyland/chatgpt-demo",
-      "hide": 1
-    },
-    "https://www.ai.ls": {
-      "repo": "airyland/chatgpt-demo",
-      "hide": 1
-    },
-    "https://www.desk.im": {
-      "repo": "airyland/chatgpt-demo",
-      "hide": 1
-    },
-    "https://gptplus.yongmai.xyz": {
-      "repo": "MmYYAIS/chatgpt-3.5",
-      "hide": 1,
-      "needPwd": 1
+      "needVPN": 1,
+      "title": "AI.LS",
+      "desc": "AI.LS is a chatbot tool, an elegant ChatGPT UI based on gpt-3.5, gpt-4 and Claude, as an alternative to ChatGPT. "
     },
     "https://chat.xiaozeai.com": {
       "desc": "为您提供小泽全能模式、小泽应用商店、小泽3.5、小泽4、联网、插件、高级数据分析、绘图等功能和模式",
       "title": "小泽AI"
     },
     "https://aitools.run": {
-      "desc": "",
-      "title": "AI帮个忙 | 多功能AI小帮手"
+      "desc": "AI帮个忙是打工人的多功能小帮手，有多个AI写作和图片工具，可以用AI生成小红书文案，文章，PPT大纲等，支持改写，润色,续写,扩写",
+      "type": [
+        "AI 综合工具"
+      ],
+      "title": "AI帮个忙"
     },
-    "https://plus.wxredcover.cn": {
-      "title": "ChatGPT"
-    },
-    "https://www.tomda.top": {
-      "repo": "Tomccc520/chatgpt-tomda",
-      "title": "Tomda-一个爱代码的设计师",
-      "hide": 9
+    "https://www.88sheji.cn/ai": {
+      "nav": "https://www.tomda.top",
+      "type": [
+        "AI 综合工具"
+      ],
+      "title": "Ai导航",
+      "desc": "专为设计师打造的AI工具箱，提供智能设计辅助、创意激发和设计效率提升等功能"
     },
     "https://chat.lmsys.org": {
       "needVPN": 1,
       "title": "FastChat",
       "star": 3,
-      "desc": "基于 Vicuna: An Open Chatbot Impressing GPT-4",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
-    },
-    "http://lmflow.com": {
-      "star": 3,
-      "title": "LMFlow",
-      "invalid": 1,
-      "desc": "一个可扩展、方便、高效的工具箱，用于微调大型机器学习模型，设计为用户友好、快速可靠，并可供整个社区访问",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "基于 Vicuna: An Open Chatbot Impressing GPT-4"
     },
     "https://www.weijiwangluo.com/talk": {
       "title": "ATalk",
@@ -443,8 +398,7 @@
       ],
       "title": "Poe",
       "desc": "问答社区Quora建立的一个平台，集成了多个流行的聊天机器人。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://monica.im": {
       "type": [
@@ -452,8 +406,7 @@
       ],
       "title": "Moncia",
       "desc": "Monica是由ChatGPT API提供支持的Chrome扩展程序，旨在成为您的个人AI助手，实现轻松聊天和文案编写。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://theb.ai": {
       "type": [
@@ -461,8 +414,7 @@
       ],
       "title": "TheB.AI",
       "desc": "TheB.AI是一款全能的人工智能平台。可以访问一系列创新的模型，涵盖先进的语言模型、强大的图像模型等等。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://merlin.foyer.work": {
       "type": [
@@ -470,8 +422,7 @@
       ],
       "title": "Merlin",
       "desc": "Merlin是Open AI的ChatGPT驱动的Chrome扩展程序，随时随地可用。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://agentgpt.reworkd.ai": {
       "type": [
@@ -479,8 +430,7 @@
       ],
       "title": "AgentGPT",
       "desc": "AgentGPT是一个革命性的基于浏览器的自主AI平台。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://app.myshell.ai": {
       "type": [
@@ -496,15 +446,6 @@
       ],
       "title": "Chat Base",
       "desc": "上传包含您数据的文档或添加一个指向您网站的链接，即可获得一个类似于ChatGPT的聊天机器人，可以回答与这些文档相关的任何问题。然后将其作为聊天小部件添加到您的网站上。"
-    },
-    "https://www.chai-research.com": {
-      "type": [
-        "AI 聊天对话"
-      ],
-      "title": "Chai Research",
-      "desc": "领先的AI聊天平台",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
     },
     "https://www.baichuan-ai.com/chat": {
       "type": [
@@ -534,8 +475,7 @@
       ],
       "title": "Character AI",
       "desc": "创建虚拟角色，并与其进行开放式对话。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://janitorai.com": {
       "type": [
@@ -543,8 +483,7 @@
       ],
       "title": "JanitorAI",
       "desc": "Janitor AI是由janitorai.com开发的一个平台，允许用户创建具有不同个性的虚拟聊天机器人角色。该平台由大型语言模型驱动，包括OpenAI的GPT模型。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "needVPN": 1
     },
     "https://www.aichatting.net": {
       "type": [
@@ -552,8 +491,7 @@
       ],
       "title": "AI Chatting",
       "desc": "创建虚拟角色，并与其进行开放式对话。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://hiwaifu.com": {
       "type": [
@@ -561,8 +499,7 @@
       ],
       "title": "Hi Waifu",
       "desc": "Hi Waifu可以创建一个拥有独特个性的数字朋友，随时可以与AI聊天，准备好以一种新的方式与AI交流互动吧。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "needVPN": 1
     },
     "https://www.xingyeai.com": {
       "type": [
@@ -591,21 +528,21 @@
         "AI 搜索引擎"
       ],
       "title": "Phind",
-      "desc": "为开发人员而生的AI搜索引擎。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "为开发人员而生的AI搜索引擎。中国区不可用",
+      "needVPN": 1
     },
     "https://you.com": {
       "type": [
         "AI 搜索引擎"
       ],
       "title": "You",
-      "desc": "[需VPN访问] You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。",
+      "desc": "You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。",
       "needVPN": 1
     },
     "https://www.tiangong.cn": {
       "type": [
-        "AI 聊天对话", "AI 搜索引擎"
+        "AI 聊天对话",
+        "AI 搜索引擎"
       ],
       "star": 3,
       "sort": -80,
@@ -628,15 +565,6 @@
       "title": "360AI搜索",
       "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。"
     },
-    "https://quizlet.com": {
-      "type": [
-        "AI 行业工具"
-      ],
-      "title": "Q Chat",
-      "desc": "【教育】教育领域的人工智能导师",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
-    },
     "https://www.cheggmate.ai": {
       "type": [
         "AI 行业工具"
@@ -644,12 +572,12 @@
       "title": "CheggMate",
       "desc": "【教育】CheggMate是一款一体化解答作业的AI产品。"
     },
-    "https://www.chat2ai.cn/khanacademy.org": {
+    "https://www.khanmigo.ai": {
       "type": [
         "AI 行业工具"
       ],
       "title": "Khanmigo",
-      "desc": "【教育】教育界的世界级人工智能。"
+      "desc": "【教育】可汗学院Khanmigo，教育界的世界级人工智能。"
     },
     "https://www.turnitin.com": {
       "type": [
@@ -685,8 +613,7 @@
       ],
       "title": "Amy by Crypto",
       "desc": "【金融】",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "hide": 1
     },
     "https://www.notion.so": {
       "type": [
@@ -716,8 +643,7 @@
       ],
       "title": "writesonic",
       "desc": "Writesonic可以为博客、广告、电子邮件和网站快速生成已优化的免费原创内容。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://quillbot.com": {
       "type": [
@@ -725,8 +651,7 @@
       ],
       "title": "Quillbot",
       "desc": "QuillBot一款写作改写工具，能够帮助您让写作更好、更快、更聪明。我们的改写工具是免费且易于使用的，只需点击一下按钮，即可进行改写。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "needVPN": 1
     },
     "https://www.grammarly.com": {
       "type": [
@@ -769,17 +694,7 @@
       ],
       "title": "Novel.ai",
       "desc": "基于人工智能，轻松构建独特的、惊险的、引入入胜的故事。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://hix.ai": {
-      "type": [
-        "AI 写作助手"
-      ],
-      "title": "HIX.AI",
-      "desc": "HIX.AI是一款由先进的GPT-3.5/4技术驱动的全能人工智能写作助手。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "needVPN": 1
     },
     "https://xiezuocat.com": {
       "type": [
@@ -867,15 +782,6 @@
       "title": "爱改写",
       "desc": "爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。"
     },
-    "https://www.giiso.com": {
-      "type": [
-        "AI 写作助手"
-      ],
-      "title": "Giiso写作机器人",
-      "desc": "Giiso是一款内容创作AI辅助工具，提供资讯写作、小红书文案、短视频脚本、PPT创作、文生图等类型创作。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
-    },
     "https://www.heyfriday.cn/home": {
       "type": [
         "AI 写作助手"
@@ -889,15 +795,6 @@
       ],
       "title": "彩云小梦",
       "desc": "彩云小梦是一个智能写作AI，你只需开个头，AI 就会帮你创作故事。你可以自由定义故事的世界设定，并扮演其中的角色，与其他角色聊天。"
-    },
-    "https://gamma.app": {
-      "type": [
-        "AI 文档工具"
-      ],
-      "title": "Gamma",
-      "desc": "Gamma是幻灯片演示的一种替代方式-一种快速、简单的分享和展示工作的方法。创建引人入胜的演示文稿、备忘录、简报和文档，易于实时讨论或异步分享。全部在您的浏览器中完成，无需下载或安装任何内容。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
     },
     "https://prezi.com": {
       "type": [
@@ -949,28 +846,12 @@
       "title": "Presentory",
       "desc": "Presentory是万兴科技旗下一款使用AI创建演示文稿的产品。"
     },
-    "https://chatexcel.com": {
-      "type": [
-        "AI 文档工具"
-      ],
-      "title": "酷表 ChatExcel",
-      "desc": "酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据。"
-    },
     "https://ai.wps.cn": {
       "type": [
         "AI 文档工具"
       ],
       "title": "WPS AI",
       "desc": "WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。"
-    },
-    "https://yinxiang.com/dl-mac": {
-      "type": [
-        "AI 文档工具"
-      ],
-      "title": "印象 AI",
-      "desc": "「印象笔记」X「印象AI」会创作的第二大脑",
-      "needVerify": 1,
-      "errmsg": "[error][301]Moved Permanently"
     },
     "https://smartread.cc": {
       "type": [
@@ -985,8 +866,7 @@
       ],
       "title": "chatDOC",
       "desc": "通过与文档对话,以引用来源的方式获得即时答案。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://chatpdf.com": {
       "type": [
@@ -994,8 +874,7 @@
       ],
       "title": "chatPDF",
       "desc": "加入数百万学生、研究人员和专业人士的行列，通过 AI 即时回答问题。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://modao.cc/brand": {
       "type": [
@@ -1010,15 +889,6 @@
       ],
       "title": "博思AI白板",
       "desc": "boardmix博思白板，多人实时协作的流程图，思维导图工具。"
-    },
-    "https://www.edrawsoft.cn/mindmaster": {
-      "type": [
-        "AI 思维导图"
-      ],
-      "title": "亿图脑图",
-      "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
-      "needVerify": 1,
-      "errmsg": "[error][301]Moved Permanently"
     },
     "https://gitmind.cn": {
       "type": [
@@ -1133,8 +1003,7 @@
       ],
       "title": "Canva Text to Image",
       "desc": "将文字和短语变成美丽的图片。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "needVPN": 1
     },
     "https://leonardo.ai": {
       "type": [
@@ -1149,8 +1018,7 @@
       ],
       "title": "PixAI.Art",
       "desc": "使用 PixAI 的AI艺术生成器释放创造力。轻松生成高品质的动漫人工智能艺术。探索 AI 工具、角色模板等。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://www.soulgen.net": {
       "type": [
@@ -1158,8 +1026,7 @@
       ],
       "title": "SoulGen",
       "desc": "SoulGen 是一款 AI 魔法工具，可根据文本或提示创建令人惊叹的真实女孩艺术。立即免费试用并创建定制的 AI 角色。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "needVPN": 1
     },
     "https://www.creativefabrica.com/spark": {
       "type": [
@@ -1167,8 +1034,7 @@
       ],
       "title": "CF Spark",
       "desc": "Spark让您只需输入您的提示，就可以开始生成图片。平台目前已经拥有一个强大的社区，让您可以获得关注者和设计反馈。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://firefly.adobe.com": {
       "type": [
@@ -1190,8 +1056,7 @@
       ],
       "title": "Craiyon",
       "desc": "基于AI全新免费 AI 图像生成器。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://yodayo.com/text-to-image": {
       "type": [
@@ -1199,8 +1064,7 @@
       ],
       "title": "Yodayo",
       "desc": "探索人工智能生成的动漫艺术，找到最佳提示，使用我们的免费人工智能艺术生成器创建美丽的图像，并与其他动漫迷分享！",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://yige.baidu.com": {
       "type": [
@@ -1223,8 +1087,7 @@
       ],
       "title": "Playground Ai",
       "desc": "图片编辑工具，按照您的想象编辑图片",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVPN": 1
     },
     "https://588ku.com/ai/wuxianhua": {
       "type": [
@@ -1239,8 +1102,8 @@
       ],
       "title": "PromeAI",
       "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com"
+      "hide": 1,
+      "errmsg": "已失效"
     },
     "https://www.logosc.cn": {
       "type": [
@@ -1327,117 +1190,101 @@
       "desc": "AI绘画模型共享平台，拥有海量开源模型",
       "needVPN": 1
     },
-    "https://www.seaart.ai": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "SeaArt",
-      "desc": "国内团队开发的图片模型分享社区。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
-    },
     "https://www.x-design.com": {
-      "type": [],
+      "type": [
+        "AI 图像处理"
+      ],
       "title": "美图设计室",
       "desc": "美图设计室是一款由中国互联网公司美图公司开发的图像处理、照片编辑和设计软件。"
     },
     "https://mastergo.com/ai": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "MasterGo AI",
       "desc": "MasterGo AI使用人工智能辅助设计，开启数字交互新时代。"
     },
     "https://jsai.cc/ai": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "即时AI",
       "desc": "即时AI是一款极具前沿创新的AIGC产品，一款可以快速生成设计稿的生成式设计工具，它能够通过简单的自然语言描述来生成与需求相匹配的设计稿。"
     },
     "https://pixso.cn": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "Pixso AI",
       "desc": "设计师只需用简短的文本描述，无需手动绘制或寻找现成素材，即可迅速生成图像内容。"
     },
     "https://ailogo.qq.com": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "腾讯AIDesign",
       "desc": "腾讯自研的智能设计平台，免费在线生成品牌logo、企业VI，仅需3步助您开启业务。"
     },
     "https://www.modaiyun.com/mdy/ai": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "模袋云AI",
       "desc": "模袋云AI是一款在线别墅设计神器。"
     },
     "https://www.nolibox.com": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "图宇宙",
       "desc": "图宇宙是计算美学是高品质的智能设计平台，致力于让每个人都能享受好设计。"
     },
     "https://www.gaoding.com/ai/design": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "稿定AI",
       "desc": "稿定智能设计工具是一款智能化的设计工具，采用先进的人工智能技术，自动分析和生成设计方案。只需稍作调整，即可完成完美的设计。"
     },
-    "https://www.fotor.com/cn": {
-      "type": [],
-      "title": "Fotor",
-      "desc": "Fotor是一款免费的在线照片编辑器，可以轻松编辑、裁剪、调整大小、添加效果和文字，创建拼贴等。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://pixlr.com/cn": {
-      "type": [],
-      "title": "Pixlr",
-      "desc": "Pixlr是一家提供基于云的照片编辑服务的供应商，为消费者和公司在浏览器中提供编辑功能。Pixlr提供了一个平台，可以进行各种第三方集成。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
-    },
     "https://www.photoroom.com": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "PhotoRoom",
       "desc": "在几秒钟内创建高品质的图像。只需轻点一下，即可去除背景并合成一个能展示产品或模特的图像。PhotoRoom赋予每个人设计超能力，因为你编辑的是物体而不是像素。PhotoRoom是一款图像编辑应用程序，让您通过编辑物体来捕捉、编辑和混合图像。"
     },
     "https://picwish.com": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "PicWish",
       "desc": "这是一个免费的平台，可以为您的图片制作透明背景。一键去除背景，秒速合成透明照片。PicWish提供所有功能均免费。立即上传您的图片免费尝试！"
     },
-    "https://clipdrop.co": {
-      "type": [],
-      "title": "Watermark Remover",
-      "desc": "体验图像编辑的顶峰——水印移除AI，借助先进的人工智能技术轻松、精确地擦除水印，确保您的视觉效果保持完美清晰、无干扰。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
-    },
-    "https://tools.picsart.com": {
-      "type": [],
-      "title": "QuickTools By Picsart",
-      "desc": "Picsart是全球最大的数字创作平台。其由人工智能驱动的工具使各个水平的创作者能够设计、编辑、绘制和分享照片和视频内容。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
-    },
     "https://pixian.ai": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "Pixian AI",
       "desc": "PixianAI是一款图像背景去除工具，可以以极低的价格获得出色的质量，在测试版期间完全免费。"
     },
     "https://pixcut.wondershare.com": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "Pixcut",
       "desc": "Pixcut是一款自动免费去除图片背景的工具，新手只需点击几下就能使背景变透明。"
     },
     "https://vectorizer.ai": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "Vectorizer AI",
       "desc": "Vectorizer可以使用AI快速轻松地将JPEG和PNG位图转换为SVG矢量图。"
     },
-    "https://www.cutout.pro": {
-      "type": [],
-      "title": "Cutout Pro",
-      "desc": "全能视觉设计平台，包含 AI 照片和视频编辑工具。自动化背景移除、图像修复、平面设计等。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
-    },
     "https://facecheck.id": {
-      "type": [],
+      "type": [
+        "AI 绘图"
+      ],
       "title": "Facecheck ID",
       "desc": "利用人工智能技术通过照片在线查找人员。"
     },
@@ -1482,15 +1329,6 @@
       ],
       "title": "Eleven Labs",
       "desc": "ElevenLabs 带来了最逼真、丰富和生动的声音，为寻求叙事的终极工具的创作者和发布者提供了最具吸引力的文本转语音和语音克隆软件。"
-    },
-    "https://vocalremover.org": {
-      "type": [
-        "AI 语音生成"
-      ],
-      "title": "Vocal Remover",
-      "desc": "Vocal Remover使用强大的AI算法免费将歌曲中的人声与音乐分离。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
     },
     "https://peiyin.xunfei.cn/virtual-broadcasting": {
       "type": [
@@ -1628,13 +1466,6 @@
       "title": "Loom",
       "desc": "使用 Loom AI 录制更好、更快的视频消息，让您的工作更加高效。"
     },
-    "https://www.veed.io": {
-      "type": [
-        "AI 视频生成"
-      ],
-      "title": "Veed",
-      "desc": "视频编辑变得简单。只需单击即可创建出色的视频。添加字幕，转录音频，浏览AI工具，使用模板等等。"
-    },
     "https://ai.invideo.io": {
       "type": [
         "AI 视频生成"
@@ -1693,31 +1524,6 @@
       "title": "来画",
       "desc": "来画是有创意的AI动画短视频制作平台，仅需几张图片，几段文字和声音简单组合， 即可在短时间内生成一个有趣的动画短视频。"
     },
-    "https://mymoss.com.cn/web": {
-      "title": "MyMOSS",
-      "desc": "我拥有强大的AI引擎，可以辅助你快速写作，赶快试一试吧！"
-    },
-    "https://tongyi.aliyun.com/wanxiang": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "阿里通义万相",
-      "desc": "通义万相是阿里云通义旗下的AI创意作画平台，可提供AI艺术创作，可支持文生图、图生图、涂鸦作画、虚拟模特、个人写真等多场景的图片创作能力。"
-    },
-    "https://nijijourney.com/zh": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "NijiJourney",
-      "desc": "MJ出品！面向二次元风格，内容细致拿捏专业到位"
-    },
-    "https://creator.nightcafe.studio": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "NightCafe",
-      "desc": "用AI生成惊艳的艺术品"
-    },
     "https://openai.com/research/dall-e": {
       "type": [
         "AI 绘图"
@@ -1727,40 +1533,12 @@
       "title": "DALL·E2",
       "desc": "OpenAI出品的绘画工具"
     },
-    "https://huggingface.co": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "Hugging Face",
-      "desc": "下载开源的SD模型"
-    },
     "https://www.tiamat.world": {
       "type": [
         "AI 绘图"
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中"
-    },
-    "https://www.dreamup.com": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "Dreamup",
-      "desc": "知名站点Deviantart发布的AI绘画工具"
-    },
-    "https://lexica.art": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "Lexica",
-      "desc": "AI图像生成+SD提示词"
-    },
-    "https://scribblediffusion.com": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "Scribble Diffusion",
-      "desc": "有趣！将鼠绘草图变成精美照片"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -1775,20 +1553,6 @@
       ],
       "title": "eSheep",
       "desc": "推荐！国内知名的开源AI模型社区"
-    },
-    "https://clipdrop.co/stable-diffusion": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "CanvaAi",
-      "desc": "Canva的免费AI绘画工具"
-    },
-    "https://www.nvidia.cn/studio/canvas": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "NVIDIA Canvas",
-      "desc": "用AI将简单的勾勒转化成逼真的图像"
     },
     "https://www.wujieai.com": {
       "type": [
@@ -1825,13 +1589,6 @@
       "title": "AISEO ART",
       "desc": "AISEO Art 的AI算法按照分类进行过细致的训练"
     },
-    "https://imagine.meta.com": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "Imagine with Meta",
-      "desc": "Meta 推出的免费AI绘画工具"
-    },
     "https://www.tryemoji.com": {
       "type": [
         "AI 绘图"
@@ -1867,20 +1624,6 @@
       "title": "Midlibrary",
       "desc": "风格多样！实用超2000+MJ提示词资源"
     },
-    "https://promptalot.com": {
-      "type": [
-        "AI 提示词"
-      ],
-      "title": "Promptalot",
-      "desc": "推荐！超好用的MJ提示词辅助插件"
-    },
-    "https://www.prompthunt.com/explore": {
-      "type": [
-        "AI 提示词"
-      ],
-      "title": "Prompt Hunt",
-      "desc": "按主题分类的SD提示词"
-    },
     "https://promptbase.com": {
       "type": [
         "AI 提示词"
@@ -1894,13 +1637,6 @@
       ],
       "title": "MJ Prompt Tool",
       "desc": "MJ提示词创造助手"
-    },
-    "https://prompthero.com": {
-      "type": [
-        "AI 提示词"
-      ],
-      "title": "PromptHero",
-      "desc": "推荐！最受欢迎的AI提示词网站"
     },
     "https://promptomania.com": {
       "type": [
@@ -1958,27 +1694,6 @@
       "title": "Catjourney",
       "desc": "超多实用的 MJ Style Tuner风格库"
     },
-    "https://flowgpt.com": {
-      "type": [
-        "AI 提示词"
-      ],
-      "title": "Flowgpt",
-      "desc": "推荐！专注于分享聊天指令的社区网站"
-    },
-    "https://openart.ai/home": {
-      "type": [
-        "AI 提示词"
-      ],
-      "title": "Openart",
-      "desc": "实用！SD艺术创作提示词"
-    },
-    "https://contentatscale.ai/ai-prompt-library": {
-      "type": [
-        "AI 提示词"
-      ],
-      "title": "Content at scale",
-      "desc": "收录最佳的ChatGPT prompt提示词"
-    },
     "https://booltool.boolv.tech/home": {
       "type": [
         "AI 图像处理"
@@ -1992,20 +1707,6 @@
       ],
       "title": "IPensoul",
       "desc": "超好用的AI图片工具！提供建筑家居草图渲染，AI抠图等功能"
-    },
-    "https://waifulabs.com": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "WaifuLabs",
-      "desc": "一键生成动漫二次元头像"
-    },
-    "https://changestyleai.com": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "Change Style AI",
-      "desc": "人工智能多风格肖像生成器！能够AI生成30种照片"
     },
     "https://www.upscayl.org": {
       "type": [
@@ -2169,20 +1870,6 @@
       "title": "Dora AI",
       "desc": "一句话生成可交互&编辑的网站AI神器"
     },
-    "https://github.com/tldraw/make-real": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "Makereal Tldraw",
-      "desc": "使用！通过草图生成可交互的UI界面和代码"
-    },
-    "https://github.com/pAIrprogio/vscode-ui-sketcher": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "UI Sketcher",
-      "desc": "VSCode插件,借助GPT-4V的多模态能力,在插件中画出界面草图,就能生成一个基于ReactNative的UI界面"
-    },
     "https://qoqo.ai/index.html": {
       "type": [
         "AI 图像处理"
@@ -2211,13 +1898,6 @@
       "title": "Huemint",
       "desc": "推荐！用AI自定义和谐配色"
     },
-    "https://looka.com": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "Looka",
-      "desc": "AI辅助logo和品牌设计"
-    },
     "https://www.daftart.ai": {
       "type": [
         "AI 图像处理"
@@ -2239,72 +1919,58 @@
       "title": "字体家AI神笔",
       "desc": "造字神器！ 仅需8个汉字即可生成一套6K+中文字库"
     },
-    "https://designer.microsoft.com": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "Microsoft Designer",
-      "desc": "微软推出的AI平面设计工具，实现快速完成设计加工"
-    },
     "https://brandmark.io": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "BrandMark",
       "desc": "最先进的人工智能Logo设计工具"
     },
     "https://aicolors.co": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "AIcolors",
       "desc": "推荐！根据文本生成调色板，提供配色案例参考"
     },
-    "https://getimg.ai": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "Getimg",
-      "desc": "多功能AI图片编辑工具，让文字变成吸睛的视觉图像"
-    },
     "https://imgcreator.ai": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "ImgCreator",
       "desc": "超赞的多合一AI设计工具，超强的背景生成、海报生成能力"
     },
     "https://ailogo.qq.com/guide/brandname": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "AIDesign",
       "desc": "10秒创建Logo！腾讯出品的AI Logo神器"
     },
     "https://imagecreator.alkaidvision.com": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "ImageCreator",
       "desc": "推荐！PS中免费使用的SD神级插件"
     },
     "https://app.recraft.ai/community": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "Recraft",
       "desc": "推荐！便捷的AI生成矢量图像生成工具"
     },
     "https://www.alpacaml.com": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "Alpaca",
       "desc": "个性化的AI工具包，可接入Ps的SD绘画插件"
     },
     "https://flair.ai": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "Flair AI",
       "desc": "你的私人AI设计师！一键生成精美产品照片"
@@ -2357,13 +2023,6 @@
       ],
       "title": "据意查句",
       "desc": "清华出品！AI 神器让你的文案立马变高级"
-    },
-    "https://magickpen.com": {
-      "type": [
-        "AI 写作助手"
-      ],
-      "title": "MagicPen",
-      "desc": "在线AI英语写作助手"
     },
     "https://novelistai.com": {
       "type": [
@@ -2444,20 +2103,6 @@
       "title": "BeatBot",
       "desc": "Splash的AI音乐生成器"
     },
-    "https://www.stableaudio.com": {
-      "type": [
-        "AI 视频生成"
-      ],
-      "title": "Stable Audio",
-      "desc": "Stability Al最新推出的音乐生成工具"
-    },
-    "https://speaking.ai": {
-      "type": [
-        "AI 视频生成"
-      ],
-      "title": "Speaking AI",
-      "desc": "一键克隆！效果真实的文本转语音神器"
-    },
     "https://www.genmo.ai": {
       "type": [
         "AI 视频生成"
@@ -2478,13 +2123,6 @@
       ],
       "title": "Soundraw",
       "desc": "用AI制作免费的音乐"
-    },
-    "https://fliki.ai": {
-      "type": [
-        "AI 视频生成"
-      ],
-      "title": "Fliki",
-      "desc": "高效帮用户创建视频，具有文本转语音功能"
     },
     "https://uberduck.ai": {
       "type": [
@@ -2535,163 +2173,135 @@
       "title": "Rask",
       "desc": "领先的AI视频本地化和配音工具"
     },
-    "https://skybox.blockadelabs.com": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "Text to Skybox",
-      "desc": "推荐！AI生成360°无缝环境贴图"
-    },
-    "https://withpoly.com/browse/textures": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "Poly",
-      "desc": "根据文本生成3D材质"
-    },
     "https://www.ponzu.gg": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "Ponzu",
       "desc": "AI生成3D无缝贴图纹理"
     },
     "https://www.sloyd.ai": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "Sloyd",
       "desc": "快速生成3D游戏资产"
     },
     "https://www.plasmo.ai": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "Plasmo",
       "desc": "将草图转为3D模型"
     },
     "https://cascadeur.com": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "Cascadeur",
       "desc": "AI辅助制作3D关键帧动画"
     },
-    "https://lumalabs.ai": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "Luma Labs",
-      "desc": "推荐！将视频转为游戏资产"
-    },
     "https://www.kaedim3d.com": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "KAEDIM",
       "desc": "帮你迅速生成3D模型及纹理"
     },
     "https://plask.ai": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "Plask",
       "desc": "AI捕捉运动！帮你制作流畅的3D动画"
     },
     "https://dreamfusion3d.github.io": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "DreamFusion",
       "desc": "谷歌推出的文本转3D模型"
     },
-    "https://nv-tlabs.github.io/GET3D": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "GET3D",
-      "desc": "Nvidia的2D转3D模型"
-    },
     "https://3dfy.ai": {
       "type": [
-        "AI 图像处理"
+        "AI 绘图"
       ],
       "title": "3DFY AI",
       "desc": "AI创建大规模高质量的3D资产"
     },
     "https://bigesj.com/ai-ppt/?hmmd=youshe": {
       "type": [
-        "AI 文档办公"
+        "AI 文档工具"
       ],
       "title": "比格AI PPT",
       "desc": "高效的AI PPT生成工具，一键生成大纲、智能排版设计。"
     },
     "https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work": {
       "type": [
-        "AI 文档办公"
+        "AI 文档工具"
       ],
       "title": "Microsoft 365 Copilot",
       "desc": "暂未开放！内置GPT-4的微软Office"
     },
     "https://tome.app": {
       "type": [
-        "AI 文档办公"
+        "AI 文档工具"
       ],
       "title": "Tome",
       "desc": "先进的AI智能PPT制作工具"
     },
     "https://glimmerai.tech": {
       "type": [
-        "AI 文档办公"
+        "AI 文档工具"
       ],
       "title": "Glimmer Ai",
       "desc": "热门！基于GPT-3和DALL·E2的AI PPT知名工具"
     },
     "https://www.pandagpt.io": {
       "type": [
-        "AI 文档办公"
+        "AI 文档工具"
       ],
       "title": "PandaGPT",
       "desc": "上传文档！即可用对话的方式让 AI 总结文档重点"
     },
     "https://wordai.com": {
       "type": [
-        "AI 文档办公"
+        "AI 文档工具"
       ],
       "title": "WordAi",
       "desc": "10倍速AI内容输出！创建读者喜爱的优质内容"
     },
     "https://timelyapp.com": {
       "type": [
-        "AI 文档办公"
+        "AI 文档工具"
       ],
       "title": "Timely",
       "desc": "一款AI时间管理工具！可以帮助你更有效地管理时间"
     },
     "https://www.taskade.com": {
       "type": [
-        "AI 文档办公"
+        "AI 文档工具"
       ],
       "title": "Taskade",
       "desc": "高颜值AI大纲和思维导图生成，统一您的工作流程"
     },
     "https://rossum.ai": {
       "type": [
-        "AI 文档办公"
+        "AI 文档工具"
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
-        "AI 文档办公"
+        "AI 文档工具"
       ],
       "title": "Otter AI",
       "desc": "写笔记和总结会议的速度提高 30 倍"
     },
     "https://noty.ai": {
       "type": [
-        "AI 文档办公"
+        "AI 文档工具"
       ],
       "title": "Noty AI",
       "desc": "推荐！ChatGPT驱动的AI会议转录工具"
@@ -2709,14 +2319,6 @@
       ],
       "title": "TranSmart",
       "desc": "腾讯AI Lab研发的AI辅助翻译产品，满足用户快速翻译的需求"
-    },
-    "https://fanyi.youdao.com/index.html#": {
-      "type": [
-        "AI 翻译工具"
-      ],
-      "icon": "https://ydlunacommon-cdn.nosdn.127.net/31cf4b56e6c0b3af668aa079de1a898c.png",
-      "title": "有道翻译",
-      "desc": "网易旗下深受用户喜欢的口碑型学习工具产品"
     },
     "https://translate.alibaba.com": {
       "type": [
@@ -2770,27 +2372,6 @@
       "icon": "https://dlweb.sogoucdn.com/translate/favicon.ico?v=20180424",
       "title": "搜狗翻译",
       "desc": "支持中、英、法、日等50多种语言之间的互译功能"
-    },
-    "https://kuaiyi.wps.cn/txt-translate": {
-      "type": [
-        "AI 翻译工具"
-      ],
-      "title": "金山快译",
-      "desc": "金山旗下多场景的翻译服务"
-    },
-    "https://github.com/features/copilot": {
-      "type": [
-        "AI 编程开发"
-      ],
-      "title": "GitHub Copilot",
-      "desc": "热门！GitHub AI编程工具"
-    },
-    "https://www.cursor.so": {
-      "type": [
-        "AI 编程开发"
-      ],
-      "title": "Cursor",
-      "desc": "基于GPT的代码生成工具"
     },
     "https://codeium.com": {
       "type": [
@@ -2876,13 +2457,6 @@
       "title": "Ludo AI",
       "desc": "推荐！快速帮助游戏开发者进行创造过程"
     },
-    "https://play.aidungeon.io/main/home": {
-      "type": [
-        "AI 编程开发"
-      ],
-      "title": "AI Dungeon",
-      "desc": "拥有更流畅的体验，更快的模型，堪比免费版本的Steam平台"
-    },
     "https://charisma.ai": {
       "type": [
         "AI 编程开发"
@@ -2898,8 +2472,13 @@
       "desc": "热门！小说作品生成在线社交角色扮演游戏"
     },
     "https://ai-nav.lzw.me": {
-      "type": ["AI 综合工具", "AI 聊天对话"],
+      "type": [
+        "AI 综合工具",
+        "AI 聊天对话"
+      ],
       "title": "AI网址导航",
+      "star": 3,
+      "sort": -91,
       "desc": "收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性"
     },
     "https://latitude.io": {

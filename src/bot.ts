@@ -73,7 +73,7 @@ export function siteUrlVerify() {
     if (item.type) item.type = getTypes(item.type);
 
     if (!isGitHubCi) {
-      if (item.needVPN) return true;
+      // if (item.needVPN) return true;
       if (needGFWKeywords.some(key => url.includes(key))) return true;
       if (item.star! >= 3) return true;
     }
@@ -86,7 +86,7 @@ export function siteUrlVerify() {
 
     logger.debug(`[urlVerify][${idx}] start for`, color.green(url));
     const startTime = Date.now();
-    const r = await httpLinkChecker(url, { verify: body => /<body/i.test(body), reqOptions: { timeout: 10_000, rejectUnauthorized: false } });
+    const r = await httpLinkChecker(url, { verify: body => /<body/i.test(body) || /<\/body>/i.test(body), reqOptions: { timeout: 10_000, rejectUnauthorized: false } });
 
     if (r.code) {
       // ignore TSL error
@@ -104,7 +104,7 @@ export function siteUrlVerify() {
         item.desc = `Redirect to: ${r.url}`;
         if (!config.siteInfo[r.url]) config.siteInfo[r.url] = {};
         logger.debug(`[urlVerify][${color.cyan(url)}]`, color.greenBright(item.desc), r);
-      } else {
+      } else if (!item.needVPN) {
         item.needVerify = (item.needVerify || 0) + 1;
         if (item.needVerify >= 7) {
           delete config.siteInfo[url]; // 超过 6 次均 404 则移除
@@ -116,6 +116,8 @@ export function siteUrlVerify() {
         logger.warn(`[urlVerify][${idx}][${color.yellow(url)}]`, r.statusCode, r.errmsg.slice(0, 300), r.url == url ? '' : color.cyan(r.url));
       }
     } else {
+      if (item.needVPN && !isGitHubCi) delete item.needVPN;
+
       if ('needVerify' in item) {
         if (item.needVerify && item.needVerify > 0) delete item.needVerify;
       }
@@ -130,7 +132,7 @@ export function siteUrlVerify() {
     }
 
     const timeCost = Date.now() - startTime;
-    if (timeCost > 5000 && !r.code) logger.warn(`[urlVerify][${idx}][slow]`, color.magenta(url), color.red(timeCost), r);
+    if (timeCost > 5000 && !r.code) logger.warn(`[urlVerify][${idx}][slow]`, color.magenta(url), color.red(timeCost));
     else logger.debug(`[urlVerify][${idx}]done!`, color.green(url), color.cyan(timeCost), r);
     return r;
   });
