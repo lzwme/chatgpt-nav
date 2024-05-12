@@ -1,7 +1,7 @@
 import { resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { readJsonFileSync } from '@lzwme/fe-utils';
-import {config as dConfig } from 'dotenv';
+import { config as dConfig } from 'dotenv';
 import { logger, ghReq, fixSiteUrl } from './utils';
 import { writeFileSync } from 'node:fs';
 
@@ -46,10 +46,10 @@ export const config = {
   debug: false,
   isOnlyNew: false,
   gptDemoRepos: new Map<string, SiteInfo>([
-    [`lvwzhen/teach-anything`, {}],
-    [`ddiu8081/chatgpt-demo`, {}],
-    [`ourongxing/chatgpt-vercel`, {}],
-    [`cogentapps/chat-with-gpt`, { needKey: true, needVPN: true }],
+    // [`lvwzhen/teach-anything`, {}],
+    // [`ddiu8081/chatgpt-demo`, {}],
+    // [`ourongxing/chatgpt-vercel`, {}],
+    // [`cogentapps/chat-with-gpt`, { needKey: true, needVPN: true }],
     // [`Yidadaa/ChatGPT-Next-Web`, { needKey: 1, needPwd: 1 }],
     // [`yesmore/QA`, {}],
   ]),
@@ -58,9 +58,9 @@ export const config = {
   /** 站点禁止列表: hide=1 */
   siteBlockList: new Set([]) as Set<string>,
   /** 站点信息 */
-  siteInfo: {
-
-  } as { [url: string]: SiteInfo },
+  siteInfo: {} as { [url: string]: SiteInfo },
+  /** 分类信息 */
+  categoryInfo: {} as { [url: string]: { sort?: number; keywords?: string[] } },
 };
 
 export function initConfig(argv: Record<string, unknown>) {
@@ -72,8 +72,10 @@ export function initConfig(argv: Record<string, unknown>) {
   if (token) ghReq.setHeaders({ Authorization: `Bearer ${token}` });
   else logger.warn('Not found GH TOKEN');
 
-  const info = readJsonFileSync<{ repoBlockList: string[]; siteInfo: Record<string, SiteInfo> }>(config.siteInfoFile);
+  type T = Pick<typeof config, 'categoryInfo' | 'siteInfo'>;
+  const info = readJsonFileSync<{ repoBlockList: string[] } & T>(config.siteInfoFile);
   Object.assign(config.siteInfo, info.siteInfo);
+  Object.assign(config.categoryInfo, info.categoryInfo);
   info.repoBlockList.forEach(repo => config.repoBlockMap.set(repo, ''));
 
   for (const [url, info] of Object.entries(config.siteInfo)) {
@@ -87,6 +89,13 @@ export function initConfig(argv: Record<string, unknown>) {
       config.siteBlockList.add(url);
       if (info.repo) config.repoBlockMap.set(info.repo, url);
     }
+
+    if (info.type) {
+      if (!Array.isArray(info.type)) info.type = [info.type];
+      info.type.forEach(t => {
+        if (!config.categoryInfo[t]) logger.warn(`未知的分类：`, t, url, info);
+      });
+    }
   }
 
   logger.updateOptions({ levelType: config.debug ? 'debug' : 'log' });
@@ -98,6 +107,7 @@ export function initConfig(argv: Record<string, unknown>) {
 export function saveConfig() {
   const info = {
     repoBlockList: [...config.repoBlockMap].filter(d => !config.siteInfo[d[1]]?.hide).map(d => d[0]),
+    categoryInfo: config.categoryInfo,
     siteInfo: config.siteInfo,
   };
   writeFileSync(config.siteInfoFile, JSON.stringify(info, null, 2), 'utf8');

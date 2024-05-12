@@ -9,11 +9,11 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import parser from 'yargs-parser';
 import { gitCommit, logger } from './utils';
-import { repoBot, siteUrlVerify } from './bot';
+import { siteUrlVerify } from './siteUrlVerify';
 import { config, initConfig, saveConfig } from './config';
 
 function formatSiteList() {
-  return Object.entries(config.siteInfo)
+  const list = Object.entries(config.siteInfo)
     .filter(([_url, info]) => {
       Object.entries(info).forEach(([key, value]) => {
         if (value === 0 || value === false) delete info[key];
@@ -30,8 +30,10 @@ function formatSiteList() {
       if (a[1].star !== b[1].star) return (b[1].star || 1) - (a[1].star || 1);
 
       return a[0] > b[0] ? 1 : -1;
-    })
-    .map(([url, info]) => {
+    });
+
+  const fortCateList = (cateList = list) =>
+    cateList.map(([url, info]) => {
       let prefix = '';
 
       if (info.invalid) prefix = '❌' + (typeof info.invalid === 'string' ? info.invalid : '');
@@ -49,13 +51,23 @@ function formatSiteList() {
         info.errmsg ? `\`${info.errmsg}\`` : ''
       }`.trim();
     });
+
+  const mdContent = Object.entries(config.categoryInfo)
+    .sort((a, b) => b[1].sort! - a[1].sort!)
+    .map(([cate]) => {
+      const cateList = list.filter(d => d[1].type?.includes(cate));
+      if (cateList.length === 0) return '';
+      return [`\n### ${cate} (${cateList.length})\n`, fortCateList(cateList).join('\n')].join('\n');
+    }).join('\n');
+
+    return { list, mdContent };
 }
 
 async function updateReadme() {
   const rdFile = resolve(config.rootDir, 'README.md');
-  const list = formatSiteList();
+  const { list, mdContent } = formatSiteList();
   const content = readFileSync(rdFile, 'utf8');
-  const updated = content.replace(/站点列表\([\s\S]+\n\n## /g, `站点列表(${list.length})：\n\n${list.join(`\n`)}\n\n## `);
+  const updated = content.replace(/站点列表\([\s\S]+\n\n## /g, `站点列表(${list.length})：\n${mdContent}\n\n## `);
   if (updated !== content) writeFileSync(rdFile, updated, 'utf8');
   else logger.debug('[UPDATE-READE] No Chagned');
   return list.length;
@@ -67,7 +79,7 @@ export async function start() {
   initConfig(argv);
 
   if (!argv.onlyUpdate) {
-    if (argv.bot) await repoBot(config.debug ? 10 : 2000);
+    // if (argv.bot) await repoBot(config.debug ? 10 : 2000);
     if (argv.urlCheck !== false) await siteUrlVerify();
   }
 

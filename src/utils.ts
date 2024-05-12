@@ -91,8 +91,20 @@ export function extractHttpLinks(text: string) {
 
 export function fixSiteUrl(url: string) {
   if (!url) return '';
-  if (url.endsWith('/')) url = url.slice(0, -1);
   if (!url.startsWith('http')) url = `https://${url}`;
+
+  [
+    /register?.+/,
+    /\?(from|refId|hmmd|share|invi.+)=.+/i,
+    /#.*$/, //
+    /index.html?$/,
+  ].forEach(r => (url = url.trim().replace(r, '')));
+
+  // 移除末尾不必要的 斜杠
+  if (url.endsWith('/') && /:\/\/[^/]+\/$/.test(url)) url = url.slice(0, -1);
+  // 补充必要的末尾斜杠
+  // if (!url.endsWith('/') && !url.includes('?') && /:\/\/[a-z.-]+\/.+$/i.test(url)) url += '/';
+
   return url;
 }
 
