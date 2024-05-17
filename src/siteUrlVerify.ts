@@ -4,7 +4,7 @@ import { logger } from './utils';
 import { getTypes } from './getTypes';
 
 export function siteUrlVerify() {
-  const needVPNKeywords = ['vercel.app', 'openai.com'];
+  const needVPNKeywords = ['vercel.app', 'openai.com', 'bing.com'];
   const isGitHubCi = (process.env.GITHUB_CI || process.env.SYNC) != null;
 
   const tasks = Object.entries(config.siteInfo).map(([url, item], idx) => async () => {
@@ -28,6 +28,9 @@ export function siteUrlVerify() {
     });
 
     if (r.code) {
+      // 30x 为正常
+      if (r.redirected || String(r.code).startsWith('30')) r.code = 0;
+
       // ignore TSL error
       if (r.errmsg.includes('network socket disconnected before secure TLS connection')) {
         r.code = 0;
@@ -44,7 +47,7 @@ export function siteUrlVerify() {
         if (!config.siteInfo[r.url]) config.siteInfo[r.url] = {};
         logger.debug(`[urlVerify][${color.cyan(url)}]`, color.greenBright(item.desc), r);
       } else if (!item.needVPN) {
-        item.needVerify = (item.needVerify || 0) + 1;
+        if (!item.needVerify || item.needVerify > 0) item.needVerify = (item.needVerify || 0) + 1;
         item.errmsg = `[error][${r.statusCode || r.code}]${r.errmsg}`.slice(0, 200);
 
         const errKeys = ['timeout', '404'];

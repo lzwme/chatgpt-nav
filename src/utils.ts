@@ -93,6 +93,10 @@ export function fixSiteUrl(url: string) {
   if (!url) return '';
   if (!url.startsWith('http')) url = `https://${url}`;
 
+  const whiteList = ['from=lzw', 'lzw.me'];
+
+  if (whiteList.some(k => url.includes(k) || k.includes(url))) return url;
+
   [
     /register?.+/,
     /\?(from|refId|hmmd|share|invi.+)=.+/i,

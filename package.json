@@ -1,9 +1,9 @@
 {
-  "name": "@lzwme/chatgpt-sites",
+  "name": "@lzwme/chatgpt-nav",
   "version": "1.0.0",
   "description": "ChatGPT 在线体验网站列表",
   "license": "MIT",
-  "repository": "https://github.com/lzwme/chatgpt-sites.git",
+  "repository": "https://github.com/lzwme/chatgpt-nav.git",
   "author": {
     "name": "renxia",
     "email": "lzwy0820@qq.com",
