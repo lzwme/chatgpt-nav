@@ -19,13 +19,13 @@
     "chatgpt"
   ],
   "devDependencies": {
-    "@types/node": "^20.4.5",
-    "tsx": "^3.12.7",
-    "typescript": "^5.1.6"
+    "@types/node": "^20.12.12",
+    "tsx": "^4.10.5",
+    "typescript": "^5.4.5"
   },
   "dependencies": {
-    "@lzwme/fe-utils": "^1.5.2",
-    "dotenv": "^16.3.1",
+    "@lzwme/fe-utils": "^1.7.3",
+    "dotenv": "^16.4.5",
     "yargs-parser": "^21.1.1"
   }
 }

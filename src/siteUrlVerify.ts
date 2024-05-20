@@ -10,7 +10,7 @@ export function siteUrlVerify() {
   const tasks = Object.entries(config.siteInfo).map(([url, item], idx) => async () => {
     if (item.type) item.type = getTypes(item.type);
 
-    if (Number(item.hide) === 1) return true;
+    // if (Number(item.hide) === 1) return true;
 
     if (!isGitHubCi) {
       // if (item.needVPN) return true;
@@ -50,9 +50,13 @@ export function siteUrlVerify() {
         if (!item.needVerify || item.needVerify > 0) item.needVerify = (item.needVerify || 0) + 1;
         item.errmsg = `[error][${r.statusCode || r.code}]${r.errmsg}`.slice(0, 200);
 
-        const errKeys = ['timeout', '404'];
-        if (item.needVerify >= 7 && (r.statusCode == 404 || errKeys.some(k => r.errmsg?.includes(k)))) {
-          delete config.siteInfo[url];
+        const errKeys = ['404'];
+        if (item.needVerify >= 7) {
+          if ((r.statusCode == 404 || errKeys.some(k => r.errmsg?.includes(k)))) {
+            delete config.siteInfo[url];
+          } else {
+            item.hide = 1;
+          }
         }
 
         logger.warn(
