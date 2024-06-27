@@ -114,7 +114,7 @@ export function fixSiteUrl(url: string) {
 
 export async function gitCommit() {
   const changes = execSync('git status --short', { encoding: 'utf8' }).trim(); // --untracked-files=no
-  const isGitHubCi = process.env.GITHUB_CI != null;
+  const isGitHubCi = (process.env.GITHUB_CI || process.env.SYNC) != null;
 
   if (changes.length > 5) {
     logger.info('[gitCommit]Changes:\n', changes);

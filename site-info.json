@@ -192,7 +192,7 @@
       ],
       "star": 3,
       "desc": "Midjourney 是目前AI绘图最强大的存在",
-      "title": "触手AI"
+      "title": "Midjourney"
     },
     "https://stability.ai": {
       "type": [
@@ -211,7 +211,7 @@
       "sort": -89,
       "needLogin": 1,
       "desc": "Kimi智能助手能够支持约20万汉字的上下文输入，具备显著的中文优势，能够为用户提供回答问题、速读文件、整理资料、激发灵感、辅助创作等服务",
-      "title": "Kimi"
+      "title": "Kimi.ai"
     },
     "https://yiyan.baidu.com": {
       "type": [
@@ -221,7 +221,7 @@
       "star": 3,
       "sort": -90,
       "needLogin": 1,
-      "desc": "已全面开放，使用百度账号登录即可",
+      "desc": "百度全新知识增强大语言模型！使用百度账号登录即可",
       "title": "文心一言"
     },
     "https://xinghuo.xfyun.cn": {
@@ -579,7 +579,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "title": "Claude3",
+      "title": "Anthropic",
       "desc": "Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。"
     },
     "https://poe.com": {
@@ -713,7 +713,7 @@
       "type": [
         "AI 搜索引擎"
       ],
-      "title": "Perplexity AI",
+      "title": "Perplexity",
       "desc": "Perplexity AI通过信息发现和共享解锁知识的力量。",
       "star": 3
     },
@@ -729,7 +729,7 @@
       "type": [
         "AI 搜索引擎"
       ],
-      "title": "You",
+      "title": "YOU",
       "desc": "You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。",
       "needVPN": 1
     },
@@ -828,14 +828,14 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "Jasper",
+      "title": "Jasper AI",
       "desc": "AI文字内容创作工具。"
     },
     "https://writesonic.com": {
       "type": [
         "AI 写作助手"
       ],
-      "title": "writesonic",
+      "title": "Writesonic",
       "desc": "Writesonic可以为博客、广告、电子邮件和网站快速生成已优化的免费原创内容。",
       "needVPN": 1
     },
@@ -843,7 +843,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "Quillbot",
+      "title": "QuillBot",
       "desc": "QuillBot一款写作改写工具，能够帮助您让写作更好、更快、更聪明。我们的改写工具是免费且易于使用的，只需点击一下按钮，即可进行改写。",
       "needVPN": 1
     },
@@ -851,7 +851,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "Grammarly",
+      "title": "Grammarly.",
       "desc": "Grammarly开发了一种使用人工智能和自然语言处理的数字写作工具。Grammarly键盘随时随地为您提供支持，确保您的写作始终看起来很棒。无论您是在输入紧急电子邮件、重要的LinkedIn消息还是必要的Facebook帖子，Grammarly都能让您放心地从移动设备上进行写作。"
     },
     "https://languagetool.org": {
@@ -879,7 +879,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "Copy.ai",
+      "title": "Copy AI",
       "desc": "人工智能营销文案和内容创作工具，帮助各行各业的撰稿人、营销人员和企业快速高效地创建高质量的内容。",
       "needVPN": 1
     },
@@ -887,7 +887,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "Novel.ai",
+      "title": "NovelAI",
       "desc": "基于人工智能，轻松构建独特的、惊险的、引入入胜的故事。",
       "needVPN": 1
     },
@@ -937,7 +937,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "腾讯Effidit",
+      "title": "Effidit写作助手",
       "desc": "Effidit是由腾讯AI Lab 开发的一个智能创作助手，探索用AI技术提升写作者的写作效率和创作体验。"
     },
     "https://www.writingo.net": {
@@ -953,7 +953,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "阿里悉语",
+      "title": "悉语",
       "desc": "悉语智能是阿里妈妈创意中心出品的一款一键生成商品营销文案的工具。"
     },
     "https://www.mypitaya.com": {
@@ -1105,7 +1105,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "title": "DeepL",
+      "title": "Deepl翻译器",
       "desc": "支持翻译文本和文件，为个人和团队提供准确的翻译，每天有数百万人使用DeepL进行翻译。",
       "star": 3
     },
@@ -1220,7 +1220,7 @@
       "type": [
         "AI 绘图"
       ],
-      "title": "Leonardo.AI/",
+      "title": "Leonardo",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。"
     },
     "https://pixai.art": {
@@ -1320,7 +1320,7 @@
       "type": [
         "AI 绘图"
       ],
-      "title": "标小智logo生成",
+      "title": "标小智",
       "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
     },
     "https://img.logosc.cn": {
@@ -1350,7 +1350,7 @@
         "AI 图像处理"
       ],
       "star": 3,
-      "title": "腾讯ARC",
+      "title": "Arc Lab",
       "desc": "ARC是腾讯旗下ARC（Applied Research Center，应用研究中心）实验室推出的系列AI图片处理工具，目前提供了三项免费的AI图像功能：人像修复、人像抠图和动漫增强。"
     },
     "https://chacha.so.com": {
@@ -1392,7 +1392,7 @@
       "type": [
         "AI 绘图"
       ],
-      "title": "CivitAI",
+      "title": "Civitai",
       "desc": "AI绘画模型共享平台，拥有海量开源模型",
       "needVPN": 1
     },
@@ -1428,7 +1428,7 @@
       "type": [
         "AI 绘图"
       ],
-      "title": "腾讯AIDesign",
+      "title": "AIDesign",
       "desc": "腾讯自研的智能设计平台，免费在线生成品牌logo、企业VI，仅需3步助您开启业务。"
     },
     "https://www.modaiyun.com/mdy/ai": {
@@ -1484,7 +1484,7 @@
       "type": [
         "AI 绘图"
       ],
-      "title": "Vectorizer AI",
+      "title": "Vectorize",
       "desc": "Vectorizer可以使用AI快速轻松地将JPEG和PNG位图转换为SVG矢量图。"
     },
     "https://facecheck.id": {
@@ -1556,7 +1556,7 @@
         "AI 语音生成",
         "AI 国外工具"
       ],
-      "title": "PlayHT",
+      "title": "Play",
       "desc": "基于人工智能将文本转位逼真的语音"
     },
     "https://www.notta.ai": {
@@ -1678,7 +1678,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "title": "HeyGen",
+      "title": "Heygen",
       "desc": "AI生成真人营销视频",
       "needVPN": 1,
       "star": 3
@@ -2755,7 +2755,7 @@
       ]
     },
     "https://chatexcel.com": {
-      "title": "酷表 ChatExcel",
+      "title": "酷表ChatExcel",
       "desc": "酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据。",
       "type": [
         "AI 文档工具"
@@ -2813,7 +2813,7 @@
       "errmsg": "[error][-1]timeout"
     },
     "https://clipdrop.co": {
-      "title": "Watermark Remover",
+      "title": "Clipdrop",
       "desc": "体验图像编辑的顶峰——水印移除AI，借助先进的人工智能技术轻松、精确地擦除水印，确保您的视觉效果保持完美清晰、无干扰。",
       "type": [
         "AI 图像处理"
@@ -3202,6 +3202,13 @@
       ],
       "needVerify": 1,
       "errmsg": "[error][403]Forbidden"
+    },
+    "https://youyan.xyz/platform/home/prime": {
+      "title": "有言",
+      "desc": "一站式AI视频创作，1200+免费3D数字人",
+      "type": [
+        "AI 视频生成"
+      ]
     }
   }
 }
