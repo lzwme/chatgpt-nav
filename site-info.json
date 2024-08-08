@@ -192,7 +192,9 @@
       ],
       "star": 3,
       "desc": "Midjourney 是目前AI绘图最强大的存在",
-      "title": "Midjourney"
+      "title": "Midjourney",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://stability.ai": {
       "type": [
@@ -323,7 +325,9 @@
       "source": "recommend",
       "desc": "双端支持，可免费使用，支持GPT4",
       "title": "hao-gpt",
-      "needPay": 1
+      "needPay": 1,
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.pinkfong.cn"
     },
     "https://newstop.c1ns.cn": {
       "star": 2,
@@ -344,7 +348,9 @@
       "needPay": 1,
       "source": "recommend",
       "title": "BambooChat",
-      "desc": "3.5和4.0 API构建的CHATGPT网站"
+      "desc": "3.5和4.0 API构建的CHATGPT网站",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai.bamboochat.cn"
     },
     "https://home.v50.ltd": {
       "star": 2,
@@ -373,7 +379,9 @@
       "needLogin": 1,
       "source": "recommend",
       "desc": "国内可直接畅想的 chatgpt 服务，基于 GPT3.5tubro 和 GPT4 构建",
-      "title": "BambooChat"
+      "title": "BambooChat",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND bamboochat.kebakeba.com"
     },
     "http://new.cutim.top": {
       "star": 2,
@@ -390,7 +398,8 @@
     "https://chat.yqcloud.top": {
       "needVPN": 1,
       "desc": "可正常访问，但接口无响应",
-      "hide": 1
+      "hide": 1,
+      "title": "AIchatOS"
     },
     "https://chat.alpaca-bi.com": {
       "needPay": 1,
@@ -470,8 +479,8 @@
       ],
       "title": "Ai导航",
       "desc": "专为设计师打造的AI工具箱，提供智能设计辅助、创意激发和设计效率提升等功能",
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.88sheji.cn"
+      "needVerify": 2,
+      "errmsg": "[error][-1]socket hang up"
     },
     "https://chat.lmsys.org": {
       "needVPN": 1,
@@ -541,7 +550,9 @@
       "title": "通义千问",
       "icon": "https://img.alicdn.com/imgextra/i4/O1CN01FOwagl1XBpyVA2QVy_!!6000000002886-2-tps-512-512.png",
       "star": 3,
-      "sort": -88
+      "sort": -88,
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://tingwu.aliyun.com": {
       "type": [
@@ -557,7 +568,9 @@
       "desc": "通义万相是阿里云通义旗下的AI创意作画平台。每日给用户 50 灵感值，单次生成成功扣除1个灵感值，每日0点重置。",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://pangu.huaweicloud.com": {
       "type": [
@@ -715,7 +728,9 @@
       ],
       "title": "Perplexity",
       "desc": "Perplexity AI通过信息发现和共享解锁知识的力量。",
-      "star": 3
+      "star": 3,
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.phind.com": {
       "type": [
@@ -1054,7 +1069,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://smartread.cc": {
@@ -1314,7 +1329,8 @@
       "title": "PromeAI",
       "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
       "hide": 1,
-      "errmsg": "已失效"
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com",
+      "needVerify": 1
     },
     "https://www.logosc.cn": {
       "type": [
@@ -1365,7 +1381,9 @@
         "AI 图像处理"
       ],
       "title": "BgSub",
-      "desc": "BgSub是一款ai技术驱动的网络应用程序。可以帮助用户快速准确消除或替换图像背景，BgSub提供了比传统的Photoshop等工具更快速的抠图体验。"
+      "desc": "BgSub是一款ai技术驱动的网络应用程序。可以帮助用户快速准确消除或替换图像背景，BgSub提供了比传统的Photoshop等工具更快速的抠图体验。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn"
     },
     "https://www.whee.com": {
       "type": [
@@ -1429,7 +1447,9 @@
         "AI 绘图"
       ],
       "title": "AIDesign",
-      "desc": "腾讯自研的智能设计平台，免费在线生成品牌logo、企业VI，仅需3步助您开启业务。"
+      "desc": "腾讯自研的智能设计平台，免费在线生成品牌logo、企业VI，仅需3步助您开启业务。",
+      "needVerify": 1,
+      "errmsg": "[error][503]Service Unavailable"
     },
     "https://www.modaiyun.com/mdy/ai": {
       "type": [
@@ -1972,7 +1992,9 @@
         "AI 图像处理"
       ],
       "title": "BgSub",
-      "desc": "超实用！消除或替换图像背景的AI工具"
+      "desc": "超实用！消除或替换图像背景的AI工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn"
     },
     "https://qingtu.cn": {
       "type": [
@@ -2144,7 +2166,9 @@
         "AI 绘图"
       ],
       "title": "AIDesign",
-      "desc": "10秒创建Logo！腾讯出品的AI Logo神器"
+      "desc": "10秒创建Logo！腾讯出品的AI Logo神器",
+      "needVerify": 1,
+      "errmsg": "[error][503]Service Unavailable"
     },
     "https://imagecreator.alkaidvision.com": {
       "type": [
@@ -2302,7 +2326,9 @@
         "AI 视频生成"
       ],
       "title": "BeatBot",
-      "desc": "Splash的AI音乐生成器"
+      "desc": "Splash的AI音乐生成器",
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://www.genmo.ai": {
       "type": [
@@ -2368,7 +2394,9 @@
         "AI 视频生成"
       ],
       "title": "SplashMusic",
-      "desc": "超酷！输入文本提示创建歌曲神器"
+      "desc": "超酷！输入文本提示创建歌曲神器",
+      "needVerify": 1,
+      "errmsg": "[error][401]Unauthorized"
     },
     "https://zh.rask.ai": {
       "type": [
@@ -2460,7 +2488,9 @@
         "AI 文档工具"
       ],
       "title": "PandaGPT",
-      "desc": "上传文档！即可用对话的方式让 AI 总结文档重点"
+      "desc": "上传文档！即可用对话的方式让 AI 总结文档重点",
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://wordai.com": {
       "type": [
@@ -2621,7 +2651,9 @@
         "AI 编程开发"
       ],
       "title": "Mutable AI",
-      "desc": "一款更全面的 GitHub Copilot 替代品"
+      "desc": "一款更全面的 GitHub Copilot 替代品",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.warp.dev": {
       "type": [
@@ -2752,7 +2784,9 @@
       "type": [
         "AI 文档工具",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatexcel.com": {
       "title": "酷表ChatExcel",
@@ -2790,54 +2824,42 @@
       "desc": "国内团队开发的图片模型分享社区。",
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.fotor.com/cn": {
       "title": "Fotor",
       "desc": "Fotor是一款免费的在线照片编辑器，可以轻松编辑、裁剪、调整大小、添加效果和文字，创建拼贴等。",
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://pixlr.com/cn": {
       "title": "Pixlr",
       "desc": "Pixlr是一家提供基于云的照片编辑服务的供应商，为消费者和公司在浏览器中提供编辑功能。Pixlr提供了一个平台，可以进行各种第三方集成。",
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://clipdrop.co": {
       "title": "Clipdrop",
       "desc": "体验图像编辑的顶峰——水印移除AI，借助先进的人工智能技术轻松、精确地擦除水印，确保您的视觉效果保持完美清晰、无干扰。",
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      ]
     },
     "https://tools.picsart.com": {
       "title": "QuickTools By Picsart",
       "desc": "Picsart是全球最大的数字创作平台。其由人工智能驱动的工具使各个水平的创作者能够设计、编辑、绘制和分享照片和视频内容。",
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.cutout.pro": {
       "title": "Cutout Pro",
       "desc": "全能视觉设计平台，包含 AI 照片和视频编辑工具。自动化背景移除、图像修复、平面设计等。",
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.zmo.ai": {
       "title": "ZMO.AI",
@@ -2853,7 +2875,9 @@
       "type": [
         "AI 语音生成",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.veed.io": {
       "title": "Veed",
@@ -2868,7 +2892,9 @@
       "desc": "MJ出品！面向二次元风格，内容细致拿捏专业到位",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://creator.nightcafe.studio": {
       "title": "NightCafe",
@@ -2974,9 +3000,7 @@
       "type": [
         "AI 提示词",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://contentatscale.ai/ai-prompt-library": {
       "title": "Content at scale",
@@ -3054,8 +3078,8 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 2,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://b.jimmylv.cn": {
       "title": "BibiGPT",
@@ -3070,7 +3094,9 @@
       "type": [
         "AI 视频生成",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://speaking.ai": {
       "title": "Speaking AI",
@@ -3078,9 +3104,7 @@
       "type": [
         "AI 视频生成",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]write EPROTO D06E0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:1590:SSL alert number 40\n"
+      ]
     },
     "https://fliki.ai": {
       "title": "Fliki",
@@ -3105,7 +3129,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://lumalabs.ai": {
@@ -3200,7 +3224,7 @@
         "AI 综合工具",
         "AI 国外工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://youyan.xyz/platform/home/prime": {
