@@ -193,7 +193,7 @@
       "star": 3,
       "desc": "Midjourney 是目前AI绘图最强大的存在",
       "title": "Midjourney",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://stability.ai": {
@@ -326,7 +326,7 @@
       "desc": "双端支持，可免费使用，支持GPT4",
       "title": "hao-gpt",
       "needPay": 1,
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.pinkfong.cn"
     },
     "https://newstop.c1ns.cn": {
@@ -334,7 +334,7 @@
       "source": "recommend",
       "desc": "无需登录，免费使用，可选模版",
       "title": "Chat智能机器人",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]HTTP_404"
     },
     "https://chattyaid.com": {
@@ -351,7 +351,7 @@
       "source": "recommend",
       "title": "BambooChat",
       "desc": "3.5和4.0 API构建的CHATGPT网站",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai.bamboochat.cn"
     },
     "https://home.v50.ltd": {
@@ -382,7 +382,7 @@
       "source": "recommend",
       "desc": "国内可直接畅想的 chatgpt 服务，基于 GPT3.5tubro 和 GPT4 构建",
       "title": "BambooChat",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bamboochat.kebakeba.com"
     },
     "http://new.cutim.top": {
@@ -481,7 +481,7 @@
       ],
       "title": "Ai导航",
       "desc": "专为设计师打造的AI工具箱，提供智能设计辅助、创意激发和设计效率提升等功能",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]socket hang up"
     },
     "https://chat.lmsys.org": {
@@ -727,7 +727,7 @@
       "title": "Perplexity",
       "desc": "Perplexity AI通过信息发现和共享解锁知识的力量。",
       "star": 3,
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.phind.com": {
@@ -1067,7 +1067,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://smartread.cc": {
@@ -1328,7 +1328,7 @@
       "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
       "hide": 1,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com",
-      "needVerify": 3
+      "needVerify": 4
     },
     "https://www.logosc.cn": {
       "type": [
@@ -1380,7 +1380,7 @@
       ],
       "title": "BgSub",
       "desc": "BgSub是一款ai技术驱动的网络应用程序。可以帮助用户快速准确消除或替换图像背景，BgSub提供了比传统的Photoshop等工具更快速的抠图体验。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn"
     },
     "https://www.whee.com": {
@@ -1446,7 +1446,7 @@
       ],
       "title": "AIDesign",
       "desc": "腾讯自研的智能设计平台，免费在线生成品牌logo、企业VI，仅需3步助您开启业务。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][503]Service Unavailable"
     },
     "https://www.modaiyun.com/mdy/ai": {
@@ -1991,7 +1991,7 @@
       ],
       "title": "BgSub",
       "desc": "超实用！消除或替换图像背景的AI工具",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn"
     },
     "https://qingtu.cn": {
@@ -2165,7 +2165,7 @@
       ],
       "title": "AIDesign",
       "desc": "10秒创建Logo！腾讯出品的AI Logo神器",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][503]Service Unavailable"
     },
     "https://imagecreator.alkaidvision.com": {
@@ -2325,7 +2325,7 @@
       ],
       "title": "BeatBot",
       "desc": "Splash的AI音乐生成器",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.genmo.ai": {
@@ -2393,7 +2393,7 @@
       ],
       "title": "SplashMusic",
       "desc": "超酷！输入文本提示创建歌曲神器",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][401]Unauthorized"
     },
     "https://zh.rask.ai": {
@@ -2487,7 +2487,7 @@
       ],
       "title": "PandaGPT",
       "desc": "上传文档！即可用对话的方式让 AI 总结文档重点",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][404]Not Found"
     },
     "https://wordai.com": {
@@ -2650,7 +2650,7 @@
       ],
       "title": "Mutable AI",
       "desc": "一款更全面的 GitHub Copilot 替代品",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.warp.dev": {
@@ -2783,7 +2783,7 @@
         "AI 文档工具",
         "AI 国外工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatexcel.com": {
@@ -2874,7 +2874,7 @@
         "AI 语音生成",
         "AI 国外工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.veed.io": {
@@ -2891,7 +2891,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://creator.nightcafe.studio": {
@@ -3076,7 +3076,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://b.jimmylv.cn": {
@@ -3093,7 +3093,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://speaking.ai": {
@@ -3127,7 +3127,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://lumalabs.ai": {
@@ -3222,7 +3222,7 @@
         "AI 综合工具",
         "AI 国外工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://youyan.xyz/platform/home/prime": {
