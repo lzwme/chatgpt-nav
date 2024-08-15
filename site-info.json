@@ -193,7 +193,7 @@
       "star": 3,
       "desc": "Midjourney 是目前AI绘图最强大的存在",
       "title": "Midjourney",
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -327,7 +327,7 @@
       "desc": "双端支持，可免费使用，支持GPT4",
       "title": "hao-gpt",
       "needPay": 1,
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.pinkfong.cn",
       "hide": 1
     },
@@ -335,9 +335,7 @@
       "star": 2,
       "source": "recommend",
       "desc": "无需登录，免费使用，可选模版",
-      "title": "Chat智能机器人",
-      "needVerify": 5,
-      "errmsg": "[error][404]HTTP_404"
+      "title": "Chat智能机器人"
     },
     "https://chattyaid.com": {
       "star": 2,
@@ -353,7 +351,7 @@
       "source": "recommend",
       "title": "BambooChat",
       "desc": "3.5和4.0 API构建的CHATGPT网站",
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai.bamboochat.cn",
       "hide": 1
     },
@@ -385,7 +383,7 @@
       "source": "recommend",
       "desc": "国内可直接畅想的 chatgpt 服务，基于 GPT3.5tubro 和 GPT4 构建",
       "title": "BambooChat",
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bamboochat.kebakeba.com",
       "hide": 1
     },
@@ -476,9 +474,7 @@
     },
     "https://chat.xiaozeai.com": {
       "desc": "为您提供小泽全能模式、小泽应用商店、小泽3.5、小泽4、联网、插件、高级数据分析、绘图等功能和模式",
-      "title": "小泽AI",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "小泽AI"
     },
     "https://www.88sheji.cn/ai": {
       "nav": "https://www.tomda.top",
@@ -487,7 +483,7 @@
       ],
       "title": "Ai导航",
       "desc": "专为设计师打造的AI工具箱，提供智能设计辅助、创意激发和设计效率提升等功能",
-      "needVerify": 8,
+      "needVerify": 9,
       "errmsg": "[error][-1]socket hang up",
       "hide": 1
     },
@@ -734,7 +730,7 @@
       "title": "Perplexity",
       "desc": "Perplexity AI通过信息发现和共享解锁知识的力量。",
       "star": 3,
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -1075,7 +1071,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 8,
+      "needVerify": 9,
       "errmsg": "[error][502]Bad Gateway",
       "hide": 1
     },
@@ -1337,7 +1333,7 @@
       "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
       "hide": 1,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com",
-      "needVerify": 7
+      "needVerify": 8
     },
     "https://www.logosc.cn": {
       "type": [
@@ -1389,7 +1385,7 @@
       ],
       "title": "BgSub",
       "desc": "BgSub是一款ai技术驱动的网络应用程序。可以帮助用户快速准确消除或替换图像背景，BgSub提供了比传统的Photoshop等工具更快速的抠图体验。",
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn",
       "hide": 1
     },
@@ -1456,7 +1452,7 @@
       ],
       "title": "AIDesign",
       "desc": "腾讯自研的智能设计平台，免费在线生成品牌logo、企业VI，仅需3步助您开启业务。",
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][503]Service Unavailable",
       "hide": 1
     },
@@ -1938,7 +1934,7 @@
       ],
       "title": "IPensoul",
       "desc": "超好用的AI图片工具！提供建筑家居草图渲染，AI抠图等功能",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.upscayl.org": {
@@ -2004,7 +2000,7 @@
       ],
       "title": "BgSub",
       "desc": "超实用！消除或替换图像背景的AI工具",
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn",
       "hide": 1
     },
@@ -2179,7 +2175,7 @@
       ],
       "title": "AIDesign",
       "desc": "10秒创建Logo！腾讯出品的AI Logo神器",
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][503]Service Unavailable",
       "hide": 1
     },
@@ -2399,7 +2395,7 @@
       ],
       "title": "SplashMusic",
       "desc": "超酷！输入文本提示创建歌曲神器",
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][401]Unauthorized",
       "hide": 1
     },
@@ -2648,7 +2644,7 @@
       ],
       "title": "Mutable AI",
       "desc": "一款更全面的 GitHub Copilot 替代品",
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -2678,7 +2674,9 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ludo.ai": {
       "type": [
@@ -2782,7 +2780,7 @@
         "AI 文档工具",
         "AI 国外工具"
       ],
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -2874,7 +2872,7 @@
         "AI 语音生成",
         "AI 国外工具"
       ],
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -2892,7 +2890,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -3078,7 +3076,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 8,
+      "needVerify": 9,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -3096,7 +3094,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 7,
+      "needVerify": 8,
       "errmsg": "[error][500]Internal Server Error",
       "hide": 1
     },
@@ -3209,7 +3207,7 @@
         "AI 综合工具",
         "AI 国外工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][503]Service Unavailable"
     },
     "https://topai.tools": {
@@ -3219,7 +3217,7 @@
         "AI 综合工具",
         "AI 国外工具"
       ],
-      "needVerify": 8,
+      "needVerify": 9,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
