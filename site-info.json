@@ -193,7 +193,7 @@
       "star": 3,
       "desc": "Midjourney 是目前AI绘图最强大的存在",
       "title": "Midjourney",
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -327,7 +327,7 @@
       "desc": "双端支持，可免费使用，支持GPT4",
       "title": "hao-gpt",
       "needPay": 1,
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.pinkfong.cn",
       "hide": 1
     },
@@ -336,7 +336,7 @@
       "source": "recommend",
       "desc": "无需登录，免费使用，可选模版",
       "title": "Chat智能机器人",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]HTTP_404"
     },
     "https://chattyaid.com": {
@@ -353,7 +353,7 @@
       "source": "recommend",
       "title": "BambooChat",
       "desc": "3.5和4.0 API构建的CHATGPT网站",
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai.bamboochat.cn",
       "hide": 1
     },
@@ -385,7 +385,7 @@
       "source": "recommend",
       "desc": "国内可直接畅想的 chatgpt 服务，基于 GPT3.5tubro 和 GPT4 构建",
       "title": "BambooChat",
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bamboochat.kebakeba.com",
       "hide": 1
     },
@@ -485,7 +485,7 @@
       ],
       "title": "Ai导航",
       "desc": "专为设计师打造的AI工具箱，提供智能设计辅助、创意激发和设计效率提升等功能",
-      "needVerify": 11,
+      "needVerify": 12,
       "errmsg": "[error][-1]socket hang up",
       "hide": 1
     },
@@ -732,7 +732,7 @@
       "title": "Perplexity",
       "desc": "Perplexity AI通过信息发现和共享解锁知识的力量。",
       "star": 3,
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -1073,7 +1073,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 11,
+      "needVerify": 12,
       "errmsg": "[error][502]Bad Gateway",
       "hide": 1
     },
@@ -1335,14 +1335,16 @@
       "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
       "hide": 1,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com",
-      "needVerify": 10
+      "needVerify": 11
     },
     "https://www.logosc.cn": {
       "type": [
         "AI 绘图"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://img.logosc.cn": {
       "type": [
@@ -1387,7 +1389,7 @@
       ],
       "title": "BgSub",
       "desc": "BgSub是一款ai技术驱动的网络应用程序。可以帮助用户快速准确消除或替换图像背景，BgSub提供了比传统的Photoshop等工具更快速的抠图体验。",
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn",
       "hide": 1
     },
@@ -1454,7 +1456,7 @@
       ],
       "title": "AIDesign",
       "desc": "腾讯自研的智能设计平台，免费在线生成品牌logo、企业VI，仅需3步助您开启业务。",
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][503]Service Unavailable",
       "hide": 1
     },
@@ -1773,7 +1775,9 @@
         "AI 绘图"
       ],
       "title": "eSheep",
-      "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图"
+      "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.wujieai.com": {
       "type": [
@@ -1936,7 +1940,7 @@
       ],
       "title": "IPensoul",
       "desc": "超好用的AI图片工具！提供建筑家居草图渲染，AI抠图等功能",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.upscayl.org": {
@@ -2002,7 +2006,7 @@
       ],
       "title": "BgSub",
       "desc": "超实用！消除或替换图像背景的AI工具",
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn",
       "hide": 1
     },
@@ -2177,7 +2181,7 @@
       ],
       "title": "AIDesign",
       "desc": "10秒创建Logo！腾讯出品的AI Logo神器",
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][503]Service Unavailable",
       "hide": 1
     },
@@ -2397,7 +2401,7 @@
       ],
       "title": "SplashMusic",
       "desc": "超酷！输入文本提示创建歌曲神器",
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][401]Unauthorized",
       "hide": 1
     },
@@ -2646,7 +2650,7 @@
       ],
       "title": "Mutable AI",
       "desc": "一款更全面的 GitHub Copilot 替代品",
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -2780,7 +2784,7 @@
         "AI 文档工具",
         "AI 国外工具"
       ],
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -2796,9 +2800,7 @@
       "desc": "「印象笔记」X「印象AI」会创作的第二大脑",
       "type": [
         "AI 文档工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.edrawsoft.cn/mindmaster": {
       "title": "亿图脑图",
@@ -2874,7 +2876,7 @@
         "AI 语音生成",
         "AI 国外工具"
       ],
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -2892,7 +2894,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -3078,7 +3080,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 11,
+      "needVerify": 12,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
@@ -3096,7 +3098,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 10,
+      "needVerify": 11,
       "errmsg": "[error][500]Internal Server Error",
       "hide": 1
     },
@@ -3217,7 +3219,7 @@
         "AI 综合工具",
         "AI 国外工具"
       ],
-      "needVerify": 11,
+      "needVerify": 12,
       "errmsg": "[error][403]Forbidden",
       "hide": 1
     },
