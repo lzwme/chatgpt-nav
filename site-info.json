@@ -326,7 +326,7 @@
       "desc": "双端支持，可免费使用，支持GPT4",
       "title": "hao-gpt",
       "needPay": 1,
-      "needVerify": 12,
+      "needVerify": 13,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.pinkfong.cn",
       "hide": 1
     },
@@ -344,7 +344,7 @@
       "source": "recommend",
       "title": "BambooChat",
       "desc": "3.5和4.0 API构建的CHATGPT网站",
-      "needVerify": 12,
+      "needVerify": 13,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai.bamboochat.cn",
       "hide": 1
     },
@@ -376,7 +376,7 @@
       "source": "recommend",
       "desc": "国内可直接畅想的 chatgpt 服务，基于 GPT3.5tubro 和 GPT4 构建",
       "title": "BambooChat",
-      "needVerify": 12,
+      "needVerify": 13,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bamboochat.kebakeba.com",
       "hide": 1
     },
@@ -1323,7 +1323,7 @@
       "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
       "hide": 1,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com",
-      "needVerify": 12
+      "needVerify": 13
     },
     "https://www.logosc.cn": {
       "type": [
@@ -1911,8 +1911,9 @@
       ],
       "title": "IPensoul",
       "desc": "超好用的AI图片工具！提供建筑家居草图渲染，AI抠图等功能",
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://www.upscayl.org": {
       "type": [
@@ -3159,7 +3160,9 @@
       ]
     },
     "https://www.chatallais.com": {
-      "type": "AI综合工具",
+      "type": [
+        "AI 综合工具"
+      ],
       "source": "recommend",
       "star": 2,
       "needLogin": 1,
