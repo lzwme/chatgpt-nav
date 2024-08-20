@@ -193,8 +193,7 @@
       "star": 3,
       "desc": "Midjourney 是目前AI绘图最强大的存在",
       "title": "Midjourney",
-      "needVerify": 12,
-      "errmsg": "[error][403]Forbidden",
+      "needVerify": -1,
       "hide": 1
     },
     "https://stability.ai": {
@@ -330,14 +329,6 @@
       "needVerify": 12,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.pinkfong.cn",
       "hide": 1
-    },
-    "https://newstop.c1ns.cn": {
-      "star": 2,
-      "source": "recommend",
-      "desc": "无需登录，免费使用，可选模版",
-      "title": "Chat智能机器人",
-      "needVerify": 4,
-      "errmsg": "[error][404]HTTP_404"
     },
     "https://chattyaid.com": {
       "star": 2,
@@ -485,9 +476,7 @@
       ],
       "title": "Ai导航",
       "desc": "专为设计师打造的AI工具箱，提供智能设计辅助、创意激发和设计效率提升等功能",
-      "needVerify": 13,
-      "errmsg": "[error][-1]socket hang up",
-      "hide": 1
+      "needVerify": -1
     },
     "https://chat.lmsys.org": {
       "needVPN": 1,
@@ -731,10 +720,9 @@
       ],
       "title": "Perplexity",
       "desc": "Perplexity AI通过信息发现和共享解锁知识的力量。",
-      "star": 3,
-      "needVerify": 12,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "star": 2,
+      "needVPN": 1,
+      "needVerify": -1
     },
     "https://www.phind.com": {
       "type": [
@@ -1073,7 +1061,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 13,
+      "needVerify": -1,
       "errmsg": "[error][502]Bad Gateway",
       "hide": 1
     },
@@ -1381,16 +1369,6 @@
       "title": "图查查",
       "desc": "图查查是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。"
     },
-    "https://bgsub.cn": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "BgSub",
-      "desc": "BgSub是一款ai技术驱动的网络应用程序。可以帮助用户快速准确消除或替换图像背景，BgSub提供了比传统的Photoshop等工具更快速的抠图体验。",
-      "needVerify": 12,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn",
-      "hide": 1
-    },
     "https://www.whee.com": {
       "type": [
         "AI 绘图"
@@ -1448,15 +1426,12 @@
       "title": "Pixso AI",
       "desc": "设计师只需用简短的文本描述，无需手动绘制或寻找现成素材，即可迅速生成图像内容。"
     },
-    "https://ailogo.qq.com": {
+    "https://designs.ai/cn": {
       "type": [
         "AI 绘图"
       ],
-      "title": "AIDesign",
-      "desc": "腾讯自研的智能设计平台，免费在线生成品牌logo、企业VI，仅需3步助您开启业务。",
-      "needVerify": 12,
-      "errmsg": "[error][503]Service Unavailable",
-      "hide": 1
+      "title": "DesignsAI",
+      "desc": "免费AI设计。使用生成型 AI 创建图像、视频等。利用人工智能的力量提升您的社交媒体营销水平。"
     },
     "https://www.modaiyun.com/mdy/ai": {
       "type": [
@@ -1996,16 +1971,6 @@
       "title": "Hama",
       "desc": "使用轻松！一键无痕抹除画面内容"
     },
-    "https://bgsub.cn/webapp": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "BgSub",
-      "desc": "超实用！消除或替换图像背景的AI工具",
-      "needVerify": 12,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn",
-      "hide": 1
-    },
     "https://qingtu.cn": {
       "type": [
         "AI 图像处理"
@@ -2170,16 +2135,6 @@
       ],
       "title": "ImgCreator",
       "desc": "超赞的多合一AI设计工具，超强的背景生成、海报生成能力"
-    },
-    "https://ailogo.qq.com/guide/brandname": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "AIDesign",
-      "desc": "10秒创建Logo！腾讯出品的AI Logo神器",
-      "needVerify": 12,
-      "errmsg": "[error][503]Service Unavailable",
-      "hide": 1
     },
     "https://imagecreator.alkaidvision.com": {
       "type": [
@@ -2390,16 +2345,6 @@
       "star": 2,
       "title": "TTSMAKER",
       "desc": "免费的在线文本转语音神器"
-    },
-    "https://pro.splashmusic.com": {
-      "type": [
-        "AI 视频生成"
-      ],
-      "title": "SplashMusic",
-      "desc": "超酷！输入文本提示创建歌曲神器",
-      "needVerify": 12,
-      "errmsg": "[error][401]Unauthorized",
-      "hide": 1
     },
     "https://zh.rask.ai": {
       "type": [
@@ -2646,9 +2591,7 @@
       ],
       "title": "Mutable AI",
       "desc": "一款更全面的 GitHub Copilot 替代品",
-      "needVerify": 12,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.warp.dev": {
       "type": [
@@ -2780,9 +2723,7 @@
         "AI 文档工具",
         "AI 国外工具"
       ],
-      "needVerify": 12,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://chatexcel.com": {
       "title": "酷表ChatExcel",
@@ -2872,9 +2813,7 @@
         "AI 语音生成",
         "AI 国外工具"
       ],
-      "needVerify": 12,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.veed.io": {
       "title": "Veed",
@@ -2890,9 +2829,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 12,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://creator.nightcafe.studio": {
       "title": "NightCafe",
@@ -3076,9 +3013,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 13,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://b.jimmylv.cn": {
       "title": "BibiGPT",
@@ -3094,9 +3029,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 12,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
+      "needVerify": -1
     },
     "https://speaking.ai": {
       "title": "Speaking AI",
@@ -3215,8 +3148,7 @@
         "AI 综合工具",
         "AI 国外工具"
       ],
-      "needVerify": 13,
-      "errmsg": "[error][403]Forbidden",
+      "needVerify": -1,
       "hide": 1
     },
     "https://youyan.xyz/platform/home/prime": {
@@ -3225,6 +3157,15 @@
       "type": [
         "AI 视频生成"
       ]
+    },
+    "https://www.chatallais.com": {
+      "type": "AI综合工具",
+      "source": "recommend",
+      "star": 2,
+      "needLogin": 1,
+      "desc": "一站式AIGC平台，集成Chatgpt、Claude、ChatGLM、Midjourney、DALL-E、Flux.1、Suno等全网顶级AI大模型，实现文本创作、图片生成、音乐创作一站式生成。",
+      "title": "星界AI|一站式AIGC平台",
+      "needPwd": 1
     }
   }
 }
