@@ -326,7 +326,7 @@
       "desc": "双端支持，可免费使用，支持GPT4",
       "title": "hao-gpt",
       "needPay": 1,
-      "needVerify": 19,
+      "needVerify": 20,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.pinkfong.cn",
       "hide": 1
     },
@@ -344,7 +344,7 @@
       "source": "recommend",
       "title": "BambooChat",
       "desc": "3.5和4.0 API构建的CHATGPT网站",
-      "needVerify": 19,
+      "needVerify": 20,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai.bamboochat.cn",
       "hide": 1
     },
@@ -360,9 +360,7 @@
       "needLogin": 1,
       "source": "recommend",
       "desc": "每天可免费提问10次，会员无限制。实打实向微软付费，企业级服务接口，速度快，非常稳定",
-      "title": "33GPT - 为内容创客打造的AI对话工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "33GPT - 为内容创客打造的AI对话工具"
     },
     "https://shutu.cn": {
       "star": 2,
@@ -378,7 +376,7 @@
       "source": "recommend",
       "desc": "国内可直接畅想的 chatgpt 服务，基于 GPT3.5tubro 和 GPT4 构建",
       "title": "BambooChat",
-      "needVerify": 19,
+      "needVerify": 20,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bamboochat.kebakeba.com",
       "hide": 1
     },
@@ -1325,7 +1323,7 @@
       "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
       "hide": 1,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com",
-      "needVerify": 19
+      "needVerify": 20
     },
     "https://www.logosc.cn": {
       "type": [
@@ -1706,9 +1704,7 @@
         "AI 视频生成"
       ],
       "title": "一帧秒创",
-      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。"
     },
     "https://www.animiz.cn/microvideo": {
       "type": [
@@ -1915,7 +1911,7 @@
       ],
       "title": "IPensoul",
       "desc": "超好用的AI图片工具！提供建筑家居草图渲染，AI抠图等功能",
-      "needVerify": 13,
+      "needVerify": 14,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND pensoulai.com",
       "hide": 1
     },
