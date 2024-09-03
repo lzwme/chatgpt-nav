@@ -326,7 +326,7 @@
       "desc": "双端支持，可免费使用，支持GPT4",
       "title": "hao-gpt",
       "needPay": 1,
-      "needVerify": 26,
+      "needVerify": 27,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.pinkfong.cn",
       "hide": 1
     },
@@ -344,7 +344,7 @@
       "source": "recommend",
       "title": "BambooChat",
       "desc": "3.5和4.0 API构建的CHATGPT网站",
-      "needVerify": 26,
+      "needVerify": 27,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai.bamboochat.cn",
       "hide": 1
     },
@@ -376,7 +376,7 @@
       "source": "recommend",
       "desc": "国内可直接畅想的 chatgpt 服务，基于 GPT3.5tubro 和 GPT4 构建",
       "title": "BambooChat",
-      "needVerify": 26,
+      "needVerify": 27,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bamboochat.kebakeba.com",
       "hide": 1
     },
@@ -1323,7 +1323,7 @@
       "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
       "hide": 1,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com",
-      "needVerify": 26
+      "needVerify": 27
     },
     "https://www.logosc.cn": {
       "type": [
@@ -1911,7 +1911,7 @@
       ],
       "title": "IPensoul",
       "desc": "超好用的AI图片工具！提供建筑家居草图渲染，AI抠图等功能",
-      "needVerify": 20,
+      "needVerify": 21,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND pensoulai.com",
       "hide": 1
     },
@@ -2173,7 +2173,7 @@
       ],
       "title": "字语未来",
       "desc": "用AI创造更有价值的信息，定义新一代智能办公平台",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://lunwenbang.cc": {
@@ -2557,9 +2557,7 @@
         "AI 编程开发"
       ],
       "title": "CodiumAI",
-      "desc": "超实用的技术编程句子补全工具",
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      "desc": "超实用的技术编程句子补全工具"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3172,7 +3170,9 @@
       "needLogin": 1,
       "desc": "一站式AIGC平台，集成Chatgpt、Claude、ChatGLM、Midjourney、DALL-E、Flux.1、Suno等全网顶级AI大模型，实现文本创作、图片生成、音乐创作一站式生成。",
       "title": "星界AI|一站式AIGC平台",
-      "needPwd": 1
+      "needPwd": 1,
+      "needVerify": 1,
+      "errmsg": "[error][-1]socket hang up"
     }
   }
 }
