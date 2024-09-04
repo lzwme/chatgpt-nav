@@ -10,7 +10,7 @@ export function siteUrlVerify() {
   const tasks = Object.entries(config.siteInfo).map(([url, item], idx) => async () => {
     if (item.type) item.type = getTypes(item.type);
 
-    // if (Number(item.hide) === 1) return true;
+    if (Number(item.hide) === 1) return true;
 
     if (!isGitHubCi) {
       // if (item.needVPN) return true;
