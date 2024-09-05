@@ -610,9 +610,7 @@
         "聊天",
         "综合工具",
         "大厂合集(精选大厂热门AI产品)"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.anthropic.com": {
       "type": [
@@ -1369,9 +1367,7 @@
       ],
       "title": "6pen",
       "icon": "https://6pen.art/favicon.svg",
-      "desc": "6pen是一个为大多数人打造的AI绘画创作社区",
-      "needVerify": 1,
-      "errmsg": "[error][-1]connect ECONNREFUSED 116.196.148.74:443"
+      "desc": "6pen是一个为大多数人打造的AI绘画创作社区"
     },
     "https://playgroundai.com": {
       "type": [
@@ -1831,9 +1827,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2338,9 +2332,7 @@
         "AI 写作助手"
       ],
       "title": "字语未来",
-      "desc": "用AI创造更有价值的信息，定义新一代智能办公平台",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "用AI创造更有价值的信息，定义新一代智能办公平台"
     },
     "https://lunwenbang.cc": {
       "type": [
@@ -2850,9 +2842,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -3416,7 +3406,7 @@
       "desc": "一站式AIGC平台，集成Chatgpt、Claude、ChatGLM、Midjourney、DALL-E、Flux.1、Suno等全网顶级AI大模型，实现文本创作、图片生成、音乐创作一站式生成。",
       "title": "星界AI|一站式AIGC平台",
       "needPwd": 1,
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]socket hang up"
     },
     "https://contacted.io": {
@@ -3625,7 +3615,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://upscales.ai": {
@@ -3743,7 +3733,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn"
     },
     "https://www.erase.bg": {
@@ -3817,7 +3807,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://picwish.cn": {
@@ -4332,7 +4322,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.wix.com/logo/maker": {
@@ -4483,7 +4473,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://logodiffusion.com": {
@@ -4652,7 +4642,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.logobean.com": {
@@ -4728,7 +4718,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://pixble.com/app/faceswapper": {
@@ -4748,7 +4738,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://302.ai": {
@@ -4809,7 +4799,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://tusi.art": {
@@ -4831,7 +4821,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND tusi.art"
     },
     "https://www.xiaochuanai.com/youchuan/": {
@@ -4930,7 +4920,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://elicit.com": {
@@ -5168,7 +5158,7 @@
         "AI 写作助手",
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.bilingwriting.com"
     },
     "https://copyleaks.com": {
@@ -5297,7 +5287,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://undetectable.ai": {
@@ -5337,7 +5327,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]OK"
     },
     "https://www.contentscale.ai": {
@@ -5431,7 +5421,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND writersdesk.ai"
     },
     "https://www.ximalaya.com/gatekeeper/write-wise-web": {
@@ -5589,7 +5579,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://paraphrasetool.com": {
@@ -5819,7 +5809,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.thunisoft.com/gywm/index.jhtml": {
@@ -5840,7 +5830,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][405]Not Allowed"
     },
     "https://aistudio.baidu.com/aistudio/projectdetail/3557574": {
@@ -5892,7 +5882,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.bimogw.com"
     },
     "https://www.hanlinmiaobi.com": {
@@ -6409,7 +6399,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.lensgo.ai": {
@@ -6484,7 +6474,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.yiyingshi.com"
     },
     "https://www.microsoft.com/en-us/research/project/vasa-1/": {
@@ -6713,7 +6703,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][200]<!DOCTYPE html>\n<html>\n<head>\n  <meta http-equiv=\"refresh\" content=\"2; url=https://jeanne-wang.github.io/jumpcutsmoothing/\">\n</head>\n</html>\n"
     },
     "https://www.fastcutai.co": {
@@ -6861,7 +6851,7 @@
         "AI 语音生成",
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.contentgroove.com": {
@@ -6881,8 +6871,8 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]write EPROTO 002805995C7F0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1590:SSL alert number 40\n"
+      "needVerify": 2,
+      "errmsg": "[error][-1]write EPROTO 00080E65DA7F0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1590:SSL alert number 40\n"
     },
     "https://sider.ai": {
       "title": "Sider",
@@ -6901,7 +6891,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.runwayml.com": {
@@ -7105,7 +7095,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.arcads.ai": {
@@ -7442,7 +7432,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatdoc.xfyun.cn": {
@@ -7699,7 +7689,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://sheetai.app/�": {
@@ -7777,7 +7767,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.feishu.cn/product/ai_companion": {
@@ -8066,7 +8056,7 @@
         "AI 会议助手",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.airgram.io"
     },
     "https://zoomscape.ai": {
@@ -8617,7 +8607,7 @@
         "AI 聊天对话",
         "AI 综合工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatfai.com": {
@@ -9013,7 +9003,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://finetalk.in": {
@@ -9165,7 +9155,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "http://langdrive.ai": {
@@ -9373,7 +9363,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://github.com/sunner/ChatALL": {
@@ -9582,7 +9572,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://spicychat.ai": {
@@ -9642,7 +9632,7 @@
         "AI 聊天对话",
         "AI 综合工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.tawk.to": {
@@ -9702,7 +9692,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://www.meta.ai": {
@@ -10512,7 +10502,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://mvsep.com/zh": {
@@ -10568,7 +10558,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "https://y.qq.com/tme_studio/": {
@@ -10660,7 +10650,7 @@
         "AI 提示词",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND icihun.com"
     },
     "https://www.aigallery.top": {
@@ -11050,7 +11040,7 @@
         "AI 绘图",
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.khroma.co": {
@@ -11461,7 +11451,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][503]Service Unavailable"
     },
     "https://beatbot.fm": {
@@ -11470,7 +11460,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://withpoly.com/browse/textures": {
@@ -11479,7 +11469,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.pandagpt.io": {
@@ -11488,7 +11478,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://zapier.com/ai": {
@@ -11516,7 +11506,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][200]<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"utf-8\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n<meta name=\"keywords\" content=\"T-Rex, visual prompting, intelligent annotation, i"
     },
     "https://raccoon.sensetime.com/office": {
