@@ -813,7 +813,7 @@
       ],
       "title": "CheggMate",
       "desc": "【教育】CheggMate是一款一体化解答作业的AI产品。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.cheggmate.ai"
     },
     "https://www.khanmigo.ai": {
@@ -2109,7 +2109,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2877,9 +2879,7 @@
       "title": "AI网址导航",
       "star": 3,
       "sort": -91,
-      "desc": "收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性",
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "desc": "收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性"
     },
     "https://latitude.io": {
       "type": [
@@ -3617,8 +3617,9 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://upscales.ai": {
       "title": "upscales.ai",
@@ -3735,8 +3736,9 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn",
+      "hide": 1
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -3809,8 +3811,9 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://picwish.cn": {
       "title": "佐糖",
@@ -4324,8 +4327,9 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -4475,8 +4479,9 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://logodiffusion.com": {
       "title": "Logo Diffusion",
@@ -4644,8 +4649,9 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.logobean.com": {
       "title": "logobean",
@@ -4704,25 +4710,6 @@
         "AI 开源工具"
       ]
     },
-    "https://damo-vilab.github.io/AnyDoor-Page/": {
-      "title": "AnyDoor",
-      "intro": "虚拟试穿、物体移动",
-      "desc": "AnyDoor 是一种基于扩散的图像生成器，可以在用户指定的位置将目标对象以和谐的方式传送到新场景中。我们的模型只需要训练一次，就可以轻松推广到不同的对象和场景组合中，无需为每个对象调整参数。为了充分描述某个特定对象，我们除了使用常用的身份特征外，还补充了细节特征，这些特征经过精心设计，既能保持纹理细节，又能允许多样的局部变化（如光照、方向、姿势等），从而使对象与不同的环境更好地融合。我们还提出从视频数据集中借用知识的方法，在视频数据集中可以观察到同一对象的各种形态（沿时间轴），从而增强模型的泛化能力和鲁棒性。大量实验证明了我们方法的优越性，以及它在虚拟试穿和物体移动等实际应用中的巨大潜力。",
-      "lang": "en",
-      "tags": [
-        "图像",
-        "零样本",
-        "对象级定制",
-        "模型生成",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 绘图"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://pixble.com/app/faceswapper": {
       "title": "Pixble Face Swapper",
       "intro": "在线人脸交换工具",
@@ -4740,8 +4727,9 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://302.ai": {
       "title": "302.AI",
@@ -4801,8 +4789,9 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://tusi.art": {
       "title": "吐司 Tusi.Art",
@@ -4823,8 +4812,9 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND tusi.art"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND tusi.art",
+      "hide": 1
     },
     "https://www.xiaochuanai.com/youchuan/": {
       "title": "悠船",
@@ -4922,8 +4912,9 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://elicit.com": {
       "title": "Elicit",
@@ -5160,8 +5151,9 @@
         "AI 写作助手",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.bilingwriting.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.bilingwriting.com",
+      "hide": 1
     },
     "https://copyleaks.com": {
       "title": "Copyleaks",
@@ -5289,8 +5281,9 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][500]Internal Server Error"
+      "needVerify": 7,
+      "errmsg": "[error][500]Internal Server Error",
+      "hide": 1
     },
     "https://undetectable.ai": {
       "title": "Undetectable.ai",
@@ -5311,26 +5304,6 @@
       "type": [
         "AI 写作助手"
       ]
-    },
-    "https://dun.163.com/text-detect/": {
-      "title": "网易易盾",
-      "intro": "专业文本识别与过滤服务，支持多种垃圾文本检测。",
-      "desc": "网易易盾文本识别体验是基于智能识别及海量样本库的专业文本识别服务，针对文本垃圾提供个性化匹配模型及定制检测方案。产品背景包括多年行业经验积累，定位于帮助用户高效识别评论、弹幕、昵称中的变种文本垃圾。",
-      "lang": "zh",
-      "tags": [
-        "文本识别",
-        "内容过滤",
-        "安全检测",
-        "内容安全",
-        "普通产品",
-        "写作",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]OK"
     },
     "https://www.contentscale.ai": {
       "title": "contentatscale",
@@ -5423,8 +5396,9 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND writersdesk.ai"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND writersdesk.ai",
+      "hide": 1
     },
     "https://www.ximalaya.com/gatekeeper/write-wise-web": {
       "title": "WriteWise",
@@ -5581,8 +5555,9 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://paraphrasetool.com": {
       "title": "Paraphraser",
@@ -5794,26 +5769,6 @@
         "AI 写作助手"
       ]
     },
-    "https://www.iflytek.com/product/xinghuogongwenzhushou.html": {
-      "title": "讯飞星火公文助手",
-      "intro": "讯飞星火公文助手是一款基于科大讯飞星火大模型技术的 AI 公文写作助手。",
-      "desc": "讯飞星火公文助手是一款利用星火大模型技术的 AI 公文写作助手，提供素材筹备、拟稿写作和审稿核稿等功能。其主要优点包括高效节省写作时间、提供全面素材筹备和一键生成公文内容等。产品定位于提升公文材料撰写效率。",
-      "lang": "zh",
-      "tags": [
-        "公文助手",
-        "AI 写作助手",
-        "公文撰写",
-        "生产力",
-        "普通产品",
-        "写作",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://www.thunisoft.com/gywm/index.jhtml": {
       "title": "万象公文",
       "intro": "华宇自主研发的公文智能辅助系统，提供公文智能生成、智能改写、专业知识检索等服务。",
@@ -5832,8 +5787,9 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][405]Not Allowed"
+      "needVerify": 7,
+      "errmsg": "[error][405]Not Allowed",
+      "hide": 1
     },
     "https://aistudio.baidu.com/aistudio/projectdetail/3557574": {
       "title": "PP飞桨",
@@ -5884,8 +5840,9 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.bimogw.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.bimogw.com",
+      "hide": 1
     },
     "https://www.hanlinmiaobi.com": {
       "title": "翰林妙笔",
@@ -6401,8 +6358,9 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.lensgo.ai": {
       "title": "LensGo",
@@ -6476,8 +6434,9 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.yiyingshi.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.yiyingshi.com",
+      "hide": 1
     },
     "https://www.microsoft.com/en-us/research/project/vasa-1/": {
       "title": "VASA-1",
@@ -6705,8 +6664,9 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][200]<!DOCTYPE html>\n<html>\n<head>\n  <meta http-equiv=\"refresh\" content=\"2; url=https://jeanne-wang.github.io/jumpcutsmoothing/\">\n</head>\n</html>\n"
+      "needVerify": 7,
+      "errmsg": "[error][200]<!DOCTYPE html>\n<html>\n<head>\n  <meta http-equiv=\"refresh\" content=\"2; url=https://jeanne-wang.github.io/jumpcutsmoothing/\">\n</head>\n</html>\n",
+      "hide": 1
     },
     "https://www.fastcutai.co": {
       "title": "FastCut",
@@ -6853,8 +6813,9 @@
         "AI 语音生成",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://www.contentgroove.com": {
       "title": "Video Highlight, Clip and Transcript API",
@@ -6873,8 +6834,9 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]write EPROTO 002867602D7F0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1590:SSL alert number 40\n"
+      "needVerify": 7,
+      "errmsg": "[error][-1]write EPROTO 003850ACF57F0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1590:SSL alert number 40\n",
+      "hide": 1
     },
     "https://sider.ai": {
       "title": "Sider",
@@ -6893,8 +6855,9 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.runwayml.com": {
       "title": "Runwayml",
@@ -6950,7 +6913,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -7097,8 +7062,9 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.arcads.ai": {
       "title": "Arcads",
@@ -7434,8 +7400,9 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://chatdoc.xfyun.cn": {
       "title": "星火文档问答",
@@ -7673,27 +7640,6 @@
         "AI 文档办公"
       ]
     },
-    "https://botsheets.com/�": {
-      "title": "Botsheets AI Writer",
-      "intro": "Chat自动化，Google Sheets作为CMS",
-      "desc": "Botsheets是一款使用Google Sheets作为CMS的Chat自动化工具。它可以将聊天对话转化为结构化数据，并生成Google Sheets，同时可以使用Google Sheets中的数据触发自动化响应。它可以帮助您轻松管理聊天内容，并自动生成自动化回复。无需编写复杂的代码，只需简单设置，即可实现Chat的自动化。",
-      "lang": "en",
-      "tags": [
-        "Chat自动化",
-        "Google Sheets",
-        "效率助手",
-        "表格处理",
-        "CMS",
-        "生产力",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 文档办公"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://sheetai.app/�": {
       "title": "SheetAI.app",
       "intro": "Google Sheets的AI插件",
@@ -7769,8 +7715,9 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.feishu.cn/product/ai_companion": {
       "title": "飞书智能伙伴",
@@ -8058,8 +8005,9 @@
         "AI 会议助手",
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.airgram.io"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.airgram.io",
+      "hide": 1
     },
     "https://zoomscape.ai": {
       "title": "Zoomscape AI",
@@ -8609,8 +8557,9 @@
         "AI 聊天对话",
         "AI 综合工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://chatfai.com": {
       "title": "ChatFAI",
@@ -9005,8 +8954,9 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://finetalk.in": {
       "title": "FineTalk",
@@ -9157,8 +9107,9 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "http://langdrive.ai": {
       "title": "LangDrive",
@@ -9346,27 +9297,6 @@
       "type": [
         "AI 聊天对话"
       ]
-    },
-    "https://play.google.com/store/apps/details": {
-      "title": "Text To Audio—TTS & MP3_WAV",
-      "intro": "一键转换文本为音频文件",
-      "desc": "Text2Audio是一款免费的文本转语音应用，通过一键操作将文本转换为音频文件。用户可以选择多个智能声音演员，还可以根据需要调整语速和音调，创建男声、女声、叙述等不同类型的声音。适用于制作短视频解说的评论，如TikTok、YouTube、Instgram等。",
-      "lang": "en",
-      "tags": [
-        "文本转音频",
-        "声音演员",
-        "语速调整",
-        "音调调整",
-        "音乐与音频",
-        "普通产品",
-        "生产力",
-        "网站"
-      ],
-      "type": [
-        "AI 语音生成"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://github.com/sunner/ChatALL": {
       "title": "ChatALL",
@@ -9574,8 +9504,9 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://spicychat.ai": {
       "title": "Spicychat",
@@ -9634,8 +9565,9 @@
         "AI 聊天对话",
         "AI 综合工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.tawk.to": {
       "title": "tawk.to",
@@ -9694,8 +9626,9 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][500]Internal Server Error"
+      "needVerify": 7,
+      "errmsg": "[error][500]Internal Server Error",
+      "hide": 1
     },
     "https://www.meta.ai": {
       "title": "MetaAI",
@@ -10504,8 +10437,9 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://mvsep.com/zh": {
       "title": "MVSEP",
@@ -10560,8 +10494,9 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
+      "needVerify": 7,
+      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>",
+      "hide": 1
     },
     "https://y.qq.com/tme_studio/": {
       "title": "TME Studio",
@@ -10652,8 +10587,9 @@
         "AI 提示词",
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND icihun.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND icihun.com",
+      "hide": 1
     },
     "https://www.aigallery.top": {
       "title": "Ai 画廊",
@@ -11042,8 +10978,9 @@
         "AI 绘图",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://www.khroma.co": {
       "title": "Khroma",
@@ -11453,35 +11390,9 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][503]Service Unavailable"
-    },
-    "https://beatbot.fm": {
-      "title": "BeatBot",
-      "desc": "Splash的AI音乐生成器",
-      "type": [
-        "AI 视频生成"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
-    "https://withpoly.com/browse/textures": {
-      "title": "Poly",
-      "desc": "根据文本生成3D材质",
-      "type": [
-        "AI 图像处理"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
-    "https://www.pandagpt.io": {
-      "title": "PandaGPT",
-      "desc": "上传文档！即可用对话的方式让 AI 总结文档重点",
-      "type": [
-        "AI 文档办公"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
+      "needVerify": 7,
+      "errmsg": "[error][503]Service Unavailable",
+      "hide": 1
     },
     "https://zapier.com/ai": {
       "title": "Zapier AI",
@@ -11508,8 +11419,9 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][200]<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"utf-8\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n<meta name=\"keywords\" content=\"T-Rex, visual prompting, intelligent annotation, i"
+      "needVerify": 7,
+      "errmsg": "[error][200]<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"utf-8\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n<meta name=\"keywords\" content=\"T-Rex, visual prompting, intelligent annotation, i",
+      "hide": 1
     },
     "https://raccoon.sensetime.com/office": {
       "title": "办公小浣熊 Raccoon",
