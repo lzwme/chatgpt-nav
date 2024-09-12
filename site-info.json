@@ -813,7 +813,7 @@
       ],
       "title": "CheggMate",
       "desc": "【教育】CheggMate是一款一体化解答作业的AI产品。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.cheggmate.ai"
     },
     "https://www.khanmigo.ai": {
@@ -1461,9 +1461,7 @@
         "AI 绘图"
       ],
       "title": "tusi.art",
-      "desc": "吐司是可在线生图的AI模型分享社区",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "吐司是可在线生图的AI模型分享社区"
     },
     "https://civitai.com": {
       "type": [
@@ -2792,9 +2790,7 @@
         "AI 编程开发"
       ],
       "title": "AskCodi",
-      "desc": "AskCodi上可以帮助你完成任何编码工作",
-      "needVerify": 1,
-      "errmsg": "[error][504]Gateway Timeout"
+      "desc": "AskCodi上可以帮助你完成任何编码工作"
     },
     "https://fronty.com": {
       "type": [
@@ -11076,9 +11072,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -11235,9 +11229,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -11482,7 +11474,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
