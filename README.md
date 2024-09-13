@@ -192,7 +192,7 @@
 1. [[⭐] https://aigc.yizhentv.com](https://aigc.yizhentv.com) **一帧秒创。** 一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。
 1. [[⭐] https://app.deepbrain.io/dashboard](https://app.deepbrain.io/dashboard) **DeepBrain AI。** AI Studios提供了一个用户友好的仪表板，让用户可以轻松创建和管理AI项目。该平台可能包含多种AI工具和功能，以支持用户在图像、视频、音频等领域的创作和编辑。
 1. [[⭐] https://app.recraft.ai/community](https://app.recraft.ai/community) **Recraft。** 便捷的AI生成矢量图像生成工具
-1. [[⭐] https://appicons.ai](https://appicons.ai) **Appicons AI。** AI生成精致的App图标
+1. [[⭐] https://appicons.ai](https://appicons.ai) **Appicons AI。** AI生成精致的App图标 `[error][503]Service Unavailable`
 1. [[⭐] https://art.aiseo.ai](https://art.aiseo.ai) **AISEO ART。** AISEO Art 的AI算法按照分类进行过细致的训练
 1. [[⭐] https://bgeraser.com](https://bgeraser.com) **Bg.Eraser。** 背景擦除器是一款使用AI技术快速、轻松地从照片中移除背景的工具。它能够帮助用户实现专业级的效果，增强图像的质量。背景擦除器还提供批量处理功能，节省用户大量的时间和精力。无论是用于产品照片、人像、图形、风景照片、动物照片还是物体，背景擦除器都能帮助用户实现理想的效果。
 1. [[⭐] https://bigjpg.com](https://bigjpg.com) **Bigjpg。** AI图片在线无损放大
@@ -359,7 +359,7 @@
 1. [[⭐] https://aicolors.co](https://aicolors.co) **AIcolors。** 根据文本生成调色板，提供配色案例参考
 1. [[⭐] https://app.deepbrain.io/dashboard](https://app.deepbrain.io/dashboard) **DeepBrain AI。** AI Studios提供了一个用户友好的仪表板，让用户可以轻松创建和管理AI项目。该平台可能包含多种AI工具和功能，以支持用户在图像、视频、音频等领域的创作和编辑。
 1. [[⭐] https://app.recraft.ai/community](https://app.recraft.ai/community) **Recraft。** 便捷的AI生成矢量图像生成工具
-1. [[⭐] https://appicons.ai](https://appicons.ai) **Appicons AI。** AI生成精致的App图标
+1. [[⭐] https://appicons.ai](https://appicons.ai) **Appicons AI。** AI生成精致的App图标 `[error][503]Service Unavailable`
 1. [[⭐] https://arc.tencent.com/zh/ai-demos/humansegmentation](https://arc.tencent.com/zh/ai-demos/humansegmentation) **腾讯ARC官网。** 腾讯 ARC 官网是腾讯 PCG 旗下的应用研究中心，致力于探索和挑战智能媒体前沿技术。团队汇聚了国内外一流高端人才，主要研究领域涵盖视觉、音频、自然语言处理等，通过 AutoML、多模态和深度学习等方法提高算法性能。ARC 通过解耦业务需求和科研的机制，与业务团队合作，以业务需求和行业趋势为导向，不断探索、创新和突破。网站提供了关于 ARC 的使命、团队介绍、机制和领域等详细信息。
 1. [[⭐] https://bgeraser.com](https://bgeraser.com) **Bg.Eraser。** 背景擦除器是一款使用AI技术快速、轻松地从照片中移除背景的工具。它能够帮助用户实现专业级的效果，增强图像的质量。背景擦除器还提供批量处理功能，节省用户大量的时间和精力。无论是用于产品照片、人像、图形、风景照片、动物照片还是物体，背景擦除器都能帮助用户实现理想的效果。
 1. [[⭐] https://bigjpg.com](https://bigjpg.com) **Bigjpg。** AI图片在线无损放大
@@ -1024,7 +1024,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://www.taskade.com](https://www.taskade.com) **Taskade。** 高颜值AI大纲和思维导图生成，统一您的工作流程
 1. [[⭐] https://www.wondercv.com](https://www.wondercv.com) **超级简历。** WonderCV 是一款智能简历制作工具，提供专业简历模板和优化建议，帮助用户制作出高质量简历。其主要优点在于人力资源专家设计的模板，智能纠错和简历直推功能，以及 AI 算法匹配职位。WonderCV 定位于为求职者提供简历制作工具和求职辅助服务。
 1. [[⭐] https://www.x-design.com](https://www.x-design.com) **美图 AI PPT。** 美图设计室是一款由中国互联网公司美图公司开发的图像处理、照片编辑和设计软件。
-1. [[⭐] https://www.yishijuan.com](https://www.yishijuan.com) **AEE。** AEE（Auto Excel Editor）是一款在线AI全自动Excel编辑器，它通过先进的人工智能技术，实现了对Excel表格的全自动化逻辑操作。用户只需输入简单的提示语，AEE便能自动完成智能录入、自动插入公式、样式修改、生成数据、生成模板、增删改查等任务，极大地提升了工作效率。AEE的背景是针对传统Excel操作繁琐、学习成本高的问题，旨在通过智能化手段简化Excel使用流程，让非专业人士也能轻松处理数据。 `[error][-1]timeout`
+1. [[⭐] https://www.yishijuan.com](https://www.yishijuan.com) **AEE。** AEE（Auto Excel Editor）是一款在线AI全自动Excel编辑器，它通过先进的人工智能技术，实现了对Excel表格的全自动化逻辑操作。用户只需输入简单的提示语，AEE便能自动完成智能录入、自动插入公式、样式修改、生成数据、生成模板、增删改查等任务，极大地提升了工作效率。AEE的背景是针对传统Excel操作繁琐、学习成本高的问题，旨在通过智能化手段简化Excel使用流程，让非专业人士也能轻松处理数据。
 1. [[⭐] https://www.zoho.com/sheet/whats-new/zohosheet6.html](https://www.zoho.com/sheet/whats-new/zohosheet6.html) **Zoho Sheet。** Zoho Sheet是一个在线电子表格工具,提供数据连接、开放式AI集成、主题模板等功能,使电子表格更智能、自动化。支持移动端使用,与Zoho生态系统深度集成,适合团队协作。
 1. [[⭐] https://yinxiang.com/dl-mac/](https://yinxiang.com/dl-mac/) **印象 AI。** 「印象笔记」X「印象AI」会创作的第二大脑
 1. [[⭐] https://zapier.com/ai](https://zapier.com/ai) **Zapier AI。** 赞！Zapier推出的AI自动化集成功能
