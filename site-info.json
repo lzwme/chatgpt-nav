@@ -813,7 +813,7 @@
       ],
       "title": "CheggMate",
       "desc": "【教育】CheggMate是一款一体化解答作业的AI产品。",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.cheggmate.ai"
     },
     "https://www.khanmigo.ai": {
@@ -2218,7 +2218,7 @@
       ],
       "title": "Appicons AI",
       "desc": "AI生成精致的App图标",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][503]Service Unavailable"
     },
     "https://www.dora.run/ai": {
