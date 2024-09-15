@@ -813,8 +813,9 @@
       ],
       "title": "CheggMate",
       "desc": "【教育】CheggMate是一款一体化解答作业的AI产品。",
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.cheggmate.ai"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.cheggmate.ai",
+      "hide": 1
     },
     "https://www.khanmigo.ai": {
       "type": [
@@ -2217,9 +2218,7 @@
         "AI 绘图"
       ],
       "title": "Appicons AI",
-      "desc": "AI生成精致的App图标",
-      "needVerify": 2,
-      "errmsg": "[error][503]Service Unavailable"
+      "desc": "AI生成精致的App图标"
     },
     "https://www.dora.run/ai": {
       "type": [
@@ -4516,7 +4515,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://logomakerr.ai": {
       "title": "Logomakerr.ai",
@@ -5767,7 +5768,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.thunisoft.com/gywm/index.jhtml": {
       "title": "万象公文",
@@ -8814,7 +8817,9 @@
       "type": [
         "AI 聊天对话",
         "AI 开源工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://keyue.cloud.baidu.com": {
       "title": "百度智能云客悦",
