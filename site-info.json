@@ -563,7 +563,9 @@
       "title": "通义千问",
       "icon": "https://img.alicdn.com/imgextra/i4/O1CN01FOwagl1XBpyVA2QVy_!!6000000002886-2-tps-512-512.png",
       "star": 3,
-      "sort": -88
+      "sort": -88,
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tingwu.aliyun.com": {
       "type": [
@@ -589,7 +591,9 @@
       "desc": "通义万相是阿里云通义旗下的AI创意作画平台。每日给用户 50 灵感值，单次生成成功扣除1个灵感值，每日0点重置。",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://pangu.huaweicloud.com": {
       "type": [
@@ -2768,7 +2772,9 @@
         "AI 编程开发"
       ],
       "title": "CodiumAI",
-      "desc": "超实用的技术编程句子补全工具"
+      "desc": "超实用的技术编程句子补全工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -4515,9 +4521,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://logomakerr.ai": {
       "title": "Logomakerr.ai",
@@ -5768,9 +5772,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.thunisoft.com/gywm/index.jhtml": {
       "title": "万象公文",
@@ -8818,7 +8820,7 @@
         "AI 聊天对话",
         "AI 开源工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://keyue.cloud.baidu.com": {
