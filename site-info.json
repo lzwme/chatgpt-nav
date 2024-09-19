@@ -1942,7 +1942,7 @@
       ],
       "title": "Midlibrary",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://promptbase.com": {
@@ -2338,7 +2338,7 @@
       ],
       "title": "字语未来",
       "desc": "用AI创造更有价值的信息，定义新一代智能办公平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://lunwenbang.cc": {
@@ -8817,9 +8817,7 @@
       "type": [
         "AI 聊天对话",
         "AI 开源工具"
-      ],
-      "needVerify": 4,
-      "errmsg": "[error][404]Not Found"
+      ]
     },
     "https://keyue.cloud.baidu.com": {
       "title": "百度智能云客悦",
