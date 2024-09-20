@@ -1942,7 +1942,7 @@
       ],
       "title": "Midlibrary",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://promptbase.com": {
@@ -2338,7 +2338,7 @@
       ],
       "title": "字语未来",
       "desc": "用AI创造更有价值的信息，定义新一代智能办公平台",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://lunwenbang.cc": {
@@ -2516,7 +2516,9 @@
       ],
       "star": 2,
       "title": "TTSMAKER",
-      "desc": "免费的在线文本转语音神器"
+      "desc": "免费的在线文本转语音神器",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://zh.rask.ai": {
       "type": [
