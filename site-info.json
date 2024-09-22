@@ -1942,7 +1942,7 @@
       ],
       "title": "Midlibrary",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://promptbase.com": {
@@ -2338,7 +2338,7 @@
       ],
       "title": "字语未来",
       "desc": "用AI创造更有价值的信息，定义新一代智能办公平台",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://lunwenbang.cc": {
@@ -2849,9 +2849,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
