@@ -1942,8 +1942,9 @@
       ],
       "title": "Midlibrary",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://promptbase.com": {
       "type": [
@@ -2337,9 +2338,7 @@
         "AI 写作助手"
       ],
       "title": "字语未来",
-      "desc": "用AI创造更有价值的信息，定义新一代智能办公平台",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "desc": "用AI创造更有价值的信息，定义新一代智能办公平台"
     },
     "https://lunwenbang.cc": {
       "type": [
@@ -9588,7 +9587,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.coze.com": {
       "title": "Coze",
