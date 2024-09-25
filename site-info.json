@@ -2594,9 +2594,7 @@
       ],
       "title": "比格AI PPT",
       "needPay": 1,
-      "desc": "AI 一键生成PPT。需付费",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI 一键生成PPT。需付费"
     },
     "https://tome.app": {
       "type": [
@@ -7587,9 +7585,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://rows.com": {
       "title": "Rows",
