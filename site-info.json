@@ -10108,7 +10108,9 @@
       "type": [
         "AI 语音生成",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://peiyin.baibaoyin.com": {
       "title": "百宝音",
