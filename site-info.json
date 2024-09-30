@@ -455,7 +455,9 @@
     "https://chat.binjie.site:7777": {
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
-      "title": "仅用于开发学习交流"
+      "title": "仅用于开发学习交流",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
@@ -805,7 +807,9 @@
         "AI 搜索引擎"
       ],
       "title": "360AI搜索",
-      "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。"
+      "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.cheggmate.ai": {
       "type": [
@@ -2339,7 +2343,7 @@
       ],
       "title": "字语未来",
       "desc": "用AI创造更有价值的信息，定义新一代智能办公平台",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://lunwenbang.cc": {
@@ -5380,9 +5384,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -8862,9 +8864,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -9787,7 +9787,9 @@
         "AI 聊天对话",
         "AI 编程开发",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND botvip.cn"
     },
     "https://taichu-web.ia.ac.cn": {
       "title": "紫东太初",
