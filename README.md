@@ -57,7 +57,7 @@
 1. [[⭐⭐⭐🧑‍💻] https://hunyuan.tencent.com](https://hunyuan.tencent.com) **腾讯混元助手。** 腾讯混元助手Chat
 1. [[⭐⭐⭐🧑‍💻] https://image.hunyuan.tencent.com](https://image.hunyuan.tencent.com) **混元生图。** 腾讯混元生图
 1. [[⭐⭐⭐🧑‍💻] https://kimi.moonshot.cn](https://kimi.moonshot.cn) **Kimi.ai。** Kimi智能助手能够支持约20万汉字的上下文输入，具备显著的中文优势，能够为用户提供回答问题、速读文件、整理资料、激发灵感、辅助创作等服务
-1. [[⭐⭐⭐] https://pangu.huaweicloud.com](https://pangu.huaweicloud.com) **华为盘古。** 华为盘古大模型，重塑千行百业 `[error][-1]timeout`
+1. [[⭐⭐⭐] https://pangu.huaweicloud.com](https://pangu.huaweicloud.com) **华为盘古。** 华为盘古大模型，重塑千行百业
 1. [[⭐⭐⭐] https://tongyi.aliyun.com/qianwen](https://tongyi.aliyun.com/qianwen) **通义千问。** 阿里达摩院提供的一个不断进化的AI大模型
 1. [[⭐⭐⭐] https://www.coze.cn](https://www.coze.cn) **扣子。** Coze中文版，字节旗下一款用来开发新一代 AI ChatBot的应用编辑平台
 1. [[⭐⭐⭐] https://www.doubao.com/chat/](https://www.doubao.com/chat/) **豆包。** 基于字节跳动研发的云雀大语言模型的Chat应用
@@ -74,7 +74,7 @@
 1. [[⭐⭐⭐🧑‍💻] https://chatglm.cn](https://chatglm.cn) **智谱清言。** 清华大学孵化的智谱AI提供的千亿参数对话模型ChatGLM
 1. [[⭐⭐⭐🧑‍💻] https://hunyuan.tencent.com](https://hunyuan.tencent.com) **腾讯混元助手。** 腾讯混元助手Chat
 1. [[⭐⭐⭐🧑‍💻] https://kimi.moonshot.cn](https://kimi.moonshot.cn) **Kimi.ai。** Kimi智能助手能够支持约20万汉字的上下文输入，具备显著的中文优势，能够为用户提供回答问题、速读文件、整理资料、激发灵感、辅助创作等服务
-1. [[⭐⭐⭐] https://pangu.huaweicloud.com](https://pangu.huaweicloud.com) **华为盘古。** 华为盘古大模型，重塑千行百业 `[error][-1]timeout`
+1. [[⭐⭐⭐] https://pangu.huaweicloud.com](https://pangu.huaweicloud.com) **华为盘古。** 华为盘古大模型，重塑千行百业
 1. [[⭐⭐⭐🧑‍💻] https://so.csdn.net/chat](https://so.csdn.net/chat) **C知道。** 由CSDN和外部合作伙伴联合研发的生成式AI产品
 1. [[⭐⭐⭐] https://tongyi.aliyun.com/qianwen](https://tongyi.aliyun.com/qianwen) **通义千问。** 阿里达摩院提供的一个不断进化的AI大模型
 1. [[⭐⭐⭐] https://www.coze.cn](https://www.coze.cn) **扣子。** Coze中文版，字节旗下一款用来开发新一代 AI ChatBot的应用编辑平台
@@ -94,7 +94,6 @@
 1. [[⭐] https://apps.apple.com/cn/app/%E8%AF%9D%E7%82%89/id6475000292](https://apps.apple.com/cn/app/%E8%AF%9D%E7%82%89/id6475000292) **话炉。** 话炉APP是一款由字节跳动推出的AI社交应用，用户可以与多样化的虚拟AI角色进行互动聊天，体验沉浸式的对话互动。用户可以创作个性化AI角色，共同打造故事世界，享受新颖的社交互动方式。主要功能包括与AI角色互动、故事创作与推进、角色切换、个性化角色创建、多样化风格体验和社交互动。
 1. [[⭐] https://apps.apple.com/us/app/claude/id6473753684](https://apps.apple.com/us/app/claude/id6473753684) **Claude for iOS。** Claude是由Anthropic公司开发的AI助手，它利用强大的Claude 3模型家族，为用户提供即时访问各领域知识的能力。它旨在成为可靠、准确、有帮助的伙伴，帮助用户在移动中与关键任务、头脑风暴和复杂问题合作，取得显著进展。此外，Claude还可以帮助草拟电子邮件、总结会议，并协助处理用户不想做的小任务。
 1. [[⭐] https://apps.apple.com/us/app/opencat/id6445999201](https://apps.apple.com/us/app/opencat/id6445999201) **OpenCat。** 在苹果手表上用ChatGPT
-1. [[⭐] https://botvip.cn](https://botvip.cn) **AI对话鸭。** AI对话鸭是一个领先的AI聊天对话平台，它集成了多款国产大模型，提供了丰富的对话场景和功能，满足不同用户的需求。该平台以其高效的对话生成能力和多样的应用场景，在提高工作效率和娱乐互动方面具有显著优势。 `[error][-1]getaddrinfo ENOTFOUND botvip.cn`
 1. [[⭐] https://candy.ai](https://candy.ai) **Candy.ai。** Candy.ai是一个与虚拟伙伴进行沟通和互动的平台。通过与AI角色进行个性化对话，您可以深入参与复杂的对话，并激发您的想象力。立即体验适应性AI驱动的角色扮演。
 1. [[⭐] https://character.sensetime.com/character-wb/home](https://character.sensetime.com/character-wb/home) **商汤商量拟人大模型。** 商汤商量拟人大模型 “SenseChat-Character” 支持个性化角色创建与定制、知识库构建、长对话记忆、多人群聊等功能，可实现行业领先的角色对话、人设、及剧情推动能力。
 1. [[⭐] https://chat.baichuan-ai.com/home](https://chat.baichuan-ai.com/home) **百川大模型。** 百川大模型是一款融合了意图理解、信息检索以及强化学习技术的中英双语大模型。它结合有监督微调与人类意图对齐，在知识问答、文本创作领域表现突出。Baichuan-7B、Baichuan-13B两款开源可免费商用的中文大模型，且在多个权威评测榜单均名列前茅，下载量突破百万。产品定位为提供高质量的语言AI服务，帮助用户轻松、普惠地获取世界知识和专业服务。
@@ -166,6 +165,7 @@
 1. [[🚀] https://theb.ai](https://theb.ai) **TheB.AI。** TheB.AI是一款全能的人工智能平台。可以访问一系列创新的模型，涵盖先进的语言模型、强大的图像模型等等。
 1. [[🚀] https://you.com](https://you.com) **YOU。** You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。
 1. [[🚀] https://huggingface.co](https://huggingface.co) **Hugging Face。** 下载开源的SD模型
+1. [[❓] https://botvip.cn](https://botvip.cn) **AI对话鸭。** AI对话鸭是一个领先的AI聊天对话平台，它集成了多款国产大模型，提供了丰富的对话场景和功能，满足不同用户的需求。该平台以其高效的对话生成能力和多样的应用场景，在提高工作效率和娱乐互动方面具有显著优势。 `[error][-1]getaddrinfo ENOTFOUND botvip.cn`
 
 ### AI 绘图 (174)
 
@@ -723,7 +723,7 @@
 1. [[⭐] https://consensus.app](https://consensus.app) **Consensus。** Consensus是一个使用人工智能来搜索研究论文并找到洞见的搜索引擎。它具有广泛的覆盖范围，可搜索超过2亿篇科学论文。所有的结果都来源于实际研究，我们引用我们的来源，绝不会显示广告。它还具有即时分析功能，利用GPT4和其他LLM来为您总结结果。Consensus旨在帮助您进行有效的研究。
 1. [[⭐] https://fireflies.ai](https://fireflies.ai) **fireflies.ai。** Fireflies.ai是一款利用生成式人工智能技术的AI会议记录助手，可自动转录、总结、搜索和分析语音对话。通过与Zoom、Google Meet、Microsoft Teams、Webex等平台集成，生成会议记录和智能摘要。
 1. [[⭐] https://metaso.cn](https://metaso.cn) **秘塔AI搜索。** 秘塔科技旗下的一款AI搜索产品，能够大幅提升搜索效率，解决日常生活、工作学习等场景中遇到的各类搜索需求
-1. [[⭐] https://so.360.com](https://so.360.com) **360AI搜索。** 360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。 `[error][-1]timeout`
+1. [[⭐] https://so.360.com](https://so.360.com) **360AI搜索。** 360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。
 1. [[⭐] https://suppr.wilddata.cn](https://suppr.wilddata.cn) **Suppr 超能文献。** Suppr 超能文献是一个利用人工智能技术驱动的医学文献搜索引擎，旨在帮助医学研究人员快速检索和获取相关医学领域的最新研究进展和临床试验信息。它通过限定时间、类型、影响因子、作者、期刊等多重条件，提供精准的文献检索服务，极大地提高了医学研究的效率和质量。
 1. [[⭐] https://undermind.ai](https://undermind.ai) **Undermind.ai。** Undermind是一个由人工智能驱动的科研助手，旨在通过先进的语言模型，帮助研究人员快速准确地找到所需的学术论文。它由两位来自MIT的量子物理博士创立，拥有深厚的研究背景。Undermind的搜索算法模仿人类系统化的发现过程，通过阶段性地检查结果并使用语言模型做出关键决策，如识别重要信息和调整搜索策略，从而实现前所未有的准确性和全面性。
 1. [[⭐] https://www.chatplayground.ai](https://www.chatplayground.ai) **ChatPlayground AI。** ChatPlayground AI是一个集成了16+ AI应用和功能的聊天机器人平台，它允许用户通过一个订阅来访问多种AI模型。该平台的主要优点包括行业领先的AI模型、实时网络搜索、图像生成器、历史记录回顾、多语言支持以及导入自定义内容的能力。ChatPlayground AI旨在为开发者、数据科学家、学生、研究人员、内容创作者、作家和AI爱好者提供服务，帮助他们提高工作效率和创造力。
@@ -751,7 +751,6 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://airkit.ai](https://airkit.ai) **Airkit.ai。** Airkit.ai eCommerce通过GPT-4驱动的AI客服机器人为电商企业提供智能的客户服务支持。它可以覆盖订单状态更新、退货售后、订单问题处理、产品信息查询等多种场景,快速准确地回答客户问题,随时随地为客户提供服务,大幅提高客户满意度;同时,也可以减轻人工客服的工作量,提升企业运营效率。此外,它还具有主动联系客户、个性化定制等功能,可进一步提升客户体验。
 1. [[⭐] https://answerai.pro](https://answerai.pro) **AnswerAI.pro。** Answer.AI是一款AI家教应用程序，利用先进的人工智能技术，为用户提供从数学到历史等各个学科的作业解答和学习辅导服务。它通过拍照、扫描问题、上传PDF或聊天等方式与AI家教互动，提供详细的步骤解答和视频解释，帮助学生更好地理解和掌握知识点。该应用支持iOS和Android系统，并提供Chrome浏览器扩展。Answer.AI以其高准确率和高答案率在教育类应用中名列前茅，深受全球数百万学生的喜爱。
 1. [[⭐] https://anyword.com](https://anyword.com) **Anyword。** Anyword是一款AI写作工具，为营销团队提供高效撰写营销内容的解决方案。它能够分析您过去发布的所有内容，并帮助您发现最有效的信息传递方式。同时，Anyword提供品牌声音管理功能，让您可以在一个平台上管理品牌口吻、目标受众和品牌规则。您还可以训练定制的AI模型，利用品牌和绩效数据来提高各个渠道的表现，并显著影响业务结果。
-1. [[⭐] https://botvip.cn](https://botvip.cn) **AI对话鸭。** AI对话鸭是一个领先的AI聊天对话平台，它集成了多款国产大模型，提供了丰富的对话场景和功能，满足不同用户的需求。该平台以其高效的对话生成能力和多样的应用场景，在提高工作效率和娱乐互动方面具有显著优势。 `[error][-1]getaddrinfo ENOTFOUND botvip.cn`
 1. [[⭐] https://chatbros.ai](https://chatbros.ai) **Chatbros.ai。** Chatbros.ai是一款人工智能驱动的聊天机器人,它可以重新定义数字互动,提升转化率、促进销售增长、完全改变用户参与度。它提供无缝的帮助和无限的功能。
 1. [[⭐] https://chatlify.me](https://chatlify.me) **Chatlify。** Chatlify是一款AI智能客服助手，可为企业提供销售、支持和成功方面的帮助。它能够处理用户的查询和问题，提供个性化推荐，自动生成工单，计算价格，提供实时价格详情，进行高级故障排除，并提供多语言支持和分析。Chatlify可以帮助企业简化客户互动过程，并提高销售业绩。
 1. [[⭐] https://claid.ai](https://claid.ai) **Claid AI Scene Creation。** Claid.ai是一个提供AI生成、增强和编辑产品图片的平台。它能够自动转换普通产品图片为具有拍摄品质的营销图片，提高图片的清晰度，去除背景，并创建令人惊叹的照片，从而提升转化率。Claid.ai支持生成多个适合品牌的产品图片，并提供统一的背景和图像大小，以适应不同的平台。用户可以通过API访问结果，实时获取编辑后的图片。Claid.ai还提供了多种功能，包括图片放大、智能去除背景、智能框架、AI颜色校正等，这些功能可以提高图片的质量和视觉效果。Claid.ai的目标是帮助企业实现图片的统一化和提升，从而提升转化率和销售业绩。
@@ -822,6 +821,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://www.turnitin.com](https://www.turnitin.com) **Turnitin。** 【教育】Turnitin是一款促进学术诚信，简化评分和反馈，防止抄袭，并改善学生的学习成果的产品。
 1. [[⭐] https://www.yunque360.com/product-ai.html](https://www.yunque360.com/product-ai.html) **云雀AI智能客服。** 云雀 AI 智能客服是一款基于大数据的在线客服平台，通过智能机器人提供多渠道客户服务，帮助企业降低成本、提高效率。该平台结合了 AI 技术和客服系统，为企业提供高效的客户交互体验，提升服务质量。
 1. [[🚀] https://www.copy.ai](https://www.copy.ai) **Copy AI。** 人工智能营销文案和内容创作工具，帮助各行各业的撰稿人、营销人员和企业快速高效地创建高质量的内容。
+1. [[❓] https://botvip.cn](https://botvip.cn) **AI对话鸭。** AI对话鸭是一个领先的AI聊天对话平台，它集成了多款国产大模型，提供了丰富的对话场景和功能，满足不同用户的需求。该平台以其高效的对话生成能力和多样的应用场景，在提高工作效率和娱乐互动方面具有显著优势。 `[error][-1]getaddrinfo ENOTFOUND botvip.cn`
 
 ### AI 写作助手 (119)
 
@@ -1074,7 +1074,6 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 
 1. [[⭐] https://ai.chinaz.com](https://ai.chinaz.com) **站长 AI。** 站长 AI 是一个强大的 AI 工具合集，通过人工智能技术为用户提供内容鉴定、编程辅助、SEO 优化、智能写作等多种功能。其主要优点包括高效提升工作效率、帮助用户解决难题、节省时间成本、提高内容质量等。站长 AI 定位于为广大站长和创作者提供便捷、智能的工具支持。
 1. [[⭐] https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/codewhisperer/) **Amazon CodeWhisperer。** Amazon CodeWhisperer是一个AI代码伴侣，基于您的注释和现有代码，实时生成代码建议，包括代码片段和完整函数。它可以帮助您绕过耗时的编码任务，加速使用陌生API构建应用程序。CodeWhisperer训练有数十亿行代码，并可以根据您的需求生成代码建议。它还可以检测代码中难以发现的漏洞，并提供修复建议。您可以在15种编程语言和多个集成开发环境中使用CodeWhisperer，包括Python、Java、JavaScript、VS Code、IntelliJ IDEA等。使用CodeWhisperer，您可以更快、更安全地编写代码。
-1. [[⭐] https://botvip.cn](https://botvip.cn) **AI对话鸭。** AI对话鸭是一个领先的AI聊天对话平台，它集成了多款国产大模型，提供了丰富的对话场景和功能，满足不同用户的需求。该平台以其高效的对话生成能力和多样的应用场景，在提高工作效率和娱乐互动方面具有显著优势。 `[error][-1]getaddrinfo ENOTFOUND botvip.cn`
 1. [[⭐] https://charisma.ai](https://charisma.ai) **Charisma。** 轻松连接到 Unreal Engine、Unity、移动设备和 metaverses
 1. [[⭐] https://code.fittentech.com](https://code.fittentech.com) **Fitten Code。** Fitten Code是一个GPT驱动的代码生成和完成工具，支持多种语言：Python、Javascript、Typescript、Java等。它能够自动为您的代码补充缺失的部分，节省您宝贵的开发时间。基于AI大模型对代码进行语义级翻译，支持多种编程语言互译。同时，它能够根据您的代码自动生成相关注释，为您的代码提供清晰易懂的解释和文档。除此之外，它还拥有智能bug查找、解释代码、自动生成单元测试的功能，以及根据代码自动产生相应的测试用例等功能。
 1. [[⭐] https://codefuse.alipay.com/welcome/product](https://codefuse.alipay.com/welcome/product) **codeFuse。** codeFuse 是一个能够辅助开发者进行代码补全、添加注释、解释代码等功能的插件。它基于海量数据提供实时的代码补全服务，并支持解释代码、生成注释等功能，能够帮助开发者快速完成功能研发，提高研发效率。此外，codeFuse 还可以对选定代码段进行分析理解，提出优化和改进建议，甚至可以直接生成代码补丁，帮助开发者写出更好的代码。另外，codeFuse 还能智能生成具备业务语义的测试用例，提升问题发现效率，方便快捷。codeFuse 支持 40 多种编程语言。
@@ -1114,6 +1113,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[🚀] https://huggingface.co](https://huggingface.co) **Hugging Face。** 下载开源的SD模型
 1. [[🚀] https://ludo.ai](https://ludo.ai) **Ludo AI。** 快速帮助游戏开发者进行创造过程
 1. [[🚀] https://www.cursor.so](https://www.cursor.so) **Cursor。** 基于GPT的代码生成工具
+1. [[❓] https://botvip.cn](https://botvip.cn) **AI对话鸭。** AI对话鸭是一个领先的AI聊天对话平台，它集成了多款国产大模型，提供了丰富的对话场景和功能，满足不同用户的需求。该平台以其高效的对话生成能力和多样的应用场景，在提高工作效率和娱乐互动方面具有显著优势。 `[error][-1]getaddrinfo ENOTFOUND botvip.cn`
 
 ### AI 网站生成 (4)
 

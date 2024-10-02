@@ -455,9 +455,7 @@
     "https://chat.binjie.site:7777": {
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
-      "title": "仅用于开发学习交流",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "title": "仅用于开发学习交流"
     },
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
@@ -600,9 +598,7 @@
       ],
       "title": "华为盘古",
       "desc": "华为盘古大模型，重塑千行百业",
-      "star": 3,
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "star": 3
     },
     "https://ai.360.com": {
       "type": [
@@ -809,9 +805,7 @@
         "AI 搜索引擎"
       ],
       "title": "360AI搜索",
-      "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。"
     },
     "https://www.cheggmate.ai": {
       "type": [
@@ -2345,7 +2339,7 @@
       ],
       "title": "字语未来",
       "desc": "用AI创造更有价值的信息，定义新一代智能办公平台",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://lunwenbang.cc": {
@@ -9790,7 +9784,7 @@
         "AI 编程开发",
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND botvip.cn"
     },
     "https://taichu-web.ia.ac.cn": {
