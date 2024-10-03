@@ -2339,7 +2339,7 @@
       ],
       "title": "字语未来",
       "desc": "用AI创造更有价值的信息，定义新一代智能办公平台",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://lunwenbang.cc": {
@@ -9784,7 +9784,7 @@
         "AI 编程开发",
         "AI 行业工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND botvip.cn"
     },
     "https://taichu-web.ia.ac.cn": {
