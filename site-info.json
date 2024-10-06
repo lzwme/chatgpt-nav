@@ -610,7 +610,9 @@
         "聊天",
         "综合工具",
         "大厂合集(精选大厂热门AI产品)"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.anthropic.com": {
       "type": [
@@ -1606,7 +1608,9 @@
         "AI 语音生成"
       ],
       "title": "Speechify",
-      "desc": "拥有数百万次在Chrome、iOS和Android上的下载量的领先文本到语音应用，可以在任何设备上听取互联网内容。"
+      "desc": "拥有数百万次在Chrome、iOS和Android上的下载量的领先文本到语音应用，可以在任何设备上听取互联网内容。",
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://elevenlabs.io": {
       "type": [
@@ -2851,7 +2855,9 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ludo.ai": {
       "type": [
@@ -4291,7 +4297,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "http://removewatermark.ai": {
       "title": "WatermarkRemoverAI",
@@ -9785,8 +9793,9 @@
         "AI 编程开发",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND botvip.cn"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND botvip.cn",
+      "hide": 1
     },
     "https://taichu-web.ia.ac.cn": {
       "title": "紫东太初",
