@@ -367,7 +367,9 @@
       "source": "recommend",
       "needLogin": 1,
       "desc": "Best AI Content Writer",
-      "title": "ChattyAid"
+      "title": "ChattyAid",
+      "needVerify": 1,
+      "errmsg": "[error][521]HTTP_521"
     },
     "https://home.v50.ltd": {
       "star": 2,
@@ -610,9 +612,7 @@
         "聊天",
         "综合工具",
         "大厂合集(精选大厂热门AI产品)"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.anthropic.com": {
       "type": [
@@ -1608,9 +1608,7 @@
         "AI 语音生成"
       ],
       "title": "Speechify",
-      "desc": "拥有数百万次在Chrome、iOS和Android上的下载量的领先文本到语音应用，可以在任何设备上听取互联网内容。",
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      "desc": "拥有数百万次在Chrome、iOS和Android上的下载量的领先文本到语音应用，可以在任何设备上听取互联网内容。"
     },
     "https://elevenlabs.io": {
       "type": [
@@ -2855,9 +2853,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -3287,7 +3283,9 @@
       "type": [
         "AI 视频生成",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fliki.ai": {
       "title": "Fliki",
@@ -4297,9 +4295,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "http://removewatermark.ai": {
       "title": "WatermarkRemoverAI",
@@ -10122,7 +10118,9 @@
       "type": [
         "AI 语音生成",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://peiyin.baibaoyin.com": {
       "title": "百宝音",
@@ -11492,7 +11490,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
