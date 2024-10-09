@@ -805,9 +805,7 @@
         "AI 搜索引擎"
       ],
       "title": "360AI搜索",
-      "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。"
     },
     "https://www.cheggmate.ai": {
       "type": [
@@ -2653,9 +2651,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2F&y=ipr:20.171.46.107:1728418216.516\"></meta></head></html>"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3177,9 +3173,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.171.46.107:1728418224.316\"></meta></head></html>"
+      ]
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -3288,7 +3282,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://fliki.ai": {
@@ -6506,9 +6500,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][503]Service Unavailable"
+      ]
     },
     "https://app.deepbrain.io/dashboard": {
       "title": "DeepBrain AI",
@@ -7450,7 +7442,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://quivr.app": {
       "title": "Quivr",
@@ -10124,9 +10118,7 @@
       "type": [
         "AI 语音生成",
         "AI 行业工具"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://peiyin.baibaoyin.com": {
       "title": "百宝音",
