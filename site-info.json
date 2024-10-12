@@ -3281,9 +3281,7 @@
       "type": [
         "AI 视频生成",
         "AI 国外工具"
-      ],
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://fliki.ai": {
       "title": "Fliki",
@@ -3529,7 +3527,9 @@
       "type": [
         "AI 写作助手",
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://suppr.wilddata.cn": {
       "title": "Suppr 超能文献",
@@ -8082,9 +8082,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.52cv.com": {
       "title": "职徒简历",
