@@ -798,7 +798,9 @@
         "AI 写作助手"
       ],
       "title": "秘塔AI搜索",
-      "desc": "秘塔科技旗下的一款AI搜索产品，能够大幅提升搜索效率，解决日常生活、工作学习等场景中遇到的各类搜索需求"
+      "desc": "秘塔科技旗下的一款AI搜索产品，能够大幅提升搜索效率，解决日常生活、工作学习等场景中遇到的各类搜索需求",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://so.360.com": {
       "type": [
@@ -3527,9 +3529,7 @@
       "type": [
         "AI 写作助手",
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://suppr.wilddata.cn": {
       "title": "Suppr 超能文献",
