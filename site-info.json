@@ -5326,9 +5326,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][439]status code 439"
+      ]
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
@@ -10615,7 +10613,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
