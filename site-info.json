@@ -7700,7 +7700,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.canva.cn": {
       "title": "Canva 可画",
@@ -10613,9 +10615,7 @@
       ],
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
