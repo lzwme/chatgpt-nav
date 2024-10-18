@@ -805,7 +805,9 @@
         "AI 搜索引擎"
       ],
       "title": "360AI搜索",
-      "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。"
+      "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.cheggmate.ai": {
       "type": [
@@ -875,7 +877,9 @@
         "生产力",
         "国外精选",
         "网站"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][429]Too Many Requests"
     },
     "https://mp.weixin.qq.com/s/fZtFbxkHvmyQPykc81pydw": {
       "type": [
@@ -4955,7 +4959,9 @@
       "type": [
         "AI 行业工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://baoyueai.com/home?utm_id=219599": {
       "title": "包阅AI文档阅读",
@@ -7700,9 +7706,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.canva.cn": {
       "title": "Canva 可画",
