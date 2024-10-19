@@ -455,7 +455,9 @@
     "https://chat.binjie.site:7777": {
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
-      "title": "仅用于开发学习交流"
+      "title": "仅用于开发学习交流",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
@@ -806,7 +808,7 @@
       ],
       "title": "360AI搜索",
       "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.cheggmate.ai": {
@@ -877,9 +879,7 @@
         "生产力",
         "国外精选",
         "网站"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][429]Too Many Requests"
+      ]
     },
     "https://mp.weixin.qq.com/s/fZtFbxkHvmyQPykc81pydw": {
       "type": [
@@ -2352,7 +2352,9 @@
         "AI 写作助手"
       ],
       "title": "AI论文帮",
-      "desc": "5分钟生成万字优质原创论文！"
+      "desc": "5分钟生成万字优质原创论文！",
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 47.106.182.35:443"
     },
     "https://www.notion.so/product/ai": {
       "type": [
@@ -4960,7 +4962,7 @@
         "AI 行业工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://baoyueai.com/home?utm_id=219599": {
