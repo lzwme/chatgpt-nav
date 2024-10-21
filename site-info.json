@@ -455,9 +455,7 @@
     "https://chat.binjie.site:7777": {
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
-      "title": "仅用于开发学习交流",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "title": "仅用于开发学习交流"
     },
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
@@ -565,9 +563,7 @@
       "title": "通义千问",
       "icon": "https://img.alicdn.com/imgextra/i4/O1CN01FOwagl1XBpyVA2QVy_!!6000000002886-2-tps-512-512.png",
       "star": 3,
-      "sort": -88,
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "sort": -88
     },
     "https://tingwu.aliyun.com": {
       "type": [
@@ -593,9 +589,7 @@
       "desc": "通义万相是阿里云通义旗下的AI创意作画平台。每日给用户 50 灵感值，单次生成成功扣除1个灵感值，每日0点重置。",
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://pangu.huaweicloud.com": {
       "type": [
@@ -812,7 +806,7 @@
       ],
       "title": "360AI搜索",
       "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.cheggmate.ai": {
@@ -883,7 +877,9 @@
         "生产力",
         "国外精选",
         "网站"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][429]Too Many Requests"
     },
     "https://mp.weixin.qq.com/s/fZtFbxkHvmyQPykc81pydw": {
       "type": [
@@ -2356,9 +2352,7 @@
         "AI 写作助手"
       ],
       "title": "AI论文帮",
-      "desc": "5分钟生成万字优质原创论文！",
-      "needVerify": 2,
-      "errmsg": "[error][-1]connect ECONNREFUSED 47.106.182.35:443"
+      "desc": "5分钟生成万字优质原创论文！"
     },
     "https://www.notion.so/product/ai": {
       "type": [
@@ -4966,7 +4960,7 @@
         "AI 行业工具",
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://baoyueai.com/home?utm_id=219599": {
@@ -8055,9 +8049,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
@@ -8094,7 +8086,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://www.52cv.com": {
       "title": "职徒简历",
@@ -8875,9 +8869,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
