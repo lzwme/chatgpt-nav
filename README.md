@@ -316,7 +316,7 @@
 1. [[⭐] https://www.watermarkremover.io](https://www.watermarkremover.io) **WatermarkRemover.io。** 水印去除器是一款使用AI技术免费去除图片水印的工具。它可以帮助用户轻松去除图片中的透明水印，无需任何图像编辑技能。
 1. [[⭐] https://www.whee.com](https://www.whee.com) **WHEE。** WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。
 1. [[⭐] https://www.x-design.com](https://www.x-design.com) **美图 AI PPT。** 美图设计室是一款由中国互联网公司美图公司开发的图像处理、照片编辑和设计软件。
-1. [[⭐] https://www.xiaochuanai.com/youchuan/](https://www.xiaochuanai.com/youchuan/) **悠船。** 悠船是Midjourney国内中文版本人工智能图像生成桌面客户端软件。它可以通过文字描述来生成图像,支持团队协作和高级控制,提供多种定价方案。主要功能包括文生图、协作创作、控制面板等。适合创意工作者、设计师、艺术家等群体使用,可以提高创意效率,激发灵感。
+1. [[⭐] https://www.xiaochuanai.com/youchuan/](https://www.xiaochuanai.com/youchuan/) **悠船。** 悠船是Midjourney国内中文版本人工智能图像生成桌面客户端软件。它可以通过文字描述来生成图像,支持团队协作和高级控制,提供多种定价方案。主要功能包括文生图、协作创作、控制面板等。适合创意工作者、设计师、艺术家等群体使用,可以提高创意效率,激发灵感。 `[error][-1]timeout`
 1. [[⭐] https://yige.baidu.com](https://yige.baidu.com) **文心一格。** 百度旗下AI艺术和创意辅助平台
 1. [[⭐] https://youyan.xyz/platform/home/prime](https://youyan.xyz/platform/home/prime) **有言。** 一站式AI视频创作，1200+免费3D数字人
 1. [[⭐] https://yunxiu.meitu.com/home](https://yunxiu.meitu.com/home) **美图云修。** 商业级AI影像处理工具
@@ -486,7 +486,7 @@
 1. [[⭐] https://www.whee.com](https://www.whee.com) **WHEE。** WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。
 1. [[⭐] https://www.wix.com/logo/maker](https://www.wix.com/logo/maker) **Wix Logo Maker。** Wix Logo Maker 是一款由人工智能驱动的在线设计工具，允许你免费创建和定制专业 Logo。通过回答几个简单问题，即可获得符合你需求的独特 Logo。
 1. [[⭐] https://www.x-design.com](https://www.x-design.com) **美图 AI PPT。** 美图设计室是一款由中国互联网公司美图公司开发的图像处理、照片编辑和设计软件。
-1. [[⭐] https://www.xiaochuanai.com/youchuan/](https://www.xiaochuanai.com/youchuan/) **悠船。** 悠船是Midjourney国内中文版本人工智能图像生成桌面客户端软件。它可以通过文字描述来生成图像,支持团队协作和高级控制,提供多种定价方案。主要功能包括文生图、协作创作、控制面板等。适合创意工作者、设计师、艺术家等群体使用,可以提高创意效率,激发灵感。
+1. [[⭐] https://www.xiaochuanai.com/youchuan/](https://www.xiaochuanai.com/youchuan/) **悠船。** 悠船是Midjourney国内中文版本人工智能图像生成桌面客户端软件。它可以通过文字描述来生成图像,支持团队协作和高级控制,提供多种定价方案。主要功能包括文生图、协作创作、控制面板等。适合创意工作者、设计师、艺术家等群体使用,可以提高创意效率,激发灵感。 `[error][-1]timeout`
 1. [[⭐] https://www.yijianlogo.com](https://www.yijianlogo.com) **一键Logo设计。** 一键Logo设计是一款基于AI大数据计算的智能设计生成器，只需简单输入名称口号，选择行业偏好，即可一键生成LOGO。所有元素均可调整修改，多种格式文件均可下载导出。一次购买长期使用，各种模板字体均可商用。适用于需要快速生成LOGO的个人、企业、团队等用户。
 1. [[⭐] https://www.zmo.ai](https://www.zmo.ai) **ZMO.AI。** ZMO可以轻松的生成令人惊叹的动漫、艺术或图像。
 1. [[⭐] https://yige.baidu.com](https://yige.baidu.com) **文心一格。** 百度旗下AI艺术和创意辅助平台
@@ -824,7 +824,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 ### AI 写作助手 (118)
 
 1. [[⭐⭐⭐🧑‍💻] https://chatglm.cn](https://chatglm.cn) **智谱清言。** 清华大学孵化的智谱AI提供的千亿参数对话模型ChatGLM
-1. [[⭐⭐⭐] https://www.notion.so](https://www.notion.so) **Notion AI。** Notion AI是一款功能强大的人工智能工具，它可以帮助用户自动化和管理个人和团队的任务和流程。 `[error][429]Too Many Requests`
+1. [[⭐⭐⭐] https://www.notion.so](https://www.notion.so) **Notion AI。** Notion AI是一款功能强大的人工智能工具，它可以帮助用户自动化和管理个人和团队的任务和流程。
 1. [[⭐⭐⭐🧑‍💻] https://www.tiangong.cn](https://www.tiangong.cn) **天工AI智能体。** 昆仑万维提供的对标 ChatGPT 的双千亿级大语言模型，也是一个对话式AI助手
 1. [[⭐⭐⭐] https://www.writingo.net](https://www.writingo.net) **火山写作。** 火山写作是由字节跳动推出的，集成创作、润色、纠错、改写、翻译等能力的中英文AI 写作助手。
 1. [[⭐⭐] https://www.giiso.com](https://www.giiso.com) **Giiso写作机器人。** Giiso是一款内容创作AI辅助工具，提供资讯写作、小红书文案、短视频脚本、PPT创作、文生图等类型创作。
@@ -869,7 +869,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://littlefrog.ai](https://littlefrog.ai) **写作蛙。** 清华智谱旗下的AI写作助手
 1. [[⭐] https://longshot.ai](https://longshot.ai) **LongShot AI。** LongShot AI 是一款旨在满足您内容需求的高效可靠的生成性人工智能工具。利用可靠的数据源和全面的事实核实，我们的人工智能驱动平台为您提供最准确可靠的信息，确保您的内容毫无疑虑。不再担心数据的可靠性和过时的信息，LongShot AI 不断更新知识库，确保您的内容始终相关和最新。我们的先进算法对事实进行仔细的交叉核实，消除了任何错误的可能性。LongShot AI 简化了事实核实的过程，为您节省宝贵的时间，让您专注于业务的其他方面。LongShot AI 提供灵活、定制的解决方案，以满足您机构或企业的独特需求。
 1. [[⭐] https://ltx.studio](https://ltx.studio) **LTX Studio。** LTX Studio是一个集成了AI技术的创新视频制作平台，它允许用户从概念到最终剪辑，全面控制视频的各个方面。该平台通过AI技术，将创意转化为连贯的视频故事，提供角色一致性、自动编辑、深度帧控制等功能，旨在简化视频制作流程，提高创作效率。
-1. [[⭐] https://lunwenbang.cc](https://lunwenbang.cc) **AI论文帮。** 5分钟生成万字优质原创论文！
+1. [[⭐] https://lunwenbang.cc](https://lunwenbang.cc) **AI论文帮。** 5分钟生成万字优质原创论文！ `[error][-1]connect ECONNREFUSED 47.106.182.35:443`
 1. [[⭐] https://magickpen.com](https://magickpen.com) **MagicPen。** 在线AI英语写作助手
 1. [[⭐] https://metaso.cn](https://metaso.cn) **秘塔AI搜索。** 秘塔科技旗下的一款AI搜索产品，能够大幅提升搜索效率，解决日常生活、工作学习等场景中遇到的各类搜索需求
 1. [[⭐] https://miaobi.xinhuaskl.com](https://miaobi.xinhuaskl.com) **新华妙笔。** 新华社媒体出品！AI公文写作学习平台
