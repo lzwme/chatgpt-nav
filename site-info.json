@@ -806,7 +806,7 @@
       ],
       "title": "360AI搜索",
       "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.cheggmate.ai": {
@@ -2350,9 +2350,7 @@
         "AI 写作助手"
       ],
       "title": "AI论文帮",
-      "desc": "5分钟生成万字优质原创论文！",
-      "needVerify": 1,
-      "errmsg": "[error][-1]connect ECONNREFUSED 47.106.182.35:443"
+      "desc": "5分钟生成万字优质原创论文！"
     },
     "https://www.notion.so/product/ai": {
       "type": [
@@ -4844,7 +4842,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.acgnai.art": {
@@ -4962,7 +4960,7 @@
         "AI 行业工具",
         "AI 写作助手"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://baoyueai.com/home?utm_id=219599": {
@@ -8088,9 +8086,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://www.52cv.com": {
       "title": "职徒简历",
@@ -9773,7 +9769,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://botvip.cn": {
       "title": "AI对话鸭",
@@ -11494,7 +11492,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
