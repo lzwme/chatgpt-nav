@@ -806,8 +806,9 @@
       ],
       "title": "360AI搜索",
       "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://www.cheggmate.ai": {
       "type": [
@@ -4842,7 +4843,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.acgnai.art": {
@@ -4960,8 +4961,9 @@
         "AI 行业工具",
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://baoyueai.com/home?utm_id=219599": {
       "title": "包阅AI文档阅读",
@@ -9770,7 +9772,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://botvip.cn": {
@@ -11068,7 +11070,9 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://www.dreamavatar.com": {
       "title": "DreamAvatar",
@@ -11492,9 +11496,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
