@@ -589,7 +589,9 @@
       "desc": "通义万相是阿里云通义旗下的AI创意作画平台。每日给用户 50 灵感值，单次生成成功扣除1个灵感值，每日0点重置。",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://pangu.huaweicloud.com": {
       "type": [
@@ -4843,7 +4845,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.acgnai.art": {
@@ -9772,7 +9774,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://botvip.cn": {
@@ -11070,9 +11072,7 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://www.dreamavatar.com": {
       "title": "DreamAvatar",
