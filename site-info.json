@@ -2352,7 +2352,7 @@
       ],
       "title": "AI论文帮",
       "desc": "5分钟生成万字优质原创论文！",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]connect ECONNREFUSED 47.106.182.35:443"
     },
     "https://www.notion.so/product/ai": {
@@ -2979,7 +2979,9 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.seaart.ai": {
       "title": "SeaArt",
@@ -4845,7 +4847,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.acgnai.art": {
@@ -9774,7 +9776,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://botvip.cn": {
@@ -11270,9 +11272,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "http://d-id.com": {
       "title": "D-ID",
