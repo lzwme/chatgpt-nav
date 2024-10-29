@@ -6101,7 +6101,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]socket hang up"
     },
     "https://claude.ai": {
@@ -7283,7 +7283,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.islide.cc": {
       "title": "iSlide",
@@ -9775,8 +9777,9 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://botvip.cn": {
       "title": "AI对话鸭",
@@ -10127,9 +10130,7 @@
       "type": [
         "AI 语音生成",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://peiyin.baibaoyin.com": {
       "title": "百宝音",
