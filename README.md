@@ -68,7 +68,7 @@
 ### AI 聊天对话 (97)
 
 1. [[⭐⭐⭐🧑‍💻] https://ai-maas.wair.ac.cn](https://ai-maas.wair.ac.cn) **紫东太初。** 中科院自动化所和武汉人工智能研究院联合推出的新一代大模型，从三模态走向全模态，支持多轮问答、文本创作、图像生成、3D理解、信号分析等全面问答任务，拥有更强的认知、理解、创作能力，带来全新互动体验。
-1. [[⭐⭐⭐] https://ai-nav.lzw.me](https://ai-nav.lzw.me) **AI网址导航。** 收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性 `[error][502]Bad Gateway`
+1. [[⭐⭐⭐] https://ai-nav.lzw.me](https://ai-nav.lzw.me) **AI网址导航。** 收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性
 1. [[⭐⭐⭐🧑‍💻] https://ai.360.cn](https://ai.360.cn) **360智脑。** 需申请资格
 1. [[⭐⭐⭐] https://chat.sensetime.com](https://chat.sensetime.com) **SenseChat。** 商汤旗下的AI对话助手
 1. [[⭐⭐⭐🧑‍💻] https://chatglm.cn](https://chatglm.cn) **智谱清言。** 清华大学孵化的智谱AI提供的千亿参数对话模型ChatGLM
@@ -235,7 +235,7 @@
 1. [[⭐] https://jsai.cc/ai](https://jsai.cc/ai) **即时AI。** 即时AI是一款极具前沿创新的AIGC产品，一款可以快速生成设计稿的生成式设计工具，它能够通过简单的自然语言描述来生成与需求相匹配的设计稿。
 1. [[⭐] https://leonardo.ai](https://leonardo.ai) **Leonardo。** 以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。
 1. [[⭐] https://letsenhance.io](https://letsenhance.io) **Let's Enhance。** Let’s Enhance是一款使用人工智能的图像增强与放大工具。它基于深度卷积神经网络和其他机器学习技术，可以自动提高图像的分辨率和质量。它可以修复模糊、马赛克和低分辨率的图片，并使每张照片更加清晰和锐利。Let’s Enhance还提供API服务，适用于商业和创意专业人士。定价方案多样，从免费试用到企业级订阅都有。Let’s Enhance适用于生产力、设计、商业等多个领域，能够满足用户对图像质量提升的需求。
-1. [[⭐] https://lib.kalos.art](https://lib.kalos.art) **LIB.KALOS.ART。** 艺术风格流派参考库
+1. [[⭐] https://lib.kalos.art](https://lib.kalos.art) **LIB.KALOS.ART。** 艺术风格流派参考库 `[error][530]HTTP_530`
 1. [[⭐] https://magicstudio.com/zh](https://magicstudio.com/zh) **MagicStudio。** 图片处理必备效率神器！为你的图片提供神奇魔法
 1. [[⭐] https://mastergo.com/ai](https://mastergo.com/ai) **MasterGo AI。** MasterGo AI使用人工智能辅助设计，开启数字交互新时代。
 1. [[⭐] https://mokker.ai](https://mokker.ai) **Mokker AI。** Mokker 是一款利用人工智能技术，自动为电商平台或营销材料提供高质量产品图片的在线工具。使用时，只需上传几张产品的照片，Mokker 就会根据您的产品特征和风格，生成逼真的背景和场景。产品内置了一系列高质量模板，如家具、车辆、食物、珠宝等，可直接复用。当然，使用时也可以创建自己产品的专属模板，通过再次描述产品特征和需要在背景图中剔除的元素，最终生成更符合预期的图片效果。
@@ -371,7 +371,7 @@
 1. [[⭐] https://clipdrop.co](https://clipdrop.co) **Clipdrop。** 体验图像编辑的顶峰——水印移除AI，借助先进的人工智能技术轻松、精确地擦除水印，确保您的视觉效果保持完美清晰、无干扰。
 1. [[⭐] https://creatie.ai](https://creatie.ai) **Creatie.ai。** 一键即出UI作品，绝美界面惊艳全场
 1. [[⭐] https://designs.ai/cn](https://designs.ai/cn) **Designs AI。** 免费AI设计。使用生成型 AI 创建图像、视频等。利用人工智能的力量提升您的社交媒体营销水平。
-1. [[⭐] https://diagram.com](https://diagram.com) **Digram。** 让Figma更好用的AI神器
+1. [[⭐] https://diagram.com](https://diagram.com) **Digram。** 让Figma更好用的AI神器 `[error][402]Payment Required`
 1. [[⭐] https://dreamfusion3d.github.io](https://dreamfusion3d.github.io) **DreamFusion。** 谷歌推出的文本转3D模型
 1. [[⭐] https://flair.ai](https://flair.ai) **Flair AI。** 你的私人AI设计师！一键生成精美产品照片
 1. [[⭐] https://free-trial.adcreative.ai/98krjvb7wdoq](https://free-trial.adcreative.ai/98krjvb7wdoq) **Adcreative.ai。** AD Creative是一款AI广告创作助手，通过智能算法和大数据分析，帮助用户快速生成优质广告创意。其功能包括智能创意生成、广告素材选择、广告分析和效果优化等。AD Creative具有高效、精准和创新的特点，适用于各种广告主和营销团队。定价灵活，可根据用户需求选择不同的套餐。定位于提升广告创作效率和效果的领先工具。
@@ -448,7 +448,7 @@
 1. [[⭐] https://www.goenhance.ai](https://www.goenhance.ai) **GoEnhance AI。** GoEnhance AI是一款基于人工智能的图像和视频增强工具。它可以实现视频到视频、图像增强和超分辨率scaling等功能。GoEnhance AI采用了最先进的深度学习算法,可以增强和上采样图像到极致的细节和高分辨率。它简单易用,功能强大,是创作者、设计师等用户释放创意的绝佳工具。
 1. [[⭐] https://www.hama.app/zh](https://www.hama.app/zh) **Hama。** 使用轻松！一键无痕抹除画面内容
 1. [[⭐] https://www.iconifyai.com](https://www.iconifyai.com) **Iconify。** IconifyAI是一款AI驱动的应用图标生成器，可以在几秒钟内为您的应用程序生成独特、漂亮、专业的图标。通过AI将文本转换为可直接使用的标识。
-1. [[⭐] https://www.islide.cc](https://www.islide.cc) **iSlide。** iSlide 是一款简单、好用的 PPT 插件，拥有 30 万 + 原创可商用 PPT 模板、PPT 主题素材、PPT 案例、PPT 图表、PPT 图示、PPT 图标、PPT 插图和 800 万 + 正版图片。提供 38 个设计辅助实用功能，一键解决 PPT 设计制作中的各种难题。用户可通过 iSlide 快速找到符合需求的 PPT 素材和工具，提升 PPT 制作效率和专业度。 `[error][-1]timeout`
+1. [[⭐] https://www.islide.cc](https://www.islide.cc) **iSlide。** iSlide 是一款简单、好用的 PPT 插件，拥有 30 万 + 原创可商用 PPT 模板、PPT 主题素材、PPT 案例、PPT 图表、PPT 图示、PPT 图标、PPT 插图和 800 万 + 正版图片。提供 38 个设计辅助实用功能，一键解决 PPT 设计制作中的各种难题。用户可通过 iSlide 快速找到符合需求的 PPT 素材和工具，提升 PPT 制作效率和专业度。
 1. [[⭐] https://www.kaedim3d.com](https://www.kaedim3d.com) **KAEDIM。** 帮你迅速生成3D模型及纹理
 1. [[⭐] https://www.khroma.co](https://www.khroma.co) **Khroma。** Khroma 利用人工智能学习您喜欢的颜色，并为您创建无限的调色板，帮助您快速发现、搜索和保存色彩组合。Khroma 的个性化算法训练神经网络，生成您喜欢的颜色，过滤您不喜欢的颜色。同时，还可以搜索和保存颜色组合，并获取颜色名称、hex 代码、RGB 值、CSS 代码以及 WCAG 辅助功能评分。
 1. [[⭐] https://www.krea.ai/home](https://www.krea.ai/home) **Krea.ai。** KREA 是一款设计工具，拥有实时生成、AI 图像提升、AI 应用等功能。它能够帮助用户快速生成和增强图像，并提供多个简洁易用的 AI 应用。
@@ -480,7 +480,7 @@
 1. [[⭐] https://www.upscayl.org](https://www.upscayl.org) **Upscayl。** 模糊图片秒变超清！开源免费 AI 图片无损放大工具
 1. [[⭐] https://www.usegalileo.ai](https://www.usegalileo.ai) **Galileo AI。** AI生成可编辑的UI界面
 1. [[⭐] https://www.usesuperflow.com](https://www.usesuperflow.com) **Superflow。** AI辅助高效网站协作设计
-1. [[⭐] https://www.visily.ai](https://www.visily.ai) **Visily。** 实用！AI轻松将手绘线框转换为高保真度
+1. [[⭐] https://www.visily.ai](https://www.visily.ai) **Visily。** 实用！AI轻松将手绘线框转换为高保真度 `[error][-1]timeout`
 1. [[⭐] https://www.whee.com](https://www.whee.com) **WHEE。** WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。
 1. [[⭐] https://www.wix.com/logo/maker](https://www.wix.com/logo/maker) **Wix Logo Maker。** Wix Logo Maker 是一款由人工智能驱动的在线设计工具，允许你免费创建和定制专业 Logo。通过回答几个简单问题，即可获得符合你需求的独特 Logo。
 1. [[⭐] https://www.x-design.com](https://www.x-design.com) **美图 AI PPT。** 美图设计室是一款由中国互联网公司美图公司开发的图像处理、照片编辑和设计软件。
@@ -692,7 +692,7 @@
 1. [[⭐] https://catjourney.life](https://catjourney.life) **Catjourney。** 超多实用的 MJ Style Tuner风格库
 1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词
 1. [[⭐] https://learningprompt.wiki](https://learningprompt.wiki) **Learning Prompt。** 提供免费的Prompt Engineering教程，包含ChatGPT和Midjourney的教程。
-1. [[⭐] https://lib.kalos.art](https://lib.kalos.art) **LIB.KALOS.ART。** 艺术风格流派参考库
+1. [[⭐] https://lib.kalos.art](https://lib.kalos.art) **LIB.KALOS.ART。** 艺术风格流派参考库 `[error][530]HTTP_530`
 1. [[⭐] https://moonvy.com/apps/ops/](https://moonvy.com/apps/ops/) **OPS 提示词工作室。** OPS 提示词工作室是一款可视化编辑工具，支持一键翻译 AIGC 提示词，提供 Midjourney 提示词库，让用户轻松管理和使用提示词，助力提升生产力。该工具还提供简洁清晰的界面，方便用户快速复制、导出和翻译提示词。
 1. [[⭐] https://openart.ai/home](https://openart.ai/home) **Openart。** 实用！SD艺术创作提示词
 1. [[⭐] https://prompt.noonshot.com](https://prompt.noonshot.com) **MJ Prompt Tool。** MJ提示词创造助手
@@ -958,7 +958,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://fanyi.caiyunapp.com](https://fanyi.caiyunapp.com) **彩云小译。** 兼具“你边说，我边译”的字字幕翻译功能。包括文字翻译、文档翻译、网页翻译、术语库、浏览器插件和双语对照服务
 1. [[⭐] https://fanyi.xfyun.cn/console/trans/text](https://fanyi.xfyun.cn/console/trans/text) **讯飞智能翻译。** 科大讯飞推出的人工智能翻译平台
 1. [[⭐] https://formulabot.com](https://formulabot.com) **Excel Formula Bot。** Formula Bot是一款AI数据分析工具，集成了智能公式生成、数据准备和数据分析功能。它可以帮助用户快速生成Excel公式、理解不同公式的解释，并且支持在Excel或Google Sheets中应用这些公式。此外，Formula Bot还提供了创建各种情况下的电子表格模板、生成SQL查询、执行基本任务指令、获取VBA或Apps Script代码以及获取正则表达式等功能。通过Formula Bot，用户可以更智能、更高效地处理数据和电子表格。
-1. [[⭐] https://futurecv.cn](https://futurecv.cn) **未来简历。** 未来简历采用千亿级AI大模型,为用户快速量身打造专业、高通过率的求职简历。提供大量由人力资源专家设计的简历模板,结合AI生成,让简历在众多候选者中脱颖而出。主要功能包括:AI优化简历、职业模板、高校模板、面试预测等,针对不同用户需求进行智能匹配和生成,帮助用户以最佳形象展示自己。适用于求职和职业转型的白领人士。 `[error][-1]timeout`
+1. [[⭐] https://futurecv.cn](https://futurecv.cn) **未来简历。** 未来简历采用千亿级AI大模型,为用户快速量身打造专业、高通过率的求职简历。提供大量由人力资源专家设计的简历模板,结合AI生成,让简历在众多候选者中脱颖而出。主要功能包括:AI优化简历、职业模板、高校模板、面试预测等,针对不同用户需求进行智能匹配和生成,帮助用户以最佳形象展示自己。适用于求职和职业转型的白领人士。
 1. [[⭐] https://gamma.app](https://gamma.app) **Gamma。** Gamma是幻灯片演示的一种替代方式-一种快速、简单的分享和展示工作的方法。创建引人入胜的演示文稿、备忘录、简报和文档，易于实时讨论或异步分享。全部在您的浏览器中完成，无需下载或安装任何内容。
 1. [[⭐] https://getluminal.com](https://getluminal.com) **Luminal。** Superluminal API是一款强大的AI Copilot，可帮助用户更快地清洗、转换和分析电子表格数据。它可以执行强大的编辑操作、回答复杂的问题，并在大量数据上运行AI操作，而无需编写代码。Superluminal API支持多种语言，包括中文、法语、印地语、西班牙语、日语、土耳其语、波兰语、韩语和泰语。它的数据加密和安全托管功能可以保护客户的数据安全。Superluminal API的价格简单明了，可根据用户的需求进行升级。
 1. [[⭐] https://gezhe.com](https://gezhe.com) **歌者PPT。** 歌者PPT（gezhe.com）是一款永久免费的智能 PPT 生成工具。用户可以轻松将任何主题或资料转化为PPT，并选择应用大量精美的模板。无论是商务演示、教育培训、学术报告还是专业领域，歌者PPT都能提供便捷的操作和智能化体验，让幻灯片制作变得更加轻松高效。
@@ -1000,7 +1000,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://www.flowcv.io](https://www.flowcv.io) **FlowCV。** FlowCV 是一个革命性的平台，旨在提升求职者的求职体验。通过自信、专业地展示自己，使得潜在雇主留下深刻印象。该平台提供简历、求职信、个人网站和电子邮件签名等工具，帮助求职者展现最佳形象。
 1. [[⭐] https://www.formx.ai](https://www.formx.ai) **formx ai。** FormX.ai是一个基于人工智能技术的服务，可以将纸质文件转换为结构化的数字化数据。通过使用OCR、正则表达式和AI技术，FormX.ai可以提取收据、身份证、商业证书等各种类型的文档中的信息，并将其转换为可读的JSON格式数据。FormX.ai提供易于使用的API和用户友好的Web门户，可以轻松集成到任何软件中。无论您是需要自动化数据提取，还是需要进行数据分析和处理，FormX.ai都是一个强大而可靠的解决方案。
 1. [[⭐] https://www.iflyrec.com](https://www.iflyrec.com) **讯飞听见。** 讯飞听见是智慧办公服务平台，提供语音转文字、录音整理、语音翻译等服务，致力于提高办公效率。支持快速转录音频、视频为文字，提供 AI 写作、同传、翻译等功能。
-1. [[⭐] https://www.islide.cc](https://www.islide.cc) **iSlide。** iSlide 是一款简单、好用的 PPT 插件，拥有 30 万 + 原创可商用 PPT 模板、PPT 主题素材、PPT 案例、PPT 图表、PPT 图示、PPT 图标、PPT 插图和 800 万 + 正版图片。提供 38 个设计辅助实用功能，一键解决 PPT 设计制作中的各种难题。用户可通过 iSlide 快速找到符合需求的 PPT 素材和工具，提升 PPT 制作效率和专业度。 `[error][-1]timeout`
+1. [[⭐] https://www.islide.cc](https://www.islide.cc) **iSlide。** iSlide 是一款简单、好用的 PPT 插件，拥有 30 万 + 原创可商用 PPT 模板、PPT 主题素材、PPT 案例、PPT 图表、PPT 图示、PPT 图标、PPT 插图和 800 万 + 正版图片。提供 38 个设计辅助实用功能，一键解决 PPT 设计制作中的各种难题。用户可通过 iSlide 快速找到符合需求的 PPT 素材和工具，提升 PPT 制作效率和专业度。
 1. [[⭐] https://www.kickresume.com](https://www.kickresume.com) **Kickresume。** Kickresume是一个在线简历和求职信建设者，被250万求职者在全球使用。它提供了经过招聘专家审核的专业模板，帮助用户创建最佳简历。用户可以使用Kickresume创建出色的简历，并附上与之匹配的求职信。Kickresume提供了丰富的功能，以帮助求职者成功找到工作。该产品定价灵活，用户可以根据自己的需求选择不同的套餐。Kickresume定位于为求职者提供强大的工具，以在竞争激烈的就业市场中脱颖而出。
 1. [[⭐] https://www.mindshow.fun](https://www.mindshow.fun) **MindShow。** MindShow 是一款利用人工智能生成 PPT 模版的软件。它可以根据用户提供的文字内容，自动生成结构化的演示内容，大大节省排版和设计的时间。MindShow 提供多种主题和布局，用户可以随意切换和修改。使用 MindShow，用户可以在线演示或导出 PPTX 文件，方便灵活。MindShow 旨在帮助用户提升工作效率，解放他们的时间和精力，不再烦恼排版和设计。
 1. [[⭐] https://www.overleaf.com](https://www.overleaf.com) **Overleaf。** Overleaf 是基于 LaTeX 的在线协作编辑器，无需安装，支持实时协作、版本控制、数百种 LaTeX 模板等。适用于科学和技术领域的文档写作。
@@ -1142,7 +1142,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 
 ### AI 综合工具 (25)
 
-1. [[⭐⭐⭐] https://ai-nav.lzw.me](https://ai-nav.lzw.me) **AI网址导航。** 收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性 `[error][502]Bad Gateway`
+1. [[⭐⭐⭐] https://ai-nav.lzw.me](https://ai-nav.lzw.me) **AI网址导航。** 收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性
 1. [[⭐] https://aitools.run](https://aitools.run) **AI帮个忙。** AI帮个忙是打工人的多功能小帮手，有多个AI写作和图片工具，可以用AI生成小红书文案，文章，PPT大纲等，支持改写，润色,续写,扩写
 1. [[⭐] https://baoyueai.com/home?utm_id=219599](https://baoyueai.com/home?utm_id=219599) **包阅AI文档阅读。** 包阅AI阅读助手支持一键总结、AI问答、多语言翻译,涵盖网页、论文文献、法律文档、学术科研、产品手册、市场报告、电子书等多种内容类型。功能包括总结提炼、深度理解、问答解惑、文献检索、文案润色等。定位于帮助用户高效阅读和理解各类文本资料。
 1. [[⭐] https://chathub.gg](https://chathub.gg) **ChatHub。** ChatHub是一个浏览器插件，可让您同时使用多个聊天机器人。它支持ChatGPT、Bing、Google Bard、Claude等10+个开源聊天机器人。ChatHub提供免费使用的大部分功能，还有付费的ChatHub Premium套餐，解锁所有高级功能。

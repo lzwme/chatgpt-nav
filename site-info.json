@@ -2006,7 +2006,9 @@
         "普通产品",
         "生产力",
         "网站"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][530]HTTP_530"
     },
     "https://tools.saxifrage.xyz/prompt": {
       "type": [
@@ -2216,7 +2218,9 @@
         "AI 图像处理"
       ],
       "title": "Digram",
-      "desc": "让Figma更好用的AI神器"
+      "desc": "让Figma更好用的AI神器",
+      "needVerify": 1,
+      "errmsg": "[error][402]Payment Required"
     },
     "https://appicons.ai": {
       "type": [
@@ -2238,7 +2242,9 @@
         "AI 图像处理"
       ],
       "title": "Visily",
-      "desc": "实用！AI轻松将手绘线框转换为高保真度"
+      "desc": "实用！AI轻松将手绘线框转换为高保真度",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://hp.package-ai.jp": {
       "type": [
@@ -2887,9 +2893,7 @@
       "title": "AI网址导航",
       "star": 3,
       "sort": -91,
-      "desc": "收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性",
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      "desc": "收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性"
     },
     "https://latitude.io": {
       "type": [
@@ -6103,7 +6107,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]socket hang up"
     },
     "https://claude.ai": {
@@ -7303,9 +7307,7 @@
       "type": [
         "AI 图像处理",
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://flowus.cn/ai": {
       "title": "FlowUs AI",
@@ -8058,9 +8060,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
