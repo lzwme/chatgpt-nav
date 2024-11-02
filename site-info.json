@@ -455,7 +455,9 @@
     "https://chat.binjie.site:7777": {
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
-      "title": "仅用于开发学习交流"
+      "title": "仅用于开发学习交流",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
@@ -1389,7 +1391,7 @@
       ],
       "title": "无限画",
       "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.ishencai.com": {
@@ -2219,7 +2221,7 @@
       ],
       "title": "Digram",
       "desc": "让Figma更好用的AI神器",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][402]Payment Required"
     },
     "https://appicons.ai": {
@@ -2243,7 +2245,7 @@
       ],
       "title": "Visily",
       "desc": "实用！AI轻松将手绘线框转换为高保真度",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://hp.package-ai.jp": {
@@ -2364,9 +2366,7 @@
         "AI 写作助手"
       ],
       "title": "Notion AI",
-      "desc": "AI写作神器！比你想得更多！写得更快",
-      "needVerify": 1,
-      "errmsg": "[error][429]Too Many Requests"
+      "desc": "AI写作神器！比你想得更多！写得更快"
     },
     "https://www.writingo.net/home": {
       "type": [
@@ -6109,7 +6109,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]socket hang up"
     },
     "https://claude.ai": {
