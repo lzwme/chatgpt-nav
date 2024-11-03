@@ -46,7 +46,7 @@
 ❌ 已失效。会在失效一段时间后移除
 ```
 
-站点列表(775)：
+站点列表(774)：
 
 ### 国产大模型 (14)
 
@@ -87,7 +87,7 @@
 1. [[⭐] http://langdrive.ai](http://langdrive.ai) **LangDrive。** Addy AI是为零售和电商品牌打造的客户服务AI，利用您的业务数据训练定制AI，理解客户需求并自动回复客户咨询，提升10倍响应速度。
 1. [[⭐] https://ai-beings.com/aiu/](https://ai-beings.com/aiu/) **AiU。** AiU是一个人工智能技术平台,旨在让用户能够创造和使用人工智能产品。它强调人与人工智能的互动,将人工智能技术与用户需求相结合。该平台提供了一系列工具和资源,让用户能够根据自己的需求定制和开发人工智能应用。AiU的核心理念是将人工智能的力量回馈给普通用户,并为用户提供无限可能。
 1. [[⭐] https://ai.360.com](https://ai.360.com) **360智脑。** 360旗下的AI聊天助手
-1. [[⭐] https://ai.baidu.com/unit/home](https://ai.baidu.com/unit/home) **百度智能对话平台 UNIT。** 百度 UNIT 搭载业界领先的对话理解和对话管理技术，提供灵活运营管理工具和可视化会话流程配置，助力企业智能化升级实现降本增效。
+1. [[⭐] https://ai.baidu.com/unit/home](https://ai.baidu.com/unit/home) **百度智能对话平台 UNIT。** 百度 UNIT 搭载业界领先的对话理解和对话管理技术，提供灵活运营管理工具和可视化会话流程配置，助力企业智能化升级实现降本增效。 `[error][-1]timeout`
 1. [[⭐] https://aichat.baidu.com](https://aichat.baidu.com) **小侃星球。** 小侃星球是由百度发布的一款基于AI开放域对话模型的虚拟人聊天应用。结合AI技术和社交元素，用户可以与虚拟人物进行对话聊天，享受陪伴，同时获得实用的生活服务，如哄睡和叫早服务。
 1. [[⭐] https://airkit.ai](https://airkit.ai) **Airkit.ai。** Airkit.ai eCommerce通过GPT-4驱动的AI客服机器人为电商企业提供智能的客户服务支持。它可以覆盖订单状态更新、退货售后、订单问题处理、产品信息查询等多种场景,快速准确地回答客户问题,随时随地为客户提供服务,大幅提高客户满意度;同时,也可以减轻人工客服的工作量,提升企业运营效率。此外,它还具有主动联系客户、个性化定制等功能,可进一步提升客户体验。
 1. [[⭐] https://answerly.io](https://answerly.io) **Answerly。** Answerly是一款智能聊天机器人，通过提供快速准确的回答，提升客户互动体验。它可以为您的业务提供个性化AI助手，帮助您训练AI助手以提供准确的回答，并通过内置的联系表单解答未知问题。您可以在实时对话记录中查看所有的聊天互动，以识别常见问题和改进的空间。Answerly还支持导入现有知识库、文档和PDF，并提供自定义小部件和助手的个性化设置。定价和功能详细信息请访问官方网站。
@@ -181,7 +181,6 @@
 1. [[⭐] http://removewatermark.ai](http://removewatermark.ai) **WatermarkRemoverAI。** Watermark Remover AI是一个在线图像水印删除工具,使用AI技术,只需单击一下即可自动识别并删除图像中的水印。它提供一键式操作,速度快,重建准确,可以批量处理多张照片。用户只需上传有水印的图片,系统即可智能识别水印区域并去除,输出清晰的无水印图像。该工具使用简单,删除效果专业,非常适合初学者或专业人士使用。
 1. [[⭐] https://302.ai](https://302.ai) **302.AI。** 302.AI是一个汇集了全球顶级AI品牌的在线平台，提供无月费，按需付费的服务模式。它允许用户根据需求选择不同的AI服务，无需支付固定的月费，从而降低使用门槛，提高灵活性。平台可能涵盖了多种AI技术，如图像识别、自然语言处理等，满足不同用户的需求。
 1. [[⭐] https://3dfy.ai](https://3dfy.ai) **3DFY AI。** AI创建大规模高质量的3D资产
-1. [[⭐] https://588ku.com/ai/wuxianhua](https://588ku.com/ai/wuxianhua) **无限画。** 千库网旗下AI设计工具，可一键生成高品质目标图像。 `[error][404]Not Found`
 1. [[⭐] https://6pen.art](https://6pen.art) **6pen。** 6pen是一个为大多数人打造的AI绘画创作社区
 1. [[⭐] https://ai.jurilu.com](https://ai.jurilu.com) **巨日禄AI。** 巨日禄AI是一款全网性能卓越的故事AI绘画转视频工具，旨在让0基础小白也能轻松上手，快速实现从文案到视频的制作。该工具通过分析大量剧本数据和影视作品，为用户提供各种类型的故事情节和角色设置，帮助用户快速找到灵感，减少构思剧本的困难和犹豫。无需本地部署，快速出图，支持配音配乐，一站式解决小说、漫画推文等需求。角色固定，画风统一，提供多种风格选择。AI自动解析分镜，解析提示词，操作简单流畅，即使零基础小白也能轻松上手，做出精美的视频作品。
 1. [[⭐] https://ai.meitu.com/index](https://ai.meitu.com/index) **美图AI开放平台。** 美图推出的AI人脸图像处理平台
@@ -297,7 +296,7 @@
 1. [[⭐] https://www.picwish.com](https://www.picwish.com) **PicWish。** PicWish是一个人工智能驱动的图像处理平台,帮助用户高效编辑图片。它提供强大的工具,如背景移除、图像放大、照片修复、JPG转换器、图像压缩、人脸增强和照片增强。使用PicWish,用户可以一键移除背景、去模糊图像、增强分辨率和修复缺陷。该平台非常易于上手,没有学习曲线。它通过使照片编辑简单又专业,释放了创造力。PicWish极大地提高了图形设计师、摄影师、电子商务卖家和营销人员的工作效率。
 1. [[⭐] https://www.pixcakeai.com](https://www.pixcakeai.com) **像素蛋糕。** 像素蛋糕是一款简单易用的AI修图工具，只需要拖入图片，即可实现一键智能Raw转档调色，一键磨皮全身液化，轻松实现“一秒初修，三秒精修”的批量修图操作。
 1. [[⭐] https://www.plasmo.ai](https://www.plasmo.ai) **Plasmo。** 将草图转为3D模型
-1. [[⭐] https://www.ponzu.gg](https://www.ponzu.gg) **Ponzu。** AI生成3D无缝贴图纹理
+1. [[⭐] https://www.ponzu.gg](https://www.ponzu.gg) **Ponzu。** AI生成3D无缝贴图纹理 `[error][-1]timeout`
 1. [[⭐] https://www.productai.photo](https://www.productai.photo) **ProductAI。** ProductAI是一个AI驱动的产品图片生成平台。用户只需上传产品图片,选择场景模板,就可以在几分钟内生成高质量的商业产品图片。该平台采用了最先进的生成式AI技术,无需用户进行复杂的提示,即可自动生成逼真的产品渲染图。该服务面向各类创业公司、品牌商、平面设计师等用户群体,可以显著提高他们内容生产的效率,降低产品图片的成本。
 1. [[⭐] https://www.productshots.ai](https://www.productshots.ai) **ProductShots.AI。** ProductShots.AI是一款基于AI技术的产品照片生成工具，无需摄影棚和拍摄，即可轻松生成数百张精美的产品照片。用户只需上传产品照片，AI会自动去除背景并生成多种场景模板，用户可根据需求选择使用或自定义场景，生成的照片可用于电商、社交媒体等多种场景，帮助用户更好地展示和销售产品。ProductShots.AI提供免费试用，付费套餐包括不同数量和质量的照片生成服务。
 1. [[⭐] https://www.quququ.cn](https://www.quququ.cn) **水印一键去去去。** 水印一键去去去是一款智能 AI 图像处理网站，提供在线去水印、自动抠图、模糊照片变清晰等功能。采用人工智能技术，支持批量去除图片中的文字、标志，无痕、不糊图！
@@ -340,6 +339,7 @@
 1. [[🚀] https://scribblediffusion.com](https://scribblediffusion.com) **Scribble Diffusion。** 有趣！将鼠绘草图变成精美照片
 1. [[🚀] https://waifulabs.com](https://waifulabs.com) **WaifuLabs。** 一键生成动漫二次元头像
 1. [[🚀] https://www.dreamup.com](https://www.dreamup.com) **Dreamup。** 知名站点Deviantart发布的AI绘画工具
+1. [[❓] https://588ku.com/ai/wuxianhua](https://588ku.com/ai/wuxianhua) **无限画。** 千库网旗下AI设计工具，可一键生成高品质目标图像。 `[error][404]Not Found`
 
 ### AI 图像处理 (154)
 
@@ -465,7 +465,7 @@
 1. [[⭐] https://www.picwish.com](https://www.picwish.com) **PicWish。** PicWish是一个人工智能驱动的图像处理平台,帮助用户高效编辑图片。它提供强大的工具,如背景移除、图像放大、照片修复、JPG转换器、图像压缩、人脸增强和照片增强。使用PicWish,用户可以一键移除背景、去模糊图像、增强分辨率和修复缺陷。该平台非常易于上手,没有学习曲线。它通过使照片编辑简单又专业,释放了创造力。PicWish极大地提高了图形设计师、摄影师、电子商务卖家和营销人员的工作效率。
 1. [[⭐] https://www.plasmo.ai](https://www.plasmo.ai) **Plasmo。** 将草图转为3D模型
 1. [[⭐] https://www.polymet.ai](https://www.polymet.ai) **Polymet。** Polymet是一个利用人工智能技术帮助用户快速从创意到原型的设计工具。它通过连接Figma和代码库，使用户能够快速设计并迭代，同时导出符合设计模式的生产就绪代码。Polymet的主要优点包括提高设计和迭代速度，无缝连接设计工具和代码库，以及通过AI辅助设计，减少手动编码工作量，从而加速产品上市时间。
-1. [[⭐] https://www.ponzu.gg](https://www.ponzu.gg) **Ponzu。** AI生成3D无缝贴图纹理
+1. [[⭐] https://www.ponzu.gg](https://www.ponzu.gg) **Ponzu。** AI生成3D无缝贴图纹理 `[error][-1]timeout`
 1. [[⭐] https://www.productai.photo](https://www.productai.photo) **ProductAI。** ProductAI是一个AI驱动的产品图片生成平台。用户只需上传产品图片,选择场景模板,就可以在几分钟内生成高质量的商业产品图片。该平台采用了最先进的生成式AI技术,无需用户进行复杂的提示,即可自动生成逼真的产品渲染图。该服务面向各类创业公司、品牌商、平面设计师等用户群体,可以显著提高他们内容生产的效率,降低产品图片的成本。
 1. [[⭐] https://www.quququ.cn](https://www.quququ.cn) **水印一键去去去。** 水印一键去去去是一款智能 AI 图像处理网站，提供在线去水印、自动抠图、模糊照片变清晰等功能。采用人工智能技术，支持批量去除图片中的文字、标志，无痕、不糊图！
 1. [[⭐] https://www.remove.bg](https://www.remove.bg) **Remove.bg。** 去背神器是一款可以一键去除图片背景的工具。它通过智能算法分析图片，将背景与主体分离，实现快速、准确的去背效果。该工具操作简单，无需任何设计经验，适用于个人用户和设计专业人士。去背神器提供免费试用和付费套餐，付费套餐提供更多高级功能和更大的使用额度。
@@ -785,7 +785,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://wanderlog.com/trip-plan-assistant](https://wanderlog.com/trip-plan-assistant) **Wanderlog。** 【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！
 1. [[⭐] https://wordvice.ai/cn](https://wordvice.ai/cn) **Wordvice AI。** Wordvice AI是一款在线英语语法检查工具，提供实时高效的英语语法和拼写检查，突破基本功能，提供语气风格修改，提供有效反馈建议，适用于各类英文文件。Wordvice AI还提供人工编辑服务和其他英文写作工具。
 1. [[⭐] https://www.aifuwus.com/solution/index?link=stentor/icservice](https://www.aifuwus.com/solution/index?link=stentor/icservice) **讯飞A.I.智能客服解决方案。** A.I.智能客服解决方案是科大讯飞基于其先进的语音技术，为企业提供的一套完整的客户服务系统。该系统通过电话、Web、APP、小程序、自助终端等多种渠道，实现智能外呼、智能接听、语音导航、在线文字客服、质检分析、坐席辅助等功能。它通过高识别率的语音识别引擎、自然流畅的语音合成技术、智能打断能力、IVR导航以及客服平台中间件等技术，帮助企业提高客服效率，降低人力成本，同时提升客户服务体验。
-1. [[⭐] https://www.aipaperpass.com](https://www.aipaperpass.com) **AIPaperPass。** AIPaperPass是一款AI原创论文写作平台,提供免费千字大纲,5分钟生成3万字初稿,同时包含答辩汇报PPT、开题报告和任务书等增值服务。用户只需输入论文题目,平台即可智能生成高质量论文框架,帮助用户迅速完成论文写作,解决用户论文难题,实现一键PaperPass。
+1. [[⭐] https://www.aipaperpass.com](https://www.aipaperpass.com) **AIPaperPass。** AIPaperPass是一款AI原创论文写作平台,提供免费千字大纲,5分钟生成3万字初稿,同时包含答辩汇报PPT、开题报告和任务书等增值服务。用户只需输入论文题目,平台即可智能生成高质量论文框架,帮助用户迅速完成论文写作,解决用户论文难题,实现一键PaperPass。 `[error][-1]timeout`
 1. [[⭐] https://www.aiprm.com](https://www.aiprm.com) **AIPRM。** AIPRM 是一个 AI Prompt 市场和社区驱动的 Prompt 库。使用它可以在几分钟内完成营销、销售、运营、生产力和客户支持等任务。提供了 ChatGPT、Bard、Midjourney 和 DALL-E 2 的即用型 Prompts。可以轻松创建博客标题、完整的原创文章、服务页面的文案等。AIPRM 可以帮助您以您的声音快速、有创意地创建内容。
 1. [[⭐] https://www.arcads.ai](https://www.arcads.ai) **Arcads。** Arcads提供AI视频广告生成器，允许用户快速从文本创建视频广告，特别适合需要大量视频内容的品牌和营销团队。
 1. [[⭐] https://www.brandroot.com](https://www.brandroot.com) **Business Names and Logos。** Brandroot的商业名称生成器使用人工智能技术，快速生成数百个引人注目的商业名称，并提供可注册的.com域名。您可以轻松找到适合您企业的完美名称。
@@ -816,7 +816,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://www.yunque360.com/product-ai.html](https://www.yunque360.com/product-ai.html) **云雀AI智能客服。** 云雀 AI 智能客服是一款基于大数据的在线客服平台，通过智能机器人提供多渠道客户服务，帮助企业降低成本、提高效率。该平台结合了 AI 技术和客服系统，为企业提供高效的客户交互体验，提升服务质量。
 1. [[🚀] https://www.copy.ai](https://www.copy.ai) **Copy AI。** 人工智能营销文案和内容创作工具，帮助各行各业的撰稿人、营销人员和企业快速高效地创建高质量的内容。
 
-### AI 写作助手 (117)
+### AI 写作助手 (116)
 
 1. [[⭐⭐⭐🧑‍💻] https://chatglm.cn](https://chatglm.cn) **智谱清言。** 清华大学孵化的智谱AI提供的千亿参数对话模型ChatGLM
 1. [[⭐⭐⭐] https://www.notion.so](https://www.notion.so) **Notion AI。** Notion AI是一款功能强大的人工智能工具，它可以帮助用户自动化和管理个人和团队的任务和流程。
@@ -892,7 +892,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://wukong.com/tool](https://wukong.com/tool) **小悟空AI。** 小悟空是一个集成了多种智能工具的网站，旨在提高个人和团队的创作效率和运营效果。它通过提供诸如文章生成、视频脚本创作、笔记创作等多样化功能，满足不同用户在内容创作、个人表达、学习教育等方面的需求。产品背景基于人工智能技术，结合大数据分析，为用户提供个性化、高质量的服务。价格定位为免费试用，部分功能付费，以适应不同用户的需求。
 1. [[⭐] https://www.5118.com/ai/articlegenius](https://www.5118.com/ai/articlegenius) **5118 SEO优化精灵。** 一键式生成高质量SEO文章
 1. [[⭐] https://www.aigaixie.com](https://www.aigaixie.com) **爱改写。** 爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。
-1. [[⭐] https://www.aipaperpass.com](https://www.aipaperpass.com) **AIPaperPass。** AIPaperPass是一款AI原创论文写作平台,提供免费千字大纲,5分钟生成3万字初稿,同时包含答辩汇报PPT、开题报告和任务书等增值服务。用户只需输入论文题目,平台即可智能生成高质量论文框架,帮助用户迅速完成论文写作,解决用户论文难题,实现一键PaperPass。
+1. [[⭐] https://www.aipaperpass.com](https://www.aipaperpass.com) **AIPaperPass。** AIPaperPass是一款AI原创论文写作平台,提供免费千字大纲,5分钟生成3万字初稿,同时包含答辩汇报PPT、开题报告和任务书等增值服务。用户只需输入论文题目,平台即可智能生成高质量论文框架,帮助用户迅速完成论文写作,解决用户论文难题,实现一键PaperPass。 `[error][-1]timeout`
 1. [[⭐] https://www.aiprm.com](https://www.aiprm.com) **AIPRM。** AIPRM 是一个 AI Prompt 市场和社区驱动的 Prompt 库。使用它可以在几分钟内完成营销、销售、运营、生产力和客户支持等任务。提供了 ChatGPT、Bard、Midjourney 和 DALL-E 2 的即用型 Prompts。可以轻松创建博客标题、完整的原创文章、服务页面的文案等。AIPRM 可以帮助您以您的声音快速、有创意地创建内容。
 1. [[⭐] https://www.contentscale.ai](https://www.contentscale.ai) **contentatscale。** AI 内容检测器拥有惊人的 98% 准确率，可区分人类与来自 ChatGPT、GPT4、Bard、Claude 和 Gemini 等 AI 生成的内容。它在搜索引擎排名、学术评分和读者感知方面具有重要影响。
 1. [[⭐] https://www.creatifyone.com](https://www.creatifyone.com) **创一AI。** 创一AI是一款专业的AI短视频脚本创作工具，旨在通过人工智能技术帮助用户快速生成高质量的短视频脚本。该产品利用先进的自然语言处理技术，结合用户需求，能够自动分析并创作出符合主题的脚本内容，大大提高了视频创作者的工作效率。创一深入理解以及对用户需求的精准把握，价格定位为免费体验，以吸引更多用户使用。
@@ -934,7 +934,6 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[🚀] https://quillbot.com](https://quillbot.com) **QuillBot。** QuillBot一款写作改写工具，能够帮助您让写作更好、更快、更聪明。我们的改写工具是免费且易于使用的，只需点击一下按钮，即可进行改写。
 1. [[🚀] https://writesonic.com](https://writesonic.com) **Writesonic。** Writesonic可以为博客、广告、电子邮件和网站快速生成已优化的免费原创内容。
 1. [[🚀] https://www.copy.ai](https://www.copy.ai) **Copy AI。** 人工智能营销文案和内容创作工具，帮助各行各业的撰稿人、营销人员和企业快速高效地创建高质量的内容。
-1. [[❓] https://chat.moyanaigc.com](https://chat.moyanaigc.com) **陌言AI。** 陌言AI写作是一个集多种智能写作功能于一体的平台，它利用人工智能技术帮助用户在不同的写作场景下快速生成高质量文案和文章。产品背景信息显示，陌言AI写作小程序版在微信上可以搜索使用，并且关注公众号可以体验到AI音乐、AI视频、姓氏头像等工具。产品的主要优点包括高效率、原创性和个性化，适合需要大量文案创作和编辑的用户。 `[error][-1]socket hang up`
 
 ### AI 文档办公 (82)
 

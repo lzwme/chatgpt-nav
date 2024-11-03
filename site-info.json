@@ -415,7 +415,9 @@
     "https://chat.alpaca-bi.com": {
       "needPay": 1,
       "needLogin": 1,
-      "title": "Alpaca ChatGPT"
+      "title": "Alpaca ChatGPT",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.alpaca-bi.com"
     },
     "https://aigcfun.com": {
       "title": "AI EDU",
@@ -455,9 +457,7 @@
     "https://chat.binjie.site:7777": {
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
-      "title": "仅用于开发学习交流",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "仅用于开发学习交流"
     },
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
@@ -1391,7 +1391,7 @@
       ],
       "title": "无限画",
       "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.ishencai.com": {
@@ -2221,7 +2221,7 @@
       ],
       "title": "Digram",
       "desc": "让Figma更好用的AI神器",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][402]Payment Required"
     },
     "https://appicons.ai": {
@@ -2245,7 +2245,7 @@
       ],
       "title": "Visily",
       "desc": "实用！AI轻松将手绘线框转换为高保真度",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://hp.package-ai.jp": {
@@ -2544,7 +2544,9 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理"
+      "desc": "AI生成3D无缝贴图纹理",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -5027,7 +5029,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.overleaf.com": {
       "title": "Overleaf",
@@ -6109,8 +6113,9 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]socket hang up"
+      "needVerify": 7,
+      "errmsg": "[error][-1]socket hang up",
+      "hide": 1
     },
     "https://claude.ai": {
       "title": "Claude 2",
@@ -9167,7 +9172,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://qidian.qq.com/module/service.html": {
       "title": "腾讯企点客服",
