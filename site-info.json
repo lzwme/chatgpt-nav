@@ -416,7 +416,7 @@
       "needPay": 1,
       "needLogin": 1,
       "title": "Alpaca ChatGPT",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.alpaca-bi.com"
     },
     "https://aigcfun.com": {
@@ -1391,7 +1391,7 @@
       ],
       "title": "无限画",
       "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.ishencai.com": {
@@ -1709,9 +1709,7 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI真人视频创作工具。"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -2222,9 +2220,7 @@
         "AI 图像处理"
       ],
       "title": "Digram",
-      "desc": "让Figma更好用的AI神器",
-      "needVerify": 5,
-      "errmsg": "[error][402]Payment Required"
+      "desc": "让Figma更好用的AI神器"
     },
     "https://appicons.ai": {
       "type": [
@@ -3396,9 +3392,7 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -3796,7 +3790,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][418]I'm a teapot"
     },
     "https://clippingmagic.com": {
       "title": "Clipping Magic",
@@ -5400,7 +5396,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -9190,7 +9188,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.yunque360.com/product-ai.html": {
@@ -10179,7 +10177,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][522]HTTP_522"
     },
     "https://www.texttovoice.online": {
       "title": "Texttovoice.online",
@@ -11327,9 +11327,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
