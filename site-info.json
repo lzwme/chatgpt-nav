@@ -416,7 +416,7 @@
       "needPay": 1,
       "needLogin": 1,
       "title": "Alpaca ChatGPT",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.alpaca-bi.com"
     },
     "https://aigcfun.com": {
@@ -1188,7 +1188,9 @@
       ],
       "title": "Deepl翻译器",
       "desc": "支持翻译文本和文件，为个人和团队提供准确的翻译，每天有数百万人使用DeepL进行翻译。",
-      "star": 3
+      "star": 3,
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://immersivetranslate.com": {
       "type": [
@@ -1390,9 +1392,7 @@
         "AI 绘图"
       ],
       "title": "无限画",
-      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
-      "needVerify": 5,
-      "errmsg": "[error][404]Not Found"
+      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。"
     },
     "https://www.ishencai.com": {
       "type": [
@@ -1804,7 +1804,9 @@
         "AI 绘图"
       ],
       "title": "一帧秒创",
-      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。"
+      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.animiz.cn/microvideo": {
       "type": [
@@ -2858,7 +2860,9 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://ludo.ai": {
       "type": [
@@ -3790,9 +3794,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][418]I'm a teapot"
+      ]
     },
     "https://clippingmagic.com": {
       "title": "Clipping Magic",
@@ -5396,9 +5398,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -9188,7 +9188,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.yunque360.com/product-ai.html": {
@@ -10178,7 +10178,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][522]HTTP_522"
     },
     "https://www.texttovoice.online": {
