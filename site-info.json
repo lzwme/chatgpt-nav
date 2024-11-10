@@ -3392,8 +3392,8 @@
         "AI 综合工具",
         "AI 国外工具"
       ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 4,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -5710,7 +5710,9 @@
       "type": [
         "AI 编程开发",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://anyword.com": {
       "title": "Anyword",
@@ -11102,7 +11104,9 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
