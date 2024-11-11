@@ -1276,7 +1276,9 @@
         "AI 网站生成"
       ],
       "title": "Tilda",
-      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。"
+      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://learningprompt.wiki": {
       "type": [
@@ -2119,7 +2121,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2657,7 +2661,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2F&y=ipr:74.249.5.225:1731355913.700\"></meta></head></html>"
     },
     "https://otter.ai": {
       "type": [
@@ -3179,7 +3185,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:74.249.5.225:1731355920.025\"></meta></head></html>"
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -3391,9 +3399,7 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ],
-      "needVerify": 4,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -5487,7 +5493,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.wawawriter.com"
     },
     "https://www.story.com": {
       "title": "Story.com",
@@ -5710,9 +5718,7 @@
       "type": [
         "AI 编程开发",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://anyword.com": {
       "title": "Anyword",
@@ -6937,7 +6943,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -11104,9 +11112,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
