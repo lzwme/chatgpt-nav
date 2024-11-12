@@ -1276,9 +1276,7 @@
         "AI 网站生成"
       ],
       "title": "Tilda",
-      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。"
     },
     "https://learningprompt.wiki": {
       "type": [
@@ -2121,9 +2119,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "商业级AI影像处理工具"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2607,7 +2603,9 @@
       ],
       "title": "比格AI PPT",
       "needPay": 1,
-      "desc": "AI 一键生成PPT。需付费"
+      "desc": "AI 一键生成PPT。需付费",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tome.app": {
       "type": [
@@ -2661,9 +2659,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2F&y=ipr:74.249.5.225:1731355913.700\"></meta></head></html>"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3185,9 +3181,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:74.249.5.225:1731355920.025\"></meta></head></html>"
+      ]
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -5494,7 +5488,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.wawawriter.com"
     },
     "https://www.story.com": {
@@ -6943,9 +6937,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
