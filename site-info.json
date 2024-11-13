@@ -2603,9 +2603,7 @@
       ],
       "title": "比格AI PPT",
       "needPay": 1,
-      "desc": "AI 一键生成PPT。需付费",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI 一键生成PPT。需付费"
     },
     "https://tome.app": {
       "type": [
@@ -5488,7 +5486,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.wawawriter.com"
     },
     "https://www.story.com": {
@@ -9724,7 +9722,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://chat.baichuan-ai.com/home": {
       "title": "百川大模型",

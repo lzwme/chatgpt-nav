@@ -844,7 +844,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://contentatscale.ai/ai-prompt-library](https://contentatscale.ai/ai-prompt-library) **Content at scale。** 收录最佳的ChatGPT prompt提示词
 1. [[⭐] https://effidit.qq.com](https://effidit.qq.com) **Effidit写作助手。** Effidit是由腾讯AI Lab 开发的一个智能创作助手，探索用AI技术提升写作者的写作效率和创作体验。
 1. [[⭐] https://fullpeace.cn](https://fullpeace.cn) **风平智能。** 风平 IP 智造平台是基于 AIGC 的智能化 IP 打造平台，致力于提供虚拟数字人定制、AI 短视频内容生产和数字人直播的一站式解决方案。通过结合领先的 AI 技术，平台实现了数字人的高质量生产和互动能力，为用户打造全新的数字人 IP 体验。
-1. [[⭐] https://gemini.google.com](https://gemini.google.com) **Gemini & Gemini Advanced。** Gemini是Google AI黑科技，可帮助你处理写作、规划、学习等事务。它可以与你轻松对话，提供创意灵感，帮助提升工作效率。Gemini还可以帮助你进行写作、规划、学习等任务，并提供相关的建议和指导。Gemini是一个强大的工具，适用于个人和团队使用。
+1. [[⭐] https://gemini.google.com](https://gemini.google.com) **Gemini & Gemini Advanced。** Gemini是Google AI黑科技，可帮助你处理写作、规划、学习等事务。它可以与你轻松对话，提供创意灵感，帮助提升工作效率。Gemini还可以帮助你进行写作、规划、学习等任务，并提供相关的建议和指导。Gemini是一个强大的工具，适用于个人和团队使用。 `[error][500]Internal Server Error`
 1. [[⭐] https://getliner.com](https://getliner.com) **Liner。** Liner 是由 GPT-4 提供支持，旨在提高您的生产力。通过摘要文章、生成代码和撰写电子邮件，优化工作流程。
 1. [[⭐] https://gifshift.xyz](https://gifshift.xyz) **GifShift。** GifShift提供了一个简单的三步流程，用户可以上传GIF或从图库中选择一个，然后输入描述性的提示，以生成具有标志性角色或风格的新GIF版本。该服务由fal.ai提供支持。
 1. [[⭐] https://guanjia.seowhy.com](https://guanjia.seowhy.com) **搜外内容管家。** 搜外内容管家是一款集关键词挖掘、AI 创作、文章发布和外链发布于一体的内容管理工具。其主要优点在于自动化流程，帮助用户轻松实现关键词挖掘、文章创作和发布。产品背景信息为提高网站内容质量和 SEO 效果。价格免费。
@@ -921,7 +921,6 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://www.teamsmart.ai](https://www.teamsmart.ai) **TeamSmart AI。** TeamSmart AI是一个Chrome插件，通过一键访问团队智能AI助手，帮助用户提高工作效率。该插件提供了多种功能，包括内容摘要、代码生成、推文起草等，用户可以直接在浏览器中完成这些任务。TeamSmart AI还提供了25+个新的AI营销助手，用户可以根据自己的需求选择使用。
 1. [[⭐] https://www.tutoreva.ai](https://www.tutoreva.ai) **TutorEva。** TutorEva是一个AI数学导师，用拍照AI识别来解决数学问题，TutorEva将在几秒钟内解决它们，即使是几何和应用题等难题。虚拟化身和互动教学使数学学习生动而简单。
 1. [[⭐] https://www.typesetterr.com](https://www.typesetterr.com) **Typesetterr。** Typesetterr旨在通过自动化简化日常作家的工作流程。它提供即时格式化功能，可帮助作家轻松管理、撰写和发布内容。该工具还支持多种应用场景，包括博客创作、新闻稿撰写、文案创作、稿件自动排版等。用户可以根据需要选择免费版或专业版，专业版还提供AI辅助编辑功能和更多支持。
-1. [[⭐] https://www.wawawriter.com](https://www.wawawriter.com) **蛙蛙写作。** 蛙蛙写作是一款 AI 小说写作工具，作者可以使用 AI 工具来写小说，想剧情，AI 润色文风，AI 生成角色地名，AI 续写全文等，蛙蛙写作将帮助作者提高写作效率，更快更好完成一篇高质量小说。 `[error][-1]getaddrinfo ENOTFOUND www.wawawriter.com`
 1. [[⭐] https://www.writingo.net/home](https://www.writingo.net/home) **火山写作。** 字节的AI英语写作工具，高效提升英文表达
 1. [[⭐] https://www.xiaomengai.com](https://www.xiaomengai.com) **彩云小梦尝鲜版。** 彩云小梦尝鲜版是一款 AI 辅助创作工具，能够生成平行世界故事情节，帮助用户创作各种虚拟故事。具有智能推荐、故事设定、人物塑造等功能，用户可以通过与 AI 对话获得创作灵感。
 1. [[⭐] https://www.xiezuocat.com](https://www.xiezuocat.com) **秘塔写作猫。** 基于GPT的中文写作工具
@@ -934,6 +933,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[🚀] https://writesonic.com](https://writesonic.com) **Writesonic。** Writesonic可以为博客、广告、电子邮件和网站快速生成已优化的免费原创内容。
 1. [[🚀] https://www.copy.ai](https://www.copy.ai) **Copy AI。** 人工智能营销文案和内容创作工具，帮助各行各业的撰稿人、营销人员和企业快速高效地创建高质量的内容。
 1. [[🚀] https://huggingface.co](https://huggingface.co) **Hugging Face。** 下载开源的SD模型
+1. [[❓] https://www.wawawriter.com](https://www.wawawriter.com) **蛙蛙写作。** 蛙蛙写作是一款 AI 小说写作工具，作者可以使用 AI 工具来写小说，想剧情，AI 润色文风，AI 生成角色地名，AI 续写全文等，蛙蛙写作将帮助作者提高写作效率，更快更好完成一篇高质量小说。 `[error][-1]getaddrinfo ENOTFOUND www.wawawriter.com`
 
 ### AI 文档办公 (82)
 
@@ -1016,7 +1016,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://yinxiang.com/dl-mac/](https://yinxiang.com/dl-mac/) **印象 AI。** 「印象笔记」X「印象AI」会创作的第二大脑
 1. [[⭐] https://zapier.com/ai](https://zapier.com/ai) **Zapier AI。** 赞！Zapier推出的AI自动化集成功能
 1. [[⭐] https://zhiwen.xfyun.cn](https://zhiwen.xfyun.cn) **讯飞智文。** 讯飞智文是一款能够一键生成PPT，并提供AI撰写辅助的产品。不论是一句话主题还是超长文本，都能一键轻松搞定。同时支持文案的润色、扩写、拆分、翻译等需求，还提供创新模板及图示功能设计，让用户的创作更出色更高效。此外，根据PPT内容自动生成演讲稿，助用户从容演讲、脱颖而出。
-1. [[💰] https://bigesj.com/ai-ppt/](https://bigesj.com/ai-ppt/) **比格AI PPT。** AI 一键生成PPT。需付费 `[error][-1]timeout`
+1. [[💰] https://bigesj.com/ai-ppt/](https://bigesj.com/ai-ppt/) **比格AI PPT。** AI 一键生成PPT。需付费
 1. [[🚀] https://chatdoc.com](https://chatdoc.com) **chatDOC。** 通过与文档对话,以引用来源的方式获得即时答案。
 1. [[🚀] https://chatpdf.com](https://chatpdf.com) **chatPDF。** 加入数百万学生、研究人员和专业人士的行列，通过 AI 即时回答问题。
 
