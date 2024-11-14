@@ -5486,7 +5486,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.wawawriter.com"
     },
     "https://www.story.com": {
@@ -9722,9 +9722,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://chat.baichuan-ai.com/home": {
       "title": "百川大模型",
