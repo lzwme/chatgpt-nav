@@ -2227,9 +2227,7 @@
         "AI 绘图"
       ],
       "title": "Appicons AI",
-      "desc": "AI生成精致的App图标",
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND appicons.ai"
+      "desc": "AI生成精致的App图标"
     },
     "https://www.dora.run/ai": {
       "type": [
@@ -5488,7 +5486,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.wawawriter.com"
     },
     "https://www.story.com": {
@@ -11261,9 +11259,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
