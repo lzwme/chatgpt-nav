@@ -5338,7 +5338,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][439]status code 439"
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
@@ -5393,7 +5395,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -5486,8 +5490,9 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.wawawriter.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.wawawriter.com",
+      "hide": 1
     },
     "https://www.story.com": {
       "title": "Story.com",
@@ -10867,7 +10872,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][429]Too Many Requests"
     },
     "https://mastergo.com/upcoming-ai/apply": {
       "title": "MasterGo AI",
