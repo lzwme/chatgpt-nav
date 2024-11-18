@@ -5338,9 +5338,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][439]status code 439"
+      ]
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
@@ -5395,9 +5393,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -8959,7 +8955,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://dhibot.com": {
       "title": "Dhibot",
@@ -10872,9 +10870,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][429]Too Many Requests"
+      ]
     },
     "https://mastergo.com/upcoming-ai/apply": {
       "title": "MasterGo AI",
