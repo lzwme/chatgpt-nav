@@ -5338,7 +5338,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][439]status code 439"
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
