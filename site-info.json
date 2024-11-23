@@ -1612,9 +1612,7 @@
         "AI 语音生成"
       ],
       "title": "Speechify",
-      "desc": "拥有数百万次在Chrome、iOS和Android上的下载量的领先文本到语音应用，可以在任何设备上听取互联网内容。",
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      "desc": "拥有数百万次在Chrome、iOS和Android上的下载量的领先文本到语音应用，可以在任何设备上听取互联网内容。"
     },
     "https://elevenlabs.io": {
       "type": [
@@ -2464,7 +2462,9 @@
         "AI 视频生成"
       ],
       "title": "BibiGPT",
-      "desc": "一键总结B站音视频内容"
+      "desc": "一键总结B站音视频内容",
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.genmo.ai": {
       "type": [
@@ -4529,9 +4529,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://logomakerr.ai": {
       "title": "Logomakerr.ai",
@@ -5342,9 +5340,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]write EPROTO 0058C395B97F0000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 112\n"
+      ]
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
