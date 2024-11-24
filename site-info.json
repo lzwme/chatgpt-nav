@@ -1446,7 +1446,9 @@
         "AI 图像处理"
       ],
       "title": "图查查",
-      "desc": "图查查是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。"
+      "desc": "图查查是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.whee.com": {
       "type": [
@@ -2462,9 +2464,7 @@
         "AI 视频生成"
       ],
       "title": "BibiGPT",
-      "desc": "一键总结B站音视频内容",
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      "desc": "一键总结B站音视频内容"
     },
     "https://www.genmo.ai": {
       "type": [
@@ -5340,7 +5340,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.contentscale.ai"
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
