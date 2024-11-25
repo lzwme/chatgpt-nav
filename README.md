@@ -75,7 +75,8 @@
 1. [[⭐⭐⭐🧑‍💻] https://hunyuan.tencent.com](https://hunyuan.tencent.com) **腾讯混元助手。** 腾讯混元助手Chat
 1. [[⭐⭐⭐🧑‍💻] https://kimi.moonshot.cn](https://kimi.moonshot.cn) **Kimi.ai。** Kimi智能助手能够支持约20万汉字的上下文输入，具备显著的中文优势，能够为用户提供回答问题、速读文件、整理资料、激发灵感、辅助创作等服务
 1. [[⭐⭐⭐] https://pangu.huaweicloud.com](https://pangu.huaweicloud.com) **华为盘古。** 华为盘古大模型，重塑千行百业
-1. [[⭐⭐⭐🧑‍💻] https://so.csdn.net/chat](https://so.csdn.net/chat) **C知道。** 由CSDN和外部合作伙伴联合研发的生成式AI产品
+1. [[⭐⭐⭐🧑‍💻] https://so.csdn.net/chat](https://so.csdn.net/chat) **C知道。** 由CSDN和外部合作伙伴联合研发的生成式AI产品 `[error][-1]write EPROTO 003865D6327F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+`
 1. [[⭐⭐⭐] https://tongyi.aliyun.com/qianwen](https://tongyi.aliyun.com/qianwen) **通义千问。** 阿里达摩院提供的一个不断进化的AI大模型
 1. [[⭐⭐⭐] https://www.coze.cn](https://www.coze.cn) **扣子。** Coze中文版，字节旗下一款用来开发新一代 AI ChatBot的应用编辑平台
 1. [[⭐⭐⭐] https://www.doubao.com/chat/](https://www.doubao.com/chat/) **豆包。** 基于字节跳动研发的云雀大语言模型的Chat应用
@@ -365,7 +366,7 @@
 1. [[⭐] https://brandmark.io](https://brandmark.io) **BrandMark。** 最先进的人工智能Logo设计工具
 1. [[⭐] https://cascadeur.com](https://cascadeur.com) **Cascadeur。** AI辅助制作3D关键帧动画
 1. [[⭐] https://cgfaces.com/en](https://cgfaces.com/en) **CG Faces。** 免费的 AI 人像生成图片素材网站
-1. [[⭐] https://chacha.so.com](https://chacha.so.com) **图查查。** 图查查是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。 `[error][-1]timeout`
+1. [[⭐] https://chacha.so.com](https://chacha.so.com) **图查查。** 图查查是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。
 1. [[⭐] https://chartdb.io](https://chartdb.io) **ChartDB。** ChartDB 是一个免费且开源的数据库设计编辑器，它允许用户通过单一查询快速生成数据库架构图。这个工具支持多种流行的数据库管理系统，如MySQL、MariaDB、PostgreSQL、Microsoft SQL Server和SQLite。它提供了一个直观的编辑器，用户可以轻松导入、编辑和导出数据库架构，同时支持AI生成DDL脚本，以便于数据库的管理和文档化。
 1. [[⭐] https://claid.ai](https://claid.ai) **Claid AI Scene Creation。** Claid.ai是一个提供AI生成、增强和编辑产品图片的平台。它能够自动转换普通产品图片为具有拍摄品质的营销图片，提高图片的清晰度，去除背景，并创建令人惊叹的照片，从而提升转化率。Claid.ai支持生成多个适合品牌的产品图片，并提供统一的背景和图像大小，以适应不同的平台。用户可以通过API访问结果，实时获取编辑后的图片。Claid.ai还提供了多种功能，包括图片放大、智能去除背景、智能框架、AI颜色校正等，这些功能可以提高图片的质量和视觉效果。Claid.ai的目标是帮助企业实现图片的统一化和提升，从而提升转化率和销售业绩。
 1. [[⭐] https://clipdrop.co](https://clipdrop.co) **Clipdrop。** 体验图像编辑的顶峰——水印移除AI，借助先进的人工智能技术轻松、精确地擦除水印，确保您的视觉效果保持完美清晰、无干扰。

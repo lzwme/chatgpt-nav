@@ -320,7 +320,9 @@
       "sort": -80,
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
-      "title": "C知道"
+      "title": "C知道",
+      "needVerify": 1,
+      "errmsg": "[error][-1]write EPROTO 003865D6327F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
     },
     "https://ai-maas.wair.ac.cn": {
       "type": [
@@ -1446,9 +1448,7 @@
         "AI 图像处理"
       ],
       "title": "图查查",
-      "desc": "图查查是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "图查查是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。"
     },
     "https://www.whee.com": {
       "type": [
@@ -5341,7 +5341,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.contentscale.ai"
     },
     "https://www.sudowrite.com": {
