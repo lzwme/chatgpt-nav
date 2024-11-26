@@ -320,9 +320,7 @@
       "sort": -80,
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
-      "title": "C知道",
-      "needVerify": 1,
-      "errmsg": "[error][-1]write EPROTO 003865D6327F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
+      "title": "C知道"
     },
     "https://ai-maas.wair.ac.cn": {
       "type": [
@@ -399,7 +397,9 @@
     "http://new.cutim.top": {
       "star": 2,
       "source": "recommend",
-      "title": "ChatGPT Web--免费的国内ChatGPT"
+      "title": "ChatGPT Web--免费的国内ChatGPT",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.aicpw.cn": {
       "type": [
@@ -5341,7 +5341,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.contentscale.ai"
     },
     "https://www.sudowrite.com": {
@@ -9902,7 +9902,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://cursor.sh": {
       "title": "Cursor.sh",
