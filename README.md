@@ -860,7 +860,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://katteb.com/en](https://katteb.com/en) **Katteb。** Katteb是最佳的AI写作工具，可进行事实核查并生成可靠的AI内容。加入超过200,000位依赖Katteb的作者！Katteb提供多达30种类型、超过110种语言的内容生成，通过引用可信赖来源的内文引文，确保内容的准确性。
 1. [[⭐] https://languagetool.org](https://languagetool.org) **Language Tool。** LanguageTool 是一款免费的英语、西班牙语和其他30种语言的语法检查和改写工具。
 1. [[⭐] https://ling.jd.com](https://ling.jd.com) **京东羚珑。** 京东羚珑是一站式内容生产与管理服务平台，提供商品主图设计、广告 banner 设计、店铺首页设计等功能。其主要优点包括丰富的模板选择、免费设计服务、高效便捷的操作流程。产品定位于为商家提供设计合作伙伴服务。
-1. [[⭐] https://littlefrog.ai](https://littlefrog.ai) **写作蛙。** 清华智谱旗下的AI写作助手
+1. [[⭐] https://littlefrog.ai](https://littlefrog.ai) **写作蛙。** 清华智谱旗下的AI写作助手 `[error][-1]getaddrinfo ENOTFOUND littlefrog.ai`
 1. [[⭐] https://longshot.ai](https://longshot.ai) **LongShot AI。** LongShot AI 是一款旨在满足您内容需求的高效可靠的生成性人工智能工具。利用可靠的数据源和全面的事实核实，我们的人工智能驱动平台为您提供最准确可靠的信息，确保您的内容毫无疑虑。不再担心数据的可靠性和过时的信息，LongShot AI 不断更新知识库，确保您的内容始终相关和最新。我们的先进算法对事实进行仔细的交叉核实，消除了任何错误的可能性。LongShot AI 简化了事实核实的过程，为您节省宝贵的时间，让您专注于业务的其他方面。LongShot AI 提供灵活、定制的解决方案，以满足您机构或企业的独特需求。
 1. [[⭐] https://ltx.studio](https://ltx.studio) **LTX Studio。** LTX Studio是一个集成了AI技术的创新视频制作平台，它允许用户从概念到最终剪辑，全面控制视频的各个方面。该平台通过AI技术，将创意转化为连贯的视频故事，提供角色一致性、自动编辑、深度帧控制等功能，旨在简化视频制作流程，提高创作效率。
 1. [[⭐] https://lunwenbang.cc](https://lunwenbang.cc) **AI论文帮。** 5分钟生成万字优质原创论文！

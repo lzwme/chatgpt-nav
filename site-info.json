@@ -397,9 +397,7 @@
     "http://new.cutim.top": {
       "star": 2,
       "source": "recommend",
-      "title": "ChatGPT Web--免费的国内ChatGPT",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "ChatGPT Web--免费的国内ChatGPT"
     },
     "https://www.aicpw.cn": {
       "type": [
@@ -973,7 +971,9 @@
         "AI 写作助手"
       ],
       "title": "写作蛙",
-      "desc": "清华智谱旗下的AI写作助手"
+      "desc": "清华智谱旗下的AI写作助手",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND littlefrog.ai"
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -5341,7 +5341,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.contentscale.ai"
     },
     "https://www.sudowrite.com": {
@@ -9903,7 +9903,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://cursor.sh": {
