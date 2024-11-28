@@ -136,7 +136,6 @@
 1. [[⭐] https://www.chatplayground.ai](https://www.chatplayground.ai) **ChatPlayground AI。** ChatPlayground AI是一个集成了16+ AI应用和功能的聊天机器人平台，它允许用户通过一个订阅来访问多种AI模型。该平台的主要优点包括行业领先的AI模型、实时网络搜索、图像生成器、历史记录回顾、多语言支持以及导入自定义内容的能力。ChatPlayground AI旨在为开发者、数据科学家、学生、研究人员、内容创作者、作家和AI爱好者提供服务，帮助他们提高工作效率和创造力。
 1. [[⭐] https://www.choony.io](https://www.choony.io) **Choony。** Choony是一个聊天机器人生成器，可以轻松创建、指导和部署聊天机器人到任何地方。使用我们的平台，您可以在5分钟内创建自己的聊天机器人，根据需求进行定制和品牌化。Choony支持OpenAI的GPT-3模型，可以帮助您创建智能、个性化的聊天机器人。您可以在我们的平台上测试和嵌入聊天机器人，直到满足您的需求。无需信用卡，立即开始30天免费试用。
 1. [[⭐] https://www.coze.com](https://www.coze.com) **Coze。** Coze是一款下一代AI聊天机器人构建平台，能够快速创建、调试和优化AI聊天机器人应用程序。用户可以在不编写代码的情况下快速创建机器人，并将其发布到各种平台上。Coze还提供了丰富的插件，可以扩展机器人的能力，让机器人与数据互动，将想法转化为机器人技能，装备机器人长期记忆，并允许机器人启动对话。
-1. [[⭐] https://www.deepseek.com](https://www.deepseek.com) **DeepSeek Chat。** DeepSeek-V2是一款基于2千亿参数量的MoE（Mixture of Experts）模型的AI技术产品，它在对话官网和API上全面上线，提供领先性能和超低价格。该产品在中文综合能力（AlignBench）和英文综合能力（MT-Bench）的评测中表现出色，与GPT-4-Turbo等闭源模型处于同一梯队。DeepSeek-V2支持128K上下文的开源模型，而对话官网/API支持32K上下文。产品的主要优点包括即刻接入、能力卓越、价格低廉，并且兼容OpenAI API接口，提供丝滑的体验。 `[error][403]Forbidden`
 1. [[⭐] https://www.forefront.ai](https://www.forefront.ai) **Forefront。** Forefront 是一款 AI 助手，可选择强大的模型，聊天文件，浏览互联网，带上团队，定制助手，共享聊天等功能。它提供多种功能，如聊天、浏览互联网、文件处理等，能够满足用户在工作中的多种需求。Forefront 还支持定制化助手，用户可以创建不同类型的助手并指示其行为。Forefront 适用于企业用户，提供高级安全性、强大的管理员控制等功能。
 1. [[⭐] https://www.genai.sh](https://www.genai.sh) **Genai。** Genai 是一个聊天机器人平台，允许用户从多种数据源收集和混合数据，以快速创建聊天机器人。这些聊天机器人能够根据提供的数据回答用户问题，无需编程知识，即可实现24/7的客户支持，提高客户满意度，并降低支持成本。此外，Genai 还提供了一种新的学习方式，通过加载用户喜爱的播客和视频，快速找到知识信息。用户还可以通过平台分享自己的知识，并通过创建聊天机器人来增长受众和建立长期关系。
 1. [[⭐] https://www.greynights.com](https://www.greynights.com) **GreyNights。** GreyNights - AI Companions 是一款通过AI技术生成的男性伴侣服务，旨在通过聊天应用如WhatsApp或Telegram提供个性化的聊天体验。产品注重隐私保护，24小时全天候服务，可以根据用户偏好定制虚拟伴侣，进行深入对话和轻松交流。
@@ -164,6 +163,7 @@
 1. [[🚀] https://theb.ai](https://theb.ai) **TheB.AI。** TheB.AI是一款全能的人工智能平台。可以访问一系列创新的模型，涵盖先进的语言模型、强大的图像模型等等。
 1. [[🚀] https://you.com](https://you.com) **YOU。** You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。
 1. [[🚀] https://huggingface.co](https://huggingface.co) **Hugging Face。** 下载开源的SD模型
+1. [[❓] https://www.deepseek.com](https://www.deepseek.com) **DeepSeek Chat。** DeepSeek-V2是一款基于2千亿参数量的MoE（Mixture of Experts）模型的AI技术产品，它在对话官网和API上全面上线，提供领先性能和超低价格。该产品在中文综合能力（AlignBench）和英文综合能力（MT-Bench）的评测中表现出色，与GPT-4-Turbo等闭源模型处于同一梯队。DeepSeek-V2支持128K上下文的开源模型，而对话官网/API支持32K上下文。产品的主要优点包括即刻接入、能力卓越、价格低廉，并且兼容OpenAI API接口，提供丝滑的体验。 `[error][403]Forbidden`
 
 ### AI 绘图 (173)
 
@@ -1094,7 +1094,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://www.polymet.ai](https://www.polymet.ai) **Polymet。** Polymet是一个利用人工智能技术帮助用户快速从创意到原型的设计工具。它通过连接Figma和代码库，使用户能够快速设计并迭代，同时导出符合设计模式的生产就绪代码。Polymet的主要优点包括提高设计和迭代速度，无缝连接设计工具和代码库，以及通过AI辅助设计，减少手动编码工作量，从而加速产品上市时间。
 1. [[⭐] https://www.tabnine.com](https://www.tabnine.com) **Tabnine。** Tabnine是一款AI代码助手，支持所有编程语言和集成开发环境（IDE）。它提供智能代码补全、自动代码生成、错误检查和代码导航等功能，大大提高开发效率。Tabnine的优势在于其强大的机器学习模型和海量代码数据库，可以为开发人员提供准确和有用的代码建议。定价灵活多样，适应个人开发者和企业团队的需求。Tabnine定位于成为开发者的好帮手，让开发工作更高效、更快速。
 1. [[⭐] https://www.teamsmart.ai](https://www.teamsmart.ai) **TeamSmart AI。** TeamSmart AI是一个Chrome插件，通过一键访问团队智能AI助手，帮助用户提高工作效率。该插件提供了多种功能，包括内容摘要、代码生成、推文起草等，用户可以直接在浏览器中完成这些任务。TeamSmart AI还提供了25+个新的AI营销助手，用户可以根据自己的需求选择使用。
-1. [[⭐] https://www.theculturedao.com](https://www.theculturedao.com) **Theculturedao。** 技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto
+1. [[⭐] https://www.theculturedao.com](https://www.theculturedao.com) **Theculturedao。** 技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto `[error][-1]timeout`
 1. [[⭐] https://www.tryparity.com](https://www.tryparity.com) **Parity。** Parity 是世界上首个为 Kubernetes 值班工程师设计的 AI SRE（Site Reliability Engineer）。它在工程师打开笔记本电脑之前，就已经进行了问题调查、根因分析，并提出了补救措施。其主要优点包括快速的根因分析、智能运行手册执行、与集群的直接对话，以及与基础设施堆栈的安全集成。
 1. [[⭐] https://www.warp.dev](https://www.warp.dev) **Warp。** 内置AI命令搜索！21世纪的终端工具
 1. [[⭐] https://www.zelinai.com](https://www.zelinai.com) **ZelinAI。** ZelinAI零代码构建你的AI应用，ZelinAI目前接入了微软合规的GPT3.5、GPT4大智能体以及文心一言、星火等国内知名的大智能体
