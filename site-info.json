@@ -972,7 +972,7 @@
       ],
       "title": "写作蛙",
       "desc": "清华智谱旗下的AI写作助手",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND littlefrog.ai"
     },
     "https://www.5118.com/ai/articlegenius": {
@@ -2859,9 +2859,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -5343,7 +5341,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.contentscale.ai"
     },
     "https://www.sudowrite.com": {
@@ -9905,7 +9903,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://cursor.sh": {
