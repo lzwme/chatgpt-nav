@@ -972,7 +972,7 @@
       ],
       "title": "写作蛙",
       "desc": "清华智谱旗下的AI写作助手",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND littlefrog.ai"
     },
     "https://www.5118.com/ai/articlegenius": {
@@ -5341,8 +5341,9 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.contentscale.ai"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.contentscale.ai",
+      "hide": 1
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
@@ -9903,7 +9904,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://cursor.sh": {
