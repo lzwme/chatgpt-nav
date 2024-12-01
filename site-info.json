@@ -516,7 +516,9 @@
     },
     "https://puaai.net": {
       "title": "Ymiai",
-      "desc": "快捷、高效的人工智能创作平台"
+      "desc": "快捷、高效的人工智能创作平台",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://deepmind.google/technologies/gemini": {
       "star": 3,
@@ -972,7 +974,7 @@
       ],
       "title": "写作蛙",
       "desc": "清华智谱旗下的AI写作助手",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND littlefrog.ai"
     },
     "https://www.5118.com/ai/articlegenius": {
@@ -1586,7 +1588,9 @@
         "AI 绘图"
       ],
       "title": "Facecheck ID",
-      "desc": "利用人工智能技术通过照片在线查找人员。"
+      "desc": "利用人工智能技术通过照片在线查找人员。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.weshop.com": {
       "type": [
@@ -2659,7 +2663,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2F&y=ipr:172.183.79.2:1733083930.391\"></meta></head></html>"
     },
     "https://otter.ai": {
       "type": [
@@ -3181,7 +3187,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:172.183.79.2:1733083936.783\"></meta></head></html>"
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -5716,7 +5724,9 @@
       "type": [
         "AI 编程开发",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://anyword.com": {
       "title": "Anyword",
@@ -5887,7 +5897,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hubspot.com/campaign-assistant": {
       "title": "HubSpot Campaign Assistant",
@@ -9904,7 +9916,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://cursor.sh": {
