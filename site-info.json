@@ -972,8 +972,9 @@
       ],
       "title": "写作蛙",
       "desc": "清华智谱旗下的AI写作助手",
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND littlefrog.ai"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND littlefrog.ai",
+      "hide": 1
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -6941,7 +6942,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -8508,7 +8511,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.forefront.ai": {
@@ -11113,7 +11116,9 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
