@@ -89,7 +89,7 @@
 1. [[⭐] https://ai.360.com](https://ai.360.com) **360智脑。** 360旗下的AI聊天助手
 1. [[⭐] https://ai.baidu.com/unit/home](https://ai.baidu.com/unit/home) **百度智能对话平台 UNIT。** 百度 UNIT 搭载业界领先的对话理解和对话管理技术，提供灵活运营管理工具和可视化会话流程配置，助力企业智能化升级实现降本增效。
 1. [[⭐] https://aichat.baidu.com](https://aichat.baidu.com) **小侃星球。** 小侃星球是由百度发布的一款基于AI开放域对话模型的虚拟人聊天应用。结合AI技术和社交元素，用户可以与虚拟人物进行对话聊天，享受陪伴，同时获得实用的生活服务，如哄睡和叫早服务。
-1. [[⭐] https://airkit.ai](https://airkit.ai) **Airkit.ai。** Airkit.ai eCommerce通过GPT-4驱动的AI客服机器人为电商企业提供智能的客户服务支持。它可以覆盖订单状态更新、退货售后、订单问题处理、产品信息查询等多种场景,快速准确地回答客户问题,随时随地为客户提供服务,大幅提高客户满意度;同时,也可以减轻人工客服的工作量,提升企业运营效率。此外,它还具有主动联系客户、个性化定制等功能,可进一步提升客户体验。
+1. [[⭐] https://airkit.ai](https://airkit.ai) **Airkit.ai。** Airkit.ai eCommerce通过GPT-4驱动的AI客服机器人为电商企业提供智能的客户服务支持。它可以覆盖订单状态更新、退货售后、订单问题处理、产品信息查询等多种场景,快速准确地回答客户问题,随时随地为客户提供服务,大幅提高客户满意度;同时,也可以减轻人工客服的工作量,提升企业运营效率。此外,它还具有主动联系客户、个性化定制等功能,可进一步提升客户体验。 `[error][-1]socket hang up`
 1. [[⭐] https://answerly.io](https://answerly.io) **Answerly。** Answerly是一款智能聊天机器人，通过提供快速准确的回答，提升客户互动体验。它可以为您的业务提供个性化AI助手，帮助您训练AI助手以提供准确的回答，并通过内置的联系表单解答未知问题。您可以在实时对话记录中查看所有的聊天互动，以识别常见问题和改进的空间。Answerly还支持导入现有知识库、文档和PDF，并提供自定义小部件和助手的个性化设置。定价和功能详细信息请访问官方网站。
 1. [[⭐] https://apps.apple.com/cn/app/%E8%AF%9D%E7%82%89/id6475000292](https://apps.apple.com/cn/app/%E8%AF%9D%E7%82%89/id6475000292) **话炉。** 话炉APP是一款由字节跳动推出的AI社交应用，用户可以与多样化的虚拟AI角色进行互动聊天，体验沉浸式的对话互动。用户可以创作个性化AI角色，共同打造故事世界，享受新颖的社交互动方式。主要功能包括与AI角色互动、故事创作与推进、角色切换、个性化角色创建、多样化风格体验和社交互动。
 1. [[⭐] https://apps.apple.com/us/app/claude/id6473753684](https://apps.apple.com/us/app/claude/id6473753684) **Claude for iOS。** Claude是由Anthropic公司开发的AI助手，它利用强大的Claude 3模型家族，为用户提供即时访问各领域知识的能力。它旨在成为可靠、准确、有帮助的伙伴，帮助用户在移动中与关键任务、头脑风暴和复杂问题合作，取得显著进展。此外，Claude还可以帮助草拟电子邮件、总结会议，并协助处理用户不想做的小任务。
@@ -268,7 +268,7 @@
 1. [[⭐] https://www.artbreeder.com/browse](https://www.artbreeder.com/browse) **Artbreeder。** 在线AI图像合成创意工具
 1. [[⭐] https://www.chanjing.cc](https://www.chanjing.cc) **蝉镜。** 蝉镜是一个在线数字人视频创作平台，利用 AI 简化视频创作过程，提供 AI 数字人播报、短视频制作、分身定制等服务。广告营销、跨境电商、短视频口播等领域的用户可以在此提升创作效率、降低成本。
 1. [[⭐] https://www.chatplayground.ai](https://www.chatplayground.ai) **ChatPlayground AI。** ChatPlayground AI是一个集成了16+ AI应用和功能的聊天机器人平台，它允许用户通过一个订阅来访问多种AI模型。该平台的主要优点包括行业领先的AI模型、实时网络搜索、图像生成器、历史记录回顾、多语言支持以及导入自定义内容的能力。ChatPlayground AI旨在为开发者、数据科学家、学生、研究人员、内容创作者、作家和AI爱好者提供服务，帮助他们提高工作效率和创造力。
-1. [[⭐] https://www.dreamavatar.com](https://www.dreamavatar.com) **DreamAvatar。** DreamAvatar是一个基于人工智能技术的数字人生成平台,能够通过简单的文本描述或素材上传快速生成高质量的数字人形象,还支持自定义调整数字人的各种特征。该平台具有操作简单、生成效果逼真的优势,可以广泛应用于数字营销、虚拟主播、直播电商、游戏、动画等领域,为客户提供精准的数字人服务。 `[error][-1]timeout`
+1. [[⭐] https://www.dreamavatar.com](https://www.dreamavatar.com) **DreamAvatar。** DreamAvatar是一个基于人工智能技术的数字人生成平台,能够通过简单的文本描述或素材上传快速生成高质量的数字人形象,还支持自定义调整数字人的各种特征。该平台具有操作简单、生成效果逼真的优势,可以广泛应用于数字营销、虚拟主播、直播电商、游戏、动画等领域,为客户提供精准的数字人服务。
 1. [[⭐] https://www.erase.bg](https://www.erase.bg) **Erase.bg。** Erase.bg是一款免费在线工具，可以去除人物、动物或物体图片的背景，并提供高分辨率的透明图片下载。无需信用卡，适用于电子商务和个人使用。
 1. [[⭐] https://www.esheep.com](https://www.esheep.com) **eSheep。** 国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图
 1. [[⭐] https://www.gaoding.com/ai/design](https://www.gaoding.com/ai/design) **稿定AI。** 稿定智能设计工具是一款智能化的设计工具，采用先进的人工智能技术，自动分析和生成设计方案。只需稍作调整，即可完成完美的设计。
@@ -567,7 +567,7 @@
 1. [[⭐] https://www.creatifyone.com](https://www.creatifyone.com) **创一AI。** 创一AI是一款专业的AI短视频脚本创作工具，旨在通过人工智能技术帮助用户快速生成高质量的短视频脚本。该产品利用先进的自然语言处理技术，结合用户需求，能够自动分析并创作出符合主题的脚本内容，大大提高了视频创作者的工作效率。创一深入理解以及对用户需求的精准把握，价格定位为免费体验，以吸引更多用户使用。
 1. [[⭐] https://www.cyrinn.cn](https://www.cyrinn.cn) **赛灵力。** 赛灵力虚拟数字人工厂致力于 2D 虚拟人、3D 虚拟人、声音克隆等 AI 技术探索和产业应用，为企业、政府、个人提供虚拟数字人 AI 视频创作、个人形象定制、声音定制、智能语音合成等服务。
 1. [[⭐] https://www.d-id.com](https://www.d-id.com) **D-ID。** AI真人视频创作工具。
-1. [[⭐] https://www.dreamavatar.com](https://www.dreamavatar.com) **DreamAvatar。** DreamAvatar是一个基于人工智能技术的数字人生成平台,能够通过简单的文本描述或素材上传快速生成高质量的数字人形象,还支持自定义调整数字人的各种特征。该平台具有操作简单、生成效果逼真的优势,可以广泛应用于数字营销、虚拟主播、直播电商、游戏、动画等领域,为客户提供精准的数字人服务。 `[error][-1]timeout`
+1. [[⭐] https://www.dreamavatar.com](https://www.dreamavatar.com) **DreamAvatar。** DreamAvatar是一个基于人工智能技术的数字人生成平台,能够通过简单的文本描述或素材上传快速生成高质量的数字人形象,还支持自定义调整数字人的各种特征。该平台具有操作简单、生成效果逼真的优势,可以广泛应用于数字营销、虚拟主播、直播电商、游戏、动画等领域,为客户提供精准的数字人服务。
 1. [[⭐] https://www.fastcutai.co](https://www.fastcutai.co) **FastCut。** FastCut是一个视频制作平台,可以一键自动生成流行风格的视频短片。它内置了各种流行模板,支持自动添加字幕、关键词高亮、表情符号等功能,让用户无需编辑就可以制作出吸引眼球的视频。
 1. [[⭐] https://www.genmo.ai](https://www.genmo.ai) **Genmo。** 更具创造性！使用文本指令编辑图像和视频
 1. [[⭐] https://www.goenhance.ai](https://www.goenhance.ai) **GoEnhance AI。** GoEnhance AI是一款基于人工智能的图像和视频增强工具。它可以实现视频到视频、图像增强和超分辨率scaling等功能。GoEnhance AI采用了最先进的深度学习算法,可以增强和上采样图像到极致的细节和高分辨率。它简单易用,功能强大,是创作者、设计师等用户释放创意的绝佳工具。
@@ -578,7 +578,7 @@
 1. [[⭐] https://www.loom.com](https://www.loom.com) **Loom。** 使用 Loom AI 录制更好、更快的视频消息，让您的工作更加高效。
 1. [[⭐] https://www.microsoft.com/en-us/research/project/vasa-1/](https://www.microsoft.com/en-us/research/project/vasa-1/) **VASA-1。** VASA-1是由微软研究院开发的一个模型，专注于实时生成与音频相匹配的逼真人脸动画。该技术通过深度学习算法，能够根据输入的语音内容，自动生成相应的口型和面部表情，为用户提供一种全新的交互体验。VASA-1的主要优势在于其高度逼真的生成效果和实时响应能力，使得虚拟角色能够更加自然地与用户进行互动。目前，VASA-1主要应用于虚拟助手、在线教育、娱乐等领域，其定价策略尚未公布，但预计将提供免费试用版本供用户体验。
 1. [[⭐] https://www.modelscope.cn/studios/vigen/video_generation/summary](https://www.modelscope.cn/studios/vigen/video_generation/summary) **追影。** 追影-视频生成是一款基于人工智能技术的视频生成工具，能够快速生成高质量的视频内容。其优势在于提供丰富的视频模板和智能编辑功能，用户可以轻松制作出令人印象深刻的视频作品。定价灵活合理，定位于个人用户和小型企业，为用户提供高效的视频创作解决方案。
-1. [[⭐] https://www.moki.cn](https://www.moki.cn) **Moki。** Moki是美图公司推出的AI短片创作工具，专注于辅助视频创作者打造动画短片、网文短剧、故事绘本和音乐视频（MV）。基于美图自研的奇想智能大模型（MiracleVision），通过智能剪辑、自动配乐、音效添加和字幕生成等功能，大幅简化视频制作流程，提高创作效率。MOKI深度理解创作者需求，实现内容和成本的双重可控，让视频创作变得更加简单和高效。 `[error][-1]timeout`
+1. [[⭐] https://www.moki.cn](https://www.moki.cn) **Moki。** Moki是美图公司推出的AI短片创作工具，专注于辅助视频创作者打造动画短片、网文短剧、故事绘本和音乐视频（MV）。基于美图自研的奇想智能大模型（MiracleVision），通过智能剪辑、自动配乐、音效添加和字幕生成等功能，大幅简化视频制作流程，提高创作效率。MOKI深度理解创作者需求，实现内容和成本的双重可控，让视频创作变得更加简单和高效。
 1. [[⭐] https://www.morphstudio.com](https://www.morphstudio.com) **Morph Studio。** Morph Studio是一款领先的文字转视频AI平台，通过智能算法，将用户输入的文字转化为精美视频。其优势在于快速、高效地实现用户的创意想法，为创作者提供了全新的表现方式。定价灵活多样，适合个人用户和企业用户。定位于提升视频创作效率，让创意更快实现。
 1. [[⭐] https://www.narakeet.com/app/text-to-audio/](https://www.narakeet.com/app/text-to-audio/) **Narakeet。** Narakeet是一个在线工具，允许用户轻松创建逼真的文本转语音和旁白视频。它提供了多种语言和声音选择，支持多种文件格式上传，并允许用户自定义音量、速度和输出格式。Narakeet的定价模式为一次性支付，无需订阅，适合商业用户和需要大量音频文件的用户。
 1. [[⭐] https://www.opus.pro](https://www.opus.pro) **Opus Clip。** Opus Clip可将长视频转换成高质量的短片，以在TikTok、YouTube Shorts 和 Reels上分享，以增加社交媒体的覆盖范围。
@@ -609,7 +609,7 @@
 1. [[⭐] https://weta365.com/conduct](https://weta365.com/conduct) **奇妙元。** 奇妙元提供真人形象克隆、声音克隆、3D 数字人定制和 IP 活化等超前沿的克隆与定制服务。通过高质量数据输入和迭代克隆模型，实现高清还原真人形象。用户可使用真人形象克隆终身，通过输入文字使数字人说话，表情神态可比真人。此外，奇妙元还提供数字人视频制作、直播会员和定制服务等功能。数字人视频制作可一键将文本转为视频，无需繁琐拍摄；直播会员可选择真人数字人或 3D 数字人进行直播，为用户挣钱；定制服务可根据用户需求定制数字人形象。奇妙元的产品广泛应用于 20 多个行业，500 多个客户已经受益于数字人定制与克隆服务。
 1. [[⭐] https://www.chanjing.cc](https://www.chanjing.cc) **蝉镜。** 蝉镜是一个在线数字人视频创作平台，利用 AI 简化视频创作过程，提供 AI 数字人播报、短视频制作、分身定制等服务。广告营销、跨境电商、短视频口播等领域的用户可以在此提升创作效率、降低成本。
 1. [[⭐] https://www.d-id.com](https://www.d-id.com) **D-ID。** AI真人视频创作工具。
-1. [[⭐] https://www.dreamavatar.com](https://www.dreamavatar.com) **DreamAvatar。** DreamAvatar是一个基于人工智能技术的数字人生成平台,能够通过简单的文本描述或素材上传快速生成高质量的数字人形象,还支持自定义调整数字人的各种特征。该平台具有操作简单、生成效果逼真的优势,可以广泛应用于数字营销、虚拟主播、直播电商、游戏、动画等领域,为客户提供精准的数字人服务。 `[error][-1]timeout`
+1. [[⭐] https://www.dreamavatar.com](https://www.dreamavatar.com) **DreamAvatar。** DreamAvatar是一个基于人工智能技术的数字人生成平台,能够通过简单的文本描述或素材上传快速生成高质量的数字人形象,还支持自定义调整数字人的各种特征。该平台具有操作简单、生成效果逼真的优势,可以广泛应用于数字营销、虚拟主播、直播电商、游戏、动画等领域,为客户提供精准的数字人服务。
 1. [[⭐] https://www.guaishouai.com](https://www.guaishouai.com) **怪兽AI数字人。** 怪兽AI数字人是怪兽智能科技推出的产品，旨在通过AI技术提供数字人克隆、短视频生成、直播解决方案等服务。产品包括真人形象克隆、声音克隆、孪生姿态合成等核心技术，支持短视频内容生产创作及直播宣传，适用于品牌商家及本地生活商家。
 1. [[⭐] https://www.guiji.ai](https://www.guiji.ai) **硅基智能。** 打造硅基劳动力，让人回归人的价值。
 1. [[⭐] https://www.kreadoai.com](https://www.kreadoai.com) **Kreado AI。** 多语言AI视频创作，只需输入文本或关键词，即可创作真实/虚拟人物的多语言口播视频。
@@ -742,7 +742,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐⭐⭐] https://chat.sensetime.com](https://chat.sensetime.com) **SenseChat。** 商汤旗下的AI对话助手
 1. [[⭐] http://langdrive.ai](http://langdrive.ai) **LangDrive。** Addy AI是为零售和电商品牌打造的客户服务AI，利用您的业务数据训练定制AI，理解客户需求并自动回复客户咨询，提升10倍响应速度。
 1. [[⭐] https://ai-beings.com/aiu/](https://ai-beings.com/aiu/) **AiU。** AiU是一个人工智能技术平台,旨在让用户能够创造和使用人工智能产品。它强调人与人工智能的互动,将人工智能技术与用户需求相结合。该平台提供了一系列工具和资源,让用户能够根据自己的需求定制和开发人工智能应用。AiU的核心理念是将人工智能的力量回馈给普通用户,并为用户提供无限可能。
-1. [[⭐] https://airkit.ai](https://airkit.ai) **Airkit.ai。** Airkit.ai eCommerce通过GPT-4驱动的AI客服机器人为电商企业提供智能的客户服务支持。它可以覆盖订单状态更新、退货售后、订单问题处理、产品信息查询等多种场景,快速准确地回答客户问题,随时随地为客户提供服务,大幅提高客户满意度;同时,也可以减轻人工客服的工作量,提升企业运营效率。此外,它还具有主动联系客户、个性化定制等功能,可进一步提升客户体验。
+1. [[⭐] https://airkit.ai](https://airkit.ai) **Airkit.ai。** Airkit.ai eCommerce通过GPT-4驱动的AI客服机器人为电商企业提供智能的客户服务支持。它可以覆盖订单状态更新、退货售后、订单问题处理、产品信息查询等多种场景,快速准确地回答客户问题,随时随地为客户提供服务,大幅提高客户满意度;同时,也可以减轻人工客服的工作量,提升企业运营效率。此外,它还具有主动联系客户、个性化定制等功能,可进一步提升客户体验。 `[error][-1]socket hang up`
 1. [[⭐] https://answerai.pro](https://answerai.pro) **AnswerAI.pro。** Answer.AI是一款AI家教应用程序，利用先进的人工智能技术，为用户提供从数学到历史等各个学科的作业解答和学习辅导服务。它通过拍照、扫描问题、上传PDF或聊天等方式与AI家教互动，提供详细的步骤解答和视频解释，帮助学生更好地理解和掌握知识点。该应用支持iOS和Android系统，并提供Chrome浏览器扩展。Answer.AI以其高准确率和高答案率在教育类应用中名列前茅，深受全球数百万学生的喜爱。
 1. [[⭐] https://anyword.com](https://anyword.com) **Anyword。** Anyword是一款AI写作工具，为营销团队提供高效撰写营销内容的解决方案。它能够分析您过去发布的所有内容，并帮助您发现最有效的信息传递方式。同时，Anyword提供品牌声音管理功能，让您可以在一个平台上管理品牌口吻、目标受众和品牌规则。您还可以训练定制的AI模型，利用品牌和绩效数据来提高各个渠道的表现，并显著影响业务结果。
 1. [[⭐] https://chatbros.ai](https://chatbros.ai) **Chatbros.ai。** Chatbros.ai是一款人工智能驱动的聊天机器人,它可以重新定义数字互动,提升转化率、促进销售增长、完全改变用户参与度。它提供无缝的帮助和无限的功能。
@@ -789,7 +789,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://www.arcads.ai](https://www.arcads.ai) **Arcads。** Arcads提供AI视频广告生成器，允许用户快速从文本创建视频广告，特别适合需要大量视频内容的品牌和营销团队。
 1. [[⭐] https://www.brandroot.com](https://www.brandroot.com) **Business Names and Logos。** Brandroot的商业名称生成器使用人工智能技术，快速生成数百个引人注目的商业名称，并提供可注册的.com域名。您可以轻松找到适合您企业的完美名称。
 1. [[⭐] https://www.chanjing.cc](https://www.chanjing.cc) **蝉镜。** 蝉镜是一个在线数字人视频创作平台，利用 AI 简化视频创作过程，提供 AI 数字人播报、短视频制作、分身定制等服务。广告营销、跨境电商、短视频口播等领域的用户可以在此提升创作效率、降低成本。
-1. [[⭐] https://www.dreamavatar.com](https://www.dreamavatar.com) **DreamAvatar。** DreamAvatar是一个基于人工智能技术的数字人生成平台,能够通过简单的文本描述或素材上传快速生成高质量的数字人形象,还支持自定义调整数字人的各种特征。该平台具有操作简单、生成效果逼真的优势,可以广泛应用于数字营销、虚拟主播、直播电商、游戏、动画等领域,为客户提供精准的数字人服务。 `[error][-1]timeout`
+1. [[⭐] https://www.dreamavatar.com](https://www.dreamavatar.com) **DreamAvatar。** DreamAvatar是一个基于人工智能技术的数字人生成平台,能够通过简单的文本描述或素材上传快速生成高质量的数字人形象,还支持自定义调整数字人的各种特征。该平台具有操作简单、生成效果逼真的优势,可以广泛应用于数字营销、虚拟主播、直播电商、游戏、动画等领域,为客户提供精准的数字人服务。
 1. [[⭐] https://www.editage.cn/paperpal](https://www.editage.cn/paperpal) **Paperpal。** 学术写作新世代，面向科研人员的AI写作工具
 1. [[⭐] https://www.getmerlin.in](https://www.getmerlin.in) **Merlin。** Merlin是一款由ChatGPT驱动的终极浏览器扩展，能够彻底改变用户的浏览体验。Merlin提供了多种功能，包括Youtube Summarizer、Blog Summarizer、ChatGPT on Google、Merlin on Twitter、Merlin on LinkedIn、Merlin on Gmail、Live Web Data等，能够简化用户的浏览流程，提升用户的生产力。Merlin提供了免费的GPT-4访问，支持所有语言，具有最佳的安全性，符合SOC2、GDRP、ISO 27001等标准。用户可以通过安装、激活、打开Merlin来使用这款浏览器扩展。
 1. [[⭐] https://www.getresponse.com/features/email-marketing/ai-email-generator](https://www.getresponse.com/features/email-marketing/ai-email-generator) **GetResponse Email Generator。** 使用GetResponse的AI邮件生成器，利用GPT-3.5技术快速高效地创建高质量的邮件和新闻简报。通过行业和目标优化的主题行和内容，提升你的邮件营销效果。
@@ -850,7 +850,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://hailuoai.com](https://hailuoai.com) **海螺问问。** 海螺AI是一个基于先进的AI生成技术打造的对话式智能助理。它可以通过简单的对话,为用户提供知识问答、信息检索、公众号文章写作、小红书笔记生成等服务,帮助用户快速获取信息,提高工作效率。主要功能包括:搜索问答、创意写作、语音交互等。适用于需要知识支持的创作者、自媒体从业者、学生群体等。
 1. [[⭐] https://hix.ai](https://hix.ai) **Hix AI。** HIX.AI是一款由先进的GPT-3.5/4技术驱动的全能人工智能写作助手。
 1. [[⭐] https://huixie.iflyrec.com/welcome](https://huixie.iflyrec.com/welcome) **讯飞写作。** 讯飞写作基于讯飞星火认知大模型能力，支持多场景写作，提供会议纪要，求职简历，心得体会，入党申请，论文大纲，品宣文案，PPT 大纲等各类写作模板。AI 对话，激发灵感。
-1. [[⭐] https://ibiling.cn](https://ibiling.cn) **笔灵AI。** 笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。
+1. [[⭐] https://ibiling.cn](https://ibiling.cn) **笔灵AI。** 笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。 `[error][-1]timeout`
 1. [[⭐] https://ichuangnao.com/introduction](https://ichuangnao.com/introduction) **创脑。** 创脑是国内知名 AI 机器人社区，用户可以免费使用各类 AI 机器人助手，包括行业专家、AI 写作、办公助手等，帮助提升工作效率和生活便利。
 1. [[⭐] https://if.caiyunai.com](https://if.caiyunai.com) **彩云小梦。** 彩云小梦是一个智能写作AI，你只需开个头，AI 就会帮你创作故事。你可以自由定义故事的世界设定，并扮演其中的角色，与其他角色聊天。
 1. [[⭐] https://inksprout.co](https://inksprout.co) **Inksprout Video。** Inksprout是一款AI助手，可以从博客生成社交视频。它使用AI生成字幕，让您可以在几秒钟内生成引人注目的、简洁的社交视频。您只需输入博客的URL，AI将自动摘要文章内容，并根据摘要生成视频。您可以使用这些视频在多个社交媒体平台上分享，并提高用户参与度。Inksprout提供免费计划，同时还有更多功能丰富的付费计划可供选择。
@@ -861,7 +861,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://ling.jd.com](https://ling.jd.com) **京东羚珑。** 京东羚珑是一站式内容生产与管理服务平台，提供商品主图设计、广告 banner 设计、店铺首页设计等功能。其主要优点包括丰富的模板选择、免费设计服务、高效便捷的操作流程。产品定位于为商家提供设计合作伙伴服务。
 1. [[⭐] https://longshot.ai](https://longshot.ai) **LongShot AI。** LongShot AI 是一款旨在满足您内容需求的高效可靠的生成性人工智能工具。利用可靠的数据源和全面的事实核实，我们的人工智能驱动平台为您提供最准确可靠的信息，确保您的内容毫无疑虑。不再担心数据的可靠性和过时的信息，LongShot AI 不断更新知识库，确保您的内容始终相关和最新。我们的先进算法对事实进行仔细的交叉核实，消除了任何错误的可能性。LongShot AI 简化了事实核实的过程，为您节省宝贵的时间，让您专注于业务的其他方面。LongShot AI 提供灵活、定制的解决方案，以满足您机构或企业的独特需求。
 1. [[⭐] https://ltx.studio](https://ltx.studio) **LTX Studio。** LTX Studio是一个集成了AI技术的创新视频制作平台，它允许用户从概念到最终剪辑，全面控制视频的各个方面。该平台通过AI技术，将创意转化为连贯的视频故事，提供角色一致性、自动编辑、深度帧控制等功能，旨在简化视频制作流程，提高创作效率。
-1. [[⭐] https://lunwenbang.cc](https://lunwenbang.cc) **AI论文帮。** 5分钟生成万字优质原创论文！
+1. [[⭐] https://lunwenbang.cc](https://lunwenbang.cc) **AI论文帮。** 5分钟生成万字优质原创论文！ `[error][-1]timeout`
 1. [[⭐] https://magickpen.com](https://magickpen.com) **MagicPen。** 在线AI英语写作助手
 1. [[⭐] https://metaso.cn](https://metaso.cn) **秘塔AI搜索。** 秘塔科技旗下的一款AI搜索产品，能够大幅提升搜索效率，解决日常生活、工作学习等场景中遇到的各类搜索需求
 1. [[⭐] https://miaobi.xinhuaskl.com](https://miaobi.xinhuaskl.com) **新华妙笔。** 新华社媒体出品！AI公文写作学习平台
@@ -1040,7 +1040,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://deepl.com](https://deepl.com) **DeepL。** DeepL 翻译是一款能够即时翻译文本和文件的工具。它为个人和团队提供准确的翻译服务。数百万人每天都在使用 DeepL 进行翻译。
 1. [[⭐] https://fanyi.baidu.com](https://fanyi.baidu.com) **百度翻译。** 提供即时免费200+语言翻译服务
 1. [[⭐] https://fanyi.caiyunapp.com](https://fanyi.caiyunapp.com) **彩云小译。** 兼具“你边说，我边译”的字字幕翻译功能。包括文字翻译、文档翻译、网页翻译、术语库、浏览器插件和双语对照服务
-1. [[⭐] https://fanyi.sogou.com/text](https://fanyi.sogou.com/text) **搜狗翻译。** 支持中、英、法、日等50多种语言之间的互译功能
+1. [[⭐] https://fanyi.sogou.com/text](https://fanyi.sogou.com/text) **搜狗翻译。** 支持中、英、法、日等50多种语言之间的互译功能 `[error][404]Not Found`
 1. [[⭐] https://fanyi.xfyun.cn/console/trans/text](https://fanyi.xfyun.cn/console/trans/text) **讯飞智能翻译。** 科大讯飞推出的人工智能翻译平台
 1. [[⭐] https://fanyi.youdao.com](https://fanyi.youdao.com) **有道翻译。** 网易旗下深受用户喜欢的口碑型学习工具产品
 1. [[⭐] https://flowus.cn/ai](https://flowus.cn/ai) **FlowUs AI。** FlowUs AI 是一款智能化工具，能够帮助用户在工作、学习和生活中高效地完成各项任务。它提供了包括文章创作、文本润色、风格改写、内容分析、解释说明、摘要总结、AI 任务处理、代码处理、表格处理、Latex 公式处理、AI 翻译等在内的丰富功能。用户可以通过 FlowUs AI 提高文章质量和表达能力，优化文本结构、修正语病和拼写错误，智能处理文本、表格、代码和公式等内容，实现多国语言互译等。
@@ -1145,7 +1145,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://fintax.golcer.com](https://fintax.golcer.com) **高灯财务 AI 助手。** 高灯财务 AI 助手是一款专注于财税领域的专业工具，它通过对话式智能输出、多模态数据抽取、文本推理等技术，为用户提供财务报告分析、文件解读、智能提取、智能思维导图、办税指南等服务。这款产品利用海量财税领域训练数据，结合垂直知识进行分析和推理，生成专业报告内容，帮助用户轻松掌握文件要点，提升工作效率。
 1. [[⭐] https://mastergo.com/upcoming-ai/apply](https://mastergo.com/upcoming-ai/apply) **MasterGo AI。** MasterGo AI 是一款基于人工智能技术的智能助手，具有强大的功能和优势。它可以帮助用户高效处理各种任务，并提供个性化的解决方案。MasterGo AI 定价合理，并提供灵活的定位选项，适用于个人用户和企业用户。
 1. [[⭐] https://midreal.ai](https://midreal.ai) **MidReal。** MidReal是一款由AI技术驱动的互动文字冒险游戏。它具有超强的记忆力和写作能力,可以确保您的故事始终连贯一致,带给您身临其境的沉浸式体验。新特性包括多人互动、迷你游戏等,定价灵活,可免费试玩。
-1. [[⭐] https://news.microsoft.com/reinventing-productivity/](https://news.microsoft.com/reinventing-productivity/) **Microsoft 365 Copilot。** Microsoft 365 Copilot是一个智能助手，为您的工作提供支持。它能够提供任务建议、自动化流程、文件管理等功能，让您更高效地完成工作。Microsoft 365 Copilot的定价根据订阅类型和用户数量而定。 `[error][403]Forbidden`
+1. [[⭐] https://news.microsoft.com/reinventing-productivity/](https://news.microsoft.com/reinventing-productivity/) **Microsoft 365 Copilot。** Microsoft 365 Copilot是一个智能助手，为您的工作提供支持。它能够提供任务建议、自动化流程、文件管理等功能，让您更高效地完成工作。Microsoft 365 Copilot的定价根据订阅类型和用户数量而定。
 1. [[⭐] https://qianwen.aliyun.com](https://qianwen.aliyun.com) **通义千问。** 通义千问是一个专门响应人类指令的大模型。它具有强大的语义理解和语言生成能力，可以回答各种问题、提供实用信息、帮助解决问题。通义千问的优势在于准确性高、响应速度快、支持多种语言、功能丰富。定价方面，我们提供免费试用和付费订阅两种模式。通义千问定位于成为人类的智能助手，帮助用户提高工作效率、解决问题、获取知识。
 1. [[⭐] https://resoomer.com](https://resoomer.com) **Resoomer。** Résoomer 是一款用于文本摘要的软件和在线工具：它允许您通过重要概念来总结和分析您的文章。它提供了一种有效的解决方案，可以节省阅读和理解长文本的时间。 Resoomer 使用人工智能算法从文本中提取主要思想，并以简洁明了的方式呈现它们。该软件供学生、信息专业人员和研究人员用来合成文章、报告和研究论文。
 1. [[⭐] https://saasaitools.com](https://saasaitools.com) **Saasaitools。** 随时了解每日 AI 新闻和工具: Discover your next generative AI tool

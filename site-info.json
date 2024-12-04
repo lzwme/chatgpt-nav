@@ -1003,7 +1003,9 @@
         "AI 写作助手"
       ],
       "title": "笔灵AI",
-      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。"
+      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://effidit.qq.com": {
       "type": [
@@ -2357,7 +2359,9 @@
         "AI 写作助手"
       ],
       "title": "AI论文帮",
-      "desc": "5分钟生成万字优质原创论文！"
+      "desc": "5分钟生成万字优质原创论文！",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.notion.so/product/ai": {
       "type": [
@@ -2769,7 +2773,9 @@
       ],
       "icon": "https://dlweb.sogoucdn.com/translate/favicon.ico",
       "title": "搜狗翻译",
-      "desc": "支持中、英、法、日等50多种语言之间的互译功能"
+      "desc": "支持中、英、法、日等50多种语言之间的互译功能",
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://codeium.com": {
       "type": [
@@ -6942,9 +6948,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -8510,9 +8514,7 @@
       ],
       "type": [
         "AI 综合工具"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://www.forefront.ai": {
       "title": "Forefront",
@@ -8889,7 +8891,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]socket hang up"
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -11116,9 +11120,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
