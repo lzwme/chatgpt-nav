@@ -1003,9 +1003,7 @@
         "AI 写作助手"
       ],
       "title": "笔灵AI",
-      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。"
     },
     "https://effidit.qq.com": {
       "type": [
@@ -1841,7 +1839,9 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中"
+      "desc": "国内自研的AI作画系统！内测中",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2359,9 +2359,7 @@
         "AI 写作助手"
       ],
       "title": "AI论文帮",
-      "desc": "5分钟生成万字优质原创论文！",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "5分钟生成万字优质原创论文！"
     },
     "https://www.notion.so/product/ai": {
       "type": [
@@ -2546,7 +2544,9 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理"
+      "desc": "AI生成3D无缝贴图纹理",
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -2773,9 +2773,7 @@
       ],
       "icon": "https://dlweb.sogoucdn.com/translate/favicon.ico",
       "title": "搜狗翻译",
-      "desc": "支持中、英、法、日等50多种语言之间的互译功能",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      "desc": "支持中、英、法、日等50多种语言之间的互译功能"
     },
     "https://codeium.com": {
       "type": [
@@ -6044,7 +6042,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://politepost.net": {
       "title": "PolitePost",
@@ -8514,7 +8514,9 @@
       ],
       "type": [
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.forefront.ai": {
       "title": "Forefront",
@@ -8891,9 +8893,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]socket hang up"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
