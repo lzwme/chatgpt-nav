@@ -621,7 +621,7 @@
       ],
       "title": "Anthropic",
       "desc": "Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://poe.com": {
@@ -2544,7 +2544,9 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理"
+      "desc": "AI生成3D无缝贴图纹理",
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -8887,9 +8889,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
