@@ -620,9 +620,7 @@
         "AI 聊天对话"
       ],
       "title": "Anthropic",
-      "desc": "Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。",
-      "needVerify": 3,
-      "errmsg": "[error][500]Internal Server Error"
+      "desc": "Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。"
     },
     "https://poe.com": {
       "type": [
@@ -1194,7 +1192,9 @@
       ],
       "title": "Deepl翻译器",
       "desc": "支持翻译文本和文件，为个人和团队提供准确的翻译，每天有数百万人使用DeepL进行翻译。",
-      "star": 3
+      "star": 3,
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://immersivetranslate.com": {
       "type": [
@@ -2014,7 +2014,9 @@
         "普通产品",
         "生产力",
         "网站"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][530]HTTP_530"
     },
     "https://tools.saxifrage.xyz/prompt": {
       "type": [
@@ -5564,9 +5566,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://glasp.co/ai-writing": {
       "title": "Glasp",
@@ -8512,7 +8512,9 @@
       ],
       "type": [
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.forefront.ai": {
       "title": "Forefront",
@@ -8789,7 +8791,9 @@
         "AI 行业工具",
         "AI 写作助手",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 139.224.162.123:443"
     },
     "https://character.sensetime.com/character-wb/home": {
       "title": "商汤商量拟人大模型",
@@ -9044,7 +9048,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 51.104.6.243:443"
     },
     "https://www.choony.io": {
       "title": "Choony",
