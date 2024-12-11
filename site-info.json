@@ -2428,9 +2428,7 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具"
     },
     "https://ai.zaker.cn": {
       "type": [
@@ -7334,7 +7332,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://audionotes.ai": {
       "title": "AudioNotes.ai",
@@ -8511,7 +8511,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.forefront.ai": {
