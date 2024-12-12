@@ -7332,9 +7332,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://audionotes.ai": {
       "title": "AudioNotes.ai",
@@ -8511,7 +8509,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.forefront.ai": {
@@ -9044,7 +9042,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.choony.io": {
       "title": "Choony",
