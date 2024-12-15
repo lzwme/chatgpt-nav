@@ -46,7 +46,7 @@
 ❌ 已失效。会在失效一段时间后移除
 ```
 
-站点列表(769)：
+站点列表(768)：
 
 ### 国产大模型 (14)
 
@@ -87,7 +87,7 @@
 1. [[⭐] http://langdrive.ai](http://langdrive.ai) **LangDrive。** Addy AI是为零售和电商品牌打造的客户服务AI，利用您的业务数据训练定制AI，理解客户需求并自动回复客户咨询，提升10倍响应速度。
 1. [[⭐] https://ai-beings.com/aiu/](https://ai-beings.com/aiu/) **AiU。** AiU是一个人工智能技术平台,旨在让用户能够创造和使用人工智能产品。它强调人与人工智能的互动,将人工智能技术与用户需求相结合。该平台提供了一系列工具和资源,让用户能够根据自己的需求定制和开发人工智能应用。AiU的核心理念是将人工智能的力量回馈给普通用户,并为用户提供无限可能。
 1. [[⭐] https://ai.360.com](https://ai.360.com) **360智脑。** 360旗下的AI聊天助手
-1. [[⭐] https://ai.baidu.com/unit/home](https://ai.baidu.com/unit/home) **百度智能对话平台 UNIT。** 百度 UNIT 搭载业界领先的对话理解和对话管理技术，提供灵活运营管理工具和可视化会话流程配置，助力企业智能化升级实现降本增效。
+1. [[⭐] https://ai.baidu.com/unit/home](https://ai.baidu.com/unit/home) **百度智能对话平台 UNIT。** 百度 UNIT 搭载业界领先的对话理解和对话管理技术，提供灵活运营管理工具和可视化会话流程配置，助力企业智能化升级实现降本增效。 `[error][-1]timeout`
 1. [[⭐] https://aichat.baidu.com](https://aichat.baidu.com) **小侃星球。** 小侃星球是由百度发布的一款基于AI开放域对话模型的虚拟人聊天应用。结合AI技术和社交元素，用户可以与虚拟人物进行对话聊天，享受陪伴，同时获得实用的生活服务，如哄睡和叫早服务。
 1. [[⭐] https://airkit.ai](https://airkit.ai) **Airkit.ai。** Airkit.ai eCommerce通过GPT-4驱动的AI客服机器人为电商企业提供智能的客户服务支持。它可以覆盖订单状态更新、退货售后、订单问题处理、产品信息查询等多种场景,快速准确地回答客户问题,随时随地为客户提供服务,大幅提高客户满意度;同时,也可以减轻人工客服的工作量,提升企业运营效率。此外,它还具有主动联系客户、个性化定制等功能,可进一步提升客户体验。
 1. [[⭐] https://answerly.io](https://answerly.io) **Answerly。** Answerly是一款智能聊天机器人，通过提供快速准确的回答，提升客户互动体验。它可以为您的业务提供个性化AI助手，帮助您训练AI助手以提供准确的回答，并通过内置的联系表单解答未知问题。您可以在实时对话记录中查看所有的聊天互动，以识别常见问题和改进的空间。Answerly还支持导入现有知识库、文档和PDF，并提供自定义小部件和助手的个性化设置。定价和功能详细信息请访问官方网站。
@@ -229,7 +229,7 @@
 1. [[⭐] https://imglarger.com](https://imglarger.com) **Imglarger。** AI Image Enlarger 是一款免费的在线图像放大器，可以自动放大和增强小图像。使 jpg/png 图片变大而不损失质量。功能包括：一键式 AI 解决方案、拖放图像、将任何小图像放大到 2k 和 4k、照片增强、自动纠正低光问题、增强色彩和对比度、保证数据安全、批量处理、照片编辑器等。定价详情请参考官方网站。
 1. [[⭐] https://inpaintweb.lxfater.com](https://inpaintweb.lxfater.com) **Inpaint-web。** Inpaint-web 是一款永久免费的在线工具，只需一点击即可去除照片中的不想要对象，同时提供修复瑕疵功能。其独特的照片去除和修复功能让用户轻松实现照片编辑需求。用户无需下载安装任何软件，直接在网页上使用。Inpaint-web 定位于为用户提供便捷、高效的照片编辑解决方案。
 1. [[⭐] https://insightface.ai](https://insightface.ai) **InsightFaceSwap。** 比Midjourney更丝滑的AI换脸工具
-1. [[⭐] https://jpghd.com/zh](https://jpghd.com/zh) **jpgHD。** 一键修复，让您的老照片变新照片 `[error][-1]timeout`
+1. [[⭐] https://jpghd.com/zh](https://jpghd.com/zh) **jpgHD。** 一键修复，让您的老照片变新照片
 1. [[⭐] https://jpgrm.com](https://jpgrm.com) **jpgRM。** jpgRM 是一款利用 2024 年最先进人工智能技术的图片处理工具，可智能擦除图片中不需要的部分，填补背景内容，消除水印等。其主要优点在于高效快速地处理图片，并提供高质量的结果。定位于为用户提供便捷的图片编辑解决方案。
 1. [[⭐] https://jsai.cc/ai](https://jsai.cc/ai) **即时AI。** 即时AI是一款极具前沿创新的AIGC产品，一款可以快速生成设计稿的生成式设计工具，它能够通过简单的自然语言描述来生成与需求相匹配的设计稿。
 1. [[⭐] https://leonardo.ai](https://leonardo.ai) **Leonardo。** 以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。
@@ -388,7 +388,7 @@
 1. [[⭐] https://inpaintweb.lxfater.com](https://inpaintweb.lxfater.com) **Inpaint-web。** Inpaint-web 是一款永久免费的在线工具，只需一点击即可去除照片中的不想要对象，同时提供修复瑕疵功能。其独特的照片去除和修复功能让用户轻松实现照片编辑需求。用户无需下载安装任何软件，直接在网页上使用。Inpaint-web 定位于为用户提供便捷、高效的照片编辑解决方案。
 1. [[⭐] https://insightface.ai](https://insightface.ai) **InsightFaceSwap。** 比Midjourney更丝滑的AI换脸工具
 1. [[⭐] https://jimeng.jianying.com](https://jimeng.jianying.com) **即梦Dreamina。** 即梦Dreamina是一款结合了AI技术的在线创作平台，它通过图片生成、智能画布和视频生成等功能，帮助用户将创意转化为视觉作品。该产品的主要优点在于简化了设计流程，使得非专业人士也能创作出高质量的图片和视频。产品背景信息显示，它由深圳市脸萌科技有限公司开发，定位于为广大创意工作者提供便捷的设计服务。目前产品提供免费试用，具体价格信息未在页面中明确。
-1. [[⭐] https://jpghd.com/zh](https://jpghd.com/zh) **jpgHD。** 一键修复，让您的老照片变新照片 `[error][-1]timeout`
+1. [[⭐] https://jpghd.com/zh](https://jpghd.com/zh) **jpgHD。** 一键修复，让您的老照片变新照片
 1. [[⭐] https://jpgrm.com](https://jpgrm.com) **jpgRM。** jpgRM 是一款利用 2024 年最先进人工智能技术的图片处理工具，可智能擦除图片中不需要的部分，填补背景内容，消除水印等。其主要优点在于高效快速地处理图片，并提供高质量的结果。定位于为用户提供便捷的图片编辑解决方案。
 1. [[⭐] https://js.design/ai](https://js.design/ai) **即时设计。** 即时设计是一款AI生成式设计工具，通过输入文字即可生成相应的设计作品，帮助用户快速实现创意设计。产品定价根据用户需求而定，定位于提供高效便捷的设计解决方案。
 1. [[⭐] https://ling.jd.com](https://ling.jd.com) **京东羚珑。** 京东羚珑是一站式内容生产与管理服务平台，提供商品主图设计、广告 banner 设计、店铺首页设计等功能。其主要优点包括丰富的模板选择、免费设计服务、高效便捷的操作流程。产品定位于为商家提供设计合作伙伴服务。
@@ -850,7 +850,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://hailuoai.com](https://hailuoai.com) **海螺问问。** 海螺AI是一个基于先进的AI生成技术打造的对话式智能助理。它可以通过简单的对话,为用户提供知识问答、信息检索、公众号文章写作、小红书笔记生成等服务,帮助用户快速获取信息,提高工作效率。主要功能包括:搜索问答、创意写作、语音交互等。适用于需要知识支持的创作者、自媒体从业者、学生群体等。
 1. [[⭐] https://hix.ai](https://hix.ai) **Hix AI。** HIX.AI是一款由先进的GPT-3.5/4技术驱动的全能人工智能写作助手。
 1. [[⭐] https://huixie.iflyrec.com/welcome](https://huixie.iflyrec.com/welcome) **讯飞写作。** 讯飞写作基于讯飞星火认知大模型能力，支持多场景写作，提供会议纪要，求职简历，心得体会，入党申请，论文大纲，品宣文案，PPT 大纲等各类写作模板。AI 对话，激发灵感。
-1. [[⭐] https://ibiling.cn](https://ibiling.cn) **笔灵AI。** 笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。
+1. [[⭐] https://ibiling.cn](https://ibiling.cn) **笔灵AI。** 笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。 `[error][-1]timeout`
 1. [[⭐] https://ichuangnao.com/introduction](https://ichuangnao.com/introduction) **创脑。** 创脑是国内知名 AI 机器人社区，用户可以免费使用各类 AI 机器人助手，包括行业专家、AI 写作、办公助手等，帮助提升工作效率和生活便利。
 1. [[⭐] https://if.caiyunai.com](https://if.caiyunai.com) **彩云小梦。** 彩云小梦是一个智能写作AI，你只需开个头，AI 就会帮你创作故事。你可以自由定义故事的世界设定，并扮演其中的角色，与其他角色聊天。
 1. [[⭐] https://inksprout.co](https://inksprout.co) **Inksprout Video。** Inksprout是一款AI助手，可以从博客生成社交视频。它使用AI生成字幕，让您可以在几秒钟内生成引人注目的、简洁的社交视频。您只需输入博客的URL，AI将自动摘要文章内容，并根据摘要生成视频。您可以使用这些视频在多个社交媒体平台上分享，并提高用户参与度。Inksprout提供免费计划，同时还有更多功能丰富的付费计划可供选择。
@@ -1135,7 +1135,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://work.duiopen.com](https://work.duiopen.com) **麦耳会记。** 麦耳会记是一款集实时语音转写、实时翻译和 AI 辅助写作功能为一体的 AI 办公助手。它可以用于办公会议、学生网课、客户访谈录音等场景。软件支持边录音、边转写，录音结束后，音频、文本实时同步至 PC 端、手机端。采用云端存储资料的方式，无论是办公、地铁，还是旅游途中，都可以随时随地查看文档或音频。麦耳会记还提供实时字幕同传功能，帮助听力受损人士更好地参与会议。
 1. [[⭐] https://www.notta.ai](https://www.notta.ai) **Notta。** Notta可以在在线会议、面对面销售会议等场景中快速转录您的音频或视频文件为文字内容。
 
-### AI 综合工具 (25)
+### AI 综合工具 (24)
 
 1. [[⭐⭐⭐] https://ai-nav.lzw.me](https://ai-nav.lzw.me) **AI网址导航。** 收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性
 1. [[⭐] https://aitools.run](https://aitools.run) **AI帮个忙。** AI帮个忙是打工人的多功能小帮手，有多个AI写作和图片工具，可以用AI生成小红书文案，文章，PPT大纲等，支持改写，润色,续写,扩写
@@ -1161,7 +1161,6 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐⭐🔐🧑‍💻] https://www.chatallais.com](https://www.chatallais.com) **星界AI|一站式AIGC平台。** 一站式AIGC平台，集成Chatgpt、Claude、ChatGLM、Midjourney、DALL-E、Flux.1、Suno等全网顶级AI大模型，实现文本创作、图片生成、音乐创作一站式生成。
 1. [[🚀] https://www.meta.ai](https://www.meta.ai) **MetaAI。** 使用 Meta AI 助手完成任务、创建免费 AI 生成图像和获取任何问题的答案
 1. [[🚀] https://huggingface.co](https://huggingface.co) **Hugging Face。** 下载开源的SD模型
-1. [[❓] https://news.microsoft.com/reinventing-productivity/](https://news.microsoft.com/reinventing-productivity/) **Microsoft 365 Copilot。** Microsoft 365 Copilot是一个智能助手，为您的工作提供支持。它能够提供任务建议、自动化流程、文件管理等功能，让您更高效地完成工作。Microsoft 365 Copilot的定价根据订阅类型和用户数量而定。 `[error][403]Forbidden`
 
 ### AI 开源工具 (9)
 
