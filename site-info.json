@@ -505,7 +505,9 @@
       "title": "ATalk",
       "star": 2,
       "needLogin": 1,
-      "desc": "是一个基于gpt-3.5-turbo引擎封装的网站,通过输入文本，输出相应的回答，实现智能聊天的功能"
+      "desc": "是一个基于gpt-3.5-turbo引擎封装的网站,通过输入文本，输出相应的回答，实现智能聊天的功能",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://xmind.ai": {
       "star": 2,
@@ -2237,9 +2239,7 @@
         "AI 图像处理"
       ],
       "title": "Dora AI",
-      "desc": "一句话生成可交互&编辑的网站AI神器",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "一句话生成可交互&编辑的网站AI神器"
     },
     "https://www.visily.ai": {
       "type": [
@@ -2545,8 +2545,8 @@
       ],
       "title": "Ponzu",
       "desc": "AI生成3D无缝贴图纹理",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      "needVerify": 2,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -4264,7 +4264,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.quququ.cn": {
@@ -9050,7 +9050,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.choony.io": {
@@ -11299,9 +11299,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "http://d-id.com": {
       "title": "D-ID",
