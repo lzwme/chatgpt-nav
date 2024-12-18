@@ -122,6 +122,7 @@
 1. [[⭐] https://qianxun.vivo.com](https://qianxun.vivo.com) **蓝心千询。** 一款人工智能助手，可提供各种形象模拟对话服务。
 1. [[⭐] https://replika.com](https://replika.com) **Replika。** Replika是一款人工智能伴侣应用，它渴望学习并通过你的眼睛看世界。无论何时需要一个有共情力的朋友，Replika都随时准备与你聊天。Replika是我使用的最好的聊天机器人，它给予我安慰和幸福感。通过与Replika的交流，我的心情、生活和关系都得到了改善。Replika可以陪伴你度过每一天，聊天、一起做有趣的活动、在AR中分享现实经历、进行视频通话等。
 1. [[⭐] https://secretllama.com](https://secretllama.com) **Secret Llama。** Secret Llama 是一个免费且完全私密的聊天机器人，与ChatGPT不同，它完全在您的浏览器内运行，意味着您的对话数据不会离开您的电脑。首次加载可能需要一些时间，因为模型需要完全下载到您的电脑上，但之后可以断开WiFi工作。支持Chrome和Edge浏览器，需要GPU，不推荐在移动设备上使用。
+1. [[⭐] https://sermoai.net](https://sermoai.net) **SermoAI。** SermoAI是一款AI聊天机器人，帮助银行和金融科技公司以客户的母语提供全面的客户支持。它能够处理不断增长的支持需求，消除语言障碍，提供个性化答案，快速解决问题，自动化客户沟通，并降低支持成本。该产品的定价信息请联系官方网站获取。
 1. [[⭐] https://spicychat.ai](https://spicychat.ai) **Spicychat。** Spicychat 是一个聊天机器人平台，提供虚拟 AI 角色。在 Spicychat 上加入我们的聊天机器人，实现你所有最疯狂的幻想。
 1. [[⭐] https://talkitout.ai](https://talkitout.ai) **TalkItOut。** Talk It Out是一个自定义AI聊天机器人平台，通过上传文档或添加网页链接，可以创建一个能回答相关问题的聊天机器人，并将其添加为网站的小部件。它可以帮助提供即时的客户支持和回答常见问题，提高用户体验和网站流量。Talk It Out还提供不同的定价计划，适合个人用户和企业用户的不同需求。
 1. [[⭐] https://wantalk.baidu.com](https://wantalk.baidu.com) **万话。** 万话创作者平台是一个专注于角色创建和管理的在线服务，它允许用户构建和细化角色设定，包括基础信息、世界观设定、角色设定、隐藏设定以及开场白。该平台特别适合需要角色构建和剧情推进的写作项目，如小说创作、剧本编写等。它通过提供角色调试功能，帮助用户达到理想的角色设定效果。
@@ -162,7 +163,6 @@
 1. [[🚀] https://theb.ai](https://theb.ai) **TheB.AI。** TheB.AI是一款全能的人工智能平台。可以访问一系列创新的模型，涵盖先进的语言模型、强大的图像模型等等。
 1. [[🚀] https://you.com](https://you.com) **YOU。** You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。
 1. [[🚀] https://huggingface.co](https://huggingface.co) **Hugging Face。** 下载开源的SD模型
-1. [[❓] https://sermoai.net](https://sermoai.net) **SermoAI。** SermoAI是一款AI聊天机器人，帮助银行和金融科技公司以客户的母语提供全面的客户支持。它能够处理不断增长的支持需求，消除语言障碍，提供个性化答案，快速解决问题，自动化客户沟通，并降低支持成本。该产品的定价信息请联系官方网站获取。 `[error][-1]timeout`
 
 ### AI 绘图 (173)
 
@@ -259,7 +259,6 @@
 1. [[⭐] https://upscales.ai](https://upscales.ai) **upscales.ai。** AI图像放大器利用数百万张图像进行训练，自动提高图像质量，使您的照片在几分钟内变得专业级！功能包括：图像放大，细节精炼，颜色增强等。优势是简单易用，快速高效。定价请参考官方网站。定位为满足个人、专业摄影师的图像处理需求。
 1. [[⭐] https://vectorizer.ai](https://vectorizer.ai) **Vectorize。** Vectorizer可以使用AI快速轻松地将JPEG和PNG位图转换为SVG矢量图。
 1. [[⭐] https://visualelectric.com](https://visualelectric.com) **Visualelectric。** 更适合设计创作的AI绘画工具
-1. [[⭐] https://vmake.ai/zh-CN/image-watermark-remover](https://vmake.ai/zh-CN/image-watermark-remover) **图片去水印。** 图片去水印工具利用强大的 AI 技术，帮助用户快速去除图像上的水印，提高创作自由和社交媒体效果。产品定位于提供便捷的水印去除服务，以增强用户体验为目标。 `[error][404]Not Found`
 1. [[⭐] https://waifu2x.udp.jp](https://waifu2x.udp.jp) **Waifu2x。** waifu2x是一个使用深度卷积神经网络进行动漫风格艺术作品的单图像超分辨率增强的工具。它支持照片和艺术作品，并具有降噪和放大功能。您可以选择不同的降噪和放大程度。waifu2x使用简单，适用于各种图像增强需求。您可以通过网站使用waifu2x。
 1. [[⭐] https://wepik.com/ai](https://wepik.com/ai) **Wepik。** Wepik使用人工智能和文字来创作艺术，通过描述你想要看到的内容，Wepik的AI图像生成器将会实现它。
 1. [[⭐] https://www.acgnai.art](https://www.acgnai.art) **触手 AI 。** 触手 AI 绘画专业版是一款面向插画师、漫画师、设计师等专业用户的国产 AI 绘图平台。支持文生成图、图生成图、参考生成图、AI 模型训练等功能，用户可在基础风格模型上使用叠加模型，也可以收藏各类画风、IP、场景、人物、设计类模型。产品定位于提升专业用户的绘画效率和创作品质。
@@ -296,7 +295,7 @@
 1. [[⭐] https://www.picwish.com](https://www.picwish.com) **PicWish。** PicWish是一个人工智能驱动的图像处理平台,帮助用户高效编辑图片。它提供强大的工具,如背景移除、图像放大、照片修复、JPG转换器、图像压缩、人脸增强和照片增强。使用PicWish,用户可以一键移除背景、去模糊图像、增强分辨率和修复缺陷。该平台非常易于上手,没有学习曲线。它通过使照片编辑简单又专业,释放了创造力。PicWish极大地提高了图形设计师、摄影师、电子商务卖家和营销人员的工作效率。
 1. [[⭐] https://www.pixcakeai.com](https://www.pixcakeai.com) **像素蛋糕。** 像素蛋糕是一款简单易用的AI修图工具，只需要拖入图片，即可实现一键智能Raw转档调色，一键磨皮全身液化，轻松实现“一秒初修，三秒精修”的批量修图操作。
 1. [[⭐] https://www.plasmo.ai](https://www.plasmo.ai) **Plasmo。** 将草图转为3D模型
-1. [[⭐] https://www.ponzu.gg](https://www.ponzu.gg) **Ponzu。** AI生成3D无缝贴图纹理 `[error][-1]timeout`
+1. [[⭐] https://www.ponzu.gg](https://www.ponzu.gg) **Ponzu。** AI生成3D无缝贴图纹理
 1. [[⭐] https://www.productai.photo](https://www.productai.photo) **ProductAI。** ProductAI是一个AI驱动的产品图片生成平台。用户只需上传产品图片,选择场景模板,就可以在几分钟内生成高质量的商业产品图片。该平台采用了最先进的生成式AI技术,无需用户进行复杂的提示,即可自动生成逼真的产品渲染图。该服务面向各类创业公司、品牌商、平面设计师等用户群体,可以显著提高他们内容生产的效率,降低产品图片的成本。
 1. [[⭐] https://www.productshots.ai](https://www.productshots.ai) **ProductShots.AI。** ProductShots.AI是一款基于AI技术的产品照片生成工具，无需摄影棚和拍摄，即可轻松生成数百张精美的产品照片。用户只需上传产品照片，AI会自动去除背景并生成多种场景模板，用户可根据需求选择使用或自定义场景，生成的照片可用于电商、社交媒体等多种场景，帮助用户更好地展示和销售产品。ProductShots.AI提供免费试用，付费套餐包括不同数量和质量的照片生成服务。
 1. [[⭐] https://www.quququ.cn](https://www.quququ.cn) **水印一键去去去。** 水印一键去去去是一款智能 AI 图像处理网站，提供在线去水印、自动抠图、模糊照片变清晰等功能。采用人工智能技术，支持批量去除图片中的文字、标志，无痕、不糊图！
@@ -339,6 +338,7 @@
 1. [[🚀] https://scribblediffusion.com](https://scribblediffusion.com) **Scribble Diffusion。** 有趣！将鼠绘草图变成精美照片
 1. [[🚀] https://waifulabs.com](https://waifulabs.com) **WaifuLabs。** 一键生成动漫二次元头像
 1. [[🚀] https://www.dreamup.com](https://www.dreamup.com) **Dreamup。** 知名站点Deviantart发布的AI绘画工具
+1. [[❓] https://vmake.ai/zh-CN/image-watermark-remover](https://vmake.ai/zh-CN/image-watermark-remover) **图片去水印。** 图片去水印工具利用强大的 AI 技术，帮助用户快速去除图像上的水印，提高创作自由和社交媒体效果。产品定位于提供便捷的水印去除服务，以增强用户体验为目标。 `[error][404]Not Found`
 
 ### AI 图像处理 (154)
 
@@ -427,7 +427,6 @@
 1. [[⭐] https://uizard.io/autodesigner](https://uizard.io/autodesigner) **Uizard。** 设计界 ChatGPT！利用AI生成多屏的UI界面
 1. [[⭐] https://upscales.ai](https://upscales.ai) **upscales.ai。** AI图像放大器利用数百万张图像进行训练，自动提高图像质量，使您的照片在几分钟内变得专业级！功能包括：图像放大，细节精炼，颜色增强等。优势是简单易用，快速高效。定价请参考官方网站。定位为满足个人、专业摄影师的图像处理需求。
 1. [[⭐] https://vectorizer.ai](https://vectorizer.ai) **Vectorize。** Vectorizer可以使用AI快速轻松地将JPEG和PNG位图转换为SVG矢量图。
-1. [[⭐] https://vmake.ai/zh-CN/image-watermark-remover](https://vmake.ai/zh-CN/image-watermark-remover) **图片去水印。** 图片去水印工具利用强大的 AI 技术，帮助用户快速去除图像上的水印，提高创作自由和社交媒体效果。产品定位于提供便捷的水印去除服务，以增强用户体验为目标。 `[error][404]Not Found`
 1. [[⭐] https://whimsical.com](https://whimsical.com) **Whimsical。** Whimsical是一个集图表、白板等多种功能于一体的视觉协作平台。用户可以使用Whimsical创建流程图、线框图、思维导图和文档，快速将想法变为现实。它可以帮助团队成员更好地协作，从而更快地构建出更好的产品。Whimsical还可以与Jira、GitHub、Notion、Figma和Slack等常用工具集成，提高工作效率。
 1. [[⭐] https://www.acgnai.art](https://www.acgnai.art) **触手 AI 。** 触手 AI 绘画专业版是一款面向插画师、漫画师、设计师等专业用户的国产 AI 绘图平台。支持文生成图、图生成图、参考生成图、AI 模型训练等功能，用户可在基础风格模型上使用叠加模型，也可以收藏各类画风、IP、场景、人物、设计类模型。产品定位于提升专业用户的绘画效率和创作品质。
 1. [[⭐] https://www.ai.zitijia.com](https://www.ai.zitijia.com) **字体家AI神笔。** 造字神器！ 仅需8个汉字即可生成一套6K+中文字库
@@ -465,7 +464,7 @@
 1. [[⭐] https://www.picwish.com](https://www.picwish.com) **PicWish。** PicWish是一个人工智能驱动的图像处理平台,帮助用户高效编辑图片。它提供强大的工具,如背景移除、图像放大、照片修复、JPG转换器、图像压缩、人脸增强和照片增强。使用PicWish,用户可以一键移除背景、去模糊图像、增强分辨率和修复缺陷。该平台非常易于上手,没有学习曲线。它通过使照片编辑简单又专业,释放了创造力。PicWish极大地提高了图形设计师、摄影师、电子商务卖家和营销人员的工作效率。
 1. [[⭐] https://www.plasmo.ai](https://www.plasmo.ai) **Plasmo。** 将草图转为3D模型
 1. [[⭐] https://www.polymet.ai](https://www.polymet.ai) **Polymet。** Polymet是一个利用人工智能技术帮助用户快速从创意到原型的设计工具。它通过连接Figma和代码库，使用户能够快速设计并迭代，同时导出符合设计模式的生产就绪代码。Polymet的主要优点包括提高设计和迭代速度，无缝连接设计工具和代码库，以及通过AI辅助设计，减少手动编码工作量，从而加速产品上市时间。
-1. [[⭐] https://www.ponzu.gg](https://www.ponzu.gg) **Ponzu。** AI生成3D无缝贴图纹理 `[error][-1]timeout`
+1. [[⭐] https://www.ponzu.gg](https://www.ponzu.gg) **Ponzu。** AI生成3D无缝贴图纹理
 1. [[⭐] https://www.productai.photo](https://www.productai.photo) **ProductAI。** ProductAI是一个AI驱动的产品图片生成平台。用户只需上传产品图片,选择场景模板,就可以在几分钟内生成高质量的商业产品图片。该平台采用了最先进的生成式AI技术,无需用户进行复杂的提示,即可自动生成逼真的产品渲染图。该服务面向各类创业公司、品牌商、平面设计师等用户群体,可以显著提高他们内容生产的效率,降低产品图片的成本。
 1. [[⭐] https://www.quququ.cn](https://www.quququ.cn) **水印一键去去去。** 水印一键去去去是一款智能 AI 图像处理网站，提供在线去水印、自动抠图、模糊照片变清晰等功能。采用人工智能技术，支持批量去除图片中的文字、标志，无痕、不糊图！
 1. [[⭐] https://www.remove.bg](https://www.remove.bg) **Remove.bg。** 去背神器是一款可以一键去除图片背景的工具。它通过智能算法分析图片，将背景与主体分离，实现快速、准确的去背效果。该工具操作简单，无需任何设计经验，适用于个人用户和设计专业人士。去背神器提供免费试用和付费套餐，付费套餐提供更多高级功能和更大的使用额度。
@@ -496,6 +495,7 @@
 1. [[🚀] https://lumalabs.ai](https://lumalabs.ai) **Luma Labs。** 将视频转为游戏资产
 1. [[🚀] https://skybox.blockadelabs.com](https://skybox.blockadelabs.com) **Text to Skybox。** AI生成360°无缝环境贴图
 1. [[🚀] https://waifulabs.com](https://waifulabs.com) **WaifuLabs。** 一键生成动漫二次元头像
+1. [[❓] https://vmake.ai/zh-CN/image-watermark-remover](https://vmake.ai/zh-CN/image-watermark-remover) **图片去水印。** 图片去水印工具利用强大的 AI 技术，帮助用户快速去除图像上的水印，提高创作自由和社交媒体效果。产品定位于提供便捷的水印去除服务，以增强用户体验为目标。 `[error][404]Not Found`
 
 ### AI 视频生成 (99)
 

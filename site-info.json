@@ -505,9 +505,7 @@
       "title": "ATalk",
       "star": 2,
       "needLogin": 1,
-      "desc": "是一个基于gpt-3.5-turbo引擎封装的网站,通过输入文本，输出相应的回答，实现智能聊天的功能",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "是一个基于gpt-3.5-turbo引擎封装的网站,通过输入文本，输出相应的回答，实现智能聊天的功能"
     },
     "https://xmind.ai": {
       "star": 2,
@@ -2544,9 +2542,7 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI生成3D无缝贴图纹理"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -4264,7 +4260,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.quququ.cn": {
@@ -9049,9 +9045,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.choony.io": {
       "title": "Choony",
