@@ -3052,7 +3052,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://nijijourney.com/zh": {
@@ -4262,7 +4262,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.quququ.cn": {
@@ -6677,9 +6677,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://morphcut.github.io": {
       "title": "MorphCut",
@@ -8128,9 +8126,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]RuntimeError"
+      ]
     },
     "https://www.wondercv.com": {
       "title": "超级简历",
@@ -9183,9 +9179,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://qidian.qq.com/module/service.html": {
       "title": "腾讯企点客服",
