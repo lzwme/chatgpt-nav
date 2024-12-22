@@ -217,9 +217,7 @@
       "title": "Kimi.ai",
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://yiyan.baidu.com": {
       "type": [
@@ -1411,7 +1409,9 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://img.logosc.cn": {
       "type": [
@@ -2520,7 +2520,9 @@
         "AI 视频生成"
       ],
       "title": "Clipchamp",
-      "desc": "将文本转为视频旁白！几分钟即可创建导出视频"
+      "desc": "将文本转为视频旁白！几分钟即可创建导出视频",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ttsmaker.cn": {
       "type": [
@@ -3054,7 +3056,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://nijijourney.com/zh": {
@@ -3295,7 +3297,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://fliki.ai": {
@@ -4247,27 +4249,6 @@
         "AI 绘图",
         "AI 图像处理"
       ]
-    },
-    "https://vmake.ai/zh-CN/image-watermark-remover": {
-      "title": "图片去水印",
-      "intro": "使用 AI 去水印工具，轻松去除图像水印。",
-      "desc": "图片去水印工具利用强大的 AI 技术，帮助用户快速去除图像上的水印，提高创作自由和社交媒体效果。产品定位于提供便捷的水印去除服务，以增强用户体验为目标。",
-      "lang": "zh",
-      "tags": [
-        "水印去除",
-        "图片处理",
-        "AI 技术",
-        "图像",
-        "普通产品",
-        "生产力",
-        "网站"
-      ],
-      "type": [
-        "AI 图像处理",
-        "AI 绘图"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://www.quququ.cn": {
       "title": "水印一键去去去",
@@ -5407,7 +5388,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
