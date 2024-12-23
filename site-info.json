@@ -1409,9 +1409,7 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
     },
     "https://img.logosc.cn": {
       "type": [
@@ -2520,9 +2518,7 @@
         "AI 视频生成"
       ],
       "title": "Clipchamp",
-      "desc": "将文本转为视频旁白！几分钟即可创建导出视频",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "将文本转为视频旁白！几分钟即可创建导出视频"
     },
     "https://ttsmaker.cn": {
       "type": [
@@ -3056,7 +3052,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://nijijourney.com/zh": {
@@ -3297,7 +3293,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://fliki.ai": {
@@ -5388,9 +5384,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
