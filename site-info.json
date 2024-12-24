@@ -3052,7 +3052,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://nijijourney.com/zh": {
@@ -3293,7 +3293,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://fliki.ai": {
