@@ -214,7 +214,7 @@
       "sort": -89,
       "needLogin": 1,
       "desc": "Kimi智能助手能够支持约20万汉字的上下文输入，具备显著的中文优势，能够为用户提供回答问题、速读文件、整理资料、激发灵感、辅助创作等服务",
-      "title": "Kimi.ai",
+      "title": "Kimi+",
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
       ]
@@ -242,7 +242,8 @@
     "https://xinghuo.xfyun.cn": {
       "type": [
         "AI 聊天对话",
-        "国产大模型"
+        "国产大模型",
+        "AI 大模型"
       ],
       "star": 3,
       "sort": -86,
@@ -282,7 +283,8 @@
       "type": [
         "AI 聊天对话",
         "国产大模型",
-        "AI 绘图"
+        "AI 绘图",
+        "AI 大模型"
       ],
       "star": 3,
       "sort": -84,
@@ -314,7 +316,8 @@
     },
     "https://so.csdn.net/chat": {
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 搜索引擎"
       ],
       "star": 3,
       "sort": -80,
@@ -401,7 +404,8 @@
     },
     "https://www.aicpw.cn": {
       "type": [
-        "AI 综合工具"
+        "AI 综合工具",
+        "AI 行业工具"
       ],
       "desc": "收录热门AI产品",
       "title": "Khanmigo"
@@ -512,7 +516,10 @@
       "source": "recommend",
       "title": "Xmind Copilot",
       "needLogin": 1,
-      "desc": "Xmind Copilot 思维导图 AI 助手"
+      "desc": "Xmind Copilot 思维导图 AI 助手",
+      "type": [
+        "AI 思维导图"
+      ]
     },
     "https://puaai.net": {
       "title": "Ymiai",
@@ -524,7 +531,8 @@
       "desc": "Gemini(双子座)是Google最新的大型语言模型，在一系列多模式基准测试中超越了最先进GPT4。在各种自然语言任务中表现良好，例如摘要、指令跟踪、内容生成、情感分析、实体提取、分类等。",
       "title": "Google Gemini",
       "type": [
-        "AI 编程开发"
+        "AI 编程开发",
+        "AI 大模型"
       ]
     },
     "https://www.doubao.com/chat/": {
@@ -619,7 +627,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "title": "Anthropic",
+      "title": "Claude3",
       "desc": "Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。"
     },
     "https://poe.com": {
@@ -758,9 +766,9 @@
         "AI 搜索引擎",
         "AI 聊天对话"
       ],
-      "title": "Perplexity",
+      "title": "Perplexity AI",
       "desc": "Perplexity AI通过信息发现和共享解锁知识的力量。",
-      "star": 2,
+      "star": 3,
       "needVPN": 1,
       "needVerify": -1
     },
@@ -777,7 +785,7 @@
         "AI 搜索引擎",
         "AI 聊天对话"
       ],
-      "title": "YOU",
+      "title": "You",
       "desc": "You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。",
       "needVPN": 1
     },
@@ -793,7 +801,7 @@
       "needLogin": 1,
       "icon": "https://ai-nav.lzw.me/favicon/www.tiangong.cn.ico",
       "desc": "昆仑万维提供的对标 ChatGPT 的双千亿级大语言模型，也是一个对话式AI助手",
-      "title": "天工AI智能体"
+      "title": "天工AI"
     },
     "https://metaso.cn": {
       "type": [
@@ -895,14 +903,14 @@
         "AI 写作助手",
         "AI 聊天对话"
       ],
-      "title": "Jasper AI",
+      "title": "Jasper Chat",
       "desc": "AI文字内容创作工具。"
     },
     "https://writesonic.com": {
       "type": [
         "AI 写作助手"
       ],
-      "title": "Writesonic",
+      "title": "writesonic",
       "desc": "Writesonic可以为博客、广告、电子邮件和网站快速生成已优化的免费原创内容。",
       "needVPN": 1
     },
@@ -918,7 +926,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "Grammarly.",
+      "title": "Grammarly",
       "desc": "Grammarly开发了一种使用人工智能和自然语言处理的数字写作工具。Grammarly键盘随时随地为您提供支持，确保您的写作始终看起来很棒。无论您是在输入紧急电子邮件、重要的LinkedIn消息还是必要的Facebook帖子，Grammarly都能让您放心地从移动设备上进行写作。"
     },
     "https://languagetool.org": {
@@ -947,7 +955,7 @@
         "AI 写作助手",
         "AI 行业工具"
       ],
-      "title": "Copy AI",
+      "title": "Copy.ai",
       "desc": "人工智能营销文案和内容创作工具，帮助各行各业的撰稿人、营销人员和企业快速高效地创建高质量的内容。",
       "needVPN": 1
     },
@@ -955,7 +963,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "NovelAI",
+      "title": "Novel.ai",
       "desc": "基于人工智能，轻松构建独特的、惊险的、引入入胜的故事。",
       "needVPN": 1
     },
@@ -1009,7 +1017,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "Effidit写作助手",
+      "title": "腾讯Effidit",
       "desc": "Effidit是由腾讯AI Lab 开发的一个智能创作助手，探索用AI技术提升写作者的写作效率和创作体验。"
     },
     "https://www.writingo.net": {
@@ -1025,7 +1033,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "悉语",
+      "title": "阿里悉语",
       "desc": "悉语智能是阿里妈妈创意中心出品的一款一键生成商品营销文案的工具。"
     },
     "https://www.mypitaya.com": {
@@ -1190,7 +1198,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "title": "Deepl翻译器",
+      "title": "DeepL",
       "desc": "支持翻译文本和文件，为个人和团队提供准确的翻译，每天有数百万人使用DeepL进行翻译。",
       "star": 3
     },
@@ -1204,7 +1212,7 @@
       "star": 3
     },
     "https://fanyi.youdao.com": {
-      "title": "有道翻译",
+      "title": "有道AI翻译",
       "desc": "网易旗下深受用户喜欢的口碑型学习工具产品",
       "type": [
         "AI 翻译工具"
@@ -1290,7 +1298,8 @@
     },
     "https://www.promptingguide.ai": {
       "type": [
-        "AI 提示词"
+        "AI 提示词",
+        "AI 大模型"
       ],
       "title": "提示工程指南",
       "desc": "提示工程（Prompt Engineering）是一门较新的学科，关注提示词开发和优化，帮助用户将大语言模型（Large Language Model, LLM）用于各场景和研究领域。"
@@ -1300,7 +1309,7 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "title": "Canva Text to Image",
+      "title": "Canva",
       "desc": "将文字和短语变成美丽的图片。",
       "needVPN": 1
     },
@@ -1308,7 +1317,7 @@
       "type": [
         "AI 绘图"
       ],
-      "title": "Leonardo",
+      "title": "Leonardo.AI/",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。"
     },
     "https://pixai.art": {
@@ -1408,7 +1417,7 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "title": "标小智",
+      "title": "标小智logo生成",
       "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
     },
     "https://img.logosc.cn": {
@@ -1441,12 +1450,13 @@
         "AI 绘图"
       ],
       "star": 3,
-      "title": "Arc Lab",
+      "title": "腾讯ARC",
       "desc": "ARC是腾讯旗下ARC（Applied Research Center，应用研究中心）实验室推出的系列AI图片处理工具，目前提供了三项免费的AI图像功能：人像修复、人像抠图和动漫增强。"
     },
     "https://chacha.so.com": {
       "type": [
-        "AI 图像处理"
+        "AI 图像处理",
+        "AI 绘图"
       ],
       "title": "图查查",
       "desc": "图查查是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。"
@@ -1477,7 +1487,7 @@
       "type": [
         "AI 绘图"
       ],
-      "title": "Civitai",
+      "title": "CivitAI",
       "desc": "AI绘画模型共享平台，拥有海量开源模型",
       "needVPN": 1
     },
@@ -1492,14 +1502,16 @@
     },
     "https://mastergo.com/ai": {
       "type": [
-        "AI 绘图"
+        "AI 绘图",
+        "AI 图像处理"
       ],
       "title": "MasterGo AI",
       "desc": "MasterGo AI使用人工智能辅助设计，开启数字交互新时代。"
     },
     "https://jsai.cc/ai": {
       "type": [
-        "AI 绘图"
+        "AI 绘图",
+        "AI 图像处理"
       ],
       "title": "即时AI",
       "desc": "即时AI是一款极具前沿创新的AIGC产品，一款可以快速生成设计稿的生成式设计工具，它能够通过简单的自然语言描述来生成与需求相匹配的设计稿。"
@@ -1524,14 +1536,16 @@
     },
     "https://www.modaiyun.com/mdy/ai": {
       "type": [
-        "AI 绘图"
+        "AI 绘图",
+        "AI 图像处理"
       ],
       "title": "模袋云AI",
       "desc": "模袋云AI是一款在线别墅设计神器。"
     },
     "https://www.nolibox.com": {
       "type": [
-        "AI 绘图"
+        "AI 绘图",
+        "AI 图像处理"
       ],
       "title": "图宇宙",
       "desc": "图宇宙是计算美学是高品质的智能设计平台，致力于让每个人都能享受好设计。"
@@ -1564,12 +1578,13 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "title": "Pixian AI",
+      "title": "Pixian.AI",
       "desc": "PixianAI是一款图像背景去除工具，可以以极低的价格获得出色的质量，在测试版期间完全免费。"
     },
     "https://pixcut.wondershare.com": {
       "type": [
-        "AI 绘图"
+        "AI 绘图",
+        "AI 图像处理"
       ],
       "title": "Pixcut",
       "desc": "Pixcut是一款自动免费去除图片背景的工具，新手只需点击几下就能使背景变透明。"
@@ -1579,12 +1594,13 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "title": "Vectorize",
+      "title": "Vectorizer AI",
       "desc": "Vectorizer可以使用AI快速轻松地将JPEG和PNG位图转换为SVG矢量图。"
     },
     "https://facecheck.id": {
       "type": [
-        "AI 绘图"
+        "AI 绘图",
+        "AI 图像处理"
       ],
       "title": "Facecheck ID",
       "desc": "利用人工智能技术通过照片在线查找人员。"
@@ -1653,7 +1669,7 @@
         "AI 国外工具",
         "AI 视频生成"
       ],
-      "title": "Play",
+      "title": "PlayHT",
       "desc": "基于人工智能将文本转位逼真的语音"
     },
     "https://www.notta.ai": {
@@ -1779,7 +1795,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "title": "Heygen",
+      "title": "HeyGen",
       "desc": "AI生成真人营销视频",
       "needVPN": 1,
       "star": 3
@@ -1789,7 +1805,7 @@
         "AI 视频生成",
         "AI 绘图"
       ],
-      "title": "腾讯智影",
+      "title": "智影",
       "desc": "腾讯出品的融合多种AIGC能力进行智能视频创作的一体化工具。"
     },
     "https://zeemo.ai/cn": {
@@ -1830,7 +1846,7 @@
       ],
       "needVPN": true,
       "start": 3,
-      "title": "DALL·E2",
+      "title": "DALL・E",
       "desc": "OpenAI出品的绘画工具"
     },
     "https://www.tiamat.world": {
@@ -1845,7 +1861,7 @@
       "type": [
         "AI 绘图"
       ],
-      "title": "liblib哩布哩布",
+      "title": "LiblibAI",
       "desc": "超多优质模型，国内领先的AI创作平台",
       "tags": [
         "AI创作",
@@ -1871,7 +1887,7 @@
       "urls": [
         "https://wujieai.cc"
       ],
-      "title": "无界AI",
+      "title": "无界 AI",
       "star": 2,
       "desc": "无界AI，集prompt搜索、AI图库、AI创作、AI广场、词/图等为一体。提供一站式AI搜索-创作-交流-分享服务。",
       "tags": [
@@ -1986,7 +2002,7 @@
         "AI 提示词",
         "AI 图像处理"
       ],
-      "title": "PromptoMania",
+      "title": "PromptoMANIA Prompt Generator",
       "desc": "MJ和SD提示词生成器"
     },
     "https://www.clickprompt.org/zh-CN": {
@@ -2002,7 +2018,7 @@
         "AI 提示词",
         "AI 绘图"
       ],
-      "title": "LIB.KALOS.ART",
+      "title": "KALOS.art",
       "desc": "艺术风格流派参考库",
       "tags": [
         "AI",
@@ -2229,7 +2245,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "title": "Appicons AI",
+      "title": "AppIcons AI",
       "desc": "AI生成精致的App图标"
     },
     "https://www.dora.run/ai": {
@@ -2638,7 +2654,7 @@
         "AI 文档办公",
         "AI 写作助手"
       ],
-      "title": "WordAi",
+      "title": "WordAI",
       "desc": "10倍速AI内容输出！创建读者喜爱的优质内容"
     },
     "https://timelyapp.com": {
@@ -2667,7 +2683,7 @@
         "AI 文档办公",
         "AI 会议助手"
       ],
-      "title": "Otter AI",
+      "title": "OtterAI",
       "desc": "写笔记和总结会议的速度提高 30 倍",
       "tags": [
         "AI",
@@ -2685,7 +2701,7 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "title": "Noty AI",
+      "title": "Noty.ai",
       "desc": "ChatGPT驱动的AI会议转录工具",
       "tags": [
         "会议转录",
@@ -2830,7 +2846,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "title": "Mutable AI",
+      "title": "Mutable",
       "desc": "一款更全面的 GitHub Copilot 替代品",
       "needVerify": -1
     },
@@ -2852,7 +2868,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "title": "MarsX",
+      "title": "MarsAi",
       "desc": "使用无代码和零编码技能开始构建微应用程序"
     },
     "https://www.theculturedao.com": {
@@ -2961,7 +2977,7 @@
       "needVerify": -1
     },
     "https://chatexcel.com": {
-      "title": "酷表ChatExcel",
+      "title": "酷表",
       "desc": "酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据。",
       "type": [
         "AI 文档办公",
@@ -3007,7 +3023,7 @@
       ]
     },
     "https://clipdrop.co": {
-      "title": "Clipdrop",
+      "title": "Watermark Remover",
       "desc": "体验图像编辑的顶峰——水印移除AI，借助先进的人工智能技术轻松、精确地擦除水印，确保您的视觉效果保持完美清晰、无干扰。",
       "type": [
         "AI 图像处理",
@@ -3056,7 +3072,7 @@
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://nijijourney.com/zh": {
-      "title": "NijiJourney",
+      "title": "nijijourney",
       "desc": "MJ出品！面向二次元风格，内容细致拿捏专业到位",
       "type": [
         "AI 绘图",
@@ -3065,7 +3081,7 @@
       "needVerify": -1
     },
     "https://creator.nightcafe.studio": {
-      "title": "NightCafe",
+      "title": "Creative Upscaler",
       "desc": "用AI生成惊艳的艺术品",
       "type": [
         "AI 绘图",
@@ -3075,7 +3091,7 @@
       "needVPN": 1
     },
     "https://huggingface.co": {
-      "title": "Hugging Face",
+      "title": "Image to Music V2",
       "desc": "下载开源的SD模型",
       "type": [
         "AI 综合工具",
@@ -3178,7 +3194,7 @@
       ]
     },
     "https://contentatscale.ai/ai-prompt-library": {
-      "title": "Content at scale",
+      "title": "Content At Scale",
       "desc": "收录最佳的ChatGPT prompt提示词",
       "type": [
         "AI 提示词",
@@ -3314,7 +3330,7 @@
       ]
     },
     "https://lumalabs.ai": {
-      "title": "Luma Labs",
+      "title": "Luma AI",
       "desc": "将视频转为游戏资产",
       "needVPN": 1,
       "type": [
@@ -3332,7 +3348,7 @@
       ]
     },
     "https://github.com/features/copilot": {
-      "title": "GitHub Copilot",
+      "title": "Copilot",
       "desc": "热门！GitHub AI编程工具",
       "type": [
         "AI 编程开发",
@@ -3543,7 +3559,7 @@
       ]
     },
     "https://suppr.wilddata.cn": {
-      "title": "Suppr 超能文献",
+      "title": "超能文献·文档翻译",
       "intro": "AI驱动的医学文献搜索引擎",
       "desc": "Suppr 超能文献是一个利用人工智能技术驱动的医学文献搜索引擎，旨在帮助医学研究人员快速检索和获取相关医学领域的最新研究进展和临床试验信息。它通过限定时间、类型、影响因子、作者、期刊等多重条件，提供精准的文献检索服务，极大地提高了医学研究的效率和质量。",
       "lang": "zh",
@@ -3558,7 +3574,10 @@
         "网站"
       ],
       "type": [
-        "AI 搜索引擎"
+        "AI 搜索引擎",
+        "AI 文档办公",
+        "AI 翻译工具",
+        "AI 写作助手"
       ]
     },
     "https://undermind.ai": {
@@ -4878,7 +4897,7 @@
       ]
     },
     "https://jimeng.jianying.com": {
-      "title": "即梦Dreamina",
+      "title": "即梦",
       "intro": "一款AI创作工具，通过智能画布和视频生成，让创意轻松实现。",
       "desc": "即梦Dreamina是一款结合了AI技术的在线创作平台，它通过图片生成、智能画布和视频生成等功能，帮助用户将创意转化为视觉作品。该产品的主要优点在于简化了设计流程，使得非专业人士也能创作出高质量的图片和视频。产品背景信息显示，它由深圳市脸萌科技有限公司开发，定位于为广大创意工作者提供便捷的设计服务。目前产品提供免费试用，具体价格信息未在页面中明确。",
       "lang": "zh",
@@ -4893,7 +4912,9 @@
         "网站"
       ],
       "type": [
-        "AI 图像处理"
+        "AI 图像处理",
+        "AI 绘图",
+        "AI 视频生成"
       ]
     },
     "https://ideogram.ai": {
@@ -6103,7 +6124,7 @@
       "hide": 1
     },
     "https://claude.ai": {
-      "title": "Claude 2",
+      "title": "Claude",
       "intro": "智能翻译助手，轻松解决语言障碍",
       "desc": "云翻译助手是一款智能翻译工具，能够快速准确地将文字、语音、图片进行翻译。具有多国语言支持，翻译结果精准可靠。用户可以通过网页端直接使用，无需安装任何插件或软件。云翻译助手提供简单易用的界面和丰富的功能，助您轻松解决语言障碍。定价灵活合理，同时也提供免费试用期。",
       "lang": "en",
@@ -6113,7 +6134,11 @@
         "智能工具",
         "生产力",
         "全球热门",
-        "网站"
+        "网站",
+        "人工智能",
+        "自然语言处理",
+        "文件处理",
+        "多语言对话"
       ],
       "type": [
         "AI 翻译工具"
@@ -8698,7 +8723,8 @@
         "网站"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ]
     },
     "https://wantalk.baidu.com": {
@@ -8849,7 +8875,8 @@
         "网站"
       ],
       "type": [
-        "AI 行业工具"
+        "AI 行业工具",
+        "AI 大模型"
       ]
     },
     "https://airkit.ai": {
@@ -9236,7 +9263,8 @@
         "网站"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ]
     },
     "https://chatboxai.app/zh": {
@@ -9346,7 +9374,9 @@
         "全球热门",
         "APP"
       ],
-      "type": []
+      "type": [
+        "AI 大模型"
+      ]
     },
     "https://github.com/mckaywrigley/chatbot-ui": {
       "title": "Chatbot UI",
@@ -9661,7 +9691,7 @@
       ]
     },
     "https://hailuoai.com": {
-      "title": "海螺问问",
+      "title": "海螺AI",
       "intro": "您的对话式智能助理,提供智能问答、知识检索、创意写作等服务",
       "desc": "海螺AI是一个基于先进的AI生成技术打造的对话式智能助理。它可以通过简单的对话,为用户提供知识问答、信息检索、公众号文章写作、小红书笔记生成等服务,帮助用户快速获取信息,提高工作效率。主要功能包括:搜索问答、创意写作、语音交互等。适用于需要知识支持的创作者、自媒体从业者、学生群体等。",
       "lang": "zh",
@@ -9678,7 +9708,9 @@
       ],
       "type": [
         "AI 写作助手",
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 视频生成",
+        "AI 语音生成"
       ]
     },
     "https://stepchat.cn/chats/new": {
@@ -9701,7 +9733,7 @@
       ]
     },
     "https://gemini.google.com": {
-      "title": "Gemini & Gemini Advanced",
+      "title": "Gemini",
       "intro": "轻松对话，获取创意灵感",
       "desc": "Gemini是Google AI黑科技，可帮助你处理写作、规划、学习等事务。它可以与你轻松对话，提供创意灵感，帮助提升工作效率。Gemini还可以帮助你进行写作、规划、学习等任务，并提供相关的建议和指导。Gemini是一个强大的工具，适用于个人和团队使用。",
       "lang": "en",
@@ -9716,7 +9748,8 @@
         "网站"
       ],
       "type": [
-        "AI 写作助手"
+        "AI 写作助手",
+        "AI 聊天对话"
       ]
     },
     "https://chat.baichuan-ai.com/home": {
@@ -9735,7 +9768,8 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ]
     },
     "https://www.iwencai.com": {
@@ -9818,7 +9852,9 @@
         "生产力",
         "模型"
       ],
-      "type": []
+      "type": [
+        "AI 大模型"
+      ]
     },
     "https://home.tiangong.cn": {
       "title": "天工SkyMusic",
@@ -9872,7 +9908,8 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ]
     },
     "https://www.deepseek.com": {
@@ -9891,7 +9928,8 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ],
       "needVerify": 7,
       "errmsg": "[error][403]Forbidden",
@@ -10000,7 +10038,8 @@
         "插件"
       ],
       "type": [
-        "AI 编程开发"
+        "AI 编程开发",
+        "AI 大模型"
       ]
     },
     "https://www.jetbrains.com/ai/": {
@@ -11242,7 +11281,7 @@
       ]
     },
     "https://kaipai.meitu.com": {
-      "title": "开拍",
+      "title": "开拍AI",
       "intro": "AI帮你创作，全方位的创意工具",
       "desc": "开拍是一款集合了多种AI辅助创意功能的应用软件，包括AI帮你写文案、AI脚本、AI提词器、AI人像美颜、AI眼神矫正、AI主播、AI帮你剪视频等功能。用户可以快速地生成口播文案、拍摄高质量视频、美化人像、自动剪辑视频等，节省创作时间，提高创作效率。",
       "lang": "zh",
@@ -11275,7 +11314,8 @@
         "网站"
       ],
       "type": [
-        "AI 视频生成"
+        "AI 视频生成",
+        "AI 大模型"
       ]
     },
     "http://d-id.com": {
@@ -11409,7 +11449,7 @@
       ]
     },
     "https://ailogo.qq.com/guide/brandname": {
-      "title": "AIDesign",
+      "title": "腾讯AIDesign",
       "desc": "10秒创建Logo！腾讯出品的AI Logo神器",
       "type": [
         "AI 图像处理"
@@ -11652,6 +11692,607 @@
       ],
       "type": [
         "AI 行业工具"
+      ]
+    },
+    "https://browser-use.com": {
+      "title": "Browser Use.com",
+      "intro": "使网站对AI代理可访问，提升网络交互效率。",
+      "desc": "Browser Use是一个致力于使网站对AI代理可访问的平台，通过提取所有交互元素，让AI代理能够专注于其核心任务。该产品结合了先进的AI能力和强大的浏览器自动化技术，支持多标签管理、元素跟踪、自定义动作等，兼容所有LangChain LLMs，包括GPT-4、Claude 3和Llama 2。Browser Use以其高精度的Web代理性能和易用性，成为AI网络自动化领域的佼佼者。",
+      "lang": "en",
+      "tags": [
+        "AI",
+        "自动化",
+        "浏览器",
+        "网络交互",
+        "开发",
+        "编程",
+        "国外精选",
+        "网站"
+      ],
+      "type": [
+        "AI 编程开发"
+      ]
+    },
+    "https://m.chinaz.com/handdrawn/avatar.shtml": {
+      "title": "手绘头像定制",
+      "intro": "定制艺术手绘头像，打造独特社交形象",
+      "desc": "头像定制是一个提供个性化手绘头像服务的网站。它允许用户上传自己的照片，由专业的绘画师根据照片绘制出风格独特的头像。这种服务不仅满足了用户在社交平台上展示个性化形象的需求，也因其艺术性和独特性而受到欢迎。产品背景信息显示，该服务由经验丰富的绘画师提供，包括首席绘画师jissacos和新秀kiki等，他们擅长捕捉面部表情和个人特色。价格方面，根据绘画师的不同，提供不同价位的服务，用户可以根据自己的预算和喜好选择合适的服务。",
+      "lang": "zh",
+      "tags": [
+        "手绘",
+        "个性化",
+        "社交形象",
+        "艺术头像",
+        "设计",
+        "中文精选",
+        "网站"
+      ],
+      "type": [
+        "AI 图像处理"
+      ]
+    },
+    "http://ezprompt.org": {
+      "title": "EzPrompt AI",
+      "intro": "AI驱动的图像到提示生成器，快速将图像转化为创作提示。",
+      "desc": "EzPrompt AI是一个专业的图像到提示生成工具，它利用先进的AI技术，能够将任何图像瞬间转换成完美的创作提示。这个工具对于需要快速生成艺术作品提示的设计师、艺术家和内容创作者来说非常重要。它不仅提高了创作效率，还通过深度场景理解和风格元素识别，保证了生成提示的专业质量。EzPrompt AI支持多种语言和风格，并且可以针对不同的AI模型如Midjourney、Stable Diffusion和Flux进行优化，确保在各个平台上都能获得最佳效果。此外，它还提供了智能的历史管理功能，可以自动保存用户的创作历程，方便随时查看和管理历史提示。EzPrompt AI的价格策略简单透明，提供了免费试用和多种付费计划，以满足不同用户的需求。",
+      "lang": "en",
+      "tags": [
+        "AI图像分析",
+        "多语言支持",
+        "平台优化",
+        "智能提示",
+        "历史管理",
+        "图像",
+        "国外精选",
+        "生产力",
+        "网站"
+      ],
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://openai.com/index/o1-and-new-tools-for-developers/": {
+      "title": "OpenAI o1 API",
+      "intro": "OpenAI o1 是一款先进的AI模型，专为复杂任务设计。",
+      "desc": "OpenAI o1 是一个高性能的AI模型，旨在处理复杂的多步骤任务，并提供先进的准确性。它是o1-preview的后继产品，已经用于构建代理应用程序，以简化客户支持、优化供应链决策和预测复杂的金融趋势。o1模型具有生产就绪的关键特性，包括函数调用、结构化输出、开发者消息、视觉能力等。o1-2024-12-17版本在多个基准测试中创下了新的最高成绩，提高了成本效率和性能。",
+      "lang": "en",
+      "tags": [
+        "AI模型",
+        "复杂任务处理",
+        "函数调用",
+        "结构化输出",
+        "视觉推理",
+        "编程",
+        "国外精选",
+        "模型"
+      ],
+      "type": [
+        "AI 编程开发"
+      ]
+    },
+    "https://kuaiyapaper.com": {
+      "title": "快鸭论文",
+      "intro": "AI论文写作平台，10分钟生成万字论文",
+      "desc": "快鸭论文是一个AI论文写作平台，利用人工智能技术帮助用户快速生成论文大纲和初稿。该平台支持多种论文类型，包括毕业论文、期刊论文和开题报告等，覆盖多个学科领域。快鸭论文的主要优点在于高效率和便捷性，能够大幅缩短论文写作时间，提高写作效率。产品背景信息显示，该平台已累计生成86900+篇论文，今日已生成218篇，显示出较高的用户活跃度和市场需求。价格方面，快鸭论文提供不同层次的服务，包括基础的论文生成和附加服务如查重报告、开题报告等，价格从9.90元到99.90元不等，定位于为广大学生和研究人员提供便捷的论文写作辅助工具。",
+      "lang": "zh",
+      "tags": [
+        "AI写作",
+        "论文生成",
+        "学术辅助",
+        "效率提升",
+        "多学科覆盖",
+        "写作",
+        "中文精选",
+        "网站"
+      ],
+      "type": [
+        "AI 写作助手",
+        "AI 行业工具"
+      ]
+    },
+    "https://www.ysdaima.com": {
+      "title": "颜色代码表",
+      "intro": "专业的在线颜色代码转换配色工具网站",
+      "desc": "颜色代码表是一个为设计师和开发者提供一站式色彩解决方案的专业网站。运用机器学习技术，为您推荐最适合的配色方案AI辅助配色。它基于色彩理论，提供多种颜色工具，包括颜色代码转换、配色方案生成、渐变色生成等，帮助用户快速高效地完成设计工作。该网站支持多种颜色格式，并提供代码导出功能，方便用户将颜色方案直接应用到项目中。此外，它还符合WCAG 2.1标准，确保配色方案的无障碍设计。",
+      "lang": "zh",
+      "tags": [
+        "颜色工具",
+        "配色方案",
+        "渐变色",
+        "颜色转换",
+        "设计辅助",
+        "设计",
+        "中文精选",
+        "网站"
+      ],
+      "type": [
+        "AI 图像处理"
+      ]
+    },
+    "https://tldraw.dev": {
+      "title": "tldraw.dev",
+      "intro": "无限画布SDK，为React开发者提供协作白板和画布体验",
+      "desc": "tldraw是一个为React开发者设计的无限画布SDK，它允许开发者在其产品中添加协作白板功能或创造新的基于画布的体验。该SDK包含组件、API和服务，支持开发者构建高性能、可定制的画布应用。tldraw以其强大的功能、实时协作能力和对开发者友好的设计而受到好评。它适用于需要在Web上实现复杂画布交互的各类应用，从个人项目到企业级解决方案。tldraw提供免费带有水印的版本，并提供付费版本以去除水印并获取额外支持。",
+      "lang": "en",
+      "tags": [
+        "协作",
+        "白板",
+        "画布",
+        "React",
+        "设计",
+        "SDK",
+        "国外精选",
+        "网站"
+      ],
+      "type": [
+        "AI 图像处理"
+      ]
+    },
+    "https://www.hume.ai/blog/introducing-octave": {
+      "title": "OCTAVE",
+      "intro": "下一代语音语言模型，具备即时创建声音和个性的能力。",
+      "desc": "OCTAVE (Omni-Capable Text and Voice Engine)是一个结合了前沿语言模型和语音系统能力的下一代语音语言模型。它能够从简短的描述性提示或录音中生成不仅仅是声音，还有个性（语言、口音、表达、潜在性格等），并且能够实时响应中生成多个交互的AI个性和声音。OCTAVE维持了类似大小的前沿大型语言模型（LLM）的能力，非常适合驱动与人类丰富沟通的AI系统，同时遵循详细指令，使用工具或控制界面。",
+      "lang": "en",
+      "tags": [
+        "语音生成",
+        "个性化",
+        "实时互动",
+        "多角色对话",
+        "情感智能",
+        "其他",
+        "国外精选",
+        "模型"
+      ],
+      "type": [
+        "AI 语音生成",
+        "AI 角色生成"
+      ]
+    },
+    "https://apps.apple.com/au/app/grok/id6670324846": {
+      "title": "Grok App",
+      "intro": "AI助手，探索宇宙，获取真实答案",
+      "desc": "Grok是一个由X.AI Corp开发的AI助手应用，旨在提供最真实、有用和好奇的答案。用户可以通过Grok获取任何问题的答案、生成引人注目的图像，并上传图片以更深入地了解世界。Grok以其高质量的图像生成、实时更新的数据、对话式的幽默语气和注重隐私的特性，为用户提供了一个安全、高效的AI体验平台。",
+      "lang": "en",
+      "tags": [
+        "AI助手",
+        "图像生成",
+        "信息查询",
+        "隐私保护",
+        "多语言",
+        "生产力",
+        "国外精选",
+        "APP"
+      ],
+      "type": [
+        "AI 绘图",
+        "AI 行业工具"
+      ]
+    },
+    "https://cloud.google.com/products/gemini/code-assist": {
+      "title": "Gemini Code Assist",
+      "intro": "AI 编码助理，提升软件开发和交付速度",
+      "desc": "Gemini Code Assist 是 Google Cloud 提供的一款 AI 编码助理，它通过生成式 AI 协助、企业安全和隐私保护机制，帮助提升软件开发和交付速度。该产品利用数十亿行开源代码、安全数据以及 Google Cloud 文档和示例代码进行微调，为开发者在其 IDE 和 Google Cloud 服务中提供代码补全、代码生成、自然语言聊天等功能。它支持多种编程语言，并集成了 Google Cloud 的多种服务，如 Firebase、Colab Enterprise、Databases、BigQuery、Apigee 和 Application Integration。",
+      "lang": "zh",
+      "tags": [
+        "AI 辅助",
+        "代码生成",
+        "自然语言处理",
+        "企业安全",
+        "隐私保护",
+        "编程",
+        "国外精选",
+        "模型"
+      ],
+      "type": [
+        "AI 编程开发",
+        "AI 行业工具"
+      ]
+    },
+    "https://revvinvest.com": {
+      "title": "Revv",
+      "intro": "投资人工智能、太空和其他前沿股票的神奇方式",
+      "desc": "Revv是一个专注于股票信息搜索的在线平台，它允许用户快速获取和理解股票相关的信息。这个平台以其简洁的界面和高效的搜索功能，为用户提供了一个快速了解股票市场的途径。Revv的主要优点在于它的便捷性和高效性，用户可以迅速找到所需的股票信息，而无需花费大量时间进行研究。此外，Revv还提供了一个趋势板块，让用户能够紧跟市场动态。产品背景信息显示，Revv由Revv Finance Inc.提供，旨在为用户提供一个全新的股票搜索体验。",
+      "lang": "en",
+      "tags": [
+        "股票",
+        "搜索",
+        "市场分析",
+        "投资",
+        "金融",
+        "商业",
+        "国外精选",
+        "网站"
+      ],
+      "type": [
+        "AI 搜索引擎",
+        "AI 行业工具"
+      ]
+    },
+    "https://openai.com/index/early-access-for-safety-testing/": {
+      "title": "OpenAI o3",
+      "intro": "新一代最强推理模型",
+      "desc": "OpenAI o3模型是继o1之后的新一代推理模型，包括o3和o3-mini两个版本。o3在某些条件下接近于通用人工智能（AGI），在ARC-AGI基准测试中得分高达87.5%，远超人类平均水平。它在数学和编程任务中表现出色，在2024年美国数学邀请赛（AIME）中得分96.7%，在Codeforces评级中达到2727分。o3能够自我事实核查，通过“私人思维链”进行推理，提高答案的准确性。o3是首个使用“审议对齐”技术训练的模型，以符合安全原则。目前，o3模型尚未广泛可用，但安全研究人员可以注册预览o3-mini模型。o3 mini版将在1月底推出，之后不久推出o3完整版。",
+      "lang": "en",
+      "tags": [
+        "人工智能",
+        "推理模型",
+        "数学竞赛",
+        "编程竞赛",
+        "多模态推理",
+        "科学问题解决",
+        "生产力",
+        "国外精选",
+        "模型"
+      ],
+      "type": [
+        "AI 编程开发",
+        "AI 大模型"
+      ]
+    },
+    "https://vmake.ai/zh-CN/image-watermark-remover": {
+      "title": "图片去水印",
+      "intro": "使用 AI 去水印工具，轻松去除图像水印。",
+      "desc": "图片去水印工具利用强大的 AI 技术，帮助用户快速去除图像上的水印，提高创作自由和社交媒体效果。产品定位于提供便捷的水印去除服务，以增强用户体验为目标。",
+      "lang": "zh",
+      "tags": [
+        "水印去除",
+        "图片处理",
+        "AI 技术",
+        "图像",
+        "普通产品",
+        "生产力",
+        "网站"
+      ],
+      "type": [
+        "AI 图像处理",
+        "AI 绘图"
+      ]
+    },
+    "https://damo-vilab.github.io/AnyDoor-Page/": {
+      "title": "AnyDoor",
+      "intro": "虚拟试穿、物体移动",
+      "desc": "AnyDoor 是一种基于扩散的图像生成器，可以在用户指定的位置将目标对象以和谐的方式传送到新场景中。我们的模型只需要训练一次，就可以轻松推广到不同的对象和场景组合中，无需为每个对象调整参数。为了充分描述某个特定对象，我们除了使用常用的身份特征外，还补充了细节特征，这些特征经过精心设计，既能保持纹理细节，又能允许多样的局部变化（如光照、方向、姿势等），从而使对象与不同的环境更好地融合。我们还提出从视频数据集中借用知识的方法，在视频数据集中可以观察到同一对象的各种形态（沿时间轴），从而增强模型的泛化能力和鲁棒性。大量实验证明了我们方法的优越性，以及它在虚拟试穿和物体移动等实际应用中的巨大潜力。",
+      "lang": "en",
+      "tags": [
+        "图像",
+        "零样本",
+        "对象级定制",
+        "模型生成",
+        "普通产品",
+        "网站"
+      ],
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "http://write.thisonegpt.com": {
+      "title": "神笔AI写作",
+      "intro": "神笔AI写作是一个AI辅助的写作平台，专为大学生设计",
+      "desc": "神笔AI写作平台提供了一个简化的四步写作流程，帮助用户从输入论文题目到生成全文。它支持多种学科领域的论文写作，包括哲学、经济学、法学等，旨在帮助大学生高效完成论文。",
+      "lang": "zh",
+      "tags": [
+        "写作辅助",
+        "AI写作",
+        "论文写作",
+        "学术写作",
+        "写作",
+        "中文精选",
+        "网站"
+      ],
+      "type": [
+        "AI 写作助手",
+        "AI 行业工具"
+      ]
+    },
+    "https://dun.163.com/text-detect/": {
+      "title": "网易易盾",
+      "intro": "专业文本识别与过滤服务，支持多种垃圾文本检测。",
+      "desc": "网易易盾文本识别体验是基于智能识别及海量样本库的专业文本识别服务，针对文本垃圾提供个性化匹配模型及定制检测方案。产品背景包括多年行业经验积累，定位于帮助用户高效识别评论、弹幕、昵称中的变种文本垃圾。",
+      "lang": "zh",
+      "tags": [
+        "文本识别",
+        "内容过滤",
+        "安全检测",
+        "内容安全",
+        "普通产品",
+        "写作",
+        "网站"
+      ],
+      "type": [
+        "AI 写作助手"
+      ]
+    },
+    "https://www.iflytek.com/product/xinghuogongwenzhushou.html": {
+      "title": "讯飞星火公文助手",
+      "intro": "讯飞星火公文助手是一款基于科大讯飞星火大模型技术的 AI 公文写作助手。",
+      "desc": "讯飞星火公文助手是一款利用星火大模型技术的 AI 公文写作助手，提供素材筹备、拟稿写作和审稿核稿等功能。其主要优点包括高效节省写作时间、提供全面素材筹备和一键生成公文内容等。产品定位于提升公文材料撰写效率。",
+      "lang": "zh",
+      "tags": [
+        "公文助手",
+        "AI 写作助手",
+        "公文撰写",
+        "生产力",
+        "普通产品",
+        "写作",
+        "网站"
+      ],
+      "type": [
+        "AI 写作助手"
+      ]
+    },
+    "https://botsheets.com/�": {
+      "title": "Botsheets AI Writer",
+      "intro": "Chat自动化，Google Sheets作为CMS",
+      "desc": "Botsheets是一款使用Google Sheets作为CMS的Chat自动化工具。它可以将聊天对话转化为结构化数据，并生成Google Sheets，同时可以使用Google Sheets中的数据触发自动化响应。它可以帮助您轻松管理聊天内容，并自动生成自动化回复。无需编写复杂的代码，只需简单设置，即可实现Chat的自动化。",
+      "lang": "en",
+      "tags": [
+        "Chat自动化",
+        "Google Sheets",
+        "效率助手",
+        "表格处理",
+        "CMS",
+        "生产力",
+        "普通产品",
+        "网站"
+      ],
+      "type": [
+        "AI 文档办公"
+      ]
+    },
+    "http://tuan.weilaigpt.cn": {
+      "title": "站长团购AI PPT系统",
+      "intro": "一键生成海量模板，支持SaaS多开的全开源系统",
+      "desc": "站长团购AI PPT系统是一款支持一键生成和海量模板的在线建站工具，采用SaaS模式，允许无限多开。该系统基于thinkphp 6.1 + mysql 5.7 + vue3 + vite5技术栈开发，完全开源，支持定制二次开发，适用于需要快速搭建个性化网站的用户。产品原价2888元，提供详细的安装部署文档和参数配置文档，以及使用过程中的免费指导服务。",
+      "lang": "zh",
+      "tags": [
+        "PPT",
+        "效率助手",
+        "SaaS",
+        "开源",
+        "定制开发",
+        "生产力",
+        "中文精选",
+        "网站"
+      ],
+      "type": [
+        "AI 文档办公",
+        "AI 开源工具"
+      ]
+    },
+    "https://play.google.com/store/apps/details": {
+      "title": "Text To Audio—TTS & MP3_WAV",
+      "intro": "一键转换文本为音频文件",
+      "desc": "Text2Audio是一款免费的文本转语音应用，通过一键操作将文本转换为音频文件。用户可以选择多个智能声音演员，还可以根据需要调整语速和音调，创建男声、女声、叙述等不同类型的声音。适用于制作短视频解说的评论，如TikTok、YouTube、Instgram等。",
+      "lang": "en",
+      "tags": [
+        "文本转音频",
+        "声音演员",
+        "语速调整",
+        "音调调整",
+        "音乐与音频",
+        "普通产品",
+        "生产力",
+        "网站"
+      ],
+      "type": [
+        "AI 语音生成"
+      ]
+    },
+    "https://tuan.chinaz.com/goods_detail/3751": {
+      "title": "站长之家数字人系统V3",
+      "intro": "通过AI技术实现智能虚拟主播自动直播互动",
+      "desc": "该系统通过AI技术实现虚拟数字人自动化智能直播互动,拥有全天候在线、支持OBS、支持跨平台直播等优势。系统支持私有化部署、无限克隆、无限OEM贴牌、无限账号等,可满足企业自主二次开发需求。适用于直播、虚拟主播、虚拟学习助手等场景。",
+      "lang": "en",
+      "tags": [
+        "AI数字人",
+        "直播系统",
+        "虚拟主播",
+        "生成视频",
+        "虚拟助手",
+        "视频",
+        "中文精选",
+        "网站"
+      ],
+      "type": [
+        "AI 数字人",
+        "AI 视频生成"
+      ]
+    },
+    "https://wime-ai.com/?channelSource=GW-YSW": {
+      "title": "微盟WIME",
+      "desc": "电商必备！AI扩图/抠图/商品海报/营销写作全流程创作平台",
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://www.designify.com": {
+      "title": "Designify",
+      "desc": "免费在线抠图，识别内容，提供适合的合成设计",
+      "type": [
+        "AI 图像处理",
+        "AI 绘图"
+      ]
+    },
+    "https://reccloud.cn/?utm_source=uisdc&utm_medium=uisdc&utm_campaign=ona": {
+      "title": "录咖AI音视频处理",
+      "desc": "AI生成字幕、语音转文字、文字配音、文生视频、视频翻译神器",
+      "type": [
+        "AI 视频生成"
+      ]
+    },
+    "https://beatbot.fm": {
+      "title": "BeatBot",
+      "desc": "Splash的AI音乐生成器",
+      "type": [
+        "AI 视频生成"
+      ]
+    },
+    "https://withpoly.com/browse/textures": {
+      "title": "Poly",
+      "desc": "根据文本生成3D材质",
+      "type": [
+        "AI 图像处理"
+      ]
+    },
+    "https://www.pandagpt.io": {
+      "title": "PandaGPT",
+      "desc": "上传文档！即可用对话的方式让 AI 总结文档重点",
+      "type": [
+        "AI 文档办公"
+      ]
+    },
+    "https://chat.baidu.com": {
+      "title": "百度Chat",
+      "desc": "百度Chat是百度旗下的搜索AI伙伴，在大模型的基础上，集成了全网搜索的能力。",
+      "type": [
+        "AI 聊天对话"
+      ]
+    },
+    "https://yuanbao.tencent.com": {
+      "title": "腾讯元宝",
+      "desc": "腾讯元宝是依托于腾讯混元大模型的AI产品。通过AI能力帮助用户在办公、学习、创作、生活等领域提供效率和生活辅助",
+      "type": [
+        "AI 聊天对话"
+      ]
+    },
+    "https://felo.ai": {
+      "title": "Felo",
+      "desc": "多语言AI搜索引擎，为发现和理解世界知识而优化。利用ChatGPT和AI引擎的强大功能，轻松打破语言障碍，获取全球信息",
+      "type": [
+        "AI 搜索引擎"
+      ]
+    },
+    "https://www.genspark.ai": {
+      "title": "Genspark",
+      "desc": "Sparkpage 是前小度CEO景鲲创业开发的一款AI搜索产品，立志成为AI版的“百度百科”",
+      "type": [
+        "AI 搜索引擎"
+      ],
+      "star": 3
+    },
+    "https://kaisouai.com": {
+      "title": "开搜AI",
+      "desc": "开搜AI是一款面向大众免费无广告问答搜索引擎，不仅为用户问题提供直接、精准的答案，还能自动总结重点、生成大纲、思维导图并下载，帮您从上亿文献资料中筛选有用信息，提升您信息获取效率",
+      "type": [
+        "AI 搜索引擎"
+      ]
+    },
+    "https://www.hippolearning.cn": {
+      "title": "河马爱学",
+      "desc": "【教育】字节旗下基于AI的教育平台，河马爱学拥有行业领先的技术团队，通过构建基于学习行为的推荐模型，评测学生能力并实时跟踪“掌握度”变化，个性化推荐学习内容，帮助老师精准教学，帮助学生自适应学习。",
+      "type": [
+        "AI 行业工具"
+      ]
+    },
+    "https://cp.baidu.com": {
+      "title": "橙篇",
+      "desc": "百度旗下写作助手，长文生成神器",
+      "type": [
+        "AI 写作助手"
+      ]
+    },
+    "https://www.figma.com/community/widget/1274481464484630971/jambot": {
+      "title": "Jambot",
+      "desc": "Figma的插件工具，Jambot会帮助您激发初稿并更快地取得进展，借助 Jambot，您可以利用 AI 创建视觉思维导图，采用多线程方法进行头脑风暴，并在同一画布中与队友和 ChatGPT 一起产生想法。",
+      "type": [
+        "AI 思维导图"
+      ]
+    },
+    "https://www.marscode.com": {
+      "title": "Marscode",
+      "desc": "MarsCode是字节旗下AI代码助手，提供了一个内置AI助手和扩展的IDE，支持超过100种语言和主流IDE。",
+      "type": [
+        "AI 编程开发"
+      ]
+    },
+    "https://codegeex.cn": {
+      "title": "CodeGeeX",
+      "desc": "CodeGeeX是一个基于AI大模型的编程辅助工具，可以实现自动代码生成、代码翻译、自动编写注释等功能，支持20多种编程语言。",
+      "type": [
+        "AI 编程开发"
+      ]
+    },
+    "https://aigc.360.com": {
+      "title": "360智绘",
+      "desc": "360智脑AI绘画应用与分享平台，提供多种绘画风格和画布尺寸选择，用户可以根据自己的喜好定制画作，并将自己的作品分享到画廊。",
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://rightbrain.art": {
+      "title": "Vega AI",
+      "desc": "国内专业的ai创作平台，支持文本生成图片，图片风格转换",
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://www.promeai.com": {
+      "title": "PromeAI",
+      "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://voxcraft.com": {
+      "title": "VoxCraft",
+      "desc": "Voxcraft是一款基于AI的三维建模工具，通过AI技术，可以快速生成三维模型",
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://www.designkit.com": {
+      "title": "美图设计室",
+      "desc": "美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板,可在线智能生成海报,一键换色,一键换装,一键去水印,图片高清修复,无损放大,抠图,拼图。",
+      "type": [
+        "AI 图像处理"
+      ]
+    },
+    "https://shop-ai.app": {
+      "title": "ShopAI",
+      "desc": "构建电子商务网站的平台，使任何人都可以轻松创建电子商务销售网站。Shop AI 开发了一种基于数据分析的高级算法，可以自动增强您的电子商务网站。借助 Shop AI，您可以为任何目的构建电子商务网站：商业网站和直销",
+      "type": [
+        "AI 电商工具"
+      ]
+    },
+    "https://www.haimian.com": {
+      "title": "海绵音乐",
+      "desc": "海绵音乐 - 一键创作你的 AI 音乐",
+      "type": [
+        "AI 语音生成"
+      ]
+    },
+    "https://video.luchentech.com/zh-CN": {
+      "title": "VIDEO OCEAN",
+      "desc": "人人皆导演，让视频创作变得轻松自如",
+      "type": [
+        "AI 视频生成"
+      ]
+    },
+    "https://klingai.kuaishou.com": {
+      "title": "可灵AI",
+      "desc": "快手旗下的新一代AI创意生产力平台",
+      "star": 3,
+      "type": [
+        "AI 视频生成",
+        "国产大模型"
+      ]
+    },
+    "https://new.imyai.top": {
+      "title": "IMYAI智能助手",
+      "desc": "IMYAI，是图欧学习资源库、图欧学习资源导航站、皮卡搜索站长、学习资源船舱船长以及B站UP主图欧君带领图欧科技团队开发的一款AI工具，于2023年5月15日上线，专为学生党、上班族以及自由职业工作者设计，支持智能问答、语音交互、绘画作图、联网搜索、实时翻译、办公编程等多种功能，是一款包括GPT、Claude、Midjourney、Gemini、Llama、Suno、Luma、可灵、文心、千问、星火、智谱、混元等在内的100+款国内外大模型，集AI文本、绘画、音乐、视频等创作服务于一体的多功能AIGC平台。",
+      "type": [
+        "AI 综合工具"
+      ]
+    },
+    "https://xiaowenpaper.com": {
+      "title": "小文AI论文",
+      "desc": "学术旅程伴侣，智慧创作之选。轻松解决论文写作难题，AI论文助您一键完成，仅需一杯咖啡时间，即可轻松问鼎学术高峰！",
+      "type": [
+        "AI 写作助手"
+      ],
+      "tags": [
+        "AI论文",
+        "AI写作"
       ]
     }
   }
