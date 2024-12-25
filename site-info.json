@@ -242,8 +242,7 @@
     "https://xinghuo.xfyun.cn": {
       "type": [
         "AI 聊天对话",
-        "国产大模型",
-        "AI 大模型"
+        "国产大模型"
       ],
       "star": 3,
       "sort": -86,
@@ -283,8 +282,7 @@
       "type": [
         "AI 聊天对话",
         "国产大模型",
-        "AI 绘图",
-        "AI 大模型"
+        "AI 绘图"
       ],
       "star": 3,
       "sort": -84,
@@ -531,8 +529,7 @@
       "desc": "Gemini(双子座)是Google最新的大型语言模型，在一系列多模式基准测试中超越了最先进GPT4。在各种自然语言任务中表现良好，例如摘要、指令跟踪、内容生成、情感分析、实体提取、分类等。",
       "title": "Google Gemini",
       "type": [
-        "AI 编程开发",
-        "AI 大模型"
+        "AI 编程开发"
       ]
     },
     "https://www.doubao.com/chat/": {
@@ -1298,8 +1295,7 @@
     },
     "https://www.promptingguide.ai": {
       "type": [
-        "AI 提示词",
-        "AI 大模型"
+        "AI 提示词"
       ],
       "title": "提示工程指南",
       "desc": "提示工程（Prompt Engineering）是一门较新的学科，关注提示词开发和优化，帮助用户将大语言模型（Large Language Model, LLM）用于各场景和研究领域。"
@@ -3068,8 +3064,9 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][500]Internal Server Error"
+      "needVerify": 7,
+      "errmsg": "[error][500]Internal Server Error",
+      "hide": 1
     },
     "https://nijijourney.com/zh": {
       "title": "nijijourney",
@@ -3309,7 +3306,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://fliki.ai": {
@@ -8723,8 +8720,7 @@
         "网站"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ]
     },
     "https://wantalk.baidu.com": {
@@ -8875,8 +8871,7 @@
         "网站"
       ],
       "type": [
-        "AI 行业工具",
-        "AI 大模型"
+        "AI 行业工具"
       ]
     },
     "https://airkit.ai": {
@@ -9263,8 +9258,7 @@
         "网站"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ]
     },
     "https://chatboxai.app/zh": {
@@ -9374,9 +9368,7 @@
         "全球热门",
         "APP"
       ],
-      "type": [
-        "AI 大模型"
-      ]
+      "type": []
     },
     "https://github.com/mckaywrigley/chatbot-ui": {
       "title": "Chatbot UI",
@@ -9768,8 +9760,7 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ]
     },
     "https://www.iwencai.com": {
@@ -9852,9 +9843,7 @@
         "生产力",
         "模型"
       ],
-      "type": [
-        "AI 大模型"
-      ]
+      "type": []
     },
     "https://home.tiangong.cn": {
       "title": "天工SkyMusic",
@@ -9908,8 +9897,7 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ]
     },
     "https://www.deepseek.com": {
@@ -9928,8 +9916,7 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ],
       "needVerify": 7,
       "errmsg": "[error][403]Forbidden",
@@ -10038,8 +10025,7 @@
         "插件"
       ],
       "type": [
-        "AI 编程开发",
-        "AI 大模型"
+        "AI 编程开发"
       ]
     },
     "https://www.jetbrains.com/ai/": {
@@ -11314,8 +11300,7 @@
         "网站"
       ],
       "type": [
-        "AI 视频生成",
-        "AI 大模型"
+        "AI 视频生成"
       ]
     },
     "http://d-id.com": {
@@ -11768,7 +11753,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://kuaiyapaper.com": {
       "title": "快鸭论文",
@@ -11925,9 +11912,10 @@
         "模型"
       ],
       "type": [
-        "AI 编程开发",
-        "AI 大模型"
-      ]
+        "AI 编程开发"
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://vmake.ai/zh-CN/image-watermark-remover": {
       "title": "图片去水印",
@@ -11946,7 +11934,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://damo-vilab.github.io/AnyDoor-Page/": {
       "title": "AnyDoor",
@@ -11963,7 +11953,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "http://write.thisonegpt.com": {
       "title": "神笔AI写作",
@@ -12000,7 +11992,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]OK"
     },
     "https://www.iflytek.com/product/xinghuogongwenzhushou.html": {
       "title": "讯飞星火公文助手",
@@ -12018,7 +12012,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://botsheets.com/�": {
       "title": "Botsheets AI Writer",
@@ -12037,7 +12033,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "http://tuan.weilaigpt.cn": {
       "title": "站长团购AI PPT系统",
@@ -12076,7 +12074,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://tuan.chinaz.com/goods_detail/3751": {
       "title": "站长之家数字人系统V3",
@@ -12125,21 +12125,27 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://withpoly.com/browse/textures": {
       "title": "Poly",
       "desc": "根据文本生成3D材质",
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://www.pandagpt.io": {
       "title": "PandaGPT",
       "desc": "上传文档！即可用对话的方式让 AI 总结文档重点",
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://chat.baidu.com": {
       "title": "百度Chat",
@@ -12168,7 +12174,9 @@
       "type": [
         "AI 搜索引擎"
       ],
-      "star": 3
+      "star": 3,
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://kaisouai.com": {
       "title": "开搜AI",
@@ -12196,7 +12204,9 @@
       "desc": "Figma的插件工具，Jambot会帮助您激发初稿并更快地取得进展，借助 Jambot，您可以利用 AI 创建视觉思维导图，采用多线程方法进行头脑风暴，并在同一画布中与队友和 ChatGPT 一起产生想法。",
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][400]Bad Request"
     },
     "https://www.marscode.com": {
       "title": "Marscode",
@@ -12224,21 +12234,27 @@
       "desc": "国内专业的ai创作平台，支持文本生成图片，图片风格转换",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND rightbrain.art"
     },
     "https://www.promeai.com": {
       "title": "PromeAI",
       "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com"
     },
     "https://voxcraft.com": {
       "title": "VoxCraft",
       "desc": "Voxcraft是一款基于AI的三维建模工具，通过AI技术，可以快速生成三维模型",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.designkit.com": {
       "title": "美图设计室",
