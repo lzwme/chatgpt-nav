@@ -1599,9 +1599,7 @@
         "AI 图像处理"
       ],
       "title": "Facecheck ID",
-      "desc": "利用人工智能技术通过照片在线查找人员。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "利用人工智能技术通过照片在线查找人员。"
     },
     "https://www.weshop.com": {
       "type": [
@@ -2620,9 +2618,7 @@
       ],
       "title": "比格AI PPT",
       "needPay": 1,
-      "desc": "AI 一键生成PPT。需付费",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI 一键生成PPT。需付费"
     },
     "https://tome.app": {
       "type": [
@@ -3310,8 +3306,9 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://fliki.ai": {
       "title": "Fliki",
@@ -3391,7 +3388,9 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://toolfolio.io": {
       "title": "Toolfolio",
@@ -3539,7 +3538,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]connect ECONNREFUSED 138.113.102.63:443"
     },
     "https://wensi.sodabot.cn": {
@@ -4629,7 +4628,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://logocreatorai.com": {
       "title": "LogoCreatorAI",
@@ -5092,7 +5093,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]write EPROTO 00E80538DF7F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
     },
     "https://scite.ai": {
       "title": "Scite",
@@ -5219,7 +5222,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai-detector.info": {
       "title": "AI Detector",
@@ -6026,9 +6031,7 @@
       ],
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.gravitywrite.com": {
       "title": "GravityWrite",
@@ -6182,7 +6185,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]connect ECONNREFUSED 138.113.102.63:443"
     },
     "https://katteb.com/en": {
@@ -6351,7 +6354,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://gifshift.xyz": {
       "title": "GifShift",
@@ -7665,7 +7670,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.zoho.com/sheet/whats-new/zohosheet6.html": {
       "title": "Zoho Sheet",
@@ -8011,7 +8018,7 @@
         "AI 翻译工具",
         "AI 文档办公"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]connect ECONNREFUSED 138.113.102.63:443"
     },
     "https://meeting.tencent.com/ai/": {
@@ -8252,7 +8259,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.resumestarapp.com": {
       "title": "resume star",
@@ -11766,7 +11775,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://kuaiyapaper.com": {
@@ -11926,7 +11935,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://vmake.ai/zh-CN/image-watermark-remover": {
@@ -11947,7 +11956,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://damo-vilab.github.io/AnyDoor-Page/": {
@@ -11966,7 +11975,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "http://write.thisonegpt.com": {
@@ -12005,7 +12014,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]OK"
     },
     "https://www.iflytek.com/product/xinghuogongwenzhushou.html": {
@@ -12025,7 +12034,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://botsheets.com/�": {
@@ -12046,7 +12055,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "http://tuan.weilaigpt.cn": {
@@ -12087,7 +12096,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://tuan.chinaz.com/goods_detail/3751": {
@@ -12138,7 +12147,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://withpoly.com/browse/textures": {
@@ -12147,7 +12156,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.pandagpt.io": {
@@ -12156,7 +12165,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://chat.baidu.com": {
@@ -12187,7 +12196,7 @@
         "AI 搜索引擎"
       ],
       "star": 3,
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://kaisouai.com": {
@@ -12217,7 +12226,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][400]Bad Request"
     },
     "https://www.marscode.com": {
@@ -12247,7 +12256,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND rightbrain.art"
     },
     "https://www.promeai.com": {
@@ -12256,7 +12265,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com"
     },
     "https://voxcraft.com": {
@@ -12265,7 +12274,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.designkit.com": {
