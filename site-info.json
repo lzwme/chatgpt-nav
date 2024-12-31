@@ -1643,9 +1643,7 @@
         "AI 语音生成"
       ],
       "title": "Songtell",
-      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。"
     },
     "https://speechify.com": {
       "type": [
@@ -1843,7 +1841,9 @@
         "AI 绘图"
       ],
       "title": "一帧秒创",
-      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。"
+      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.animiz.cn/microvideo": {
       "type": [
@@ -2579,7 +2579,9 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理"
+      "desc": "AI生成3D无缝贴图纹理",
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -4110,9 +4112,7 @@
       "type": [
         "AI 绘图",
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://creatorkit.com/ai-product-photos": {
       "title": "AI Product Photos",
@@ -4634,9 +4634,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai.logo123.com"
+      ]
     },
     "https://www.intelogos.com": {
       "title": "Intelogos",
@@ -5117,7 +5115,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://scite.ai": {
@@ -6981,7 +6979,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -7744,7 +7744,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.canva.cn": {
       "title": "Canva 可画",
@@ -8510,9 +8512,7 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://news.microsoft.com/reinventing-productivity/": {
       "title": "Microsoft 365 Copilot",
@@ -11769,8 +11769,9 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://kuaiyapaper.com": {
       "title": "快鸭论文",
@@ -11929,48 +11930,9 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
-    },
-    "https://vmake.ai/zh-CN/image-watermark-remover": {
-      "title": "图片去水印",
-      "intro": "使用 AI 去水印工具，轻松去除图像水印。",
-      "desc": "图片去水印工具利用强大的 AI 技术，帮助用户快速去除图像上的水印，提高创作自由和社交媒体效果。产品定位于提供便捷的水印去除服务，以增强用户体验为目标。",
-      "lang": "zh",
-      "tags": [
-        "水印去除",
-        "图片处理",
-        "AI 技术",
-        "图像",
-        "普通产品",
-        "生产力",
-        "网站"
-      ],
-      "type": [
-        "AI 图像处理",
-        "AI 绘图"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
-    "https://damo-vilab.github.io/AnyDoor-Page/": {
-      "title": "AnyDoor",
-      "intro": "虚拟试穿、物体移动",
-      "desc": "AnyDoor 是一种基于扩散的图像生成器，可以在用户指定的位置将目标对象以和谐的方式传送到新场景中。我们的模型只需要训练一次，就可以轻松推广到不同的对象和场景组合中，无需为每个对象调整参数。为了充分描述某个特定对象，我们除了使用常用的身份特征外，还补充了细节特征，这些特征经过精心设计，既能保持纹理细节，又能允许多样的局部变化（如光照、方向、姿势等），从而使对象与不同的环境更好地融合。我们还提出从视频数据集中借用知识的方法，在视频数据集中可以观察到同一对象的各种形态（沿时间轴），从而增强模型的泛化能力和鲁棒性。大量实验证明了我们方法的优越性，以及它在虚拟试穿和物体移动等实际应用中的巨大潜力。",
-      "lang": "en",
-      "tags": [
-        "图像",
-        "零样本",
-        "对象级定制",
-        "模型生成",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 绘图"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "http://write.thisonegpt.com": {
       "title": "神笔AI写作",
@@ -11991,67 +11953,6 @@
         "AI 行业工具"
       ]
     },
-    "https://dun.163.com/text-detect/": {
-      "title": "网易易盾",
-      "intro": "专业文本识别与过滤服务，支持多种垃圾文本检测。",
-      "desc": "网易易盾文本识别体验是基于智能识别及海量样本库的专业文本识别服务，针对文本垃圾提供个性化匹配模型及定制检测方案。产品背景包括多年行业经验积累，定位于帮助用户高效识别评论、弹幕、昵称中的变种文本垃圾。",
-      "lang": "zh",
-      "tags": [
-        "文本识别",
-        "内容过滤",
-        "安全检测",
-        "内容安全",
-        "普通产品",
-        "写作",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]OK"
-    },
-    "https://www.iflytek.com/product/xinghuogongwenzhushou.html": {
-      "title": "讯飞星火公文助手",
-      "intro": "讯飞星火公文助手是一款基于科大讯飞星火大模型技术的 AI 公文写作助手。",
-      "desc": "讯飞星火公文助手是一款利用星火大模型技术的 AI 公文写作助手，提供素材筹备、拟稿写作和审稿核稿等功能。其主要优点包括高效节省写作时间、提供全面素材筹备和一键生成公文内容等。产品定位于提升公文材料撰写效率。",
-      "lang": "zh",
-      "tags": [
-        "公文助手",
-        "AI 写作助手",
-        "公文撰写",
-        "生产力",
-        "普通产品",
-        "写作",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
-    "https://botsheets.com/�": {
-      "title": "Botsheets AI Writer",
-      "intro": "Chat自动化，Google Sheets作为CMS",
-      "desc": "Botsheets是一款使用Google Sheets作为CMS的Chat自动化工具。它可以将聊天对话转化为结构化数据，并生成Google Sheets，同时可以使用Google Sheets中的数据触发自动化响应。它可以帮助您轻松管理聊天内容，并自动生成自动化回复。无需编写复杂的代码，只需简单设置，即可实现Chat的自动化。",
-      "lang": "en",
-      "tags": [
-        "Chat自动化",
-        "Google Sheets",
-        "效率助手",
-        "表格处理",
-        "CMS",
-        "生产力",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 文档办公"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "http://tuan.weilaigpt.cn": {
       "title": "站长团购AI PPT系统",
       "intro": "一键生成海量模板，支持SaaS多开的全开源系统",
@@ -12071,27 +11972,6 @@
         "AI 文档办公",
         "AI 开源工具"
       ]
-    },
-    "https://play.google.com/store/apps/details": {
-      "title": "Text To Audio—TTS & MP3_WAV",
-      "intro": "一键转换文本为音频文件",
-      "desc": "Text2Audio是一款免费的文本转语音应用，通过一键操作将文本转换为音频文件。用户可以选择多个智能声音演员，还可以根据需要调整语速和音调，创建男声、女声、叙述等不同类型的声音。适用于制作短视频解说的评论，如TikTok、YouTube、Instgram等。",
-      "lang": "en",
-      "tags": [
-        "文本转音频",
-        "声音演员",
-        "语速调整",
-        "音调调整",
-        "音乐与音频",
-        "普通产品",
-        "生产力",
-        "网站"
-      ],
-      "type": [
-        "AI 语音生成"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://tuan.chinaz.com/goods_detail/3751": {
       "title": "站长之家数字人系统V3",
@@ -12135,33 +12015,6 @@
         "AI 视频生成"
       ]
     },
-    "https://beatbot.fm": {
-      "title": "BeatBot",
-      "desc": "Splash的AI音乐生成器",
-      "type": [
-        "AI 视频生成"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
-    "https://withpoly.com/browse/textures": {
-      "title": "Poly",
-      "desc": "根据文本生成3D材质",
-      "type": [
-        "AI 图像处理"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
-    "https://www.pandagpt.io": {
-      "title": "PandaGPT",
-      "desc": "上传文档！即可用对话的方式让 AI 总结文档重点",
-      "type": [
-        "AI 文档办公"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://chat.baidu.com": {
       "title": "百度Chat",
       "desc": "百度Chat是百度旗下的搜索AI伙伴，在大模型的基础上，集成了全网搜索的能力。",
@@ -12190,8 +12043,9 @@
         "AI 搜索引擎"
       ],
       "star": 3,
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://kaisouai.com": {
       "title": "开搜AI",
@@ -12220,8 +12074,9 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][400]Bad Request"
+      "needVerify": 7,
+      "errmsg": "[error][400]Bad Request",
+      "hide": 1
     },
     "https://www.marscode.com": {
       "title": "Marscode",
@@ -12250,8 +12105,9 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND rightbrain.art"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND rightbrain.art",
+      "hide": 1
     },
     "https://www.promeai.com": {
       "title": "PromeAI",
@@ -12259,8 +12115,9 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com",
+      "hide": 1
     },
     "https://voxcraft.com": {
       "title": "VoxCraft",
@@ -12268,8 +12125,9 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://www.designkit.com": {
       "title": "美图设计室",
