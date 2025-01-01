@@ -1841,9 +1841,7 @@
         "AI 绘图"
       ],
       "title": "一帧秒创",
-      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。"
     },
     "https://www.animiz.cn/microvideo": {
       "type": [
@@ -2580,7 +2578,7 @@
       ],
       "title": "Ponzu",
       "desc": "AI生成3D无缝贴图纹理",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.sloyd.ai": {
@@ -5115,7 +5113,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://scite.ai": {
@@ -6979,9 +6977,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -7744,9 +7740,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.canva.cn": {
       "title": "Canva 可画",
@@ -11749,7 +11743,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://openai.com/index/o1-and-new-tools-for-developers/": {
       "title": "OpenAI o1 API",
