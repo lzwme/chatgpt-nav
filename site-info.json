@@ -1279,7 +1279,7 @@
       ],
       "title": "iFlyCode",
       "desc": "代码大模型，支持讯飞AI能力，具有业界领先的代码大模型能力。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.zelinai.com": {
@@ -1719,7 +1719,9 @@
         "AI 视频生成"
       ],
       "title": "Opus Clip",
-      "desc": "Opus Clip可将长视频转换成高质量的短片，以在TikTok、YouTube Shorts 和 Reels上分享，以增加社交媒体的覆盖范围。"
+      "desc": "Opus Clip可将长视频转换成高质量的短片，以在TikTok、YouTube Shorts 和 Reels上分享，以增加社交媒体的覆盖范围。",
+      "needVerify": 1,
+      "errmsg": "[error][525]HTTP_525"
     },
     "https://jollytoday.com": {
       "type": [
@@ -2078,7 +2080,7 @@
       ],
       "title": "Ordinary Prompts",
       "desc": "有趣ChatGPT提示词",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "https://catjourney.life": {
@@ -2247,9 +2249,7 @@
         "AI 图像处理"
       ],
       "title": "Superflow",
-      "desc": "AI辅助高效网站协作设计",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI辅助高效网站协作设计"
     },
     "https://www.noya.io": {
       "type": [
@@ -3024,9 +3024,7 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.seaart.ai": {
       "title": "SeaArt",
@@ -3607,7 +3605,9 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://undermind.ai": {
       "title": "Undermind.ai",
@@ -8911,9 +8911,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -10581,9 +10579,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      ]
     },
     "https://www.lalal.ai": {
       "title": "Lalal.ai",
