@@ -2076,7 +2076,7 @@
       ],
       "title": "Ordinary Prompts",
       "desc": "有趣ChatGPT提示词",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "https://catjourney.life": {
@@ -2159,9 +2159,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "商业级AI影像处理工具"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -3439,9 +3437,7 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -3565,7 +3561,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]connect ECONNREFUSED 138.113.102.63:443"
     },
     "https://wensi.sodabot.cn": {
@@ -3721,9 +3717,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://imglarger.com": {
       "title": "Imglarger",
@@ -5439,7 +5433,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -5982,9 +5978,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND rytr.me"
+      ]
     },
     "https://longshot.ai": {
       "title": "LongShot AI",
@@ -6213,7 +6207,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]connect ECONNREFUSED 138.113.102.63:443"
     },
     "https://katteb.com/en": {
@@ -6991,7 +6985,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
@@ -7736,7 +7730,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://getluminal.com": {
       "title": "Luminal",
@@ -8024,9 +8020,7 @@
         "AI 语音生成",
         "AI 翻译工具",
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]connect ECONNREFUSED 138.113.102.63:443"
+      ]
     },
     "https://meeting.tencent.com/ai/": {
       "title": "腾讯会议·AI小助手",
@@ -10589,9 +10583,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      ]
     },
     "https://www.lalal.ai": {
       "title": "Lalal.ai",
@@ -11153,9 +11145,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -11313,7 +11303,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
@@ -12151,9 +12141,7 @@
       "desc": "美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板,可在线智能生成海报,一键换色,一键换装,一键去水印,图片高清修复,无损放大,抠图,拼图。",
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://shop-ai.app": {
       "title": "ShopAI",
