@@ -1874,9 +1874,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2078,8 +2076,9 @@
       ],
       "title": "Ordinary Prompts",
       "desc": "有趣ChatGPT提示词",
-      "needVerify": 6,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
+      "needVerify": 7,
+      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>",
+      "hide": 1
     },
     "https://catjourney.life": {
       "type": [
@@ -3468,9 +3467,7 @@
       "needLogin": 1,
       "desc": "一站式AIGC平台，集成Chatgpt、Claude、ChatGLM、Midjourney、DALL-E、Flux.1、Suno等全网顶级AI大模型，实现文本创作、图片生成、音乐创作一站式生成。",
       "title": "星界AI|一站式AIGC平台",
-      "needPwd": 1,
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needPwd": 1
     },
     "https://contacted.io": {
       "title": "contacted.io",
@@ -9196,9 +9193,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://qidian.qq.com/module/service.html": {
       "title": "腾讯企点客服",
@@ -10579,7 +10574,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.lalal.ai": {
       "title": "Lalal.ai",
@@ -12184,7 +12181,7 @@
         "AI论文",
         "AI写作"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]socket hang up"
     }
   }
