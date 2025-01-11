@@ -332,9 +332,7 @@
       "sort": -84,
       "needLogin": 1,
       "desc": "中科院自动化所和武汉人工智能研究院联合推出的新一代大模型，从三模态走向全模态，支持多轮问答、文本创作、图像生成、3D理解、信号分析等全面问答任务，拥有更强的认知、理解、创作能力，带来全新互动体验。",
-      "title": "紫东太初",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "紫东太初"
     },
     "https://ai.360.cn": {
       "type": [
@@ -426,7 +424,9 @@
     },
     "https://aigcfun.com": {
       "title": "AI EDU",
-      "desc": "该站点已暂停访问"
+      "desc": "该站点已暂停访问",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://aitools.run": {
       "urls": [
@@ -1105,9 +1105,7 @@
         "AI 文档办公"
       ],
       "title": "SlidesGo",
-      "desc": "Slidesgo最新推出了AI演示制作工具，它能在几次点击之内，为你制作出符合你需求的精美幻灯片。而且，它完全免费！",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "Slidesgo最新推出了AI演示制作工具，它能在几次点击之内，为你制作出符合你需求的精美幻灯片。而且，它完全免费！"
     },
     "https://tome.app/ai": {
       "type": [
@@ -1282,9 +1280,7 @@
         "AI 编程开发"
       ],
       "title": "iFlyCode",
-      "desc": "代码大模型，支持讯飞AI能力，具有业界领先的代码大模型能力。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "代码大模型，支持讯飞AI能力，具有业界领先的代码大模型能力。"
     },
     "https://www.zelinai.com": {
       "type": [
@@ -5438,7 +5434,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -9199,7 +9197,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://qidian.qq.com/module/service.html": {
       "title": "腾讯企点客服",
@@ -12185,7 +12185,7 @@
         "AI论文",
         "AI写作"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]socket hang up"
     }
   }
