@@ -424,9 +424,7 @@
     },
     "https://aigcfun.com": {
       "title": "AI EDU",
-      "desc": "该站点已暂停访问",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "该站点已暂停访问"
     },
     "https://aitools.run": {
       "urls": [
@@ -5434,9 +5432,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -9197,9 +9193,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://qidian.qq.com/module/service.html": {
       "title": "腾讯企点客服",
@@ -12185,7 +12179,7 @@
         "AI论文",
         "AI写作"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]socket hang up"
     }
   }
