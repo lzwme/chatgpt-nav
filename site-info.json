@@ -2176,7 +2176,9 @@
         "AI 绘图"
       ],
       "title": "清图",
-      "desc": "在线修复！国产的 AI 图像处理工具"
+      "desc": "在线修复！国产的 AI 图像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://jpghd.com/zh": {
       "type": [
@@ -12179,7 +12181,7 @@
         "AI论文",
         "AI写作"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]socket hang up"
     }
   }
