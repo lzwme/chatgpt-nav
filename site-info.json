@@ -2177,7 +2177,7 @@
       ],
       "title": "清图",
       "desc": "在线修复！国产的 AI 图像处理工具",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://jpghd.com/zh": {
@@ -3604,7 +3604,9 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://undermind.ai": {
       "title": "Undermind.ai",
@@ -5434,7 +5436,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -11356,7 +11360,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -12181,8 +12187,9 @@
         "AI论文",
         "AI写作"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]socket hang up"
+      "needVerify": 7,
+      "errmsg": "[error][-1]socket hang up",
+      "hide": 1
     }
   }
 }
