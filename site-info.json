@@ -1285,7 +1285,9 @@
         "AI 编程开发"
       ],
       "title": "ZelinAI",
-      "desc": "ZelinAI零代码构建你的AI应用，ZelinAI目前接入了微软合规的GPT3.5、GPT4大智能体以及文心一言、星火等国内知名的大智能体"
+      "desc": "ZelinAI零代码构建你的AI应用，ZelinAI目前接入了微软合规的GPT3.5、GPT4大智能体以及文心一言、星火等国内知名的大智能体",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.dora.run": {
       "type": [
@@ -2177,7 +2179,7 @@
       ],
       "title": "清图",
       "desc": "在线修复！国产的 AI 图像处理工具",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://jpghd.com/zh": {
@@ -3604,9 +3606,7 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://undermind.ai": {
       "title": "Undermind.ai",
@@ -5436,9 +5436,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -10543,7 +10541,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://maken.it/spleetergui/": {
       "title": "SpleeterGUI",
@@ -11360,9 +11360,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
