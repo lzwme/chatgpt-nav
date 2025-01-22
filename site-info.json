@@ -342,9 +342,7 @@
       "star": 3,
       "needLogin": 1,
       "desc": "需申请资格",
-      "title": "360智脑",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "360智脑"
     },
     "https://chat.oldwei.com": {
       "type": [
@@ -377,7 +375,9 @@
       "needLogin": 1,
       "source": "recommend",
       "title": "T-CHAT",
-      "desc": "免费的AI画图"
+      "desc": "免费的AI画图",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://gpt.nowait.xin/chat": {
       "star": 2,
@@ -1339,9 +1339,7 @@
         "AI 绘图"
       ],
       "title": "Leonardo.AI/",
-      "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。"
     },
     "https://pixai.art": {
       "type": [
@@ -1675,9 +1673,7 @@
         "AI 语音生成"
       ],
       "title": "魔音工坊",
-      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。"
     },
     "https://mubert.com": {
       "type": [
@@ -1903,7 +1899,9 @@
         "AI 绘图"
       ],
       "title": "eSheep",
-      "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图"
+      "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图",
+      "needVerify": 1,
+      "errmsg": "[error][200]2025年1月22日起 ，【Esheep】全面停止运营。"
     },
     "https://www.wujieai.com": {
       "type": [
@@ -2053,7 +2051,9 @@
         "普通产品",
         "生产力",
         "网站"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://tools.saxifrage.xyz/prompt": {
       "type": [
@@ -2401,9 +2401,7 @@
         "AI 写作助手"
       ],
       "title": "AI论文帮",
-      "desc": "5分钟生成万字优质原创论文！",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "5分钟生成万字优质原创论文！"
     },
     "https://www.notion.so/product/ai": {
       "type": [
@@ -2588,9 +2586,7 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      "desc": "AI生成3D无缝贴图纹理"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -4166,9 +4162,7 @@
       "type": [
         "AI 电商工具",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://photokit.com": {
       "title": "PhotoKit",
@@ -4822,9 +4816,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://www.adobe.com/au/sensei/generative-ai/firefly.html": {
       "title": "Adobe Firefly",
@@ -5446,9 +5438,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -5766,7 +5756,9 @@
       "type": [
         "AI 编程开发",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://anyword.com": {
       "title": "Anyword",
@@ -7627,9 +7619,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://numerous.ai": {
       "title": "numerous",
@@ -9872,9 +9862,7 @@
         "生产力",
         "模型"
       ],
-      "type": [],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "type": []
     },
     "https://home.tiangong.cn": {
       "title": "天工SkyMusic",
@@ -10963,9 +10951,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://js.design/ai": {
       "title": "即时设计",
@@ -11199,9 +11185,7 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -11523,7 +11507,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fintax.golcer.com": {
       "title": "高灯财务 AI 助手",
@@ -11562,7 +11548,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
@@ -12154,9 +12142,7 @@
       "desc": "美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板,可在线智能生成海报,一键换色,一键换装,一键去水印,图片高清修复,无损放大,抠图,拼图。",
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://shop-ai.app": {
       "title": "ShopAI",
