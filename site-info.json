@@ -375,9 +375,7 @@
       "needLogin": 1,
       "source": "recommend",
       "title": "T-CHAT",
-      "desc": "免费的AI画图",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "免费的AI画图"
     },
     "https://gpt.nowait.xin/chat": {
       "star": 2,
@@ -523,7 +521,9 @@
     },
     "https://puaai.net": {
       "title": "Ymiai",
-      "desc": "快捷、高效的人工智能创作平台"
+      "desc": "快捷、高效的人工智能创作平台",
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://deepmind.google/technologies/gemini": {
       "star": 3,
@@ -1339,7 +1339,9 @@
         "AI 绘图"
       ],
       "title": "Leonardo.AI/",
-      "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。"
+      "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://pixai.art": {
       "type": [
@@ -1900,7 +1902,7 @@
       ],
       "title": "eSheep",
       "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][200]2025年1月22日起 ，【Esheep】全面停止运营。"
     },
     "https://www.wujieai.com": {
@@ -2052,7 +2054,7 @@
         "生产力",
         "网站"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://tools.saxifrage.xyz/prompt": {
@@ -4816,7 +4818,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.adobe.com/au/sensei/generative-ai/firefly.html": {
       "title": "Adobe Firefly",
@@ -5756,9 +5760,7 @@
       "type": [
         "AI 编程开发",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://anyword.com": {
       "title": "Anyword",
@@ -11507,9 +11509,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://fintax.golcer.com": {
       "title": "高灯财务 AI 助手",
@@ -11548,9 +11548,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",

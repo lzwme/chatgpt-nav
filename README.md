@@ -181,7 +181,7 @@
 1. [[⭐⭐] https://www.wujieai.com](https://www.wujieai.com) **无界 AI。** 无界AI，集prompt搜索、AI图库、AI创作、AI广场、词/图等为一体。提供一站式AI搜索-创作-交流-分享服务。
 1. [[⭐] http://d-id.com](http://d-id.com) **D-ID。** D-ID是一个创意AI平台，使用AI技术将照片转换为视频。它可以轻松地从文本生成视频，为培训材料、内部沟通、营销等提供AI驱动的、经济实惠的视频解决方案。D-ID还可以实现与聊天机器人进行面对面的对话，使用户获得更加沉浸式和人性化的体验。D-ID还提供API和自助工作室，供开发人员使用。
 1. [[⭐] http://ezprompt.org](http://ezprompt.org) **EzPrompt AI。** EzPrompt AI是一个专业的图像到提示生成工具，它利用先进的AI技术，能够将任何图像瞬间转换成完美的创作提示。这个工具对于需要快速生成艺术作品提示的设计师、艺术家和内容创作者来说非常重要。它不仅提高了创作效率，还通过深度场景理解和风格元素识别，保证了生成提示的专业质量。EzPrompt AI支持多种语言和风格，并且可以针对不同的AI模型如Midjourney、Stable Diffusion和Flux进行优化，确保在各个平台上都能获得最佳效果。此外，它还提供了智能的历史管理功能，可以自动保存用户的创作历程，方便随时查看和管理历史提示。EzPrompt AI的价格策略简单透明，提供了免费试用和多种付费计划，以满足不同用户的需求。
-1. [[⭐] http://leonardo.ai](http://leonardo.ai) **LeonardoAI。** Leonardo AI是一个创新的AI艺术生成器，能够以前所未有的质量、速度和风格一致性创建专业级的视觉素材。用户可以通过预训练的AI模型或自行训练模型来生成独特的艺术作品。Leonardo AI提供简单易用且功能强大的工具，支持从初学者到专业人士的各种创作需求。
+1. [[⭐] http://leonardo.ai](http://leonardo.ai) **LeonardoAI。** Leonardo AI是一个创新的AI艺术生成器，能够以前所未有的质量、速度和风格一致性创建专业级的视觉素材。用户可以通过预训练的AI模型或自行训练模型来生成独特的艺术作品。Leonardo AI提供简单易用且功能强大的工具，支持从初学者到专业人士的各种创作需求。 `[error][403]Forbidden`
 1. [[⭐] http://removewatermark.ai](http://removewatermark.ai) **WatermarkRemoverAI。** Watermark Remover AI是一个在线图像水印删除工具,使用AI技术,只需单击一下即可自动识别并删除图像中的水印。它提供一键式操作,速度快,重建准确,可以批量处理多张照片。用户只需上传有水印的图片,系统即可智能识别水印区域并去除,输出清晰的无水印图像。该工具使用简单,删除效果专业,非常适合初学者或专业人士使用。
 1. [[⭐] https://302.ai](https://302.ai) **302.AI。** 302.AI是一个汇集了全球顶级AI品牌的在线平台，提供无月费，按需付费的服务模式。它允许用户根据需求选择不同的AI服务，无需支付固定的月费，从而降低使用门槛，提高灵活性。平台可能涵盖了多种AI技术，如图像识别、自然语言处理等，满足不同用户的需求。
 1. [[⭐] https://3dfy.ai](https://3dfy.ai) **3DFY AI。** AI创建大规模高质量的3D资产
@@ -241,7 +241,7 @@
 1. [[⭐] https://jpghd.com/zh](https://jpghd.com/zh) **jpgHD。** 一键修复，让您的老照片变新照片
 1. [[⭐] https://jpgrm.com](https://jpgrm.com) **jpgRM。** jpgRM 是一款利用 2024 年最先进人工智能技术的图片处理工具，可智能擦除图片中不需要的部分，填补背景内容，消除水印等。其主要优点在于高效快速地处理图片，并提供高质量的结果。定位于为用户提供便捷的图片编辑解决方案。
 1. [[⭐] https://jsai.cc/ai](https://jsai.cc/ai) **即时AI。** 即时AI是一款极具前沿创新的AIGC产品，一款可以快速生成设计稿的生成式设计工具，它能够通过简单的自然语言描述来生成与需求相匹配的设计稿。
-1. [[⭐] https://leonardo.ai](https://leonardo.ai) **Leonardo.AI/。** 以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。
+1. [[⭐] https://leonardo.ai](https://leonardo.ai) **Leonardo.AI/。** 以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。 `[error][403]Forbidden`
 1. [[⭐] https://letsenhance.io](https://letsenhance.io) **Let's Enhance。** Let’s Enhance是一款使用人工智能的图像增强与放大工具。它基于深度卷积神经网络和其他机器学习技术，可以自动提高图像的分辨率和质量。它可以修复模糊、马赛克和低分辨率的图片，并使每张照片更加清晰和锐利。Let’s Enhance还提供API服务，适用于商业和创意专业人士。定价方案多样，从免费试用到企业级订阅都有。Let’s Enhance适用于生产力、设计、商业等多个领域，能够满足用户对图像质量提升的需求。
 1. [[⭐] https://lib.kalos.art](https://lib.kalos.art) **KALOS.art。** 艺术风格流派参考库 `[error][502]Bad Gateway`
 1. [[⭐] https://magicstudio.com/zh](https://magicstudio.com/zh) **MagicStudio。** 图片处理必备效率神器！为你的图片提供神奇魔法
@@ -355,7 +355,7 @@
 1. [[⭐⭐⭐] https://arc.tencent.com/zh/ai-demos/faceRestoration](https://arc.tencent.com/zh/ai-demos/faceRestoration) **腾讯ARC。** ARC是腾讯旗下ARC（Applied Research Center，应用研究中心）实验室推出的系列AI图片处理工具，目前提供了三项免费的AI图像功能：人像修复、人像抠图和动漫增强。
 1. [[⭐⭐] https://d.design](https://d.design) **堆友。** 堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。
 1. [[⭐] http://bigesj.com/ai-ppt/](http://bigesj.com/ai-ppt/) **比格PPT。** 比格PPT是一款功能强大的在线智能PPT设计SaaS平台。用户可以通过语言描述快速自动生成PPT,大大提升工作效率。平台拥有10000+精美PPT模板,覆盖商业、教育等多个行业场景。用户还可以利用平台强大的AI功能,一键优化PPT内容,实现高质量的演示文稿内容。平台提供了多种订阅方案,个人用户每月最低¥19元起,企业用户可享受更优惠价格
-1. [[⭐] http://leonardo.ai](http://leonardo.ai) **LeonardoAI。** Leonardo AI是一个创新的AI艺术生成器，能够以前所未有的质量、速度和风格一致性创建专业级的视觉素材。用户可以通过预训练的AI模型或自行训练模型来生成独特的艺术作品。Leonardo AI提供简单易用且功能强大的工具，支持从初学者到专业人士的各种创作需求。
+1. [[⭐] http://leonardo.ai](http://leonardo.ai) **LeonardoAI。** Leonardo AI是一个创新的AI艺术生成器，能够以前所未有的质量、速度和风格一致性创建专业级的视觉素材。用户可以通过预训练的AI模型或自行训练模型来生成独特的艺术作品。Leonardo AI提供简单易用且功能强大的工具，支持从初学者到专业人士的各种创作需求。 `[error][403]Forbidden`
 1. [[⭐] http://removewatermark.ai](http://removewatermark.ai) **WatermarkRemoverAI。** Watermark Remover AI是一个在线图像水印删除工具,使用AI技术,只需单击一下即可自动识别并删除图像中的水印。它提供一键式操作,速度快,重建准确,可以批量处理多张照片。用户只需上传有水印的图片,系统即可智能识别水印区域并去除,输出清晰的无水印图像。该工具使用简单,删除效果专业,非常适合初学者或专业人士使用。
 1. [[⭐] https://3dfy.ai](https://3dfy.ai) **3DFY AI。** AI创建大规模高质量的3D资产
 1. [[⭐] https://ai.logo123.com](https://ai.logo123.com) **123LOGO生成器。** LOGO123 是一款超级智能好用的 Logo 在线设计生成器，为您提供免费公司 logo 设计制作。只需输入品牌名称就能免费在线生成公司 logo 设计及配套企业 VI，轻松打造您的个性品牌！我们还提供配套名片、企业 VI、专业出品、版权可商用等服务，帮助您打造完整的品牌形象。
@@ -867,7 +867,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] http://write.thisonegpt.com](http://write.thisonegpt.com) **神笔AI写作。** 神笔AI写作平台提供了一个简化的四步写作流程，帮助用户从输入论文题目到生成全文。它支持多种学科领域的论文写作，包括哲学、经济学、法学等，旨在帮助大学生高效完成论文。
 1. [[⭐] https://ahrefs.com](https://ahrefs.com) **Ahrefs。** Ahrefs 是一款全能的 SEO 工具集，具有分析竞争对手、审核和优化网站、发现关键词、获取内容创意和链接机会以及跟踪排名进展等功能。其数据和指标是 SEO 行业中最受信任的，深受市场营销人员和领先公司的信赖。
 1. [[⭐] https://ai-detector.info](https://ai-detector.info) **AI Detector。** AI Detector是一个在线工具，使用先进的算法和机器学习来检测文本是否由AI生成。它可以分析写作风格和句子结构，判断内容是否由ChatGPT、GPT 4、Bard、Claude或人类创作。您可以免费使用AI Detector，每次最多检测1000个字，并获得95%的准确率。
-1. [[⭐] https://ai.chinaz.com](https://ai.chinaz.com) **站长 AI。** 站长 AI 是一个强大的 AI 工具合集，通过人工智能技术为用户提供内容鉴定、编程辅助、SEO 优化、智能写作等多种功能。其主要优点包括高效提升工作效率、帮助用户解决难题、节省时间成本、提高内容质量等。站长 AI 定位于为广大站长和创作者提供便捷、智能的工具支持。 `[error][-1]timeout`
+1. [[⭐] https://ai.chinaz.com](https://ai.chinaz.com) **站长 AI。** 站长 AI 是一个强大的 AI 工具合集，通过人工智能技术为用户提供内容鉴定、编程辅助、SEO 优化、智能写作等多种功能。其主要优点包括高效提升工作效率、帮助用户解决难题、节省时间成本、提高内容质量等。站长 AI 定位于为广大站长和创作者提供便捷、智能的工具支持。
 1. [[⭐] https://ai.kezhan365.com](https://ai.kezhan365.com) **万彩AI。** 万彩AI是一款强大的AI写作工具合集，它为缺乏灵感或对写作感到困难的人提供了AI智能写作支持。
 1. [[⭐] https://ai.zaker.cn](https://ai.zaker.cn) **爱创作。** 一键生成文章、营销文本、配图与短视频等多类型内容
 1. [[⭐] https://aic.oceanengine.com](https://aic.oceanengine.com) **抖音即创。** 即创工作台是一个一站式的智能创意生产与管理平台。它集成了视频创作、图文创作、直播创作等多种创意工具,可以通过AI的力量大大提高创作效率。主要功能和优势包括:1)视频创作:内置多种AI视频创作工具,支持智能编剧、数字人物、一键成片等,可快速生成高质量视频内容;2)图文创作:提供智能图文和商品图片生成工具,可快速制作微信文章、产品详情等图文内容;3)直播创作:支持AI直播背景、直播文案等创作工具,可轻松制作抖音、快手等直播内容。定位为新创和创意从业者的创意助手,以合理价格提供创意生产全流程服务。
@@ -1017,7 +1017,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://pptx.ai/signup](https://pptx.ai/signup) **PPTX。** AI演示文稿生成器可以通过语音或文字描述自动生成演示文稿,无需PPT设计和排版经验,支持多种演示文稿模板和主题,输出标准PPT文件,可直接用于商业演示、课堂教学、学术会议等场景。
 1. [[⭐] https://presentory.wondershare.com](https://presentory.wondershare.com) **Presentory。** Presentory是万兴科技旗下一款使用AI创建演示文稿的产品。
 1. [[⭐] https://prezi.com](https://prezi.com) **Prezi。** 感动观众的演示，Prezi使用AI能力比以往任何时候都更快地完善、增强和定制您的内容。
-1. [[⭐] https://raccoon.sensetime.com/office](https://raccoon.sensetime.com/office) **办公小浣熊 Raccoon。** 办公小浣熊是基于商汤大语言模型的大模型原生数据分析产品，通过自然语言输入，结合商汤大模型的能力，自动将数据转化为有意义的分析和可视化结果。它支持复杂表格、多表格、多文件的理解，能够完成数据清洗、数据运算、比较分析、趋势分析，预测性分析、可视化等常见数据分析任务，赋能财务分析、商业分析、销售预测、市场分析、宏观分析等多个应用场景。 `[error][-1]timeout`
+1. [[⭐] https://raccoon.sensetime.com/office](https://raccoon.sensetime.com/office) **办公小浣熊 Raccoon。** 办公小浣熊是基于商汤大语言模型的大模型原生数据分析产品，通过自然语言输入，结合商汤大模型的能力，自动将数据转化为有意义的分析和可视化结果。它支持复杂表格、多表格、多文件的理解，能够完成数据清洗、数据运算、比较分析、趋势分析，预测性分析、可视化等常见数据分析任务，赋能财务分析、商业分析、销售预测、市场分析、宏观分析等多个应用场景。
 1. [[⭐] https://resume.co](https://resume.co) **Resume。** 使用Resume，在短短 5 分钟内创建一份能帮助你获得工作的简历。选择超过 20 个专业、现代和创意的简历模板。
 1. [[⭐] https://resumeboostai.com](https://resumeboostai.com) **ResumeBoostAI。** ResumeBoostAI是一个AI简历和求职文书生成工具。用户可以使用其 resume builder 快速生成个性化简历,或使用 cover letter、bullet points、common job answers等功能自动生成求职文书。该工具使用AI技术,根据用户提供的个人信息智能生成简历内容,节省用户大量撰写时间,提升简历质量。适合正在找工作的求职者使用。
 1. [[⭐] https://rossum.ai](https://rossum.ai) **Rossum.ai。** 深受企业信赖，强大易用的AI智能文档处理平台
@@ -1053,7 +1053,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://www.taskade.com](https://www.taskade.com) **Taskade。** 高颜值AI大纲和思维导图生成，统一您的工作流程
 1. [[⭐] https://www.wondercv.com](https://www.wondercv.com) **超级简历。** WonderCV 是一款智能简历制作工具，提供专业简历模板和优化建议，帮助用户制作出高质量简历。其主要优点在于人力资源专家设计的模板，智能纠错和简历直推功能，以及 AI 算法匹配职位。WonderCV 定位于为求职者提供简历制作工具和求职辅助服务。
 1. [[⭐] https://www.x-design.com](https://www.x-design.com) **美图 AI PPT。** 美图设计室是一款由中国互联网公司美图公司开发的图像处理、照片编辑和设计软件。
-1. [[⭐] https://www.yishijuan.com](https://www.yishijuan.com) **AEE。** AEE（Auto Excel Editor）是一款在线AI全自动Excel编辑器，它通过先进的人工智能技术，实现了对Excel表格的全自动化逻辑操作。用户只需输入简单的提示语，AEE便能自动完成智能录入、自动插入公式、样式修改、生成数据、生成模板、增删改查等任务，极大地提升了工作效率。AEE的背景是针对传统Excel操作繁琐、学习成本高的问题，旨在通过智能化手段简化Excel使用流程，让非专业人士也能轻松处理数据。 `[error][-1]timeout`
+1. [[⭐] https://www.yishijuan.com](https://www.yishijuan.com) **AEE。** AEE（Auto Excel Editor）是一款在线AI全自动Excel编辑器，它通过先进的人工智能技术，实现了对Excel表格的全自动化逻辑操作。用户只需输入简单的提示语，AEE便能自动完成智能录入、自动插入公式、样式修改、生成数据、生成模板、增删改查等任务，极大地提升了工作效率。AEE的背景是针对传统Excel操作繁琐、学习成本高的问题，旨在通过智能化手段简化Excel使用流程，让非专业人士也能轻松处理数据。
 1. [[⭐] https://www.zoho.com/sheet/whats-new/zohosheet6.html](https://www.zoho.com/sheet/whats-new/zohosheet6.html) **Zoho Sheet。** Zoho Sheet是一个在线电子表格工具,提供数据连接、开放式AI集成、主题模板等功能,使电子表格更智能、自动化。支持移动端使用,与Zoho生态系统深度集成,适合团队协作。
 1. [[⭐] https://yinxiang.com/dl-mac/](https://yinxiang.com/dl-mac/) **印象 AI。** 「印象笔记」X「印象AI」会创作的第二大脑
 1. [[⭐] https://zapier.com/ai](https://zapier.com/ai) **Zapier AI。** 赞！Zapier推出的AI自动化集成功能
@@ -1106,7 +1106,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 
 ### AI 编程开发 (45)
 
-1. [[⭐] https://ai.chinaz.com](https://ai.chinaz.com) **站长 AI。** 站长 AI 是一个强大的 AI 工具合集，通过人工智能技术为用户提供内容鉴定、编程辅助、SEO 优化、智能写作等多种功能。其主要优点包括高效提升工作效率、帮助用户解决难题、节省时间成本、提高内容质量等。站长 AI 定位于为广大站长和创作者提供便捷、智能的工具支持。 `[error][-1]timeout`
+1. [[⭐] https://ai.chinaz.com](https://ai.chinaz.com) **站长 AI。** 站长 AI 是一个强大的 AI 工具合集，通过人工智能技术为用户提供内容鉴定、编程辅助、SEO 优化、智能写作等多种功能。其主要优点包括高效提升工作效率、帮助用户解决难题、节省时间成本、提高内容质量等。站长 AI 定位于为广大站长和创作者提供便捷、智能的工具支持。
 1. [[⭐] https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/codewhisperer/) **Amazon CodeWhisperer。** Amazon CodeWhisperer是一个AI代码伴侣，基于您的注释和现有代码，实时生成代码建议，包括代码片段和完整函数。它可以帮助您绕过耗时的编码任务，加速使用陌生API构建应用程序。CodeWhisperer训练有数十亿行代码，并可以根据您的需求生成代码建议。它还可以检测代码中难以发现的漏洞，并提供修复建议。您可以在15种编程语言和多个集成开发环境中使用CodeWhisperer，包括Python、Java、JavaScript、VS Code、IntelliJ IDEA等。使用CodeWhisperer，您可以更快、更安全地编写代码。
 1. [[⭐] https://browser-use.com](https://browser-use.com) **Browser Use.com。** Browser Use是一个致力于使网站对AI代理可访问的平台，通过提取所有交互元素，让AI代理能够专注于其核心任务。该产品结合了先进的AI能力和强大的浏览器自动化技术，支持多标签管理、元素跟踪、自定义动作等，兼容所有LangChain LLMs，包括GPT-4、Claude 3和Llama 2。Browser Use以其高精度的Web代理性能和易用性，成为AI网络自动化领域的佼佼者。
 1. [[⭐] https://charisma.ai](https://charisma.ai) **Charisma。** 轻松连接到 Unreal Engine、Unity、移动设备和 metaverses
