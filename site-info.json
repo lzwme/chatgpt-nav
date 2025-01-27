@@ -310,7 +310,9 @@
       "sort": -84,
       "needLogin": 1,
       "desc": "腾讯混元生图",
-      "title": "混元生图"
+      "title": "混元生图",
+      "needVerify": 1,
+      "errmsg": "[error][525]EO errCode : SSL handshake failed"
     },
     "https://so.csdn.net/chat": {
       "type": [
@@ -522,7 +524,7 @@
     "https://puaai.net": {
       "title": "Ymiai",
       "desc": "快捷、高效的人工智能创作平台",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://deepmind.google/technologies/gemini": {
@@ -1340,7 +1342,7 @@
       ],
       "title": "Leonardo.AI/",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://pixai.art": {
@@ -1902,7 +1904,7 @@
       ],
       "title": "eSheep",
       "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][200]2025年1月22日起 ，【Esheep】全面停止运营。"
     },
     "https://www.wujieai.com": {
@@ -2054,7 +2056,7 @@
         "生产力",
         "网站"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://tools.saxifrage.xyz/prompt": {
@@ -2168,7 +2170,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2588,9 +2592,7 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      "desc": "AI生成3D无缝贴图纹理"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -4821,7 +4823,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.adobe.com/au/sensei/generative-ai/firefly.html": {
@@ -5444,7 +5446,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -6991,7 +6995,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -9091,8 +9097,8 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]write EPROTO 408C4B37247F0000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 112\n"
+      "needVerify": 4,
+      "errmsg": "[error][-1]write EPROTO 409C2EFE997F0000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 112\n"
     },
     "https://answerly.io": {
       "title": "Answerly",
@@ -10991,9 +10997,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][404]Not Found"
+      ]
     },
     "https://www.photomagic.cn": {
       "title": "PhotoMagic",
@@ -11152,7 +11156,9 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -11310,7 +11316,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
@@ -12027,7 +12033,9 @@
       "desc": "AI生成字幕、语音转文字、文字配音、文生视频、视频翻译神器",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat.baidu.com": {
       "title": "百度Chat",
@@ -12148,7 +12156,9 @@
       "desc": "美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板,可在线智能生成海报,一键换色,一键换装,一键去水印,图片高清修复,无损放大,抠图,拼图。",
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://shop-ai.app": {
       "title": "ShopAI",
