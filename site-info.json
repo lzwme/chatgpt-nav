@@ -522,8 +522,9 @@
     "https://puaai.net": {
       "title": "Ymiai",
       "desc": "快捷、高效的人工智能创作平台",
-      "needVerify": 6,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "needVerify": 7,
+      "errmsg": "[error][-1]read ECONNRESET",
+      "hide": 1
     },
     "https://deepmind.google/technologies/gemini": {
       "star": 3,
@@ -1340,8 +1341,9 @@
       ],
       "title": "Leonardo.AI/",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://pixai.art": {
       "type": [
@@ -2220,9 +2222,7 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 1,
-      "errmsg": "[error][523]EO errCode : DNS resolve failed"
+      "desc": "多功能的AI图片处理工具箱"
     },
     "https://insightface.ai": {
       "type": [
@@ -2710,9 +2710,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2F&y=ipr:20.57.47.249:1738095126.723\"></meta></head></html>"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -2898,7 +2896,9 @@
         "AI 编程开发"
       ],
       "title": "Fig",
-      "desc": "内置AI终端命令自动补全，新一代命令行工具"
+      "desc": "内置AI终端命令自动补全，新一代命令行工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN fig.io"
     },
     "https://www.marsx.dev": {
       "type": [
@@ -3237,9 +3237,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.57.47.249:1738095132.561\"></meta></head></html>"
+      ]
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -4827,8 +4825,9 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.adobe.com/au/sensei/generative-ai/firefly.html": {
       "title": "Adobe Firefly",
@@ -5450,7 +5449,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -9097,8 +9098,8 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 5,
-      "errmsg": "[error][-1]write EPROTO 407C0B30FF7E0000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 112\n"
+      "needVerify": 6,
+      "errmsg": "[error][-1]write EPROTO 40CCA94F107F0000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 112\n"
     },
     "https://answerly.io": {
       "title": "Answerly",
@@ -11669,7 +11670,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.aiyou.art": {
       "title": "艾绘",
