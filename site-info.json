@@ -2896,9 +2896,7 @@
         "AI 编程开发"
       ],
       "title": "Fig",
-      "desc": "内置AI终端命令自动补全，新一代命令行工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN fig.io"
+      "desc": "内置AI终端命令自动补全，新一代命令行工具"
     },
     "https://www.marsx.dev": {
       "type": [
@@ -5449,9 +5447,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -8375,7 +8371,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://mem.ai": {
       "title": "Mem.ai",
@@ -8803,7 +8801,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ichuangnao.com/introduction": {
       "title": "创脑",
@@ -9098,8 +9098,9 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]write EPROTO 40CCA94F107F0000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 112\n"
+      "needVerify": 7,
+      "errmsg": "[error][-1]write EPROTO 40CC2834837F0000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 112\n",
+      "hide": 1
     },
     "https://answerly.io": {
       "title": "Answerly",
@@ -9233,7 +9234,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.yunque360.com/product-ai.html": {
       "title": "云雀AI智能客服",
@@ -11670,9 +11673,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.aiyou.art": {
       "title": "艾绘",
@@ -11990,7 +11991,9 @@
       "type": [
         "AI 文档办公",
         "AI 开源工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tuan.chinaz.com/goods_detail/3751": {
       "title": "站长之家数字人系统V3",
