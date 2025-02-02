@@ -2414,9 +2414,7 @@
         "AI 写作助手"
       ],
       "title": "Notion AI",
-      "desc": "AI写作神器！比你想得更多！写得更快",
-      "needVerify": 1,
-      "errmsg": "[error][429]Too Many Requests"
+      "desc": "AI写作神器！比你想得更多！写得更快"
     },
     "https://www.writingo.net/home": {
       "type": [
@@ -2510,9 +2508,7 @@
         "AI 视频生成"
       ],
       "title": "Wonder Studio",
-      "desc": "真人表演自动转换为CG",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "真人表演自动转换为CG"
     },
     "https://bibigpt.co": {
       "type": [
@@ -2914,9 +2910,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -8432,9 +8426,7 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kraftful.com": {
       "title": "Kraftful",
@@ -11319,9 +11311,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
