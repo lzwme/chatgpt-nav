@@ -1649,7 +1649,9 @@
         "AI 语音生成"
       ],
       "title": "Songtell",
-      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。"
+      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://speechify.com": {
       "type": [
@@ -6046,7 +6048,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chandler.bet": {
       "title": "Chandler",
@@ -10438,9 +10442,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][429]Too Many Requests"
+      ]
     },
     "https://www.pipio.ai/video-dubbing": {
       "title": "Pipio | Video Dubbing",
@@ -12014,7 +12016,9 @@
       "desc": "电商必备！AI扩图/抠图/商品海报/营销写作全流程创作平台",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.designify.com": {
       "title": "Designify",
