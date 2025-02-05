@@ -442,7 +442,9 @@
     },
     "https://www.meout.app": {
       "desc": "Find your next outing in seconds",
-      "title": "Meout - Find your outing"
+      "title": "Meout - Find your outing",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.meout.app"
     },
     "http://itecheasy.com.cn": {
       "needVPN": 1,
@@ -836,7 +838,9 @@
         "AI 行业工具"
       ],
       "title": "Khanmigo",
-      "desc": "【教育】可汗学院Khanmigo，教育界的世界级人工智能。"
+      "desc": "【教育】可汗学院Khanmigo，教育界的世界级人工智能。",
+      "needVerify": 1,
+      "errmsg": "[error][429]Too Many Requests"
     },
     "https://www.turnitin.com": {
       "type": [
@@ -980,7 +984,9 @@
       ],
       "star": 2,
       "title": "万知",
-      "desc": "万知 I 问答、阅读、创作的一站式AI工作平台。支持 PPT 智能生成"
+      "desc": "万知 I 问答、阅读、创作的一站式AI工作平台。支持 PPT 智能生成",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://novelai.net": {
       "type": [
@@ -1649,9 +1655,7 @@
         "AI 语音生成"
       ],
       "title": "Songtell",
-      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。"
     },
     "https://speechify.com": {
       "type": [
@@ -5449,7 +5453,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -5745,7 +5751,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][429]Too Many Requests"
     },
     "https://ai.chinaz.com": {
       "title": "站长 AI",
@@ -6048,9 +6056,7 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chandler.bet": {
       "title": "Chandler",
@@ -12016,9 +12022,7 @@
       "desc": "电商必备！AI扩图/抠图/商品海报/营销写作全流程创作平台",
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.designify.com": {
       "title": "Designify",
