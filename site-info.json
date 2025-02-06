@@ -443,7 +443,7 @@
     "https://www.meout.app": {
       "desc": "Find your next outing in seconds",
       "title": "Meout - Find your outing",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.meout.app"
     },
     "http://itecheasy.com.cn": {
@@ -838,9 +838,7 @@
         "AI 行业工具"
       ],
       "title": "Khanmigo",
-      "desc": "【教育】可汗学院Khanmigo，教育界的世界级人工智能。",
-      "needVerify": 1,
-      "errmsg": "[error][429]Too Many Requests"
+      "desc": "【教育】可汗学院Khanmigo，教育界的世界级人工智能。"
     },
     "https://www.turnitin.com": {
       "type": [
@@ -893,7 +891,9 @@
         "生产力",
         "国外精选",
         "网站"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][429]Too Many Requests"
     },
     "https://docs.qq.com/ai/chat/": {
       "type": [
@@ -984,9 +984,7 @@
       ],
       "star": 2,
       "title": "万知",
-      "desc": "万知 I 问答、阅读、创作的一站式AI工作平台。支持 PPT 智能生成",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "万知 I 问答、阅读、创作的一站式AI工作平台。支持 PPT 智能生成"
     },
     "https://novelai.net": {
       "type": [
@@ -5453,9 +5451,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -5751,9 +5747,7 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][429]Too Many Requests"
+      ]
     },
     "https://ai.chinaz.com": {
       "title": "站长 AI",
@@ -8436,7 +8430,9 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kraftful.com": {
       "title": "Kraftful",
@@ -8988,7 +8984,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io"
     },
     "https://dialoggpt.io/home": {
       "title": "DialogGPT",
