@@ -443,7 +443,7 @@
     "https://www.meout.app": {
       "desc": "Find your next outing in seconds",
       "title": "Meout - Find your outing",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.meout.app"
     },
     "http://itecheasy.com.cn": {
@@ -891,9 +891,7 @@
         "生产力",
         "国外精选",
         "网站"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][429]Too Many Requests"
+      ]
     },
     "https://docs.qq.com/ai/chat/": {
       "type": [
@@ -8430,9 +8428,7 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kraftful.com": {
       "title": "Kraftful",
@@ -8985,7 +8981,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io"
     },
     "https://dialoggpt.io/home": {
