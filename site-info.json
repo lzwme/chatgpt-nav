@@ -443,8 +443,9 @@
     "https://www.meout.app": {
       "desc": "Find your next outing in seconds",
       "title": "Meout - Find your outing",
-      "needVerify": 6,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
+      "needVerify": 7,
+      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>",
+      "hide": 1
     },
     "http://itecheasy.com.cn": {
       "needVPN": 1,
@@ -964,9 +965,7 @@
         "AI 写作助手"
       ],
       "title": "TutorEva",
-      "desc": "TutorEva是一个AI数学导师，用拍照AI识别来解决数学问题，TutorEva将在几秒钟内解决它们，即使是几何和应用题等难题。虚拟化身和互动教学使数学学习生动而简单。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]write EPROTO 400CE9043D7F0000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 112\n"
+      "desc": "TutorEva是一个AI数学导师，用拍照AI识别来解决数学问题，TutorEva将在几秒钟内解决它们，即使是几何和应用题等难题。虚拟化身和互动教学使数学学习生动而简单。"
     },
     "https://www.copy.ai": {
       "type": [
@@ -4630,7 +4629,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][404]Not Found"
     },
     "https://ai.logo123.com": {
@@ -8985,7 +8984,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io"
     },
     "https://dialoggpt.io/home": {
@@ -9880,9 +9879,7 @@
         "生产力",
         "模型"
       ],
-      "type": [],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "type": []
     },
     "https://home.tiangong.cn": {
       "title": "天工SkyMusic",
@@ -11382,7 +11379,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -11677,9 +11676,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://www.aiyou.art": {
       "title": "艾绘",
