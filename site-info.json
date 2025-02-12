@@ -1509,7 +1509,9 @@
         "AI 绘图"
       ],
       "title": "tusi.art",
-      "desc": "吐司是可在线生图的AI模型分享社区"
+      "desc": "吐司是可在线生图的AI模型分享社区",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://civitai.com": {
       "type": [
@@ -4629,7 +4631,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://ai.logo123.com": {
@@ -8984,8 +8986,9 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io",
+      "hide": 1
     },
     "https://dialoggpt.io/home": {
       "title": "DialogGPT",
@@ -11379,9 +11382,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -11419,7 +11420,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://getliner.com": {
       "title": "Liner",
