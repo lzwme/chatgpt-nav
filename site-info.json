@@ -4610,28 +4610,6 @@
         "AI 图像处理"
       ]
     },
-    "https://makelogo.ai": {
-      "title": "Make Logo AI",
-      "intro": "AI生成独特标志，仅用时几分钟",
-      "desc": "MakeLogoAI是一个使用人工智能生成独特标志的平台。它可以根据您的需求生成多个创意方向的文本标志设计，并提供低分辨率的预览供您选择。您可以使用我们的Logo Editor对颜色、文字和字体进行微调，并导出矢量化版本的标志。售价为$9.99，您将拥有标志的完全所有权和商业使用权。",
-      "lang": "en",
-      "tags": [
-        "AI生成",
-        "标志设计",
-        "Logo Editor",
-        "矢量化标志",
-        "设计工具",
-        "设计",
-        "普通产品",
-        "生产力",
-        "网站"
-      ],
-      "type": [
-        "AI 图像处理"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://ai.logo123.com": {
       "title": "123LOGO生成器",
       "intro": "超级智能好用的 Logo 在线设计生成器",
@@ -7503,9 +7481,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://pdfcandy.com": {
       "title": "PDF Candy",
@@ -10196,9 +10172,7 @@
       "type": [
         "AI 语音生成",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://peiyin.baibaoyin.com": {
       "title": "百宝音",
@@ -10287,7 +10261,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://home.tiangong.cn/downloadGuide": {
       "title": "天工SkyMusic",
@@ -11323,9 +11299,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -11425,7 +11399,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://getliner.com": {
@@ -11572,7 +11546,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
