@@ -1218,9 +1218,7 @@
         "AI 思维导图"
       ],
       "title": "GitMind思乎",
-      "desc": "GitMind是一款全平台在线思维导图脑图架构图制作软件工具，支持手机手机思维导图，Windows/Mac多平台操作及内容同步。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "GitMind是一款全平台在线思维导图脑图架构图制作软件工具，支持手机手机思维导图，Windows/Mac多平台操作及内容同步。"
     },
     "https://www.deepl.com/translator": {
       "type": [
@@ -2177,7 +2175,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -3912,9 +3912,7 @@
         "AI 图像处理",
         "AI 电商工具",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.picwish.com": {
       "title": "PicWish",
@@ -6981,7 +6979,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -9352,9 +9352,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]connect ECONNREFUSED 20.120.224.97:443"
+      ]
     },
     "https://github.com/sunner/ChatALL": {
       "title": "ChatALL",
@@ -10268,7 +10266,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://home.tiangong.cn/downloadGuide": {
@@ -11148,7 +11146,9 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -11305,7 +11305,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -11405,7 +11407,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://getliner.com": {
@@ -12023,9 +12025,7 @@
       "desc": "AI生成字幕、语音转文字、文字配音、文生视频、视频翻译神器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chat.baidu.com": {
       "title": "百度Chat",
