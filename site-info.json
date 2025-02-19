@@ -2069,7 +2069,9 @@
         "AI 提示词"
       ],
       "title": "Visual Prompt Builder",
-      "desc": "涨姿势系列！设计/绘画风格参考"
+      "desc": "涨姿势系列！设计/绘画风格参考",
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://publicprompts.art": {
       "type": [
@@ -2481,7 +2483,9 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai.zaker.cn": {
       "type": [
@@ -3453,7 +3457,9 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -8120,9 +8126,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.52cv.com": {
       "title": "职徒简历",
@@ -8985,7 +8989,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://dhibot.com": {
       "title": "Dhibot",
@@ -10264,7 +10270,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://home.tiangong.cn/downloadGuide": {
