@@ -203,7 +203,7 @@
       ],
       "star": 3,
       "desc": "英国AI初创公司，开源了强大的 Stable Diffusion 文生图大模型",
-      "title": "Stable Diffusion 3"
+      "title": "Stable Diffusion"
     },
     "https://kimi.moonshot.cn": {
       "type": [
@@ -214,7 +214,7 @@
       "sort": -89,
       "needLogin": 1,
       "desc": "Kimi智能助手能够支持约20万汉字的上下文输入，具备显著的中文优势，能够为用户提供回答问题、速读文件、整理资料、激发灵感、辅助创作等服务",
-      "title": "Kimi+",
+      "title": "Kimi.ai",
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
       ]
@@ -242,13 +242,14 @@
     "https://xinghuo.xfyun.cn": {
       "type": [
         "AI 聊天对话",
-        "国产大模型"
+        "国产大模型",
+        "AI 大模型"
       ],
       "star": 3,
       "sort": -86,
       "needLogin": 1,
       "desc": "讯飞星火大模型",
-      "title": "讯飞星火认知大模型",
+      "title": "讯飞星火",
       "tags": [
         "人工智能",
         "大模型",
@@ -267,7 +268,8 @@
       "type": [
         "AI 聊天对话",
         "国产大模型",
-        "AI 写作助手"
+        "AI 写作助手",
+        "AI 视频生成"
       ],
       "star": 3,
       "sort": -84,
@@ -282,13 +284,14 @@
       "type": [
         "AI 聊天对话",
         "国产大模型",
-        "AI 绘图"
+        "AI 绘图",
+        "AI 大模型"
       ],
       "star": 3,
       "sort": -84,
       "needLogin": 1,
       "desc": "腾讯混元助手Chat",
-      "title": "腾讯混元助手",
+      "title": "腾讯混元大模型",
       "tags": [
         "腾讯",
         "混元大模型",
@@ -334,15 +337,47 @@
       "desc": "中科院自动化所和武汉人工智能研究院联合推出的新一代大模型，从三模态走向全模态，支持多轮问答、文本创作、图像生成、3D理解、信号分析等全面问答任务，拥有更强的认知、理解、创作能力，带来全新互动体验。",
       "title": "紫东太初"
     },
-    "https://ai.360.cn": {
+    "https://bot.360.com": {
       "type": [
         "AI 聊天对话",
         "国产大模型"
       ],
       "star": 3,
+      "sort": -80,
+      "title": "360智脑",
+      "desc": "360旗下的AI聊天助手",
+      "tags": [
+        "聊天",
+        "综合工具",
+        "大厂合集(精选大厂热门AI产品)"
+      ]
+    },
+    "https://ai.360.cn": {
+      "type": [
+        "AI 聊天对话",
+        "国产大模型"
+      ],
+      "star": 2,
       "needLogin": 1,
-      "desc": "需申请资格",
-      "title": "360智脑"
+      "desc": "360 智脑 API 开放平台",
+      "title": "360智脑",
+      "needVerify": -1
+    },
+    "https://aigc.360.com": {
+      "title": "360智绘",
+      "desc": "360智脑AI绘画应用与分享平台，提供多种绘画风格和画布尺寸选择，用户可以根据自己的喜好定制画作，并将自己的作品分享到画廊。",
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://www.n.cn": {
+      "type": [
+        "AI 搜索引擎"
+      ],
+      "title": "纳米AI搜索",
+      "desc": "纳米AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
+      "needVerify": -1,
+      "star": 2
     },
     "https://chat.oldwei.com": {
       "type": [
@@ -390,7 +425,7 @@
       "needPay": 1,
       "needKey": 1,
       "source": "recommend",
-      "title": "TreeMind 树图",
+      "title": "TreeMind树图",
       "type": [
         "AI 思维导图"
       ]
@@ -442,10 +477,7 @@
     },
     "https://www.meout.app": {
       "desc": "Find your next outing in seconds",
-      "title": "Meout - Find your outing",
-      "needVerify": 7,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>",
-      "hide": 1
+      "title": "Meout - Find your outing"
     },
     "http://itecheasy.com.cn": {
       "needVPN": 1,
@@ -524,19 +556,7 @@
     },
     "https://puaai.net": {
       "title": "Ymiai",
-      "desc": "快捷、高效的人工智能创作平台",
-      "needVerify": 7,
-      "errmsg": "[error][-1]read ECONNRESET",
-      "hide": 1
-    },
-    "https://deepmind.google/technologies/gemini": {
-      "star": 3,
-      "needVPN": 1,
-      "desc": "Gemini(双子座)是Google最新的大型语言模型，在一系列多模式基准测试中超越了最先进GPT4。在各种自然语言任务中表现良好，例如摘要、指令跟踪、内容生成、情感分析、实体提取、分类等。",
-      "title": "Google Gemini",
-      "type": [
-        "AI 编程开发"
-      ]
+      "desc": "快捷、高效的人工智能创作平台"
     },
     "https://www.doubao.com/chat/": {
       "type": [
@@ -548,15 +568,6 @@
       "title": "豆包",
       "star": 3,
       "sort": -88
-    },
-    "https://bard.google.com": {
-      "type": [
-        "AI 聊天对话"
-      ],
-      "needVPN": true,
-      "title": "Google Bard",
-      "desc": "Google推出的聊天机器人。",
-      "star": 3
     },
     "https://www.coze.cn": {
       "type": [
@@ -573,8 +584,18 @@
         "AI 聊天对话",
         "国产大模型"
       ],
-      "desc": "阿里达摩院提供的一个不断进化的AI大模型",
+      "tags": [
+        "人工智能",
+        "智能助手",
+        "语义理解",
+        "语言生成",
+        "中文精选",
+        "生产力",
+        "模型"
+      ],
       "title": "通义千问",
+      "intro": "专门响应人类指令的大模型",
+      "desc": "阿里达摩院提供的一个不断进化的AI大模型",
       "icon": "https://img.alicdn.com/imgextra/i4/O1CN01FOwagl1XBpyVA2QVy_!!6000000002886-2-tps-512-512.png",
       "star": 3,
       "sort": -88
@@ -597,12 +618,23 @@
       ]
     },
     "https://tongyi.aliyun.com/wanxiang/": {
-      "title": "阿里通义万相",
+      "title": "通义万相",
+      "intro": "刻削生千变，丹青图 “万相”",
+      "desc": "通义万相是一个不断进化的 AI 绘画创作模型。它能够刻削生千变，呈现出丰富多样的艺术作品。通义万相具有高度智能化的绘画能力，可以自主创作出优秀的绘画作品。它的优势在于通过深度学习算法不断进化，能够逐步提高绘画的质量和逼真度。通义万相的定价根据使用方式和使用场景而定，详情请登录官方网站了解。该产品定位于艺术创作领域，为艺术家、设计师和爱好者提供强大的创作工具。",
+      "lang": "zh",
       "star": 3,
-      "sort": -88,
-      "desc": "通义万相是阿里云通义旗下的AI创意作画平台。每日给用户 50 灵感值，单次生成成功扣除1个灵感值，每日0点重置。",
+      "tags": [
+        "AI 绘画",
+        "艺术创作",
+        "设计",
+        "AI 绘画创作模型",
+        "普通产品",
+        "图像",
+        "模型"
+      ],
       "type": [
-        "AI 绘图"
+        "AI 绘图",
+        "AI 图像处理"
       ]
     },
     "https://pangu.huaweicloud.com": {
@@ -614,24 +646,96 @@
       "desc": "华为盘古大模型，重塑千行百业",
       "star": 3
     },
-    "https://ai.360.com": {
-      "type": [
-        "AI 聊天对话"
-      ],
-      "title": "360智脑",
-      "desc": "360旗下的AI聊天助手",
-      "tags": [
-        "聊天",
-        "综合工具",
-        "大厂合集(精选大厂热门AI产品)"
-      ]
-    },
     "https://www.anthropic.com": {
       "type": [
         "AI 聊天对话"
       ],
-      "title": "Claude3",
+      "star": 3,
+      "title": "Anthropic",
       "desc": "Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。"
+    },
+    "https://bard.google.com": {
+      "type": [
+        "AI 聊天对话"
+      ],
+      "title": "Google Bard",
+      "desc": "Google推出的聊天机器人。",
+      "needVPN": true,
+      "star": 3
+    },
+    "https://deepmind.google/technologies/gemini": {
+      "desc": "Gemini(双子座)是Google最新的大型语言模型，在一系列多模式基准测试中超越了最先进GPT4。在各种自然语言任务中表现良好，例如摘要、指令跟踪、内容生成、情感分析、实体提取、分类等。",
+      "title": "Google Gemini",
+      "star": 3,
+      "type": [
+        "AI 编程开发",
+        "AI 大模型"
+      ]
+    },
+    "https://gemini.google.com": {
+      "title": "Gemini",
+      "intro": "轻松对话，获取创意灵感",
+      "desc": "Gemini是Google AI黑科技，可帮助你处理写作、规划、学习等事务。它可以与你轻松对话，提供创意灵感，帮助提升工作效率。Gemini还可以帮助你进行写作、规划、学习等任务，并提供相关的建议和指导。Gemini是一个强大的工具，适用于个人和团队使用。",
+      "lang": "en",
+      "star": 3,
+      "needVPN": 1,
+      "tags": [
+        "AI",
+        "创意灵感",
+        "写作",
+        "规划",
+        "学习",
+        "生产力",
+        "全球热门",
+        "网站"
+      ],
+      "type": [
+        "AI 写作助手",
+        "AI 聊天对话"
+      ]
+    },
+    "https://cloud.google.com/products/gemini/code-assist": {
+      "title": "Gemini Code Assist",
+      "intro": "AI 编码助理，提升软件开发和交付速度",
+      "desc": "Gemini Code Assist 是 Google Cloud 提供的一款 AI 编码助理，它通过生成式 AI 协助、企业安全和隐私保护机制，帮助提升软件开发和交付速度。该产品利用数十亿行开源代码、安全数据以及 Google Cloud 文档和示例代码进行微调，为开发者在其 IDE 和 Google Cloud 服务中提供代码补全、代码生成、自然语言聊天等功能。它支持多种编程语言，并集成了 Google Cloud 的多种服务，如 Firebase、Colab Enterprise、Databases、BigQuery、Apigee 和 Application Integration。",
+      "lang": "zh",
+      "needVPN": 1,
+      "star": 3,
+      "tags": [
+        "AI 辅助",
+        "代码生成",
+        "自然语言处理",
+        "企业安全",
+        "隐私保护",
+        "编程",
+        "国外精选",
+        "模型"
+      ],
+      "type": [
+        "AI 编程开发",
+        "AI 行业工具"
+      ]
+    },
+    "https://play.google.com/store/apps/details": {
+      "title": "Text To Audio—TTS & MP3_WAV",
+      "intro": "一键转换文本为音频文件",
+      "desc": "Text2Audio是一款免费的文本转语音应用，通过一键操作将文本转换为音频文件。用户可以选择多个智能声音演员，还可以根据需要调整语速和音调，创建男声、女声、叙述等不同类型的声音。适用于制作短视频解说的评论，如TikTok、YouTube、Instgram等。",
+      "lang": "en",
+      "needVPN": 1,
+      "star": 3,
+      "tags": [
+        "文本转音频",
+        "声音演员",
+        "语速调整",
+        "音调调整",
+        "音乐与音频",
+        "普通产品",
+        "生产力",
+        "网站"
+      ],
+      "type": [
+        "AI 语音生成"
+      ]
     },
     "https://poe.com": {
       "type": [
@@ -646,7 +750,7 @@
         "AI 聊天对话",
         "AI 写作助手"
       ],
-      "title": "Monica",
+      "title": "Moncia",
       "desc": "Monica是由ChatGPT API提供支持的Chrome扩展程序，旨在成为您的个人AI助手，实现轻松聊天和文案编写。",
       "needVPN": 1
     },
@@ -710,7 +814,7 @@
         "国产大模型",
         "AI 行业工具"
       ],
-      "title": "SenseChat",
+      "title": "商汤商量",
       "star": 3,
       "desc": "商汤旗下的AI对话助手"
     },
@@ -788,7 +892,7 @@
         "AI 搜索引擎",
         "AI 聊天对话"
       ],
-      "title": "You",
+      "title": "YOU",
       "desc": "You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。",
       "needVPN": 1
     },
@@ -813,16 +917,6 @@
       ],
       "title": "秘塔AI搜索",
       "desc": "秘塔科技旗下的一款AI搜索产品，能够大幅提升搜索效率，解决日常生活、工作学习等场景中遇到的各类搜索需求"
-    },
-    "https://so.360.com": {
-      "type": [
-        "AI 搜索引擎"
-      ],
-      "title": "360AI搜索",
-      "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
     },
     "https://www.cheggmate.ai": {
       "type": [
@@ -920,14 +1014,14 @@
         "AI 写作助手",
         "AI 聊天对话"
       ],
-      "title": "Jasper Chat",
+      "title": "Jasper AI",
       "desc": "AI文字内容创作工具。"
     },
     "https://writesonic.com": {
       "type": [
         "AI 写作助手"
       ],
-      "title": "writesonic",
+      "title": "Writesonic",
       "desc": "Writesonic可以为博客、广告、电子邮件和网站快速生成已优化的免费原创内容。",
       "needVPN": 1
     },
@@ -943,7 +1037,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "Grammarly",
+      "title": "Grammarly.",
       "desc": "Grammarly开发了一种使用人工智能和自然语言处理的数字写作工具。Grammarly键盘随时随地为您提供支持，确保您的写作始终看起来很棒。无论您是在输入紧急电子邮件、重要的LinkedIn消息还是必要的Facebook帖子，Grammarly都能让您放心地从移动设备上进行写作。"
     },
     "https://languagetool.org": {
@@ -972,7 +1066,7 @@
         "AI 写作助手",
         "AI 行业工具"
       ],
-      "title": "Copy.ai",
+      "title": "Copy AI",
       "desc": "人工智能营销文案和内容创作工具，帮助各行各业的撰稿人、营销人员和企业快速高效地创建高质量的内容。",
       "needVPN": 1
     },
@@ -989,7 +1083,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "Novel.ai",
+      "title": "NovelAI",
       "desc": "基于人工智能，轻松构建独特的、惊险的、引入入胜的故事。",
       "needVPN": 1
     },
@@ -1029,7 +1123,7 @@
         "AI 写作助手",
         "AI 视频生成"
       ],
-      "title": "度加创作工具",
+      "title": "百度度加创作工具",
       "desc": "百度旗下产品，打造人人可用的AI创作工具"
     },
     "https://ibiling.cn": {
@@ -1043,7 +1137,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "腾讯Effidit",
+      "title": "Effidit写作助手",
       "desc": "Effidit是由腾讯AI Lab 开发的一个智能创作助手，探索用AI技术提升写作者的写作效率和创作体验。"
     },
     "https://www.writingo.net": {
@@ -1059,7 +1153,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "title": "阿里悉语",
+      "title": "悉语",
       "desc": "悉语智能是阿里妈妈创意中心出品的一款一键生成商品营销文案的工具。"
     },
     "https://www.mypitaya.com": {
@@ -1122,7 +1216,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "title": "AiPPT",
+      "title": "aiPPT",
       "desc": "通过简单的文字自动生成想要的精致PPT",
       "star": 3,
       "tags": [
@@ -1139,7 +1233,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "title": "必优ChatPPT",
+      "title": "ChatPPT",
       "desc": "必优科技推出的中文AI生成PPT的办公产品"
     },
     "https://ppt.isheji.com": {
@@ -1147,7 +1241,7 @@
         "AI 文档办公",
         "AI 图像处理"
       ],
-      "title": "爱设计 PPT",
+      "title": "爱设计PPT",
       "desc": "爱设计PPT利用先进的AI技术,自动创建并优化PPT模版。爱设计的AI能为您生成适合的,高质量且独特的PPT模版。"
     },
     "https://presentory.wondershare.com": {
@@ -1203,7 +1297,7 @@
         "AI 思维导图",
         "AI 图像处理"
       ],
-      "title": "墨刀 AI",
+      "title": "墨刀AI",
       "desc": "墨刀AI是国内知名产品设计协作平台「墨刀」最新推出的AI产品原型设计助手，帮助产品设计人高效实现和落地创意，激发无限创造力。"
     },
     "https://boardmix.cn": {
@@ -1224,7 +1318,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "title": "DeepL",
+      "title": "Deepl翻译器",
       "desc": "支持翻译文本和文件，为个人和团队提供准确的翻译，每天有数百万人使用DeepL进行翻译。",
       "star": 3
     },
@@ -1238,7 +1332,7 @@
       "star": 3
     },
     "https://fanyi.youdao.com": {
-      "title": "有道AI翻译",
+      "title": "有道翻译",
       "desc": "网易旗下深受用户喜欢的口碑型学习工具产品",
       "type": [
         "AI 翻译工具"
@@ -1255,7 +1349,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "title": "Replit AI",
+      "title": "Replit",
       "desc": "利用人工智能的能力，可以在任何设备上协同构建软件。"
     },
     "https://www.mindspore.cn": {
@@ -1269,7 +1363,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "title": "Baidu Comate",
+      "title": "文心快码",
       "desc": "基于文心大模型，结合百度积累多年的编程现场大数据和外部优秀开源数据，为你生成更符合实际研发场景的优质代码。"
     },
     "https://www.paddlepaddle.org.cn": {
@@ -1283,7 +1377,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "title": "iFlyCode",
+      "title": "讯飞iFlyCode",
       "desc": "代码大模型，支持讯飞AI能力，具有业界领先的代码大模型能力。"
     },
     "https://www.zelinai.com": {
@@ -1324,7 +1418,8 @@
     },
     "https://www.promptingguide.ai": {
       "type": [
-        "AI 提示词"
+        "AI 提示词",
+        "AI 大模型"
       ],
       "title": "提示工程指南",
       "desc": "提示工程（Prompt Engineering）是一门较新的学科，关注提示词开发和优化，帮助用户将大语言模型（Large Language Model, LLM）用于各场景和研究领域。"
@@ -1342,11 +1437,10 @@
       "type": [
         "AI 绘图"
       ],
-      "title": "Leonardo.AI/",
+      "title": "Leonardo",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": 2,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://pixai.art": {
       "type": [
@@ -1445,7 +1539,7 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "title": "标小智logo生成",
+      "title": "标小智",
       "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
     },
     "https://img.logosc.cn": {
@@ -1453,7 +1547,7 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "title": "AI改图",
+      "title": "AI改图神器",
       "desc": "AI万能图片编辑器，在线修改图片颜色尺寸；智能抠图去水印；AI/EPS/PSD/SVG全格式支持的在线图片编辑器。"
     },
     "https://www.pixcakeai.com": {
@@ -1469,7 +1563,7 @@
         "AI 图像处理"
       ],
       "star": 2,
-      "title": "堆友",
+      "title": "阿里堆友",
       "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://arc.tencent.com/zh/ai-demos/faceRestoration": {
@@ -1478,7 +1572,7 @@
         "AI 绘图"
       ],
       "star": 3,
-      "title": "腾讯ARC",
+      "title": "Arc Lab",
       "desc": "ARC是腾讯旗下ARC（Applied Research Center，应用研究中心）实验室推出的系列AI图片处理工具，目前提供了三项免费的AI图像功能：人像修复、人像抠图和动漫增强。"
     },
     "https://chacha.so.com": {
@@ -1494,7 +1588,7 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "title": "WHEE",
+      "title": "美图WHEE",
       "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://www.liblib.art": {
@@ -1515,7 +1609,7 @@
       "type": [
         "AI 绘图"
       ],
-      "title": "CivitAI",
+      "title": "Civitai",
       "desc": "AI绘画模型共享平台，拥有海量开源模型",
       "needVPN": 1
     },
@@ -1549,7 +1643,7 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "title": "Pixso",
+      "title": "Pixso AI",
       "desc": "设计师只需用简短的文本描述，无需手动绘制或寻找现成素材，即可迅速生成图像内容。"
     },
     "https://designs.ai/cn": {
@@ -1590,7 +1684,7 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "title": "Photoroom",
+      "title": "PhotoRoom",
       "desc": "在几秒钟内创建高品质的图像。只需轻点一下，即可去除背景并合成一个能展示产品或模特的图像。PhotoRoom赋予每个人设计超能力，因为你编辑的是物体而不是像素。PhotoRoom是一款图像编辑应用程序，让您通过编辑物体来捕捉、编辑和混合图像。"
     },
     "https://picwish.com": {
@@ -1606,7 +1700,7 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "title": "Pixian.AI",
+      "title": "Pixian AI",
       "desc": "PixianAI是一款图像背景去除工具，可以以极低的价格获得出色的质量，在测试版期间完全免费。"
     },
     "https://pixcut.wondershare.com": {
@@ -1622,7 +1716,7 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "title": "Vectorizer AI",
+      "title": "Vectorize",
       "desc": "Vectorizer可以使用AI快速轻松地将JPEG和PNG位图转换为SVG矢量图。"
     },
     "https://facecheck.id": {
@@ -1644,7 +1738,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "title": "Suno AI",
+      "title": "Suno",
       "desc": "AI音乐创作平台，不需要任何工具，只需要想象力，就可以创作出美妙动听的音乐。"
     },
     "https://www.songtell.com": {
@@ -1665,7 +1759,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "title": "ElevenLabs",
+      "title": "Eleven Labs",
       "desc": "ElevenLabs 带来了最逼真、丰富和生动的声音，为寻求叙事的终极工具的创作者和发布者提供了最具吸引力的文本转语音和语音克隆软件。"
     },
     "https://peiyin.xunfei.cn/virtual-broadcasting": {
@@ -1680,7 +1774,9 @@
         "AI 语音生成"
       ],
       "title": "魔音工坊",
-      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。"
+      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://mubert.com": {
       "type": [
@@ -1697,7 +1793,7 @@
         "AI 国外工具",
         "AI 视频生成"
       ],
-      "title": "PlayHT",
+      "title": "Play",
       "desc": "基于人工智能将文本转位逼真的语音"
     },
     "https://www.notta.ai": {
@@ -1777,7 +1873,7 @@
         "AI 数字人",
         "AI 视频生成"
       ],
-      "title": "万兴播爆",
+      "title": "Virbo",
       "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
     },
     "https://runwayml.com": {
@@ -1823,7 +1919,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "title": "HeyGen",
+      "title": "Heygen",
       "desc": "AI生成真人营销视频",
       "needVPN": 1,
       "star": 3
@@ -1833,7 +1929,7 @@
         "AI 视频生成",
         "AI 绘图"
       ],
-      "title": "智影",
+      "title": "腾讯智影",
       "desc": "腾讯出品的融合多种AIGC能力进行智能视频创作的一体化工具。"
     },
     "https://zeemo.ai/cn": {
@@ -1874,7 +1970,7 @@
       ],
       "needVPN": true,
       "start": 3,
-      "title": "DALL・E",
+      "title": "DALL·E2",
       "desc": "OpenAI出品的绘画工具"
     },
     "https://www.tiamat.world": {
@@ -1889,7 +1985,7 @@
       "type": [
         "AI 绘图"
       ],
-      "title": "LiblibAI",
+      "title": "liblib哩布哩布",
       "desc": "超多优质模型，国内领先的AI创作平台",
       "tags": [
         "AI创作",
@@ -1906,10 +2002,7 @@
         "AI 绘图"
       ],
       "title": "eSheep",
-      "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图",
-      "needVerify": 7,
-      "errmsg": "[error][200]2025年1月22日起 ，【Esheep】全面停止运营。",
-      "hide": 1
+      "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图"
     },
     "https://www.wujieai.com": {
       "type": [
@@ -1918,7 +2011,7 @@
       "urls": [
         "https://wujieai.cc"
       ],
-      "title": "无界 AI",
+      "title": "无界AI",
       "star": 2,
       "desc": "无界AI，集prompt搜索、AI图库、AI创作、AI广场、词/图等为一体。提供一站式AI搜索-创作-交流-分享服务。",
       "tags": [
@@ -2033,7 +2126,7 @@
         "AI 提示词",
         "AI 图像处理"
       ],
-      "title": "PromptoMANIA Prompt Generator",
+      "title": "PromptoMania",
       "desc": "MJ和SD提示词生成器"
     },
     "https://www.clickprompt.org/zh-CN": {
@@ -2049,7 +2142,7 @@
         "AI 提示词",
         "AI 绘图"
       ],
-      "title": "KALOS.art",
+      "title": "LIB.KALOS.ART",
       "desc": "艺术风格流派参考库",
       "tags": [
         "AI",
@@ -2059,19 +2152,14 @@
         "普通产品",
         "生产力",
         "网站"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][502]Bad Gateway",
-      "hide": 1
+      ]
     },
     "https://tools.saxifrage.xyz/prompt": {
       "type": [
         "AI 提示词"
       ],
       "title": "Visual Prompt Builder",
-      "desc": "涨姿势系列！设计/绘画风格参考",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      "desc": "涨姿势系列！设计/绘画风格参考"
     },
     "https://publicprompts.art": {
       "type": [
@@ -2284,7 +2372,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "title": "AppIcons AI",
+      "title": "Appicons AI",
       "desc": "AI生成精致的App图标"
     },
     "https://www.dora.run/ai": {
@@ -2412,7 +2500,9 @@
         "AI 写作助手"
       ],
       "title": "AI论文帮",
-      "desc": "5分钟生成万字优质原创论文！"
+      "desc": "5分钟生成万字优质原创论文！",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.notion.so/product/ai": {
       "type": [
@@ -2483,9 +2573,7 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具"
     },
     "https://ai.zaker.cn": {
       "type": [
@@ -2583,7 +2671,7 @@
         "AI 视频生成"
       ],
       "star": 2,
-      "title": "TTSMAKER",
+      "title": "TTSMaker马克配音",
       "desc": "免费的在线文本转语音神器"
     },
     "https://zh.rask.ai": {
@@ -2599,7 +2687,9 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理"
+      "desc": "AI生成3D无缝贴图纹理",
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -2695,7 +2785,7 @@
         "AI 文档办公",
         "AI 写作助手"
       ],
-      "title": "WordAI",
+      "title": "WordAi",
       "desc": "10倍速AI内容输出！创建读者喜爱的优质内容"
     },
     "https://timelyapp.com": {
@@ -2724,7 +2814,7 @@
         "AI 文档办公",
         "AI 会议助手"
       ],
-      "title": "OtterAI",
+      "title": "Otter AI",
       "desc": "写笔记和总结会议的速度提高 30 倍",
       "tags": [
         "AI",
@@ -2742,7 +2832,7 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "title": "Noty.ai",
+      "title": "Noty AI",
       "desc": "ChatGPT驱动的AI会议转录工具",
       "tags": [
         "会议转录",
@@ -2887,7 +2977,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "title": "Mutable",
+      "title": "Mutable AI",
       "desc": "一款更全面的 GitHub Copilot 替代品",
       "needVerify": -1
     },
@@ -2909,7 +2999,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "title": "MarsAi",
+      "title": "MarsX",
       "desc": "使用无代码和零编码技能开始构建微应用程序"
     },
     "https://www.theculturedao.com": {
@@ -2991,7 +3081,7 @@
       "needVerify": -1
     },
     "https://hix.ai": {
-      "title": "Hix AI",
+      "title": "HIX.AI",
       "desc": "HIX.AI是一款由先进的GPT-3.5/4技术驱动的全能人工智能写作助手。",
       "type": [
         "AI 写作助手",
@@ -3018,7 +3108,7 @@
       "needVerify": -1
     },
     "https://chatexcel.com": {
-      "title": "酷表",
+      "title": "酷表ChatExcel",
       "desc": "酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据。",
       "type": [
         "AI 文档办公",
@@ -3064,7 +3154,7 @@
       ]
     },
     "https://clipdrop.co": {
-      "title": "Watermark Remover",
+      "title": "Clipdrop",
       "desc": "体验图像编辑的顶峰——水印移除AI，借助先进的人工智能技术轻松、精确地擦除水印，确保您的视觉效果保持完美清晰、无干扰。",
       "type": [
         "AI 图像处理",
@@ -3094,7 +3184,7 @@
       ]
     },
     "https://vocalremover.org": {
-      "title": "分离人声",
+      "title": "Vocal Remover",
       "desc": "Vocal Remover使用强大的AI算法免费将歌曲中的人声与音乐分离。",
       "type": [
         "AI 语音生成",
@@ -3114,7 +3204,7 @@
       "hide": 1
     },
     "https://nijijourney.com/zh": {
-      "title": "nijijourney",
+      "title": "NijiJourney",
       "desc": "MJ出品！面向二次元风格，内容细致拿捏专业到位",
       "type": [
         "AI 绘图",
@@ -3123,7 +3213,7 @@
       "needVerify": -1
     },
     "https://creator.nightcafe.studio": {
-      "title": "Creative Upscaler",
+      "title": "NightCafe",
       "desc": "用AI生成惊艳的艺术品",
       "type": [
         "AI 绘图",
@@ -3133,7 +3223,7 @@
       "needVPN": 1
     },
     "https://huggingface.co": {
-      "title": "Image to Music V2",
+      "title": "Hugging Face",
       "desc": "下载开源的SD模型",
       "type": [
         "AI 综合工具",
@@ -3236,7 +3326,7 @@
       ]
     },
     "https://contentatscale.ai/ai-prompt-library": {
-      "title": "Content At Scale",
+      "title": "Content at scale",
       "desc": "收录最佳的ChatGPT prompt提示词",
       "type": [
         "AI 提示词",
@@ -3373,7 +3463,7 @@
       ]
     },
     "https://lumalabs.ai": {
-      "title": "Luma AI",
+      "title": "Luma Labs",
       "desc": "将视频转为游戏资产",
       "needVPN": 1,
       "type": [
@@ -3391,7 +3481,7 @@
       ]
     },
     "https://github.com/features/copilot": {
-      "title": "Copilot",
+      "title": "GitHub Copilot",
       "desc": "热门！GitHub AI编程工具",
       "type": [
         "AI 编程开发",
@@ -3457,9 +3547,7 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -4177,7 +4265,9 @@
       "type": [
         "AI 电商工具",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://photokit.com": {
       "title": "PhotoKit",
@@ -4616,6 +4706,26 @@
         "AI 图像处理"
       ]
     },
+    "https://makelogo.ai": {
+      "title": "Make Logo AI",
+      "intro": "AI生成独特标志，仅用时几分钟",
+      "desc": "MakeLogoAI是一个使用人工智能生成独特标志的平台。它可以根据您的需求生成多个创意方向的文本标志设计，并提供低分辨率的预览供您选择。您可以使用我们的Logo Editor对颜色、文字和字体进行微调，并导出矢量化版本的标志。售价为$9.99，您将拥有标志的完全所有权和商业使用权。",
+      "lang": "en",
+      "tags": [
+        "AI生成",
+        "标志设计",
+        "Logo Editor",
+        "矢量化标志",
+        "设计工具",
+        "设计",
+        "普通产品",
+        "生产力",
+        "网站"
+      ],
+      "type": [
+        "AI 图像处理"
+      ]
+    },
     "https://ai.logo123.com": {
       "title": "123LOGO生成器",
       "intro": "超级智能好用的 Logo 在线设计生成器",
@@ -4812,9 +4922,8 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": 2,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.adobe.com/au/sensei/generative-ai/firefly.html": {
       "title": "Adobe Firefly",
@@ -5436,7 +5545,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -6792,24 +6903,6 @@
         "AI 视频生成"
       ]
     },
-    "https://qianwen.aliyun.com": {
-      "title": "通义千问",
-      "intro": "专门响应人类指令的大模型",
-      "desc": "通义千问是一个专门响应人类指令的大模型。它具有强大的语义理解和语言生成能力，可以回答各种问题、提供实用信息、帮助解决问题。通义千问的优势在于准确性高、响应速度快、支持多种语言、功能丰富。定价方面，我们提供免费试用和付费订阅两种模式。通义千问定位于成为人类的智能助手，帮助用户提高工作效率、解决问题、获取知识。",
-      "lang": "zh",
-      "tags": [
-        "人工智能",
-        "智能助手",
-        "语义理解",
-        "语言生成",
-        "中文精选",
-        "生产力",
-        "模型"
-      ],
-      "type": [
-        "AI 综合工具"
-      ]
-    },
     "https://www.modelscope.cn/studios/vigen/video_generation/summary": {
       "title": "追影",
       "intro": "AI视频生成工具",
@@ -7615,7 +7708,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://numerous.ai": {
       "title": "numerous",
@@ -8735,7 +8830,8 @@
         "网站"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ]
     },
     "https://wantalk.baidu.com": {
@@ -8886,7 +8982,8 @@
         "网站"
       ],
       "type": [
-        "AI 行业工具"
+        "AI 行业工具",
+        "AI 大模型"
       ]
     },
     "https://airkit.ai": {
@@ -8967,10 +9064,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io",
-      "hide": 1
+      ]
     },
     "https://dialoggpt.io/home": {
       "title": "DialogGPT",
@@ -8989,9 +9083,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://dhibot.com": {
       "title": "Dhibot",
@@ -9087,10 +9179,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]write EPROTO 40CC2834837F0000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 112\n",
-      "hide": 1
+      ]
     },
     "https://answerly.io": {
       "title": "Answerly",
@@ -9281,7 +9370,8 @@
         "网站"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ]
     },
     "https://chatboxai.app/zh": {
@@ -9391,7 +9481,9 @@
         "全球热门",
         "APP"
       ],
-      "type": []
+      "type": [
+        "AI 大模型"
+      ]
     },
     "https://github.com/mckaywrigley/chatbot-ui": {
       "title": "Chatbot UI",
@@ -9747,26 +9839,6 @@
         "AI 综合工具"
       ]
     },
-    "https://gemini.google.com": {
-      "title": "Gemini",
-      "intro": "轻松对话，获取创意灵感",
-      "desc": "Gemini是Google AI黑科技，可帮助你处理写作、规划、学习等事务。它可以与你轻松对话，提供创意灵感，帮助提升工作效率。Gemini还可以帮助你进行写作、规划、学习等任务，并提供相关的建议和指导。Gemini是一个强大的工具，适用于个人和团队使用。",
-      "lang": "en",
-      "tags": [
-        "AI",
-        "创意灵感",
-        "写作",
-        "规划",
-        "学习",
-        "生产力",
-        "全球热门",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手",
-        "AI 聊天对话"
-      ]
-    },
     "https://chat.baichuan-ai.com/home": {
       "title": "百川大模型",
       "intro": "汇聚世界知识，创作妙笔生花",
@@ -9783,7 +9855,8 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ]
     },
     "https://www.iwencai.com": {
@@ -9866,7 +9939,11 @@
         "生产力",
         "模型"
       ],
-      "type": []
+      "type": [
+        "AI 大模型"
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://home.tiangong.cn": {
       "title": "天工SkyMusic",
@@ -9920,14 +9997,17 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ]
     },
     "https://www.deepseek.com": {
-      "title": "DeepSeek Chat",
+      "title": "deepseek",
       "intro": "基于2千亿MoE模型的领先AI技术，提供超低价格和越级场景体验。",
       "desc": "DeepSeek-V2是一款基于2千亿参数量的MoE（Mixture of Experts）模型的AI技术产品，它在对话官网和API上全面上线，提供领先性能和超低价格。该产品在中文综合能力（AlignBench）和英文综合能力（MT-Bench）的评测中表现出色，与GPT-4-Turbo等闭源模型处于同一梯队。DeepSeek-V2支持128K上下文的开源模型，而对话官网/API支持32K上下文。产品的主要优点包括即刻接入、能力卓越、价格低廉，并且兼容OpenAI API接口，提供丝滑的体验。",
       "lang": "zh",
+      "star": 3,
+      "sort": -100,
       "tags": [
         "AI技术",
         "MoE模型",
@@ -9939,11 +10019,11 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "国产大模型",
+        "AI 大模型"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://cursor.sh": {
       "title": "Cursor.sh",
@@ -10048,7 +10128,8 @@
         "插件"
       ],
       "type": [
-        "AI 编程开发"
+        "AI 编程开发",
+        "AI 大模型"
       ]
     },
     "https://www.jetbrains.com/ai/": {
@@ -10269,9 +10350,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]Parse Error: Header overflow"
+      ]
     },
     "https://home.tiangong.cn/downloadGuide": {
       "title": "天工SkyMusic",
@@ -10957,7 +11036,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://js.design/ai": {
       "title": "即时设计",
@@ -11191,7 +11272,9 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -11325,7 +11408,8 @@
         "网站"
       ],
       "type": [
-        "AI 视频生成"
+        "AI 视频生成",
+        "AI 大模型"
       ]
     },
     "http://d-id.com": {
@@ -11406,10 +11490,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      ]
     },
     "https://getliner.com": {
       "title": "Liner",
@@ -11462,7 +11543,7 @@
       ]
     },
     "https://ailogo.qq.com/guide/brandname": {
-      "title": "腾讯AIDesign",
+      "title": "AIDesign",
       "desc": "10秒创建Logo！腾讯出品的AI Logo神器",
       "type": [
         "AI 图像处理"
@@ -11884,26 +11965,6 @@
         "AI 行业工具"
       ]
     },
-    "https://cloud.google.com/products/gemini/code-assist": {
-      "title": "Gemini Code Assist",
-      "intro": "AI 编码助理，提升软件开发和交付速度",
-      "desc": "Gemini Code Assist 是 Google Cloud 提供的一款 AI 编码助理，它通过生成式 AI 协助、企业安全和隐私保护机制，帮助提升软件开发和交付速度。该产品利用数十亿行开源代码、安全数据以及 Google Cloud 文档和示例代码进行微调，为开发者在其 IDE 和 Google Cloud 服务中提供代码补全、代码生成、自然语言聊天等功能。它支持多种编程语言，并集成了 Google Cloud 的多种服务，如 Firebase、Colab Enterprise、Databases、BigQuery、Apigee 和 Application Integration。",
-      "lang": "zh",
-      "tags": [
-        "AI 辅助",
-        "代码生成",
-        "自然语言处理",
-        "企业安全",
-        "隐私保护",
-        "编程",
-        "国外精选",
-        "模型"
-      ],
-      "type": [
-        "AI 编程开发",
-        "AI 行业工具"
-      ]
-    },
     "https://revvinvest.com": {
       "title": "Revv",
       "intro": "投资人工智能、太空和其他前沿股票的神奇方式",
@@ -12040,7 +12101,9 @@
       "desc": "腾讯元宝是依托于腾讯混元大模型的AI产品。通过AI能力帮助用户在办公、学习、创作、生活等领域提供效率和生活辅助",
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "star": 3,
+      "sort": -86
     },
     "https://felo.ai": {
       "title": "Felo",
@@ -12087,9 +12150,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][400]Bad Request",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.marscode.com": {
       "title": "Marscode",
@@ -12105,49 +12166,14 @@
         "AI 编程开发"
       ]
     },
-    "https://aigc.360.com": {
-      "title": "360智绘",
-      "desc": "360智脑AI绘画应用与分享平台，提供多种绘画风格和画布尺寸选择，用户可以根据自己的喜好定制画作，并将自己的作品分享到画廊。",
-      "type": [
-        "AI 绘图"
-      ]
-    },
-    "https://rightbrain.art": {
-      "title": "Vega AI",
-      "desc": "国内专业的ai创作平台，支持文本生成图片，图片风格转换",
-      "type": [
-        "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND rightbrain.art",
-      "hide": 1
-    },
-    "https://www.promeai.com": {
-      "title": "PromeAI",
-      "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
-      "type": [
-        "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com",
-      "hide": 1
-    },
-    "https://voxcraft.com": {
-      "title": "VoxCraft",
-      "desc": "Voxcraft是一款基于AI的三维建模工具，通过AI技术，可以快速生成三维模型",
-      "type": [
-        "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
     "https://www.designkit.com": {
       "title": "美图设计室",
       "desc": "美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板,可在线智能生成海报,一键换色,一键换装,一键去水印,图片高清修复,无损放大,抠图,拼图。",
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://shop-ai.app": {
       "title": "ShopAI",
@@ -12199,6 +12225,458 @@
       "needVerify": 7,
       "errmsg": "[error][-1]socket hang up",
       "hide": 1
+    },
+    "https://chat.doltrans.com": {
+      "title": "免费ChatGPT中文版",
+      "desc": "不用翻墙，国内免费使用chatgpt 4.0 中文软件",
+      "source": "sponsor"
+    },
+    "https://www.ducduc.fun/zh": {
+      "title": "爱涂鸭",
+      "intro": "爱涂鸭是一个提供创意绘画和创作分享的在线平台。",
+      "desc": "爱涂鸭是一个以创意绘画为核心的在线平台，用户可以通过简单的操作进行绘画创作，并分享到社区。它结合了绘画工具和社交功能，旨在激发用户的创造力和艺术兴趣。产品主要面向喜欢绘画和创意表达的用户，提供了一个自由创作和交流的空间。",
+      "lang": "zh",
+      "tags": [
+        "绘画",
+        "创意",
+        "社交",
+        "图像生成",
+        "艺术",
+        "图像",
+        "中文精选",
+        "网站"
+      ],
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://www.capybaradb.co": {
+      "title": "CapybaraDB",
+      "intro": "CapybaraDB 是一个 AI 原生数据库，让构建智能应用变得简单。",
+      "desc": "CapybaraDB 是一个 AI 原生数据库，旨在通过内置的 AI 能力简化数据处理和存储。它将 NoSQL、向量数据库和对象存储等多种存储类型统一到一个接口中，使开发者无需管理多个数据库或复杂的管道。CapybaraDB 提供了自动化的数据处理功能，如媒体转文本、文本分块、嵌入生成和向量索引等，大大提高了开发效率。其 MongoDB 兼容性使其能够受益于丰富的生态系统和社区支持。CapybaraDB 定位为高效、低成本的数据库解决方案，适用于需要快速构建 AI 应用的开发者和企业。",
+      "lang": "en",
+      "tags": [
+        "AI 原生",
+        "数据库",
+        "自动化",
+        "高效",
+        "MongoDB 兼容",
+        "生产力",
+        "国外精选",
+        "网站"
+      ],
+      "type": []
+    },
+    "https://x.com/i/broadcasts/1gqGvjeBljOGB": {
+      "title": "Grok 3",
+      "intro": "xAI推出的最新旗舰AI模型Grok 3，具备强大的推理和多模态处理能力。",
+      "desc": "Grok 3是由Elon Musk的AI公司xAI开发的最新旗舰AI模型。它在计算能力和数据集规模上显著提升，能够处理复杂的数学、科学问题，并支持多模态输入。其主要优点是推理能力强大，能够提供更准确的答案，并且在某些基准测试中超越了现有的顶尖模型。Grok 3的推出标志着xAI在AI领域的进一步发展，旨在为用户提供更智能、更高效的AI服务。该模型目前主要通过Grok APP和X平台提供服务，未来还将推出语音模式和企业API接口。其定位是高端AI解决方案，主要面向需要深度推理和多模态交互的用户。",
+      "lang": "en",
+      "needVPN": 1,
+      "star": 3,
+      "sort": -90,
+      "tags": [
+        "AI",
+        "推理",
+        "多模态",
+        "教育",
+        "生产力",
+        "编程",
+        "国外精选",
+        "模型"
+      ],
+      "type": [
+        "AI 大模型",
+        "AI 行业工具",
+        "AI 编程开发"
+      ]
+    },
+    "https://www.tanka.ai": {
+      "title": "Tanka",
+      "intro": "世界上首款具有AI长期记忆功能的团队协作即时通讯工具。",
+      "desc": "Tanka是一款创新的团队协作工具，其核心功能是利用AI长期记忆技术来优化团队沟通和协作。该技术基于神经科学原理，能够将零散的聊天记录、邮件和文档转化为结构化的长期记忆，从而提供上下文感知的智能回复和主动建议。Tanka的主要优点在于其能够持续学习和自我进化，确保团队成员在沟通中始终保持清晰和精准。此外，Tanka还支持与Slack、WhatsApp、Outlook等多种常用工具的无缝集成，进一步提升了工作效率。产品目前处于Beta阶段，主要面向需要高效协作的团队，如科技初创公司、销售团队、教育机构等。",
+      "lang": "en",
+      "tags": [
+        "AI",
+        "团队协作",
+        "长期记忆",
+        "智能回复",
+        "多应用集成",
+        "生产力工具",
+        "生产力",
+        "国外精选",
+        "APP"
+      ],
+      "type": []
+    },
+    "https://openai.com/index/swe-lancer/": {
+      "title": "SWE-Lancer",
+      "intro": "SWE-Lancer 是一个包含 1400 多个自由软件工程任务的基准测试，总价值 100 万美元。",
+      "desc": "SWE-Lancer 是由 OpenAI 推出的一个基准测试，旨在评估前沿语言模型在真实世界中的自由软件工程任务中的表现。该基准测试涵盖了从 50 美元的漏洞修复到 32000 美元的功能实现等多种独立工程任务，以及模型在技术实现方案之间的选择等管理任务。通过模型将性能映射到货币价值，SWE-Lancer 为研究 AI 模型开发的经济影响提供了新的视角，并推动了相关研究的发展。",
+      "lang": "en",
+      "needVPN": 1,
+      "star": 3,
+      "sort": -90,
+      "tags": [
+        "AI",
+        "基准测试",
+        "软件工程",
+        "模型评估",
+        "经济影响",
+        "编程",
+        "研究",
+        "国外精选",
+        "模型"
+      ],
+      "type": [
+        "AI 编程开发"
+      ]
+    },
+    "https://www.wenxiaobai.com": {
+      "title": "问小白",
+      "intro": "满血版DeepSeek，支持深度思考和联网搜索，免费不限次数，助力多种任务完成。",
+      "desc": "问小白上线了DeepSeek驱动的人工智能助手，定位为一款强大的写作和任务处理工具。它基于深度学习技术，能够实时在线提供服务，支持深度思考和联网搜索功能。其主要优点包括免费不限次数使用，可帮助用户高效完成写作、创作、分析和规划等任务。产品面向需要高效完成各类文字工作和任务的用户，目前以网页形式提供服务，未来可能推出更多客户端形式。其免费的定位使其具有较高的性价比，适合广泛用户群体使用。",
+      "lang": "zh",
+      "tags": [
+        "人工智能",
+        "写作助手",
+        "任务处理",
+        "深度思考",
+        "联网搜索",
+        "聊天",
+        "中文精选",
+        "网站"
+      ],
+      "type": [
+        "AI 写作助手",
+        "AI 搜索引擎",
+        "AI 聊天对话"
+      ]
+    },
+    "https://www.yanbiai.com": {
+      "title": "言笔AI",
+      "intro": "高效的AI写作工具，释放您的创意潜力，一键生成优质内容，让创作变得简单高效。",
+      "desc": "言笔AI是一款基于AI大模型驱动的智能写作工具，支持多种写作场景，如文章创作、论文写作、PPT制作及公文撰写等。它通过提供免费的AI写作服务，帮助用户快速生成高质量的内容，避免重复内容，提升文案效果。言笔AI已为10,000+创作者提供服务，成功生成288,736,788字文案，具有高用户评价，值得信赖。",
+      "lang": "zh",
+      "tags": [
+        "AI写作",
+        "内容创作",
+        "学术写作",
+        "办公写作",
+        "自媒体",
+        "写作",
+        "中文精选",
+        "网站"
+      ],
+      "type": [
+        "AI 写作助手",
+        "AI 行业工具",
+        "AI 文档办公"
+      ]
+    },
+    "https://xiaoyi.huawei.com/chat/": {
+      "title": "小艺",
+      "intro": "小艺是华为推出的智能助手，提供聊天、写作、编程等多种AI服务。",
+      "desc": "小艺是华为推出的智能助手，集成了自然语言处理和机器学习技术，能够提供聊天、写作、编程、翻译等多种功能。它基于深度学习模型，能够理解用户的问题并给出准确的回答。小艺的主要优点是功能丰富、响应速度快、智能化程度高。作为华为生态的一部分，小艺致力于为用户提供便捷的智能服务，提升用户体验。",
+      "lang": "zh",
+      "star": 3,
+      "sort": -90,
+      "tags": [
+        "智能助手",
+        "AI",
+        "聊天",
+        "写作",
+        "编程",
+        "翻译",
+        "中文精选",
+        "网站"
+      ],
+      "type": [
+        "国产大模型",
+        "AI 综合工具",
+        "AI 聊天对话",
+        "AI 写作助手",
+        "AI 编程开发",
+        "AI 翻译工具"
+      ]
+    },
+    "https://www.bilds.ai": {
+      "title": "Bild AI",
+      "intro": "Bild AI 是一款利用人工智能读取和理解蓝图的工具，帮助快速估算材料成本并确保蓝图准确性。",
+      "desc": "Bild AI 是一款专注于建筑行业的生产力工具，通过人工智能技术读取和理解建筑蓝图，快速生成材料成本估算和确保蓝图的准确性。该技术能够显著减少人工估算的时间和错误率，帮助建筑企业提高效率和竞争力。Bild AI 的主要优势在于其高效的 AI 模型，能够快速识别蓝图中的关键信息，并生成详细的成本分析报告。此外，它还能提前发现蓝图中的合规性问题，确保提交的图纸一次性通过审批。Bild AI 的目标是为建筑行业提供一个高效、准确且可靠的数字化解决方案，帮助企业在复杂的建筑项目中节省时间和成本。",
+      "lang": "en",
+      "tags": [
+        "人工智能",
+        "建筑",
+        "成本估算",
+        "蓝图审核",
+        "生产力工具",
+        "数字化解决方案",
+        "生产力",
+        "国外精选",
+        "网站"
+      ],
+      "type": []
+    },
+    "https://jina.ai/deepsearch/": {
+      "title": "Jina DeepSearch",
+      "intro": "深度搜索结合网络搜索、阅读和推理，可进行全面调查，适合复杂问题的迭代推理和最新信息获取。",
+      "desc": "Jina DeepSearch 是一种基于深度搜索技术的产品，通过结合网络搜索、阅读和推理能力，能够解决需要迭代推理和最新信息的复杂问题。它与 OpenAI 的聊天 API 完全兼容，支持多种客户端接入。其主要优点是能够动态调整搜索和推理过程，提供高质量的答案。产品定位为需要深入研究和复杂问题解决的用户，价格基于词元使用情况，支持免费试用和付费购买。",
+      "lang": "en",
+      "tags": [
+        "深度搜索",
+        "API",
+        "生产力",
+        "复杂问题解决",
+        "实时信息",
+        "AI",
+        "国外精选",
+        "网站"
+      ],
+      "type": [
+        "AI 搜索引擎"
+      ]
+    },
+    "https://vmake.ai/zh-CN/image-watermark-remover": {
+      "title": "图片去水印",
+      "intro": "使用 AI 去水印工具，轻松去除图像水印。",
+      "desc": "图片去水印工具利用强大的 AI 技术，帮助用户快速去除图像上的水印，提高创作自由和社交媒体效果。产品定位于提供便捷的水印去除服务，以增强用户体验为目标。",
+      "lang": "zh",
+      "tags": [
+        "水印去除",
+        "图片处理",
+        "AI 技术",
+        "图像",
+        "普通产品",
+        "生产力",
+        "网站"
+      ],
+      "type": [
+        "AI 图像处理",
+        "AI 绘图"
+      ]
+    },
+    "https://ali-vilab.github.io/AnyDoor-Page/": {
+      "title": "AnyDoor",
+      "intro": "虚拟试穿、物体移动",
+      "desc": "AnyDoor 是一种基于扩散的图像生成器，可以在用户指定的位置将目标对象以和谐的方式传送到新场景中。我们的模型只需要训练一次，就可以轻松推广到不同的对象和场景组合中，无需为每个对象调整参数。为了充分描述某个特定对象，我们除了使用常用的身份特征外，还补充了细节特征，这些特征经过精心设计，既能保持纹理细节，又能允许多样的局部变化（如光照、方向、姿势等），从而使对象与不同的环境更好地融合。我们还提出从视频数据集中借用知识的方法，在视频数据集中可以观察到同一对象的各种形态（沿时间轴），从而增强模型的泛化能力和鲁棒性。大量实验证明了我们方法的优越性，以及它在虚拟试穿和物体移动等实际应用中的巨大潜力。",
+      "lang": "en",
+      "tags": [
+        "图像",
+        "零样本",
+        "对象级定制",
+        "模型生成",
+        "普通产品",
+        "网站"
+      ],
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://dun.163.com/text-detect/": {
+      "title": "网易易盾",
+      "intro": "专业文本识别与过滤服务，支持多种垃圾文本检测。",
+      "desc": "网易易盾文本识别体验是基于智能识别及海量样本库的专业文本识别服务，针对文本垃圾提供个性化匹配模型及定制检测方案。产品背景包括多年行业经验积累，定位于帮助用户高效识别评论、弹幕、昵称中的变种文本垃圾。",
+      "lang": "zh",
+      "tags": [
+        "文本识别",
+        "内容过滤",
+        "安全检测",
+        "内容安全",
+        "普通产品",
+        "写作",
+        "网站"
+      ],
+      "type": [
+        "AI 写作助手"
+      ]
+    },
+    "https://www.iflytek.com/product/xinghuogongwenzhushou.html": {
+      "title": "讯飞星火公文助手",
+      "intro": "讯飞星火公文助手是一款基于科大讯飞星火大模型技术的 AI 公文写作助手。",
+      "desc": "讯飞星火公文助手是一款利用星火大模型技术的 AI 公文写作助手，提供素材筹备、拟稿写作和审稿核稿等功能。其主要优点包括高效节省写作时间、提供全面素材筹备和一键生成公文内容等。产品定位于提升公文材料撰写效率。",
+      "lang": "zh",
+      "tags": [
+        "公文助手",
+        "AI 写作助手",
+        "公文撰写",
+        "生产力",
+        "普通产品",
+        "写作",
+        "网站"
+      ],
+      "type": [
+        "AI 写作助手"
+      ]
+    },
+    "https://aivideo.hunyuan.tencent.com": {
+      "title": "腾讯混元文生视频",
+      "intro": "130亿参数的文生视频大模型，实现创意与物理准确性的结合",
+      "desc": "腾讯混元文生视频（HunyuanVideo）是一款突破性的视频生成模型，它拥有130亿参数，是目前开源模型中参数最多、性能最强的文生视频大模型。该模型能够生成具有较强物理准确性和一致性镜头的视频，提供超写实的视觉体验，并在真实与虚拟风格之间自由转换。它具备导演级运镜能力，实现艺术镜头的无缝衔接，完美融合真实效果与虚拟场景。同时，HunyuanVideo遵循物理定律，大幅降低违和感，并通过原生切镜和连续动作的设计，用户只需简单指令即可完成流畅创作，激发无限创意与灵感。",
+      "lang": "zh",
+      "star": 3,
+      "tags": [
+        "AI视频生成",
+        "超写实视觉",
+        "导演级运镜",
+        "物理准确性",
+        "创意激发",
+        "视频",
+        "中文精选",
+        "模型"
+      ],
+      "type": [
+        "AI 视频生成"
+      ]
+    },
+    "https://www.vidu.studio": {
+      "title": "Vidu",
+      "intro": "一个通过文本或图片生成视频的 AI 模型。",
+      "desc": "Vidu 是一个创新的 AI 视频生成模型，能够根据用户提供的文本或图片快速生成高质量的视频内容。它的技术基于深度学习，能够理解并分析输入信息，从而创造出富有创意和视觉吸引力的视频。随着视频内容在各类平台上的流行，Vidu 以其便捷性和高效性，成为了内容创作者和市场营销人员的得力助手。该产品适用于个人和企业用户，旨在帮助他们提升内容制作的效率，且目前提供免费试用以吸引更多用户尝试其强大的功能。",
+      "lang": "zh",
+      "tags": [
+        "AI视频生成",
+        "AI 技术",
+        "内容创作",
+        "深度学习",
+        "视频",
+        "普通产品",
+        "网站"
+      ],
+      "type": [
+        "AI 视频生成",
+        "AI 写作助手"
+      ]
+    },
+    "https://video-ocean.com/en": {
+      "title": "Video Ocean",
+      "intro": "Video Ocean，让每个人都能轻松制作高质量视频。",
+      "desc": "Video Ocean是一个基于人工智能模型技术的视频制作平台，提供文本生成、图像生成、音视频生成等功能。用户可以输入描述性文本、图片、音频和视频，获得定制化的AI生成文本、图片、音频和视频。该平台致力于简化视频生成的复杂性，通过提供先进的工具和详细的资源，使高质量的视频制作变得易于访问和不费力。Video Ocean的主要优点包括开放源代码、易于使用、高效生产和创新性。它通过提供100个免费币来吸引用户试用，推动内容创作的民主化，鼓励创新、创造力和包容性。",
+      "lang": "en",
+      "tags": [
+        "AI视频制作",
+        "内容创作",
+        "图像生成",
+        "视频编辑",
+        "社交媒体",
+        "视频",
+        "普通产品",
+        "网站"
+      ],
+      "type": [
+        "AI 视频生成",
+        "AI 写作助手",
+        "AI 绘图"
+      ]
+    },
+    "https://docs.qq.com/form/page/DQnJoYkdBVWRCT0tS": {
+      "title": "腾讯文档智能助手",
+      "intro": "腾讯文档智能助手,支持内容生成、数据处理、版式美化等创作需求",
+      "desc": "腾讯文档智能助手正式开启公测,可与Word、Excel、PPT等多品类文档进行智能互动,支持内容秒级生成,实现数据处理、版式美化等创作辅助功能。主要优势有:可基于标题或描述生成多类型文档内容,支持函数公式应用、数据处理、表格自动化等能力,实现 PPT 一键美化,可快速提取 PDF 文档摘要等,让文档内容实现跨品类畅通流转。",
+      "lang": "zh",
+      "star": 3,
+      "tags": [
+        "AI文档工具",
+        "Ai办公助手",
+        "表格处理",
+        "PPT",
+        "效率助手",
+        "生产力",
+        "普通产品",
+        "网站"
+      ],
+      "type": [
+        "AI 文档办公"
+      ]
+    },
+    "https://botsheets.com": {
+      "title": "Botsheets AI Writer",
+      "intro": "Chat自动化，Google Sheets作为CMS",
+      "desc": "Botsheets是一款使用Google Sheets作为CMS的Chat自动化工具。它可以将聊天对话转化为结构化数据，并生成Google Sheets，同时可以使用Google Sheets中的数据触发自动化响应。它可以帮助您轻松管理聊天内容，并自动生成自动化回复。无需编写复杂的代码，只需简单设置，即可实现Chat的自动化。",
+      "lang": "en",
+      "tags": [
+        "Chat自动化",
+        "Google Sheets",
+        "效率助手",
+        "表格处理",
+        "CMS",
+        "生产力",
+        "普通产品",
+        "网站"
+      ],
+      "type": [
+        "AI 文档办公"
+      ]
+    },
+    "https://hailuoai.video": {
+      "title": "Hailuo AI",
+      "intro": "重新定义视频创作",
+      "desc": "Hailuo AI Video Generator 是一款利用人工智能技术，根据文本提示自动生成视频内容的工具。它通过深度学习算法，将用户的文字描述转化为视觉图像，极大地简化了视频制作流程，提高了创作效率。该产品适用于需要快速生成视频内容的个人和企业，特别是在广告、社交媒体内容制作和电影预览等领域。",
+      "lang": "en",
+      "tags": [
+        "人工智能",
+        "视频生成",
+        "内容创作",
+        "自动化",
+        "视频",
+        "国外精选",
+        "网站"
+      ],
+      "type": [
+        "AI 视频生成",
+        "AI 写作助手"
+      ]
+    },
+    "https://clone.ttk.ink": {
+      "title": "AI数字人分身系统",
+      "intro": "AI数字人口型同步技术，无限多开贴牌OEM解决方案",
+      "desc": "小狐狸AI数字人分身系统是一款结合了人工智能技术的数字人口型同步产品，支持无限多开和贴牌OEM，适用于需要虚拟形象进行口型同步互动的场景。该产品背景基于人工智能技术的发展，特别是在虚拟主播和在线教育领域的应用需求日益增长。产品价格为3580元，定位于中高端市场，主要优点包括完全开源、支持自主二次开发和定制二次开发，以及免费搭建服务。",
+      "lang": "zh",
+      "tags": [
+        "AI",
+        "数字人",
+        "口型同步",
+        "虚拟主播",
+        "开源",
+        "生成视频",
+        "其他",
+        "普通产品",
+        "网站"
+      ],
+      "type": [
+        "AI 数字人",
+        "AI 开源工具",
+        "AI 视频生成"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/fZtFbxkHvmyQPykc81pydw": {
+      "title": "腾讯文档智能助手",
+      "desc": "支持全品类内容生成、数据处理、版式美化等高效创作",
+      "star": 3,
+      "type": [
+        "AI 写作助手"
+      ]
+    },
+    "https://beatbot.fm": {
+      "title": "BeatBot",
+      "desc": "Splash的AI音乐生成器",
+      "type": [
+        "AI 视频生成"
+      ]
+    },
+    "https://withpoly.com/browse/textures": {
+      "title": "Poly",
+      "desc": "根据文本生成3D材质",
+      "type": [
+        "AI 图像处理"
+      ]
+    },
+    "https://www.pandagpt.io": {
+      "title": "PandaGPT",
+      "desc": "上传文档！即可用对话的方式让 AI 总结文档重点",
+      "type": [
+        "AI 文档办公"
+      ]
     }
   }
 }
