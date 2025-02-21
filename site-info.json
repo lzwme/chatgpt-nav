@@ -242,8 +242,7 @@
     "https://xinghuo.xfyun.cn": {
       "type": [
         "AI 聊天对话",
-        "国产大模型",
-        "AI 大模型"
+        "国产大模型"
       ],
       "star": 3,
       "sort": -86,
@@ -284,8 +283,7 @@
       "type": [
         "AI 聊天对话",
         "国产大模型",
-        "AI 绘图",
-        "AI 大模型"
+        "AI 绘图"
       ],
       "star": 3,
       "sort": -84,
@@ -477,7 +475,9 @@
     },
     "https://www.meout.app": {
       "desc": "Find your next outing in seconds",
-      "title": "Meout - Find your outing"
+      "title": "Meout - Find your outing",
+      "needVerify": 1,
+      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "http://itecheasy.com.cn": {
       "needVPN": 1,
@@ -556,7 +556,9 @@
     },
     "https://puaai.net": {
       "title": "Ymiai",
-      "desc": "快捷、高效的人工智能创作平台"
+      "desc": "快捷、高效的人工智能创作平台",
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://www.doubao.com/chat/": {
       "type": [
@@ -668,8 +670,7 @@
       "title": "Google Gemini",
       "star": 3,
       "type": [
-        "AI 编程开发",
-        "AI 大模型"
+        "AI 编程开发"
       ]
     },
     "https://gemini.google.com": {
@@ -1418,8 +1419,7 @@
     },
     "https://www.promptingguide.ai": {
       "type": [
-        "AI 提示词",
-        "AI 大模型"
+        "AI 提示词"
       ],
       "title": "提示工程指南",
       "desc": "提示工程（Prompt Engineering）是一门较新的学科，关注提示词开发和优化，帮助用户将大语言模型（Large Language Model, LLM）用于各场景和研究领域。"
@@ -1439,7 +1439,7 @@
       ],
       "title": "Leonardo",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://pixai.art": {
@@ -1774,9 +1774,7 @@
         "AI 语音生成"
       ],
       "title": "魔音工坊",
-      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。"
     },
     "https://mubert.com": {
       "type": [
@@ -2002,7 +2000,9 @@
         "AI 绘图"
       ],
       "title": "eSheep",
-      "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图"
+      "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.esheep.com"
     },
     "https://www.wujieai.com": {
       "type": [
@@ -2159,7 +2159,9 @@
         "AI 提示词"
       ],
       "title": "Visual Prompt Builder",
-      "desc": "涨姿势系列！设计/绘画风格参考"
+      "desc": "涨姿势系列！设计/绘画风格参考",
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://publicprompts.art": {
       "type": [
@@ -2500,9 +2502,7 @@
         "AI 写作助手"
       ],
       "title": "AI论文帮",
-      "desc": "5分钟生成万字优质原创论文！",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "5分钟生成万字优质原创论文！"
     },
     "https://www.notion.so/product/ai": {
       "type": [
@@ -2687,9 +2687,7 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      "desc": "AI生成3D无缝贴图纹理"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -4265,9 +4263,7 @@
       "type": [
         "AI 电商工具",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://photokit.com": {
       "title": "PhotoKit",
@@ -4724,7 +4720,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://ai.logo123.com": {
       "title": "123LOGO生成器",
@@ -4922,7 +4920,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.adobe.com/au/sensei/generative-ai/firefly.html": {
@@ -5545,9 +5543,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -7708,9 +7704,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://numerous.ai": {
       "title": "numerous",
@@ -8510,7 +8504,9 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kraftful.com": {
       "title": "Kraftful",
@@ -8529,7 +8525,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://donotpay.com": {
       "title": "DoNotPay",
@@ -8830,8 +8828,7 @@
         "网站"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ]
     },
     "https://wantalk.baidu.com": {
@@ -8982,8 +8979,7 @@
         "网站"
       ],
       "type": [
-        "AI 行业工具",
-        "AI 大模型"
+        "AI 行业工具"
       ]
     },
     "https://airkit.ai": {
@@ -9064,7 +9060,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io"
     },
     "https://dialoggpt.io/home": {
       "title": "DialogGPT",
@@ -9083,7 +9081,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://dhibot.com": {
       "title": "Dhibot",
@@ -9370,8 +9370,7 @@
         "网站"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ]
     },
     "https://chatboxai.app/zh": {
@@ -9481,9 +9480,7 @@
         "全球热门",
         "APP"
       ],
-      "type": [
-        "AI 大模型"
-      ]
+      "type": []
     },
     "https://github.com/mckaywrigley/chatbot-ui": {
       "title": "Chatbot UI",
@@ -9855,8 +9852,7 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ]
     },
     "https://www.iwencai.com": {
@@ -9939,11 +9935,7 @@
         "生产力",
         "模型"
       ],
-      "type": [
-        "AI 大模型"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "type": []
     },
     "https://home.tiangong.cn": {
       "title": "天工SkyMusic",
@@ -9997,8 +9989,7 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ]
     },
     "https://www.deepseek.com": {
@@ -10020,8 +10011,7 @@
       ],
       "type": [
         "AI 聊天对话",
-        "国产大模型",
-        "AI 大模型"
+        "国产大模型"
       ],
       "needVerify": -1
     },
@@ -10128,8 +10118,7 @@
         "插件"
       ],
       "type": [
-        "AI 编程开发",
-        "AI 大模型"
+        "AI 编程开发"
       ]
     },
     "https://www.jetbrains.com/ai/": {
@@ -10167,7 +10156,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://code.fittentech.com": {
       "title": "Fitten Code",
@@ -10350,7 +10341,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://home.tiangong.cn/downloadGuide": {
       "title": "天工SkyMusic",
@@ -11036,9 +11029,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://js.design/ai": {
       "title": "即时设计",
@@ -11272,9 +11263,7 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -11408,8 +11397,7 @@
         "网站"
       ],
       "type": [
-        "AI 视频生成",
-        "AI 大模型"
+        "AI 视频生成"
       ]
     },
     "http://d-id.com": {
@@ -11490,7 +11478,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://getliner.com": {
       "title": "Liner",
@@ -11747,7 +11737,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.aiyou.art": {
       "title": "艾绘",
@@ -12171,9 +12163,7 @@
       "desc": "美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板,可在线智能生成海报,一键换色,一键换装,一键去水印,图片高清修复,无损放大,抠图,拼图。",
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://shop-ai.app": {
       "title": "ShopAI",
@@ -12286,7 +12276,6 @@
         "模型"
       ],
       "type": [
-        "AI 大模型",
         "AI 行业工具",
         "AI 编程开发"
       ]
@@ -12489,7 +12478,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]OK"
     },
     "https://www.iflytek.com/product/xinghuogongwenzhushou.html": {
       "title": "讯飞星火公文助手",
@@ -12507,7 +12498,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://aivideo.hunyuan.tencent.com": {
       "title": "腾讯混元文生视频",
@@ -12662,21 +12655,27 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://withpoly.com/browse/textures": {
       "title": "Poly",
       "desc": "根据文本生成3D材质",
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://www.pandagpt.io": {
       "title": "PandaGPT",
       "desc": "上传文档！即可用对话的方式让 AI 总结文档重点",
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     }
   }
 }
