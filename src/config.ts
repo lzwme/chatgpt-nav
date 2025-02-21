@@ -57,6 +57,8 @@ export const config = {
   repoBlockMap: new Map<string, string>([]),
   /** 站点禁止列表: hide=1 */
   siteBlockList: new Set([]) as Set<string>,
+  /** 读取 blocklist 列表，用于过滤和移除 */
+  blockListSet: new Set([]) as Set<string>,
   /** 站点信息 */
   siteInfo: {} as { [url: string]: SiteInfo },
   /** 分类信息 */
@@ -78,11 +80,22 @@ export function initConfig(argv: Record<string, unknown>) {
   Object.assign(config.categoryInfo, info.categoryInfo);
   info.repoBlockList.forEach(repo => config.repoBlockMap.set(repo, ''));
 
-  for (const [url, info] of Object.entries(config.siteInfo)) {
+  resolve(rootDir, 'blocklist.txt')
+    .split('\n')
+    .map(d => d.trim())
+    .forEach(url => url.startsWith('http') && config.blockListSet.add(url));
+
+  for (let [url, info] of Object.entries(config.siteInfo)) {
     let fixedUrl = fixSiteUrl(url);
     if (fixedUrl !== url) {
       delete config.siteInfo[url];
       config.siteInfo[fixedUrl] = info;
+      url = fixedUrl;
+    }
+
+    if (config.blockListSet.has(url)) {
+      delete config.siteInfo[url];
+      return;
     }
 
     if (info.hide) {

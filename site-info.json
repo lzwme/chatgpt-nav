@@ -194,8 +194,7 @@
       "star": 3,
       "desc": "Midjourney 是目前AI绘图最强大的存在",
       "title": "Midjourney",
-      "needVerify": -1,
-      "hide": 1
+      "needVerify": -1
     },
     "https://stability.ai": {
       "type": [
@@ -271,7 +270,7 @@
         "AI 视频生成"
       ],
       "star": 3,
-      "sort": -84,
+      "sort": -86,
       "needLogin": 1,
       "desc": "清华大学孵化的智谱AI提供的千亿参数对话模型ChatGLM",
       "title": "智谱清言",
@@ -817,6 +816,7 @@
       ],
       "title": "商汤商量",
       "star": 3,
+      "sort": -80,
       "desc": "商汤旗下的AI对话助手"
     },
     "https://beta.character.ai": {
@@ -905,9 +905,9 @@
         "AI 绘图"
       ],
       "star": 3,
-      "sort": -80,
+      "sort": -84,
       "needLogin": 1,
-      "icon": "https://ai-nav.lzw.me/favicon/www.tiangong.cn.ico",
+      "icon": "https://static.tiangong.cn/wwwsite/logo.ico",
       "desc": "昆仑万维提供的对标 ChatGPT 的双千亿级大语言模型，也是一个对话式AI助手",
       "title": "天工AI"
     },
@@ -1257,18 +1257,9 @@
         "AI 文档办公",
         "AI 语音生成"
       ],
+      "star": 3,
       "title": "WPS AI",
-      "desc": "WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。"
-    },
-    "https://kuaiyi.wps.cn/txt-translate": {
-      "title": "金山快译",
-      "desc": "金山旗下多场景的翻译服务",
-      "type": [
-        "AI 翻译工具"
-      ],
-      "needVerify": -1,
-      "errmsg": "[error][502]Bad Gateway",
-      "hide": 1
+      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。"
     },
     "https://smartread.cc": {
       "type": [
@@ -1395,6 +1386,22 @@
       ],
       "title": "Dora AI",
       "desc": "Dora AI可以做到使用自然语言生成、定制和部署网站，所有这些都在Dora强大的无代码编辑器中完成，他能在几秒钟内生成令人惊叹的、完全可编辑的网站，将静态设计转换为3D，自动化您的动画过程。"
+    },
+    "https://v0.dev": {
+      "type": [
+        "AI 网站生成"
+      ],
+      "star": 3,
+      "title": "V0",
+      "desc": "基于文本、设计图生成网站！V0 是由vercel团队开发的前端用户界面生成工具。"
+    },
+    "https://bolt.new": {
+      "type": [
+        "AI 网站生成"
+      ],
+      "star": 3,
+      "title": "Bolt",
+      "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。"
     },
     "https://webflow.com": {
       "type": [
@@ -2241,6 +2248,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
+      "lang": "zh",
       "icon": "https://ai.meitu.com/favicon.png",
       "title": "美图AI开放平台",
       "desc": "美图推出的AI人脸图像处理平台"
@@ -3494,7 +3502,24 @@
         "AI 编程开发",
         "AI 国外工具"
       ],
+      "star": 2,
       "needVPN": 1
+    },
+    "https://windsurfai.org/zh": {
+      "title": "Windsurf AI IDE",
+      "desc": "Windsurf AI IDE 利用尖端技术为开发人员提供工具，这些工具可以预测需求、简化工作流程并提高开发过程各个方面的生产力。",
+      "star": 2,
+      "type": [
+        "AI 编程开发"
+      ]
+    },
+    "https://traeide.com/zh/": {
+      "title": "Trae IDE",
+      "desc": "字节跳动旗下的AI代码编辑器，支持Claude 3.5和GPT-4，现在限时免费",
+      "star": 2,
+      "type": [
+        "AI 编程开发"
+      ]
     },
     "https://play.aidungeon.io/main/home": {
       "title": "AI Dungeon",
@@ -7038,11 +7063,21 @@
         "AI 绘图"
       ]
     },
+    "https://klingai.kuaishou.com": {
+      "title": "可灵AI",
+      "desc": "快手旗下的新一代AI创意生产力平台",
+      "star": 3,
+      "type": [
+        "AI 视频生成",
+        "国产大模型"
+      ]
+    },
     "https://kling.kuaishou.com": {
       "title": "可灵大模型",
       "intro": "可灵大模型是由快手大模型团队自研打造的视频生成大模型，让用户可以轻松高效地完成艺术视频创作。",
       "desc": "可灵大模型是一款具备强大视频生成能力的自研大模型，采用先进的技术实现长达 2 分钟视频生成、模拟物理世界特性、概念组合能力等，可生成电影级画面。",
       "lang": "zh",
+      "star": 3,
       "tags": [
         "视频生成",
         "艺术创作",
@@ -9619,24 +9654,6 @@
         "AI 开源工具"
       ]
     },
-    "https://grok.x.ai": {
-      "title": "xAI Grok",
-      "intro": "基于大语言模型的对话式AI",
-      "desc": "xAI Grok是一个对话式AI系统,能够理解用户的问题并给出知识性的回答。它使用了大规模语言模型来建模语言,从而实现了更人性化的交互。该系统还具有持续学习的能力,会根据用户的反馈不断改进。",
-      "lang": "en",
-      "tags": [
-        "对话AI",
-        "知识问答",
-        "语言理解",
-        "聊天",
-        "全球热门",
-        "生产力",
-        "网站"
-      ],
-      "type": [
-        "AI 聊天对话"
-      ]
-    },
     "https://crushon.ai": {
       "title": "CrushOn AI",
       "intro": "CrushOn AI是一款基于人工智能的社交匹配应用。",
@@ -9994,6 +10011,7 @@
     },
     "https://www.deepseek.com": {
       "title": "deepseek",
+      "icon": "https://www.deepseek.com/favicon.ico",
       "intro": "基于2千亿MoE模型的领先AI技术，提供超低价格和越级场景体验。",
       "desc": "DeepSeek-V2是一款基于2千亿参数量的MoE（Mixture of Experts）模型的AI技术产品，它在对话官网和API上全面上线，提供领先性能和超低价格。该产品在中文综合能力（AlignBench）和英文综合能力（MT-Bench）的评测中表现出色，与GPT-4-Turbo等闭源模型处于同一梯队。DeepSeek-V2支持128K上下文的开源模型，而对话官网/API支持32K上下文。产品的主要优点包括即刻接入、能力卓越、价格低廉，并且兼容OpenAI API接口，提供丝滑的体验。",
       "lang": "zh",
@@ -11937,26 +11955,6 @@
         "AI 角色生成"
       ]
     },
-    "https://apps.apple.com/au/app/grok/id6670324846": {
-      "title": "Grok App",
-      "intro": "AI助手，探索宇宙，获取真实答案",
-      "desc": "Grok是一个由X.AI Corp开发的AI助手应用，旨在提供最真实、有用和好奇的答案。用户可以通过Grok获取任何问题的答案、生成引人注目的图像，并上传图片以更深入地了解世界。Grok以其高质量的图像生成、实时更新的数据、对话式的幽默语气和注重隐私的特性，为用户提供了一个安全、高效的AI体验平台。",
-      "lang": "en",
-      "tags": [
-        "AI助手",
-        "图像生成",
-        "信息查询",
-        "隐私保护",
-        "多语言",
-        "生产力",
-        "国外精选",
-        "APP"
-      ],
-      "type": [
-        "AI 绘图",
-        "AI 行业工具"
-      ]
-    },
     "https://revvinvest.com": {
       "title": "Revv",
       "intro": "投资人工智能、太空和其他前沿股票的神奇方式",
@@ -12095,7 +12093,7 @@
         "AI 聊天对话"
       ],
       "star": 3,
-      "sort": -86
+      "sort": -90
     },
     "https://felo.ai": {
       "title": "Felo",
@@ -12186,15 +12184,6 @@
         "AI 视频生成"
       ]
     },
-    "https://klingai.kuaishou.com": {
-      "title": "可灵AI",
-      "desc": "快手旗下的新一代AI创意生产力平台",
-      "star": 3,
-      "type": [
-        "AI 视频生成",
-        "国产大模型"
-      ]
-    },
     "https://new.imyai.top": {
       "title": "IMYAI智能助手",
       "desc": "IMYAI，是图欧学习资源库、图欧学习资源导航站、皮卡搜索站长、学习资源船舱船长以及B站UP主图欧君带领图欧科技团队开发的一款AI工具，于2023年5月15日上线，专为学生党、上班族以及自由职业工作者设计，支持智能问答、语音交互、绘画作图、联网搜索、实时翻译、办公编程等多种功能，是一款包括GPT、Claude、Midjourney、Gemini、Llama、Suno、Luma、可灵、文心、千问、星火、智谱、混元等在内的100+款国内外大模型，集AI文本、绘画、音乐、视频等创作服务于一体的多功能AIGC平台。",
@@ -12257,7 +12246,7 @@
       ],
       "type": []
     },
-    "https://x.com/i/broadcasts/1gqGvjeBljOGB": {
+    "https://x.ai": {
       "title": "Grok 3",
       "intro": "xAI推出的最新旗舰AI模型Grok 3，具备强大的推理和多模态处理能力。",
       "desc": "Grok 3是由Elon Musk的AI公司xAI开发的最新旗舰AI模型。它在计算能力和数据集规模上显著提升，能够处理复杂的数学、科学问题，并支持多模态输入。其主要优点是推理能力强大，能够提供更准确的答案，并且在某些基准测试中超越了现有的顶尖模型。Grok 3的推出标志着xAI在AI领域的进一步发展，旨在为用户提供更智能、更高效的AI服务。该模型目前主要通过Grok APP和X平台提供服务，未来还将推出语音模式和企业API接口。其定位是高端AI解决方案，主要面向需要深度推理和多模态交互的用户。",
@@ -12280,6 +12269,44 @@
         "AI 编程开发"
       ]
     },
+    "https://grok.com": {
+      "title": "Grok website",
+      "intro": "基于大语言模型的对话式AI",
+      "desc": "xAI Grok是一个对话式AI系统,能够理解用户的问题并给出知识性的回答。它使用了大规模语言模型来建模语言,从而实现了更人性化的交互。该系统还具有持续学习的能力,会根据用户的反馈不断改进。",
+      "lang": "en",
+      "tags": [
+        "对话AI",
+        "知识问答",
+        "语言理解",
+        "聊天",
+        "全球热门",
+        "生产力",
+        "网站"
+      ],
+      "type": [
+        "AI 聊天对话"
+      ]
+    },
+    "https://apps.apple.com/au/app/grok/id6670324846": {
+      "title": "Grok App",
+      "intro": "AI助手，探索宇宙，获取真实答案",
+      "desc": "Grok是一个由X.AI Corp开发的AI助手应用，旨在提供最真实、有用和好奇的答案。用户可以通过Grok获取任何问题的答案、生成引人注目的图像，并上传图片以更深入地了解世界。Grok以其高质量的图像生成、实时更新的数据、对话式的幽默语气和注重隐私的特性，为用户提供了一个安全、高效的AI体验平台。",
+      "lang": "en",
+      "tags": [
+        "AI助手",
+        "图像生成",
+        "信息查询",
+        "隐私保护",
+        "多语言",
+        "生产力",
+        "国外精选",
+        "APP"
+      ],
+      "type": [
+        "AI 绘图",
+        "AI 行业工具"
+      ]
+    },
     "https://www.tanka.ai": {
       "title": "Tanka",
       "intro": "世界上首款具有AI长期记忆功能的团队协作即时通讯工具。",
@@ -12296,7 +12323,7 @@
         "国外精选",
         "APP"
       ],
-      "type": []
+      "type": ["AI 行业工具"]
     },
     "https://openai.com/index/swe-lancer/": {
       "title": "SWE-Lancer",
@@ -12369,7 +12396,7 @@
       "desc": "小艺是华为推出的智能助手，集成了自然语言处理和机器学习技术，能够提供聊天、写作、编程、翻译等多种功能。它基于深度学习模型，能够理解用户的问题并给出准确的回答。小艺的主要优点是功能丰富、响应速度快、智能化程度高。作为华为生态的一部分，小艺致力于为用户提供便捷的智能服务，提升用户体验。",
       "lang": "zh",
       "star": 3,
-      "sort": -90,
+      "sort": -80,
       "tags": [
         "智能助手",
         "AI",
@@ -12562,26 +12589,6 @@
         "AI 绘图"
       ]
     },
-    "https://docs.qq.com/form/page/DQnJoYkdBVWRCT0tS": {
-      "title": "腾讯文档智能助手",
-      "intro": "腾讯文档智能助手,支持内容生成、数据处理、版式美化等创作需求",
-      "desc": "腾讯文档智能助手正式开启公测,可与Word、Excel、PPT等多品类文档进行智能互动,支持内容秒级生成,实现数据处理、版式美化等创作辅助功能。主要优势有:可基于标题或描述生成多类型文档内容,支持函数公式应用、数据处理、表格自动化等能力,实现 PPT 一键美化,可快速提取 PDF 文档摘要等,让文档内容实现跨品类畅通流转。",
-      "lang": "zh",
-      "star": 3,
-      "tags": [
-        "AI文档工具",
-        "Ai办公助手",
-        "表格处理",
-        "PPT",
-        "效率助手",
-        "生产力",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 文档办公"
-      ]
-    },
     "https://botsheets.com": {
       "title": "Botsheets AI Writer",
       "intro": "Chat自动化，Google Sheets作为CMS",
@@ -12606,6 +12613,7 @@
       "intro": "重新定义视频创作",
       "desc": "Hailuo AI Video Generator 是一款利用人工智能技术，根据文本提示自动生成视频内容的工具。它通过深度学习算法，将用户的文字描述转化为视觉图像，极大地简化了视频制作流程，提高了创作效率。该产品适用于需要快速生成视频内容的个人和企业，特别是在广告、社交媒体内容制作和电影预览等领域。",
       "lang": "en",
+      "star": 2,
       "tags": [
         "人工智能",
         "视频生成",
@@ -12642,31 +12650,13 @@
         "AI 视频生成"
       ]
     },
-    "https://mp.weixin.qq.com/s/fZtFbxkHvmyQPykc81pydw": {
-      "title": "腾讯文档智能助手",
-      "desc": "支持全品类内容生成、数据处理、版式美化等高效创作",
-      "star": 3,
-      "type": [
-        "AI 写作助手"
-      ]
-    },
-    "https://beatbot.fm": {
-      "title": "BeatBot",
-      "desc": "Splash的AI音乐生成器",
-      "type": [
-        "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
-    },
-    "https://withpoly.com/browse/textures": {
+    "https://withpoly.com": {
       "title": "Poly",
       "desc": "根据文本生成3D材质",
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      "lang": "en"
     },
     "https://www.pandagpt.io": {
       "title": "PandaGPT",
