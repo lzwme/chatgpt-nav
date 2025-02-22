@@ -475,7 +475,7 @@
     "https://www.meout.app": {
       "desc": "Find your next outing in seconds",
       "title": "Meout - Find your outing",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "http://itecheasy.com.cn": {
@@ -556,7 +556,7 @@
     "https://puaai.net": {
       "title": "Ymiai",
       "desc": "快捷、高效的人工智能创作平台",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://www.doubao.com/chat/": {
@@ -1402,7 +1402,7 @@
       "star": 3,
       "title": "Bolt",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://webflow.com": {
@@ -1448,7 +1448,7 @@
       ],
       "title": "Leonardo",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://pixai.art": {
@@ -2010,7 +2010,7 @@
       ],
       "title": "eSheep",
       "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.esheep.com"
     },
     "https://www.wujieai.com": {
@@ -2169,7 +2169,7 @@
       ],
       "title": "Visual Prompt Builder",
       "desc": "涨姿势系列！设计/绘画风格参考",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://publicprompts.art": {
@@ -2583,7 +2583,9 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai.zaker.cn": {
       "type": [
@@ -4748,7 +4750,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://ai.logo123.com": {
@@ -4947,7 +4949,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.adobe.com/au/sensei/generative-ai/firefly.html": {
@@ -8486,9 +8488,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://mem.ai": {
       "title": "Mem.ai",
@@ -9096,7 +9096,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io"
     },
     "https://dialoggpt.io/home": {
@@ -9117,7 +9117,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://dhibot.com": {
@@ -10358,7 +10358,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://home.tiangong.cn/downloadGuide": {
@@ -11495,7 +11495,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://getliner.com": {
@@ -12430,9 +12430,7 @@
         "国外精选",
         "网站"
       ],
-      "type": [],
-      "needVerify": 1,
-      "errmsg": "[error][-1]write EPROTO 40ECA709A37F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
+      "type": []
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12506,7 +12504,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]OK"
     },
     "https://www.iflytek.com/product/xinghuogongwenzhushou.html": {
@@ -12526,7 +12524,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://aivideo.hunyuan.tencent.com": {
@@ -12664,7 +12662,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     }
   }
