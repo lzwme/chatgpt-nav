@@ -475,7 +475,7 @@
     "https://www.meout.app": {
       "desc": "Find your next outing in seconds",
       "title": "Meout - Find your outing",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "http://itecheasy.com.cn": {
@@ -556,7 +556,7 @@
     "https://puaai.net": {
       "title": "Ymiai",
       "desc": "快捷、高效的人工智能创作平台",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://www.doubao.com/chat/": {
@@ -1402,7 +1402,7 @@
       "star": 3,
       "title": "Bolt",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://webflow.com": {
@@ -1448,8 +1448,9 @@
       ],
       "title": "Leonardo",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://pixai.art": {
       "type": [
@@ -2010,7 +2011,7 @@
       ],
       "title": "eSheep",
       "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.esheep.com"
     },
     "https://www.wujieai.com": {
@@ -2169,7 +2170,7 @@
       ],
       "title": "Visual Prompt Builder",
       "desc": "涨姿势系列！设计/绘画风格参考",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://publicprompts.art": {
@@ -2435,7 +2436,9 @@
         "AI 图像处理"
       ],
       "title": "字体家AI神笔",
-      "desc": "造字神器！ 仅需8个汉字即可生成一套6K+中文字库"
+      "desc": "造字神器！ 仅需8个汉字即可生成一套6K+中文字库",
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://brandmark.io": {
       "type": [
@@ -4308,9 +4311,7 @@
       ],
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -4750,7 +4751,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://ai.logo123.com": {
@@ -4949,8 +4950,9 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.adobe.com/au/sensei/generative-ai/firefly.html": {
       "title": "Adobe Firefly",
@@ -5307,7 +5309,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]write EPROTO 407CE85DA67F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
     },
     "https://consensus.app": {
       "title": "Consensus",
@@ -6171,7 +6175,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chandler.bet": {
       "title": "Chandler",
@@ -8543,7 +8549,9 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kraftful.com": {
       "title": "Kraftful",
@@ -9096,7 +9104,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io"
     },
     "https://dialoggpt.io/home": {
@@ -9117,7 +9125,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://dhibot.com": {
@@ -10358,7 +10366,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://home.tiangong.cn/downloadGuide": {
@@ -11238,9 +11246,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -11397,9 +11403,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -11499,7 +11503,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://getliner.com": {
@@ -12161,9 +12165,7 @@
       "desc": "美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板,可在线智能生成海报,一键换色,一键换装,一键去水印,图片高清修复,无损放大,抠图,拼图。",
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://shop-ai.app": {
       "title": "ShopAI",
@@ -12510,7 +12512,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]OK"
     },
     "https://www.iflytek.com/product/xinghuogongwenzhushou.html": {
@@ -12530,7 +12532,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://aivideo.hunyuan.tencent.com": {
@@ -12668,7 +12670,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     }
   }
