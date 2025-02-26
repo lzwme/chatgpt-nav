@@ -288,7 +288,9 @@
     "https://cp.baidu.com": {
       "title": "橙篇",
       "desc": "百度旗下写作助手，长文生成神器",
-      "tags": ["百度"],
+      "tags": [
+        "百度"
+      ],
       "type": [
         "AI 写作助手"
       ]
@@ -310,7 +312,9 @@
         "AI 写作助手",
         "AI 视频生成"
       ],
-      "tags": ["百度"],
+      "tags": [
+        "百度"
+      ],
       "title": "百度度加创作工具",
       "desc": "百度旗下产品，打造人人可用的AI创作工具"
     },
@@ -326,7 +330,9 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "tags": ["百度"],
+      "tags": [
+        "百度"
+      ],
       "title": "文心一格",
       "desc": "百度旗下AI艺术和创意辅助平台"
     },
@@ -335,7 +341,9 @@
         "AI 翻译工具",
         "AI 文档办公"
       ],
-      "tags": ["百度"],
+      "tags": [
+        "百度"
+      ],
       "title": "百度翻译",
       "desc": "提供即时免费200+语言翻译服务"
     },
@@ -683,7 +691,9 @@
         "AI 行业工具"
       ],
       "desc": "收录热门AI产品",
-      "title": "Khanmigo"
+      "title": "Khanmigo",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat.yqcloud.top": {
       "needVPN": 1,
@@ -719,9 +729,7 @@
     },
     "https://www.meout.app": {
       "desc": "Find your next outing in seconds",
-      "title": "Meout - Find your outing",
-      "needVerify": 6,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
+      "title": "Meout - Find your outing"
     },
     "http://itecheasy.com.cn": {
       "needVPN": 1,
@@ -801,8 +809,9 @@
     "https://puaai.net": {
       "title": "Ymiai",
       "desc": "快捷、高效的人工智能创作平台",
-      "needVerify": 6,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "needVerify": 7,
+      "errmsg": "[error][-1]read ECONNRESET",
+      "hide": 1
     },
     "https://www.doubao.com/chat/": {
       "type": [
@@ -1640,7 +1649,7 @@
       "star": 3,
       "title": "Bolt",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://webflow.com": {
@@ -2217,9 +2226,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2243,8 +2250,9 @@
       ],
       "title": "eSheep",
       "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图",
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.esheep.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.esheep.com",
+      "hide": 1
     },
     "https://www.wujieai.com": {
       "type": [
@@ -2395,15 +2403,6 @@
         "生产力",
         "网站"
       ]
-    },
-    "https://tools.saxifrage.xyz/prompt": {
-      "type": [
-        "AI 提示词"
-      ],
-      "title": "Visual Prompt Builder",
-      "desc": "涨姿势系列！设计/绘画风格参考",
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://publicprompts.art": {
       "type": [
@@ -3754,7 +3753,9 @@
       "type": [
         "AI 编程开发"
       ],
-      "tags": ["字节跳动"]
+      "tags": [
+        "字节跳动"
+      ]
     },
     "https://play.aidungeon.io/main/home": {
       "title": "AI Dungeon",
@@ -4961,28 +4962,6 @@
       "type": [
         "AI 图像处理"
       ]
-    },
-    "https://makelogo.ai": {
-      "title": "Make Logo AI",
-      "intro": "AI生成独特标志，仅用时几分钟",
-      "desc": "MakeLogoAI是一个使用人工智能生成独特标志的平台。它可以根据您的需求生成多个创意方向的文本标志设计，并提供低分辨率的预览供您选择。您可以使用我们的Logo Editor对颜色、文字和字体进行微调，并导出矢量化版本的标志。售价为$9.99，您将拥有标志的完全所有权和商业使用权。",
-      "lang": "en",
-      "tags": [
-        "AI生成",
-        "标志设计",
-        "Logo Editor",
-        "矢量化标志",
-        "设计工具",
-        "设计",
-        "普通产品",
-        "生产力",
-        "网站"
-      ],
-      "type": [
-        "AI 图像处理"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://ai.logo123.com": {
       "title": "123LOGO生成器",
@@ -8783,7 +8762,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.teamsmart.ai": {
       "title": "TeamSmart AI",
@@ -9223,8 +9204,9 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io",
+      "hide": 1
     },
     "https://dialoggpt.io/home": {
       "title": "DialogGPT",
@@ -9244,8 +9226,9 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://dhibot.com": {
       "title": "Dhibot",
@@ -10480,8 +10463,9 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]Parse Error: Header overflow"
+      "needVerify": 7,
+      "errmsg": "[error][-1]Parse Error: Header overflow",
+      "hide": 1
     },
     "https://home.tiangong.cn/downloadGuide": {
       "title": "天工SkyMusic",
@@ -11617,8 +11601,9 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://getliner.com": {
       "title": "Liner",
@@ -12032,7 +12017,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tldraw.dev": {
       "title": "tldraw.dev",
@@ -12595,46 +12582,6 @@
         "AI 绘图"
       ]
     },
-    "https://dun.163.com/text-detect/": {
-      "title": "网易易盾",
-      "intro": "专业文本识别与过滤服务，支持多种垃圾文本检测。",
-      "desc": "网易易盾文本识别体验是基于智能识别及海量样本库的专业文本识别服务，针对文本垃圾提供个性化匹配模型及定制检测方案。产品背景包括多年行业经验积累，定位于帮助用户高效识别评论、弹幕、昵称中的变种文本垃圾。",
-      "lang": "zh",
-      "tags": [
-        "文本识别",
-        "内容过滤",
-        "安全检测",
-        "内容安全",
-        "普通产品",
-        "写作",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]OK"
-    },
-    "https://www.iflytek.com/product/xinghuogongwenzhushou.html": {
-      "title": "讯飞星火公文助手",
-      "intro": "讯飞星火公文助手是一款基于科大讯飞星火大模型技术的 AI 公文写作助手。",
-      "desc": "讯飞星火公文助手是一款利用星火大模型技术的 AI 公文写作助手，提供素材筹备、拟稿写作和审稿核稿等功能。其主要优点包括高效节省写作时间、提供全面素材筹备和一键生成公文内容等。产品定位于提升公文材料撰写效率。",
-      "lang": "zh",
-      "tags": [
-        "公文助手",
-        "AI 写作助手",
-        "公文撰写",
-        "生产力",
-        "普通产品",
-        "写作",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://aivideo.hunyuan.tencent.com": {
       "title": "腾讯混元文生视频",
       "intro": "130亿参数的文生视频大模型，实现创意与物理准确性的结合",
@@ -12784,8 +12731,9 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en"
+      "lang": "en",
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     }
-  },
-  "hotTags": ["APP", "API", "deepseek", "Claude"]
+  }
 }
