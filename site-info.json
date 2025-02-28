@@ -229,7 +229,6 @@
     },
     "https://www.volcengine.com/experience/ark": {
       "type": [
-        "AI 翻译对话",
         "AI 翻译工具",
         "AI 文档办公"
       ],
@@ -449,8 +448,7 @@
         "网站"
       ],
       "type": [
-        "AI 行业工具",
-        "AI 大模型"
+        "AI 行业工具"
       ]
     },
     "https://ai.baidu.com/unit/home": {
@@ -484,8 +482,7 @@
     "https://xinghuo.xfyun.cn": {
       "type": [
         "AI 聊天对话",
-        "国产大模型",
-        "AI 大模型"
+        "国产大模型"
       ],
       "star": 3,
       "sort": -86,
@@ -526,8 +523,7 @@
       "type": [
         "AI 聊天对话",
         "国产大模型",
-        "AI 绘图",
-        "AI 大模型"
+        "AI 绘图"
       ],
       "star": 3,
       "sort": -84,
@@ -803,8 +799,9 @@
     "https://puaai.net": {
       "title": "Ymiai",
       "desc": "快捷、高效的人工智能创作平台",
-      "needVerify": 6,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "needVerify": 7,
+      "errmsg": "[error][-1]read ECONNRESET",
+      "hide": 1
     },
     "https://www.doubao.com/chat/": {
       "type": [
@@ -924,8 +921,7 @@
       "star": 3,
       "lang": "en",
       "type": [
-        "AI 编程开发",
-        "AI 大模型"
+        "AI 编程开发"
       ]
     },
     "https://gemini.google.com": {
@@ -1366,7 +1362,9 @@
         "AI 写作助手"
       ],
       "title": "5118 SEO优化精灵",
-      "desc": "一键式生成高质量SEO文章"
+      "desc": "一键式生成高质量SEO文章",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.shenyandayi.com": {
       "type": [
@@ -1643,7 +1641,7 @@
       "star": 3,
       "title": "Bolt",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://webflow.com": {
@@ -1669,8 +1667,7 @@
     },
     "https://www.promptingguide.ai": {
       "type": [
-        "AI 提示词",
-        "AI 大模型"
+        "AI 提示词"
       ],
       "title": "提示工程指南",
       "desc": "提示工程（Prompt Engineering）是一门较新的学科，关注提示词开发和优化，帮助用户将大语言模型（Large Language Model, LLM）用于各场景和研究领域。"
@@ -2222,9 +2219,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2248,8 +2243,9 @@
       ],
       "title": "eSheep",
       "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图",
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.esheep.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.esheep.com",
+      "hide": 1
     },
     "https://www.wujieai.com": {
       "type": [
@@ -2400,15 +2396,6 @@
         "生产力",
         "网站"
       ]
-    },
-    "https://tools.saxifrage.xyz/prompt": {
-      "type": [
-        "AI 提示词"
-      ],
-      "title": "Visual Prompt Builder",
-      "desc": "涨姿势系列！设计/绘画风格参考",
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://publicprompts.art": {
       "type": [
@@ -2822,7 +2809,9 @@
         "AI 写作助手"
       ],
       "title": "爱创作",
-      "desc": "一键生成文章、营销文本、配图与短视频等多类型内容"
+      "desc": "一键生成文章、营销文本、配图与短视频等多类型内容",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://openai.com/sora": {
       "type": [
@@ -4948,28 +4937,6 @@
       "type": [
         "AI 图像处理"
       ]
-    },
-    "https://makelogo.ai": {
-      "title": "Make Logo AI",
-      "intro": "AI生成独特标志，仅用时几分钟",
-      "desc": "MakeLogoAI是一个使用人工智能生成独特标志的平台。它可以根据您的需求生成多个创意方向的文本标志设计，并提供低分辨率的预览供您选择。您可以使用我们的Logo Editor对颜色、文字和字体进行微调，并导出矢量化版本的标志。售价为$9.99，您将拥有标志的完全所有权和商业使用权。",
-      "lang": "en",
-      "tags": [
-        "AI生成",
-        "标志设计",
-        "Logo Editor",
-        "矢量化标志",
-        "设计工具",
-        "设计",
-        "普通产品",
-        "生产力",
-        "网站"
-      ],
-      "type": [
-        "AI 图像处理"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://ai.logo123.com": {
       "title": "123LOGO生成器",
@@ -8712,7 +8679,9 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kraftful.com": {
       "title": "Kraftful",
@@ -9014,8 +8983,7 @@
         "网站"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ]
     },
     "https://apps.apple.com/cn/app/%E8%AF%9D%E7%82%89/id6475000292": {
@@ -9211,8 +9179,9 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io",
+      "hide": 1
     },
     "https://dialoggpt.io/home": {
       "title": "DialogGPT",
@@ -9232,8 +9201,9 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://dhibot.com": {
       "title": "Dhibot",
@@ -9503,8 +9473,7 @@
         "网站"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ]
     },
     "https://chatboxai.app/zh": {
@@ -9614,9 +9583,7 @@
         "全球热门",
         "APP"
       ],
-      "type": [
-        "AI 大模型"
-      ]
+      "type": []
     },
     "https://github.com/mckaywrigley/chatbot-ui": {
       "title": "Chatbot UI",
@@ -9689,7 +9656,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://secretllama.com": {
       "title": "Secret Llama",
@@ -9970,8 +9939,7 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ]
     },
     "https://www.iwencai.com": {
@@ -10054,9 +10022,7 @@
         "生产力",
         "模型"
       ],
-      "type": [
-        "AI 大模型"
-      ]
+      "type": []
     },
     "https://home.tiangong.cn": {
       "title": "天工SkyMusic",
@@ -10110,8 +10076,7 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话",
-        "AI 大模型"
+        "AI 聊天对话"
       ]
     },
     "https://www.deepseek.com": {
@@ -10135,8 +10100,7 @@
       ],
       "type": [
         "AI 聊天对话",
-        "国产大模型",
-        "AI 大模型"
+        "国产大模型"
       ],
       "needVerify": -1
     },
@@ -10245,8 +10209,7 @@
         "插件"
       ],
       "type": [
-        "AI 编程开发",
-        "AI 大模型"
+        "AI 编程开发"
       ]
     },
     "https://www.jetbrains.com/ai/": {
@@ -10468,8 +10431,9 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]Parse Error: Header overflow"
+      "needVerify": 7,
+      "errmsg": "[error][-1]Parse Error: Header overflow",
+      "hide": 1
     },
     "https://home.tiangong.cn/downloadGuide": {
       "title": "天工SkyMusic",
@@ -11523,8 +11487,7 @@
         "网站"
       ],
       "type": [
-        "AI 视频生成",
-        "AI 大模型"
+        "AI 视频生成"
       ]
     },
     "http://d-id.com": {
@@ -11606,8 +11569,9 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://getliner.com": {
       "title": "Liner",
@@ -12559,46 +12523,6 @@
         "AI 绘图"
       ]
     },
-    "https://dun.163.com/text-detect/": {
-      "title": "网易易盾",
-      "intro": "专业文本识别与过滤服务，支持多种垃圾文本检测。",
-      "desc": "网易易盾文本识别体验是基于智能识别及海量样本库的专业文本识别服务，针对文本垃圾提供个性化匹配模型及定制检测方案。产品背景包括多年行业经验积累，定位于帮助用户高效识别评论、弹幕、昵称中的变种文本垃圾。",
-      "lang": "zh",
-      "tags": [
-        "文本识别",
-        "内容过滤",
-        "安全检测",
-        "内容安全",
-        "普通产品",
-        "写作",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]OK"
-    },
-    "https://www.iflytek.com/product/xinghuogongwenzhushou.html": {
-      "title": "讯飞星火公文助手",
-      "intro": "讯飞星火公文助手是一款基于科大讯飞星火大模型技术的 AI 公文写作助手。",
-      "desc": "讯飞星火公文助手是一款利用星火大模型技术的 AI 公文写作助手，提供素材筹备、拟稿写作和审稿核稿等功能。其主要优点包括高效节省写作时间、提供全面素材筹备和一键生成公文内容等。产品定位于提升公文材料撰写效率。",
-      "lang": "zh",
-      "tags": [
-        "公文助手",
-        "AI 写作助手",
-        "公文撰写",
-        "生产力",
-        "普通产品",
-        "写作",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://aivideo.hunyuan.tencent.com": {
       "title": "腾讯混元文生视频",
       "intro": "130亿参数的文生视频大模型，实现创意与物理准确性的结合",
@@ -12743,30 +12667,6 @@
       ],
       "lang": "zh"
     },
-    "https://ppinfra.com/user/register?invited_by=XRMRL5": {
-      "type": [
-        "AI 聊天对话",
-        "AI 综合工具",
-        "国产大模型"
-      ],
-      "star": 3,
-      "sort": -89,
-      "needLogin": 1,
-      "intro": "AI 云端一体化解决方案: 模型 API、Serverless、GPU 租赁",
-      "desc": "注册即送 50元 DeepSeek Token 代金券！派欧算力云提供全面的 AI 云端平台解决方案,包括模型 API、Serverless 和高性能 GPU 实例等,帮助您节省高达 50% 的成本,并同时加速 AI 产品的构建和业务发展,助力企业实现创新突破,赢得市场竞争优势。",
-      "title": "派欧算力云",
-      "tags": [
-        "人工智能",
-        "语言模型",
-        "知识增强",
-        "中文精选",
-        "生产力",
-        "云服务",
-        "API",
-        "deepseek",
-        "大厂合集(精选大厂热门AI产品)"
-      ]
-    },
     "https://www.pandagpt.io/lander": {
       "title": "PandaGPT",
       "desc": "上传文档！即可用对话的方式让 AI 总结文档重点",
@@ -12792,7 +12692,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.florafauna.ai": {
       "title": "FLORA",
@@ -12853,7 +12755,9 @@
       "type": [
         "AI 写作助手",
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://exa.ai/blog/websets-evals": {
       "title": "Websets",
@@ -12909,7 +12813,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][200]<!DOCTYPE html><script type=\"module\" src=\"/_astro/index.astro_astro_type_script_index_0_lang.CoXd8L9s.js\"></script> <html lang=\"en-us\" dir=\"ltr\"> <head><script async src=\"https://ot.www.cl"
     },
     "https://wanxai.com": {
       "title": "Wan",
@@ -12989,7 +12895,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko": {
       "title": "AI课代表 - B站学习助手, 视频总结, 字幕列表, GPT-4",
@@ -13093,41 +13001,69 @@
       "desc": "国内专业的ai创作平台，支持文本生成图片，图片风格转换",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND rightbrain.art"
     },
     "https://www.promeai.com": {
       "title": "PromeAI",
       "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com"
     },
     "https://voxcraft.com": {
       "title": "VoxCraft",
       "desc": "Voxcraft是一款基于AI的三维建模工具，通过AI技术，可以快速生成三维模型",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://beatbot.fm": {
       "title": "BeatBot",
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://kuaiyi.wps.cn/txt-translate": {
       "title": "金山快译",
       "desc": "金山旗下多场景的翻译服务",
       "type": [
         "AI 翻译工具"
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
+    },
+    "https://ppinfra.com/user/": {
+      "type": [
+        "AI 聊天对话",
+        "AI 综合工具",
+        "国产大模型"
+      ],
+      "star": 3,
+      "sort": -89,
+      "needLogin": 1,
+      "intro": "AI 云端一体化解决方案: 模型 API、Serverless、GPU 租赁",
+      "desc": "注册即送 50元 DeepSeek Token 代金券！派欧算力云提供全面的 AI 云端平台解决方案,包括模型 API、Serverless 和高性能 GPU 实例等,帮助您节省高达 50% 的成本,并同时加速 AI 产品的构建和业务发展,助力企业实现创新突破,赢得市场竞争优势。",
+      "title": "派欧算力云",
+      "tags": [
+        "人工智能",
+        "语言模型",
+        "知识增强",
+        "中文精选",
+        "生产力",
+        "云服务",
+        "API",
+        "deepseek",
+        "大厂合集(精选大厂热门AI产品)"
       ]
     }
-  },
-  "hotTags": [
-    "APP",
-    "API",
-    "deepseek",
-    "Claude"
-  ]
+  }
 }
