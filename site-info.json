@@ -204,13 +204,53 @@
       "desc": "英国AI初创公司，开源了强大的 Stable Diffusion 文生图大模型",
       "title": "Stable Diffusion"
     },
+    "https://cloud.siliconflow.cn/i/hDM9hDR6": {
+      "type": [
+        "AI 聊天对话",
+        "AI 综合工具",
+        "国产大模型"
+      ],
+      "star": 3,
+      "sort": -90,
+      "needLogin": 1,
+      "desc": "硅基流动 x 华为云联合推出基于昇腾云的 DeepSeek R1 & V3 推理服务，注册即可体验→",
+      "title": "硅基流动",
+      "tags": [
+        "人工智能",
+        "语言模型",
+        "知识增强",
+        "中文精选",
+        "生产力",
+        "云服务",
+        "API",
+        "deepseek",
+        "大厂合集(精选大厂热门AI产品)"
+      ]
+    },
+    "https://www.volcengine.com/experience/ark": {
+      "type": [
+        "AI 翻译对话",
+        "AI 翻译工具",
+        "AI 文档办公"
+      ],
+      "tags": [
+        "deepseek",
+        "字节跳动",
+        "API"
+      ],
+      "icon": "https://api.ekumao.com/api/favicon?url=https://volcengine.com",
+      "title": "火山方舟-极速体验模型",
+      "star": 3,
+      "sort": -89,
+      "desc": "字节火山方舟平台。当前有活动，免费领大模型，全速体验DeepSeek！"
+    },
     "https://kimi.moonshot.cn": {
       "type": [
         "AI 聊天对话",
         "国产大模型"
       ],
       "star": 3,
-      "sort": -89,
+      "sort": -87,
       "needLogin": 1,
       "desc": "Kimi智能助手能够支持约20万汉字的上下文输入，具备显著的中文优势，能够为用户提供回答问题、速读文件、整理资料、激发灵感、辅助创作等服务",
       "title": "Kimi.ai",
@@ -224,7 +264,7 @@
         "国产大模型"
       ],
       "star": 3,
-      "sort": -90,
+      "sort": -87,
       "needLogin": 1,
       "desc": "百度全新知识增强大语言模型！使用百度账号登录即可",
       "title": "文心一言",
@@ -238,10 +278,214 @@
         "大厂合集(精选大厂热门AI产品)"
       ]
     },
+    "https://cp.baidu.com": {
+      "title": "橙篇",
+      "desc": "百度旗下写作助手，长文生成神器",
+      "tags": [
+        "百度"
+      ],
+      "type": [
+        "AI 写作助手"
+      ]
+    },
+    "https://console.bce.baidu.com/qianfan/ais/console/onlineTest/LLM": {
+      "title": "千帆ModelBuilder",
+      "desc": "通过与文档对话,以引用来源的方式获得即时答案。",
+      "type": [
+        "AI 聊天对话"
+      ],
+      "tags": [
+        "deepseek",
+        "百度",
+        "API"
+      ]
+    },
+    "https://aigc.baidu.com": {
+      "type": [
+        "AI 写作助手",
+        "AI 视频生成"
+      ],
+      "tags": [
+        "百度"
+      ],
+      "title": "百度度加创作工具",
+      "desc": "百度旗下产品，打造人人可用的AI创作工具"
+    },
+    "https://comate.baidu.com": {
+      "type": [
+        "AI 编程开发"
+      ],
+      "title": "文心快码",
+      "desc": "基于文心大模型，结合百度积累多年的编程现场大数据和外部优秀开源数据，为你生成更符合实际研发场景的优质代码。"
+    },
+    "https://yige.baidu.com": {
+      "type": [
+        "AI 绘图",
+        "AI 图像处理"
+      ],
+      "tags": [
+        "百度"
+      ],
+      "title": "文心一格",
+      "desc": "百度旗下AI艺术和创意辅助平台"
+    },
+    "https://fanyi.baidu.com": {
+      "type": [
+        "AI 翻译工具",
+        "AI 文档办公"
+      ],
+      "tags": [
+        "百度"
+      ],
+      "title": "百度翻译",
+      "desc": "提供即时免费200+语言翻译服务"
+    },
+    "https://zuojia.baidu.com": {
+      "title": "百度作家平台",
+      "intro": "AI智能创作工具",
+      "desc": "百度作家平台是一个AI智能创作工具，提供多种功能，包括AI助手、对话有问必答、AI续写等。用户可以使用该平台进行写作创作，包括小说设定、润色、角色起名等。平台还提供作品管理、收益分析等功能。百度作家平台适用于想要提升写作效率和创作质量的作者。",
+      "lang": "zh",
+      "tags": [
+        "AI",
+        "创作",
+        "写作",
+        "工具",
+        "普通产品",
+        "百度",
+        "网站"
+      ],
+      "type": [
+        "AI 写作助手"
+      ]
+    },
+    "https://aistudio.baidu.com/aistudio/projectdetail/3557574": {
+      "title": "PP飞桨",
+      "intro": "飞桨 AI Studio 上的公文写作智能应用，帮助用户快速撰写公文文章。",
+      "desc": "公文写作｜智能笔杆子是基于 ERNIE 3.5 模型的公文撰写助手，专为编写公文文章设计。该应用能够提供优质的公文风格文章，适用于国企公司内部新闻等场景。",
+      "lang": "zh",
+      "tags": [
+        "公文",
+        "写作",
+        "智能应用",
+        "普通产品",
+        "百度",
+        "网站"
+      ],
+      "type": [
+        "AI 写作助手"
+      ]
+    },
+    "https://photo.baidu.com/photasy/home": {
+      "title": "超能画布",
+      "intro": "专注人像摄影的AI创意生成工具，助力个人图像创意",
+      "desc": "超能画布是百度网盘荣誉出品的AI创意生成工具,可以根据您上传的人像图片自动生成各种风格的创意图像,如写实、唯美、奇幻等,帮助摄影师提高工作效率,为每个人实现图像创意. 该工具提供免费试用,并有灵活的付费模式满足不同需求.",
+      "lang": "zh",
+      "tags": [
+        "人像摄影",
+        "AI创意生成",
+        "图像编辑",
+        "图像",
+        "优质新品",
+        "百度",
+        "网站"
+      ],
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://aichat.baidu.com": {
+      "title": "小侃星球",
+      "intro": "基于AI的虚拟人聊天应用，提供24小时聊天陪伴和生活服务。",
+      "desc": "小侃星球是由百度发布的一款基于AI开放域对话模型的虚拟人聊天应用。结合AI技术和社交元素，用户可以与虚拟人物进行对话聊天，享受陪伴，同时获得实用的生活服务，如哄睡和叫早服务。",
+      "lang": "zh",
+      "tags": [
+        "AI技术",
+        "社交",
+        "生活服务",
+        "情感陪伴",
+        "聊天",
+        "中文精选",
+        "百度",
+        "APP"
+      ],
+      "type": [
+        "AI 聊天对话"
+      ]
+    },
+    "https://wantalk.baidu.com": {
+      "title": "万话",
+      "intro": "一个角色创建和管理平台，用于推进剧情发展。",
+      "desc": "万话创作者平台是一个专注于角色创建和管理的在线服务，它允许用户构建和细化角色设定，包括基础信息、世界观设定、角色设定、隐藏设定以及开场白。该平台特别适合需要角色构建和剧情推进的写作项目，如小说创作、剧本编写等。它通过提供角色调试功能，帮助用户达到理想的角色设定效果。",
+      "lang": "zh",
+      "tags": [
+        "角色创建",
+        "剧情发展",
+        "写作辅助",
+        "聊天",
+        "中文精选",
+        "百度",
+        "网站"
+      ],
+      "type": [
+        "AI 角色生成",
+        "AI 写作助手",
+        "AI 聊天对话"
+      ]
+    },
+    "https://keyue.cloud.baidu.com": {
+      "title": "百度智能云客悦",
+      "intro": "大模型原生智能客服,开启服务营销新纪元",
+      "desc": "百度智能云客悦基于百度文心一言大模型,全面重构智能客服系列产品,涵盖客户服务、智能营销、智能通信三大系列,满足企业智能客服全场景需求。主要产品包括:智能对话平台(提供大模型驱动的高智能客服机器人)、智能外呼平台(高拟人度语音对话营销)、对话洞察平台(对话数据分析洞见优化建议)、智能通信平台(集成通信资源API接入)等。产品优势有:基于大模型对话更准确友好全面、高效快速上线运营、多渠道无缝集成适配等。",
+      "lang": "zh",
+      "tags": [
+        "智能客服",
+        "大模型",
+        "对话系统",
+        "营销通信",
+        "数据分析",
+        "商业",
+        "中文精选",
+        "百度",
+        "网站"
+      ],
+      "type": [
+        "AI 行业工具",
+        "AI 大模型"
+      ]
+    },
+    "https://ai.baidu.com/unit/home": {
+      "title": "百度智能对话平台 UNIT",
+      "intro": "百度 UNIT 是一款领先的智能对话管理平台，助力企业定制专业、可控、稳定的对话系统。",
+      "desc": "百度 UNIT 搭载业界领先的对话理解和对话管理技术，提供灵活运营管理工具和可视化会话流程配置，助力企业智能化升级实现降本增效。",
+      "lang": "zh",
+      "tags": [
+        "智能对话",
+        "企业",
+        "对话系统",
+        "商业",
+        "中文精选",
+        "百度",
+        "网站"
+      ],
+      "type": [
+        "AI 聊天对话"
+      ]
+    },
+    "https://chat.baidu.com": {
+      "title": "百度Chat",
+      "desc": "百度Chat是百度旗下的搜索AI伙伴，在大模型的基础上，集成了全网搜索的能力。",
+      "type": [
+        "AI 聊天对话"
+      ],
+      "tags": [
+        "百度"
+      ]
+    },
     "https://xinghuo.xfyun.cn": {
       "type": [
         "AI 聊天对话",
-        "国产大模型"
+        "国产大模型",
+        "AI 大模型"
       ],
       "star": 3,
       "sort": -86,
@@ -282,7 +526,8 @@
       "type": [
         "AI 聊天对话",
         "国产大模型",
-        "AI 绘图"
+        "AI 绘图",
+        "AI 大模型"
       ],
       "star": 3,
       "sort": -84,
@@ -380,6 +625,10 @@
       "type": [
         "AI 聊天对话"
       ],
+      "tags": [
+        "deepseek",
+        "Claude"
+      ],
       "star": 2,
       "needLogin": 1,
       "source": "recommend",
@@ -472,11 +721,9 @@
       "desc": "周报生成器。仅于周一、五、六、日免费使用，其余时间自备 OpenAI API Key",
       "needKey": 1
     },
-    "https://www.meout.app": {
+    "https://www.meout.app/lander": {
       "desc": "Find your next outing in seconds",
-      "title": "Meout - Find your outing",
-      "needVerify": 6,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
+      "title": "Meout - Find your outing"
     },
     "http://itecheasy.com.cn": {
       "needVPN": 1,
@@ -649,7 +896,12 @@
     },
     "https://www.anthropic.com": {
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 国外工具"
+      ],
+      "tags": [
+        "Claude",
+        "API"
       ],
       "star": 3,
       "title": "Anthropic",
@@ -657,19 +909,23 @@
     },
     "https://bard.google.com": {
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 国外工具"
       ],
       "title": "Google Bard",
       "desc": "Google推出的聊天机器人。",
       "needVPN": true,
+      "lang": "en",
       "star": 3
     },
     "https://deepmind.google/technologies/gemini": {
       "desc": "Gemini(双子座)是Google最新的大型语言模型，在一系列多模式基准测试中超越了最先进GPT4。在各种自然语言任务中表现良好，例如摘要、指令跟踪、内容生成、情感分析、实体提取、分类等。",
       "title": "Google Gemini",
       "star": 3,
+      "lang": "en",
       "type": [
-        "AI 编程开发"
+        "AI 编程开发",
+        "AI 大模型"
       ]
     },
     "https://gemini.google.com": {
@@ -1119,14 +1375,6 @@
       "title": "深言达意",
       "desc": "深言达意是一款写作辅助工具，核心功能包括据意查词、据意查句。"
     },
-    "https://aigc.baidu.com": {
-      "type": [
-        "AI 写作助手",
-        "AI 视频生成"
-      ],
-      "title": "百度度加创作工具",
-      "desc": "百度旗下产品，打造人人可用的AI创作工具"
-    },
     "https://ibiling.cn": {
       "type": [
         "AI 写作助手"
@@ -1351,13 +1599,6 @@
       "title": "昇思 MindSpore",
       "desc": "通过社区合作，面向全场景构建最佳昇腾匹配、支持多处理器架构的开放AI架构，为算法工程师和数据科学家提供开发友好、运行高效、部署灵活的体验，帮助人工智能软硬件应用生态繁荣发展。"
     },
-    "https://comate.baidu.com": {
-      "type": [
-        "AI 编程开发"
-      ],
-      "title": "文心快码",
-      "desc": "基于文心大模型，结合百度积累多年的编程现场大数据和外部优秀开源数据，为你生成更符合实际研发场景的优质代码。"
-    },
     "https://www.paddlepaddle.org.cn": {
       "type": [
         "AI 编程开发"
@@ -1428,7 +1669,8 @@
     },
     "https://www.promptingguide.ai": {
       "type": [
-        "AI 提示词"
+        "AI 提示词",
+        "AI 大模型"
       ],
       "title": "提示工程指南",
       "desc": "提示工程（Prompt Engineering）是一门较新的学科，关注提示词开发和优化，帮助用户将大语言模型（Large Language Model, LLM）用于各场景和研究领域。"
@@ -1505,14 +1747,6 @@
       "title": "Yodayo",
       "desc": "探索人工智能生成的动漫艺术，找到最佳提示，使用我们的免费人工智能艺术生成器创建美丽的图像，并与其他动漫迷分享！",
       "needVPN": 1
-    },
-    "https://yige.baidu.com": {
-      "type": [
-        "AI 绘图",
-        "AI 图像处理"
-      ],
-      "title": "文心一格",
-      "desc": "百度旗下AI艺术和创意辅助平台"
     },
     "https://6pen.art": {
       "type": [
@@ -1767,7 +2001,8 @@
     },
     "https://elevenlabs.io": {
       "type": [
-        "AI 语音生成"
+        "AI 语音生成",
+        "AI 写作助手"
       ],
       "title": "Eleven Labs",
       "desc": "ElevenLabs 带来了最逼真、丰富和生动的声音，为寻求叙事的终极工具的创作者和发布者提供了最具吸引力的文本转语音和语音克隆软件。"
@@ -2433,13 +2668,6 @@
       "title": "Palette",
       "desc": "生成整套UI调色板"
     },
-    "https://www.ai.zitijia.com": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "字体家AI神笔",
-      "desc": "造字神器！ 仅需8个汉字即可生成一套6K+中文字库"
-    },
     "https://brandmark.io": {
       "type": [
         "AI 绘图",
@@ -2522,7 +2750,8 @@
         "AI 写作助手"
       ],
       "title": "Notion AI",
-      "desc": "AI写作神器！比你想得更多！写得更快"
+      "desc": "AI写作神器！比你想得更多！写得更快",
+      "star": 3
     },
     "https://www.writingo.net/home": {
       "type": [
@@ -2881,6 +3110,9 @@
         "AI 翻译工具",
         "AI 文档办公"
       ],
+      "tags": [
+        "字节跳动"
+      ],
       "title": "火山翻译",
       "star": 3,
       "desc": "字节旗下支持超过100种语种的免费在线翻译"
@@ -2902,14 +3134,6 @@
       "icon": "https://fanyi.xfyun.cn/assets/logo.0cb48385.svg",
       "title": "讯飞智能翻译",
       "desc": "科大讯飞推出的人工智能翻译平台"
-    },
-    "https://fanyi.baidu.com": {
-      "type": [
-        "AI 翻译工具",
-        "AI 文档办公"
-      ],
-      "title": "百度翻译",
-      "desc": "提供即时免费200+语言翻译服务"
     },
     "https://fanyi.caiyunapp.com": {
       "type": [
@@ -3500,16 +3724,6 @@
         "AI 国外工具"
       ]
     },
-    "https://www.cursor.so": {
-      "title": "Cursor",
-      "desc": "基于GPT的代码生成工具",
-      "type": [
-        "AI 编程开发",
-        "AI 国外工具"
-      ],
-      "star": 2,
-      "needVPN": 1
-    },
     "https://windsurfai.org/zh": {
       "title": "Windsurf AI IDE",
       "desc": "Windsurf AI IDE 利用尖端技术为开发人员提供工具，这些工具可以预测需求、简化工作流程并提高开发过程各个方面的生产力。",
@@ -3524,6 +3738,9 @@
       "star": 2,
       "type": [
         "AI 编程开发"
+      ],
+      "tags": [
+        "字节跳动"
       ]
     },
     "https://play.aidungeon.io/main/home": {
@@ -5615,23 +5832,6 @@
         "AI 写作助手"
       ]
     },
-    "https://zuojia.baidu.com": {
-      "title": "百度作家平台",
-      "intro": "AI智能创作工具",
-      "desc": "百度作家平台是一个AI智能创作工具，提供多种功能，包括AI助手、对话有问必答、AI续写等。用户可以使用该平台进行写作创作，包括小说设定、润色、角色起名等。平台还提供作品管理、收益分析等功能。百度作家平台适用于想要提升写作效率和创作质量的作者。",
-      "lang": "zh",
-      "tags": [
-        "AI",
-        "创作",
-        "写作",
-        "工具",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ]
-    },
     "https://www.xiaomengai.com": {
       "title": "彩云小梦尝鲜版",
       "intro": "AI续写・平行世界",
@@ -5991,22 +6191,6 @@
       "needVerify": 7,
       "errmsg": "[error][405]Not Allowed",
       "hide": 1
-    },
-    "https://aistudio.baidu.com/aistudio/projectdetail/3557574": {
-      "title": "PP飞桨",
-      "intro": "飞桨 AI Studio 上的公文写作智能应用，帮助用户快速撰写公文文章。",
-      "desc": "公文写作｜智能笔杆子是基于 ERNIE 3.5 模型的公文撰写助手，专为编写公文文章设计。该应用能够提供优质的公文风格文章，适用于国企公司内部新闻等场景。",
-      "lang": "zh",
-      "tags": [
-        "公文",
-        "写作",
-        "智能应用",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ]
     },
     "https://botsmart.net": {
       "title": "博特妙笔",
@@ -6442,23 +6626,6 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
-    },
-    "https://photo.baidu.com/photasy/home": {
-      "title": "超能画布",
-      "intro": "专注人像摄影的AI创意生成工具，助力个人图像创意",
-      "desc": "超能画布是百度网盘荣誉出品的AI创意生成工具,可以根据您上传的人像图片自动生成各种风格的创意图像,如写实、唯美、奇幻等,帮助摄影师提高工作效率,为每个人实现图像创意. 该工具提供免费试用,并有灵活的付费模式满足不同需求.",
-      "lang": "zh",
-      "tags": [
-        "人像摄影",
-        "AI创意生成",
-        "图像编辑",
-        "图像",
-        "优质新品",
-        "网站"
-      ],
-      "type": [
-        "AI 绘图"
       ]
     },
     "https://www.swapstream.ai": {
@@ -8795,24 +8962,6 @@
         "AI 聊天对话"
       ]
     },
-    "https://aichat.baidu.com": {
-      "title": "小侃星球",
-      "intro": "基于AI的虚拟人聊天应用，提供24小时聊天陪伴和生活服务。",
-      "desc": "小侃星球是由百度发布的一款基于AI开放域对话模型的虚拟人聊天应用。结合AI技术和社交元素，用户可以与虚拟人物进行对话聊天，享受陪伴，同时获得实用的生活服务，如哄睡和叫早服务。",
-      "lang": "zh",
-      "tags": [
-        "AI技术",
-        "社交",
-        "生活服务",
-        "情感陪伴",
-        "聊天",
-        "中文精选",
-        "APP"
-      ],
-      "type": [
-        "AI 聊天对话"
-      ]
-    },
     "https://ai-beings.com/aiu/": {
       "title": "AiU",
       "intro": "Ai由你创造，Ai为你存在，Ai伴你同行。",
@@ -8865,26 +9014,8 @@
         "网站"
       ],
       "type": [
-        "AI 聊天对话"
-      ]
-    },
-    "https://wantalk.baidu.com": {
-      "title": "万话",
-      "intro": "一个角色创建和管理平台，用于推进剧情发展。",
-      "desc": "万话创作者平台是一个专注于角色创建和管理的在线服务，它允许用户构建和细化角色设定，包括基础信息、世界观设定、角色设定、隐藏设定以及开场白。该平台特别适合需要角色构建和剧情推进的写作项目，如小说创作、剧本编写等。它通过提供角色调试功能，帮助用户达到理想的角色设定效果。",
-      "lang": "zh",
-      "tags": [
-        "角色创建",
-        "剧情发展",
-        "写作辅助",
-        "聊天",
-        "中文精选",
-        "网站"
-      ],
-      "type": [
-        "AI 角色生成",
-        "AI 写作助手",
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ]
     },
     "https://apps.apple.com/cn/app/%E8%AF%9D%E7%82%89/id6475000292": {
@@ -8899,6 +9030,7 @@
         "沉浸式对话",
         "聊天",
         "编辑推荐",
+        "字节跳动",
         "APP"
       ],
       "type": [
@@ -8998,25 +9130,6 @@
       "type": [
         "AI 聊天对话",
         "AI 开源工具"
-      ]
-    },
-    "https://keyue.cloud.baidu.com": {
-      "title": "百度智能云客悦",
-      "intro": "大模型原生智能客服,开启服务营销新纪元",
-      "desc": "百度智能云客悦基于百度文心一言大模型,全面重构智能客服系列产品,涵盖客户服务、智能营销、智能通信三大系列,满足企业智能客服全场景需求。主要产品包括:智能对话平台(提供大模型驱动的高智能客服机器人)、智能外呼平台(高拟人度语音对话营销)、对话洞察平台(对话数据分析洞见优化建议)、智能通信平台(集成通信资源API接入)等。产品优势有:基于大模型对话更准确友好全面、高效快速上线运营、多渠道无缝集成适配等。",
-      "lang": "zh",
-      "tags": [
-        "智能客服",
-        "大模型",
-        "对话系统",
-        "营销通信",
-        "数据分析",
-        "商业",
-        "中文精选",
-        "网站"
-      ],
-      "type": [
-        "AI 行业工具"
       ]
     },
     "https://airkit.ai": {
@@ -9316,23 +9429,6 @@
         "AI 行业工具"
       ]
     },
-    "https://ai.baidu.com/unit/home": {
-      "title": "百度智能对话平台 UNIT",
-      "intro": "百度 UNIT 是一款领先的智能对话管理平台，助力企业定制专业、可控、稳定的对话系统。",
-      "desc": "百度 UNIT 搭载业界领先的对话理解和对话管理技术，提供灵活运营管理工具和可视化会话流程配置，助力企业智能化升级实现降本增效。",
-      "lang": "zh",
-      "tags": [
-        "智能对话",
-        "企业",
-        "对话系统",
-        "商业",
-        "中文精选",
-        "网站"
-      ],
-      "type": [
-        "AI 聊天对话"
-      ]
-    },
     "https://qidian.qq.com/module/service.html": {
       "title": "腾讯企点客服",
       "intro": "提供全面覆盖客户触点的智能在线客服系统，支持多通路融合沟通，提升企业客户服务效率。",
@@ -9407,7 +9503,8 @@
         "网站"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ]
     },
     "https://chatboxai.app/zh": {
@@ -9517,7 +9614,9 @@
         "全球热门",
         "APP"
       ],
-      "type": []
+      "type": [
+        "AI 大模型"
+      ]
     },
     "https://github.com/mckaywrigley/chatbot-ui": {
       "title": "Chatbot UI",
@@ -9871,7 +9970,8 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ]
     },
     "https://www.iwencai.com": {
@@ -9954,7 +10054,9 @@
         "生产力",
         "模型"
       ],
-      "type": []
+      "type": [
+        "AI 大模型"
+      ]
     },
     "https://home.tiangong.cn": {
       "title": "天工SkyMusic",
@@ -10008,7 +10110,8 @@
         "模型"
       ],
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 大模型"
       ]
     },
     "https://www.deepseek.com": {
@@ -10027,19 +10130,22 @@
         "知识推理",
         "生产力",
         "中文精选",
+        "deepseek",
         "模型"
       ],
       "type": [
         "AI 聊天对话",
-        "国产大模型"
+        "国产大模型",
+        "AI 大模型"
       ],
       "needVerify": -1
     },
-    "https://cursor.sh": {
-      "title": "Cursor.sh",
+    "https://www.cursor.com/cn": {
+      "title": "Cursor",
       "intro": "Cursor是AI-first的代码编辑器，为强大的AI进行了配对编程。",
       "desc": "Cursor是未来的IDE，专为与强大的AI进行配对编程而构建。它的功能包括聊天式代码查询、代码参考、代码更改、自然语言编辑、从头生成代码、错误调试等。Cursor适用于多种使用场景，可帮助开发人员更快地构建软件。它受到数万名工程师的信赖，包括一些知名公司的工程师。",
       "lang": "en",
+      "star": 3,
       "tags": [
         "代码编辑器",
         "AI",
@@ -10049,7 +10155,8 @@
         "网站"
       ],
       "type": [
-        "AI 编程开发"
+        "AI 编程开发",
+        "AI 国外工具"
       ]
     },
     "https://aws.amazon.com/codewhisperer/": {
@@ -10138,7 +10245,8 @@
         "插件"
       ],
       "type": [
-        "AI 编程开发"
+        "AI 编程开发",
+        "AI 大模型"
       ]
     },
     "https://www.jetbrains.com/ai/": {
@@ -11415,7 +11523,8 @@
         "网站"
       ],
       "type": [
-        "AI 视频生成"
+        "AI 视频生成",
+        "AI 大模型"
       ]
     },
     "http://d-id.com": {
@@ -12055,33 +12164,12 @@
         "AI 视频生成"
       ]
     },
-    "https://wime-ai.com/?channelSource=GW-YSW": {
-      "title": "微盟WIME",
-      "desc": "电商必备！AI扩图/抠图/商品海报/营销写作全流程创作平台",
-      "type": [
-        "AI 绘图"
-      ]
-    },
     "https://www.designify.com": {
       "title": "Designify",
       "desc": "免费在线抠图，识别内容，提供适合的合成设计",
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
-    },
-    "https://reccloud.cn/?utm_source=uisdc&utm_medium=uisdc&utm_campaign=ona": {
-      "title": "录咖AI音视频处理",
-      "desc": "AI生成字幕、语音转文字、文字配音、文生视频、视频翻译神器",
-      "type": [
-        "AI 视频生成"
-      ]
-    },
-    "https://chat.baidu.com": {
-      "title": "百度Chat",
-      "desc": "百度Chat是百度旗下的搜索AI伙伴，在大模型的基础上，集成了全网搜索的能力。",
-      "type": [
-        "AI 聊天对话"
       ]
     },
     "https://yuanbao.tencent.com": {
@@ -12091,7 +12179,7 @@
         "AI 聊天对话"
       ],
       "star": 3,
-      "sort": -90
+      "sort": -88
     },
     "https://felo.ai": {
       "title": "Felo",
@@ -12099,17 +12187,6 @@
       "type": [
         "AI 搜索引擎"
       ]
-    },
-    "https://www.genspark.ai": {
-      "title": "Genspark",
-      "desc": "Sparkpage 是前小度CEO景鲲创业开发的一款AI搜索产品，立志成为AI版的“百度百科”",
-      "type": [
-        "AI 搜索引擎"
-      ],
-      "star": 3,
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
     },
     "https://kaisouai.com": {
       "title": "开搜AI",
@@ -12123,13 +12200,6 @@
       "desc": "【教育】字节旗下基于AI的教育平台，河马爱学拥有行业领先的技术团队，通过构建基于学习行为的推荐模型，评测学生能力并实时跟踪“掌握度”变化，个性化推荐学习内容，帮助老师精准教学，帮助学生自适应学习。",
       "type": [
         "AI 行业工具"
-      ]
-    },
-    "https://cp.baidu.com": {
-      "title": "橙篇",
-      "desc": "百度旗下写作助手，长文生成神器",
-      "type": [
-        "AI 写作助手"
       ]
     },
     "https://www.figma.com/community/widget/1274481464484630971/jambot": {
@@ -12658,14 +12728,406 @@
       ],
       "lang": "en"
     },
-    "https://www.pandagpt.io": {
+    "https://aicnn.cn/loginPage?aff=4MvsDBGxfZ": {
+      "title": "AICNN",
+      "desc": "提供稳定的GPT超级大模型服务，包括AI绘画、AI语音生成和人工智能对话，支持文本解析、文件解析和OCR",
+      "star": 3,
+      "sort": -89,
+      "type": [
+        "AI 综合工具",
+        "AI 聊天对话"
+      ],
+      "tags": [
+        "deepseek",
+        "API"
+      ],
+      "lang": "zh"
+    },
+    "https://ppinfra.com/user/register?invited_by=XRMRL5": {
+      "type": [
+        "AI 聊天对话",
+        "AI 综合工具",
+        "国产大模型"
+      ],
+      "star": 3,
+      "sort": -89,
+      "needLogin": 1,
+      "intro": "AI 云端一体化解决方案: 模型 API、Serverless、GPU 租赁",
+      "desc": "注册即送 50元 DeepSeek Token 代金券！派欧算力云提供全面的 AI 云端平台解决方案,包括模型 API、Serverless 和高性能 GPU 实例等,帮助您节省高达 50% 的成本,并同时加速 AI 产品的构建和业务发展,助力企业实现创新突破,赢得市场竞争优势。",
+      "title": "派欧算力云",
+      "tags": [
+        "人工智能",
+        "语言模型",
+        "知识增强",
+        "中文精选",
+        "生产力",
+        "云服务",
+        "API",
+        "deepseek",
+        "大厂合集(精选大厂热门AI产品)"
+      ]
+    },
+    "https://www.pandagpt.io/lander": {
       "title": "PandaGPT",
       "desc": "上传文档！即可用对话的方式让 AI 总结文档重点",
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
+      "lang": "en"
+    },
+    "https://www.inceptionlabs.ai/news": {
+      "title": "Mercury Coder",
+      "intro": "Mercury Coder 是一款基于扩散模型的高性能代码生成语言模型。",
+      "desc": "Mercury Coder 是 Inception Labs 推出的首款商用级扩散大语言模型（dLLM），专为代码生成优化。该模型采用扩散模型技术，通过‘粗到细’的生成方式，显著提升生成速度和质量。其速度比传统自回归语言模型快 5-10 倍，能够在 NVIDIA H100 硬件上达到每秒 1000 多个 token 的生成速度，同时保持高质量的代码生成能力。该技术的背景是当前自回归语言模型在生成速度和推理成本上的瓶颈，而 Mercury Coder 通过算法优化突破了这一限制，为企业级应用提供了更高效、低成本的解决方案。",
+      "lang": "en",
+      "tags": [
+        "AI",
+        "代码生成",
+        "扩散模型",
+        "高性能",
+        "企业级应用",
+        "编程",
+        "国外精选",
+        "模型"
+      ],
+      "type": [
+        "AI 编程开发"
+      ]
+    },
+    "https://www.florafauna.ai": {
+      "title": "FLORA",
+      "intro": "FLORA 是一个将文本、图像和视频 AI 模型集成在一个无限画布上的创意工具。",
+      "desc": "FLORA 是一个创意 AI 工具平台，将多种顶级文本、图像和视频 AI 模型连接在一个无限画布上，让用户能够以思维的速度进行创意创作。其核心优势在于整合多种 AI 模型，提供无缝的创作体验，能够帮助用户快速从想法到实现的转变。该产品主要面向创意工作者，如设计师、艺术家、视频创作者等，帮助他们提高创作效率和质量。目前 FLORA 提供免费试用，用户可以体验其强大的功能。",
+      "lang": "en",
+      "tags": [
+        "AI 创意工具",
+        "设计",
+        "视频创作",
+        "团队协作",
+        "无限画布",
+        "创意流程",
+        "国外精选",
+        "网站"
+      ],
+      "type": [
+        "AI 图像处理",
+        "AI 视频生成"
+      ]
+    },
+    "https://www.aboutamazon.com/news/devices/amazon-2025-devices-alexa-event-live-updates": {
+      "title": "Alexa+",
+      "intro": "Alexa+ 是亚马逊推出的下一代智能语音助手，通过生成式 AI 提供更智能、个性化的服务。",
+      "desc": "Alexa+ 是亚马逊在 2025 年推出的下一代智能语音助手，基于生成式 AI 技术构建。它不仅能够进行自然流畅的对话，还能连接数千种服务和设备，帮助用户完成各种任务。其核心优势在于强大的语言理解能力、个性化服务以及无缝的设备集成。Alexa+ 的推出标志着语音助手从简单的问答工具向真正的智能生活助手的转变，能够帮助用户更好地管理日常生活和智能家居设备。",
+      "lang": "en",
+      "tags": [
+        "智能家居",
+        "语音助手",
+        "生成式 AI",
+        "个性化服务",
+        "家庭管理",
+        "聊天",
+        "国外精选",
+        "其他"
+      ],
+      "type": [
+        "AI 语音生成",
+        "AI 聊天对话"
+      ]
+    },
+    "https://openai.com/index/introducing-gpt-4-5/": {
+      "title": "GPT-4.5",
+      "intro": "OpenAI推出的最新语言模型GPT-4.5，专注于提升无监督学习能力，提供更自然的交互体验。",
+      "desc": "GPT-4.5是OpenAI发布的最新语言模型，代表了当前无监督学习技术的前沿水平。该模型通过大规模计算和数据训练，提升了对世界知识的理解和模式识别能力，减少了幻觉现象，能够更自然地与人类进行交互。它在写作、编程、解决问题等任务上表现出色，尤其适合需要高创造力和情感理解的场景。GPT-4.5目前处于研究预览阶段，面向Pro用户和开发者开放，旨在探索其潜在能力。",
+      "lang": "en",
+      "tags": [
+        "人工智能",
+        "语言模型",
+        "写作辅助",
+        "编程支持",
+        "情感理解",
+        "知识问答",
+        "生产力",
+        "全球热门",
+        "模型"
+      ],
+      "type": [
+        "AI 写作助手",
+        "AI 编程开发"
+      ]
+    },
+    "https://exa.ai/blog/websets-evals": {
+      "title": "Websets",
+      "intro": "Exa Websets 是一种新型的搜索产品，专注于复杂查询，能够比 Google 提供更精准的结果。",
+      "desc": "Exa Websets 是一种创新的搜索引擎，专注于复杂查询的精准搜索。它通过自定义嵌入式搜索算法，能够检索出符合多条件的精确结果。该产品的核心技术在于其强大的多代理搜索架构，能够处理复杂的多标准查询，适用于需要精准数据检索的场景。Exa Websets 的主要优势在于其高精度和高召回率，尤其在复杂查询方面表现卓越。产品目前处于早期阶段，主要面向开发者和企业用户，价格根据使用量和计算资源需求而定。",
+      "lang": "en",
+      "tags": [
+        "复杂查询",
+        "搜索引擎",
+        "大数据",
+        "AI",
+        "生产力工具",
+        "生产力",
+        "国外精选",
+        "网站"
+      ],
+      "type": [
+        "AI 搜索引擎"
+      ]
+    },
+    "https://zapier.com/agents": {
+      "title": "Zapier Agents",
+      "intro": "创建属于你自己的AI助手，用于处理各种任务，提升工作效率。",
+      "desc": "Zapier Agents 是 Zapier 推出的 AI 助手工具，旨在帮助企业用户通过 AI 自动化处理各种任务。它能够与 Zapier 支持的 7000 多个应用程序集成，实现如处理销售线索、管理日程、回复客户邮件等功能。该产品利用先进的 AI 技术，通过自然语言处理理解用户指令，自动执行复杂任务，从而让用户专注于更有价值的工作。Zapier Agents 提供免费试用计划，适合希望通过 AI 提高工作效率的企业和个人使用。",
+      "lang": "en",
+      "tags": [
+        "AI",
+        "自动化",
+        "生产力",
+        "销售",
+        "客户服务",
+        "集成",
+        "国外精选",
+        "网站"
+      ],
+      "type": []
+    },
+    "https://blog.cloudflare.com/build-ai-agents-on-cloudflare/": {
+      "title": "Cloudflare AI Agents",
+      "intro": "Cloudflare 推出的用于构建 AI 代理的平台，支持高效自动化任务执行。",
+      "desc": "Cloudflare AI Agents 是一个基于 Cloudflare Workers 和 Workers AI 的平台，旨在帮助开发者构建能够自主执行任务的 AI 代理。该平台通过提供 agents-sdk 和其他工具，使开发者能够快速创建、部署和管理 AI 代理。其主要优势在于低延迟、高可扩展性和成本效益，同时支持复杂任务的自动化和动态决策。Cloudflare 的全球分布式网络和 Durable Objects 技术为 AI 代理提供了强大的基础支持。",
+      "lang": "en",
+      "tags": [
+        "AI 代理",
+        "自动化",
+        "无服务器",
+        "低延迟",
+        "可扩展性",
+        "开发者工具",
+        "编程",
+        "国外精选",
+        "网站"
+      ],
+      "type": [
+        "AI 编程开发"
+      ]
+    },
+    "https://wanxai.com": {
+      "title": "Wan",
+      "intro": "Wan是阿里巴巴通义实验室开发的先进视觉生成模型，可基于文本、图像等生成视频。",
+      "desc": "Wan是阿里巴巴通义实验室开发的先进视觉生成模型，具备强大的视频生成能力。它能够根据文本、图像及其他控制信号生成视频。Wan2.1系列模型现已完全开源。其主要优点包括卓越的复杂运动生成能力，能够生成逼真的视频，涵盖广泛的身体动作、复杂旋转、动态场景转换和流畅的镜头运动；精准的物理模拟，生成符合真实物理规律的视频；电影质感的画面，提供丰富的纹理和多样化的风格化效果；可控的编辑功能，支持使用图像或视频参考进行精确编辑。该模型的开源为视频生成领域带来了新的可能性，降低了使用门槛，推动了相关技术的发展。",
+      "lang": "en",
+      "tags": [
+        "视频生成",
+        "人工智能",
+        "开源模型",
+        "创意工具",
+        "视觉效果",
+        "视频",
+        "中文精选",
+        "模型"
+      ],
+      "type": [
+        "AI 视频生成",
+        "AI 开源工具"
+      ]
+    },
+    "https://noet.ai": {
+      "title": "Noet",
+      "intro": "AI驱动的客户支持平台，提供24/7智能语音和聊天支持，提升客户体验。",
+      "desc": "Noet是一个AI驱动的客户支持平台，旨在通过智能化、个性化的支持服务，彻底改变传统的客户体验。它利用先进的AI技术，实现24/7的智能语音和聊天支持，能够实时分析客户情绪和意图，并提供全渠道支持，包括电子邮件、电话以及WhatsApp、LinkedIn和Instagram等平台。这种创新的客户支持方式，不仅提高了问题解决的效率，还通过主动关怀和预防问题的发生，进一步提升了客户满意度。Noet的出现，标志着客户支持服务进入了一个全新的智能化时代，为企业提供了一个高效、智能的客户支持解决方案，有助于企业在竞争激烈的市场中脱颖而出。",
+      "lang": "en",
+      "tags": [
+        "AI",
+        "客户支持",
+        "智能语音",
+        "聊天支持",
+        "全渠道",
+        "数据分析",
+        "商业",
+        "国外精选",
+        "网站"
+      ],
+      "type": [
+        "AI 语音生成",
+        "AI 聊天对话"
+      ]
+    },
+    "https://qwenlm.github.io/zh/blog/qwq-max-preview/": {
+      "title": "QwQ-Max-Preview",
+      "intro": "QwQ-Max-Preview 是 Qwen 系列的最新成果，基于 Qwen2.5-Max 构建，具备强大的推理和多领域应用能力。",
+      "desc": "QwQ-Max-Preview 是 Qwen 系列的最新成果，基于 Qwen2.5-Max 构建。它在数学、编程以及通用任务中展现了更强的能力，同时在与 Agent 相关的工作流中也有不错的表现。作为即将发布的 QwQ-Max 的预览版，这个版本还在持续优化中。其主要优点包括深度推理、数学、编程和 Agent 任务的强大能力。未来计划以 Apache 2.0 许可协议开源发布 QwQ-Max 以及 Qwen2.5-Max，旨在推动跨领域应用的创新。",
+      "lang": "zh",
+      "tags": [
+        "人工智能",
+        "深度学习",
+        "推理",
+        "编程",
+        "开源",
+        "Agent",
+        "创新",
+        "生产力",
+        "中文精选",
+        "模型"
+      ],
+      "type": [
+        "AI 编程开发",
+        "AI 开源工具"
+      ]
+    },
+    "https://damo-vilab.github.io/AnyDoor-Page/": {
+      "title": "AnyDoor",
+      "intro": "虚拟试穿、物体移动",
+      "desc": "AnyDoor 是一种基于扩散的图像生成器，可以在用户指定的位置将目标对象以和谐的方式传送到新场景中。我们的模型只需要训练一次，就可以轻松推广到不同的对象和场景组合中，无需为每个对象调整参数。为了充分描述某个特定对象，我们除了使用常用的身份特征外，还补充了细节特征，这些特征经过精心设计，既能保持纹理细节，又能允许多样的局部变化（如光照、方向、姿势等），从而使对象与不同的环境更好地融合。我们还提出从视频数据集中借用知识的方法，在视频数据集中可以观察到同一对象的各种形态（沿时间轴），从而增强模型的泛化能力和鲁棒性。大量实验证明了我们方法的优越性，以及它在虚拟试穿和物体移动等实际应用中的巨大潜力。",
+      "lang": "en",
+      "tags": [
+        "图像",
+        "零样本",
+        "对象级定制",
+        "模型生成",
+        "普通产品",
+        "网站"
+      ],
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko": {
+      "title": "AI课代表 - B站学习助手, 视频总结, 字幕列表, GPT-4",
+      "intro": "Bilibili 视频总结插件~",
+      "desc": "“AI课代表” 是您在B站最专业的人工智能助手 🤖 基于GPT4的“知识提问+“视频总结”+“字幕搜索” 每日刷新免费额度 解决问题，快速定位关键点，筛选视频，帮你成为人见人爱的“课代表” 无情吸赞，学霸人设，专栏大佬，最重要的是：您的声音至关重要，我们将以“3天1更”的速度持续改进！",
+      "lang": "en",
+      "tags": [
+        "学习助手",
+        "视频总结",
+        "字幕搜索",
+        "人工智能",
+        "教育",
+        "普通产品",
+        "插件"
+      ],
+      "type": [
+        "AI 视频生成",
+        "AI 搜索引擎",
+        "AI 行业工具"
+      ]
+    },
+    "https://wanxiang.aliyun.com": {
+      "title": "通义万相",
+      "intro": "刻削生千变，丹青图 “万相”",
+      "desc": "通义万相是一个不断进化的 AI 绘画创作模型。它能够刻削生千变，呈现出丰富多样的艺术作品。通义万相具有高度智能化的绘画能力，可以自主创作出优秀的绘画作品。它的优势在于通过深度学习算法不断进化，能够逐步提高绘画的质量和逼真度。通义万相的定价根据使用方式和使用场景而定，详情请登录官方网站了解。该产品定位于艺术创作领域，为艺术家、设计师和爱好者提供强大的创作工具。",
+      "lang": "",
+      "tags": [
+        "AI 绘画",
+        "艺术创作",
+        "设计",
+        "AI 绘画创作模型",
+        "普通产品",
+        "图像",
+        "模型"
+      ],
+      "type": [
+        "AI 绘图",
+        "AI 图像处理"
+      ]
+    },
+    "https://apps.apple.com/cn/app/chatx-ai-%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/id6446304087": {
+      "title": "ChatX App",
+      "intro": "一个强大的AI客户端，支持多设备云同步，提升工作和生活效率。",
+      "desc": "ChatX是一个基于先进AI技术的客户端应用，它通过高速API服务器提供极速体验，支持iPhone、iPad和macOS设备间的云同步。用户可以利用它完成各种AI任务，如文本生成、图片生成等，显著提高工作效率。产品的主要优点包括高速访问、自定义功能、经济的按字数消耗模式以及丰富的高级功能，如AI参数微调、Siri朗读等。ChatX的背景是AI技术的快速发展和用户对于高效、智能工具的需求。目前，产品在Mac App Store上免费提供，但提供App内购买项目。",
+      "lang": "zh",
+      "tags": [
+        "AI",
+        "云同步",
+        "高速",
+        "API",
+        "多设备支持",
+        "聊天",
+        "编辑推荐",
+        "APP"
+      ],
+      "type": [
+        "AI 聊天对话"
+      ]
+    },
+    "https://grok.x.ai": {
+      "title": "xAI Grok",
+      "intro": "基于大语言模型的对话式AI",
+      "desc": "xAI Grok是一个对话式AI系统,能够理解用户的问题并给出知识性的回答。它使用了大规模语言模型来建模语言,从而实现了更人性化的交互。该系统还具有持续学习的能力,会根据用户的反馈不断改进。",
+      "lang": "en",
+      "tags": [
+        "对话AI",
+        "知识问答",
+        "语言理解",
+        "聊天",
+        "全球热门",
+        "生产力",
+        "网站"
+      ],
+      "type": [
+        "AI 聊天对话"
+      ]
+    },
+    "https://ai.360.com": {
+      "title": "360智脑",
+      "desc": "360旗下的AI聊天助手",
+      "type": [
+        "AI 聊天对话"
+      ]
+    },
+    "https://so.360.com": {
+      "title": "360AI搜索",
+      "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
+      "type": [
+        "AI 搜索引擎"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/fZtFbxkHvmyQPykc81pydw": {
+      "title": "腾讯文档智能助手",
+      "desc": "支持全品类内容生成、数据处理、版式美化等高效创作",
+      "type": [
+        "AI 写作助手"
+      ]
+    },
+    "https://rightbrain.art": {
+      "title": "Vega AI",
+      "desc": "国内专业的ai创作平台，支持文本生成图片，图片风格转换",
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://www.promeai.com": {
+      "title": "PromeAI",
+      "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://voxcraft.com": {
+      "title": "VoxCraft",
+      "desc": "Voxcraft是一款基于AI的三维建模工具，通过AI技术，可以快速生成三维模型",
+      "type": [
+        "AI 绘图"
+      ]
+    },
+    "https://beatbot.fm": {
+      "title": "BeatBot",
+      "desc": "Splash的AI音乐生成器",
+      "type": [
+        "AI 视频生成"
+      ]
+    },
+    "https://kuaiyi.wps.cn/txt-translate": {
+      "title": "金山快译",
+      "desc": "金山旗下多场景的翻译服务",
+      "type": [
+        "AI 翻译工具"
+      ]
     }
-  }
+  },
+  "hotTags": [
+    "APP",
+    "API",
+    "deepseek",
+    "Claude"
+  ]
 }

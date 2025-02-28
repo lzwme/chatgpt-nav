@@ -4,6 +4,7 @@ import { logger } from './utils';
 import { getTypes } from './getTypes';
 
 export function siteUrlVerify() {
+  const knownUrlKeyWords = ['apps.apple.com', 'baidu.com', 'qq.com', 'tencent.com', 'aliyun.com'];
   const needVPNKeywords = ['vercel.app', 'openai.com', 'bing.com'];
   const isGitHubCi = (process.env.GITHUB_CI || process.env.SYNC) != null;
 
@@ -11,6 +12,7 @@ export function siteUrlVerify() {
     if (item.type) item.type = getTypes(item.type);
 
     if (Number(item.hide) === 1) return true;
+    if (knownUrlKeyWords.some(key => url.includes(key))) return true;
 
     if (!isGitHubCi) {
       // if (item.needVPN) return true;
