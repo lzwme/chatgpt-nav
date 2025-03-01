@@ -1362,9 +1362,7 @@
         "AI 写作助手"
       ],
       "title": "5118 SEO优化精灵",
-      "desc": "一键式生成高质量SEO文章",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "一键式生成高质量SEO文章"
     },
     "https://www.shenyandayi.com": {
       "type": [
@@ -1641,8 +1639,9 @@
       "star": 3,
       "title": "Bolt",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 6,
-      "errmsg": "[error][500]Internal Server Error"
+      "needVerify": 7,
+      "errmsg": "[error][500]Internal Server Error",
+      "hide": 1
     },
     "https://webflow.com": {
       "type": [
@@ -2809,9 +2808,7 @@
         "AI 写作助手"
       ],
       "title": "爱创作",
-      "desc": "一键生成文章、营销文本、配图与短视频等多类型内容",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "一键生成文章、营销文本、配图与短视频等多类型内容"
     },
     "https://openai.com/sora": {
       "type": [
@@ -3320,7 +3317,9 @@
       "star": 2,
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://gamma.app": {
       "title": "Gamma",
@@ -3847,7 +3846,9 @@
       ],
       "type": [
         "AI 网站生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.tryparity.com": {
       "title": "Parity",
@@ -3923,7 +3924,9 @@
       "type": [
         "AI 写作助手",
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://suppr.wilddata.cn": {
       "title": "超能文献·文档翻译",
@@ -8679,9 +8682,7 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kraftful.com": {
       "title": "Kraftful",
@@ -9512,7 +9513,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chathub.gg": {
       "title": "ChatHub",
@@ -9656,9 +9659,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://secretllama.com": {
       "title": "Secret Llama",
@@ -12317,7 +12318,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://apps.apple.com/au/app/grok/id6670324846": {
       "title": "Grok App",
@@ -12693,7 +12696,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.florafauna.ai": {
@@ -12756,7 +12759,7 @@
         "AI 写作助手",
         "AI 编程开发"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://exa.ai/blog/websets-evals": {
@@ -12814,7 +12817,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][200]<!DOCTYPE html><script type=\"module\" src=\"/_astro/index.astro_astro_type_script_index_0_lang.CoXd8L9s.js\"></script> <html lang=\"en-us\" dir=\"ltr\"> <head><script async src=\"https://ot.www.cl"
     },
     "https://wanxai.com": {
@@ -12896,7 +12899,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko": {
@@ -13002,7 +13005,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND rightbrain.art"
     },
     "https://www.promeai.com": {
@@ -13011,7 +13014,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com"
     },
     "https://voxcraft.com": {
@@ -13020,7 +13023,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://beatbot.fm": {
@@ -13029,7 +13032,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://kuaiyi.wps.cn/txt-translate": {
@@ -13038,7 +13041,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://ppinfra.com/user/": {
