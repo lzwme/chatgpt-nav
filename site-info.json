@@ -822,7 +822,7 @@
       "title": "扣子",
       "desc": "Coze中文版，字节旗下一款用来开发新一代 AI ChatBot的应用编辑平台",
       "star": 3,
-      "sort": -89
+      "sort": -87
     },
     "https://tongyi.aliyun.com/qianwen": {
       "type": [
@@ -2394,7 +2394,9 @@
         "普通产品",
         "生产力",
         "网站"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][530]HTTP_530"
     },
     "https://publicprompts.art": {
       "type": [
@@ -3317,9 +3319,7 @@
       "star": 2,
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://gamma.app": {
       "title": "Gamma",
@@ -3846,9 +3846,7 @@
       ],
       "type": [
         "AI 网站生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.tryparity.com": {
       "title": "Parity",
@@ -3924,9 +3922,7 @@
       "type": [
         "AI 写作助手",
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://suppr.wilddata.cn": {
       "title": "超能文献·文档翻译",
@@ -9122,7 +9118,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -9514,7 +9512,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chathub.gg": {
@@ -12107,7 +12105,9 @@
       "type": [
         "AI 文档办公",
         "AI 开源工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tuan.chinaz.com/goods_detail/3751": {
       "title": "站长之家数字人系统V3",
@@ -12318,9 +12318,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://apps.apple.com/au/app/grok/id6670324846": {
       "title": "Grok App",
@@ -12696,7 +12694,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.florafauna.ai": {
@@ -12759,7 +12757,7 @@
         "AI 写作助手",
         "AI 编程开发"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://exa.ai/blog/websets-evals": {
@@ -12817,7 +12815,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][200]<!DOCTYPE html><script type=\"module\" src=\"/_astro/index.astro_astro_type_script_index_0_lang.CoXd8L9s.js\"></script> <html lang=\"en-us\" dir=\"ltr\"> <head><script async src=\"https://ot.www.cl"
     },
     "https://wanxai.com": {
@@ -12899,7 +12897,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko": {
@@ -13005,7 +13003,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND rightbrain.art"
     },
     "https://www.promeai.com": {
@@ -13014,7 +13012,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com"
     },
     "https://voxcraft.com": {
@@ -13023,7 +13021,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://beatbot.fm": {
@@ -13032,7 +13030,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://kuaiyi.wps.cn/txt-translate": {
@@ -13041,7 +13039,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://ppinfra.com/user/": {
