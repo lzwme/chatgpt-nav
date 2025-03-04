@@ -3262,7 +3262,7 @@
       ],
       "title": "AI网址导航",
       "star": 3,
-      "sort": -91,
+      "sort": -88,
       "desc": "收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性"
     },
     "https://latitude.io": {
@@ -12653,6 +12653,21 @@
       ],
       "lang": "en"
     },
+    "https://www.bigmodel.cn/invite?icode=TY4kHajmj2PV8KLUkl97jP2gad6AKpjZefIo3dVEQyA%3D": {
+      "title": "智普AI大模型开放平台",
+      "desc": "几行代码接入大模型，极速构建变革性AI体验。新用户送2000万Tokens，邀请好友再送2000万Tokens。",
+      "star": 3,
+      "sort": -89,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "AI开放平台",
+        "deepseek",
+        "API"
+      ],
+      "lang": "zh"
+    },
     "https://aicnn.cn/loginPage?aff=4MvsDBGxfZ": {
       "title": "AICNN",
       "desc": "提供稳定的GPT超级大模型服务，包括AI绘画、AI语音生成和人工智能对话，支持文本解析、文件解析和OCR",
@@ -12663,6 +12678,7 @@
         "AI 聊天对话"
       ],
       "tags": [
+        "AI开放平台",
         "deepseek",
         "API"
       ],
