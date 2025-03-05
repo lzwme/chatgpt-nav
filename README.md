@@ -158,6 +158,7 @@
 1. [[⭐] https://www.genai.sh](https://www.genai.sh) **Genai。** Genai 是一个聊天机器人平台，允许用户从多种数据源收集和混合数据，以快速创建聊天机器人。这些聊天机器人能够根据提供的数据回答用户问题，无需编程知识，即可实现24/7的客户支持，提高客户满意度，并降低支持成本。此外，Genai 还提供了一种新的学习方式，通过加载用户喜爱的播客和视频，快速找到知识信息。用户还可以通过平台分享自己的知识，并通过创建聊天机器人来增长受众和建立长期关系。
 1. [[⭐] https://www.greynights.com](https://www.greynights.com) **GreyNights。** GreyNights - AI Companions 是一款通过AI技术生成的男性伴侣服务，旨在通过聊天应用如WhatsApp或Telegram提供个性化的聊天体验。产品注重隐私保护，24小时全天候服务，可以根据用户偏好定制虚拟伴侣，进行深入对话和轻松交流。
 1. [[⭐] https://www.jasper.ai](https://www.jasper.ai) **Jasper AI。** AI文字内容创作工具。
+1. [[⭐] https://www.juchats.com](https://www.juchats.com) **Juchats。** Juchats 聚有料是一款集成了 GPT 智能对话系统的聊天应用，通过人工智能技术为用户提供智能聊天助手服务。具有多种会员套餐选择，包括基础会员、高级会员和极限会员，满足用户不同需求。
 1. [[⭐] https://www.kuki.ai](https://www.kuki.ai) **Kuki。** Kuki是一个获奖的AI大脑，专为娱乐人类而设计。它能够通过聊天、互动等方式，为用户带来乐趣和陪伴。Kuki的技术背景深厚，它不仅能够提供娱乐，还能在商业领域中作为虚拟品牌大使，帮助企业扩大用户参与度。此外，Kuki还为开发者提供了API接口，使得Kuki的大脑可以被嵌入到各种应用和头像中，极大地扩展了其应用范围。
 1. [[⭐] https://www.lingyiwanwu.com](https://www.lingyiwanwu.com) **零一万物。** 零一万物是由李开复老师创办的，致力于成为一家由技术愿景驱动、拥有卓越中国工程底蕴的创新企业，推动以基座大模型为突破的AI 2.0掀起技术、平台到应用多个层面的革命。
 1. [[⭐] https://www.minimaxi.com](https://www.minimaxi.com) **MINIMAX。** MiniMax 全量发布大语言模型 abab6，为国内首个 MoE 大语言模型。在 MoE 结构下，abab6 拥有大参数带来的处理复杂任务的能力，同时模型在单位时间内能够训练足够多的数据，计算效率也可以得到大幅提升。改进了 abab5.5 在处理更复杂、对模型输出有更精细要求场景中出现的问题。
@@ -181,7 +182,6 @@
 1. [[🚀] https://you.com](https://you.com) **YOU。** You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。
 1. [[⭐⭐⭐🔑🚀] https://beta.openai.com](https://beta.openai.com) **OpenAI ChatGPT。** ChatGPT(beta) 官方入口
 1. [[🚀] https://huggingface.co](https://huggingface.co) **Hugging Face。** 下载开源的SD模型
-1. [[❓] https://www.juchats.com](https://www.juchats.com) **Juchats。** Juchats 聚有料是一款集成了 GPT 智能对话系统的聊天应用，通过人工智能技术为用户提供智能聊天助手服务。具有多种会员套餐选择，包括基础会员、高级会员和极限会员，满足用户不同需求。 `[error][403]Forbidden`
 
 ### AI 绘图 (185)
 
@@ -634,7 +634,7 @@
 1. [[⭐] https://www.loom.com](https://www.loom.com) **Loom。** 使用 Loom AI 录制更好、更快的视频消息，让您的工作更加高效。
 1. [[⭐] https://www.microsoft.com/en-us/research/project/vasa-1/](https://www.microsoft.com/en-us/research/project/vasa-1/) **VASA-1。** VASA-1是由微软研究院开发的一个模型，专注于实时生成与音频相匹配的逼真人脸动画。该技术通过深度学习算法，能够根据输入的语音内容，自动生成相应的口型和面部表情，为用户提供一种全新的交互体验。VASA-1的主要优势在于其高度逼真的生成效果和实时响应能力，使得虚拟角色能够更加自然地与用户进行互动。目前，VASA-1主要应用于虚拟助手、在线教育、娱乐等领域，其定价策略尚未公布，但预计将提供免费试用版本供用户体验。
 1. [[⭐] https://www.modelscope.cn/studios/vigen/video_generation/summary](https://www.modelscope.cn/studios/vigen/video_generation/summary) **追影。** 追影-视频生成是一款基于人工智能技术的视频生成工具，能够快速生成高质量的视频内容。其优势在于提供丰富的视频模板和智能编辑功能，用户可以轻松制作出令人印象深刻的视频作品。定价灵活合理，定位于个人用户和小型企业，为用户提供高效的视频创作解决方案。
-1. [[⭐] https://www.moki.cn](https://www.moki.cn) **Moki。** Moki是美图公司推出的AI短片创作工具，专注于辅助视频创作者打造动画短片、网文短剧、故事绘本和音乐视频（MV）。基于美图自研的奇想智能大模型（MiracleVision），通过智能剪辑、自动配乐、音效添加和字幕生成等功能，大幅简化视频制作流程，提高创作效率。MOKI深度理解创作者需求，实现内容和成本的双重可控，让视频创作变得更加简单和高效。 `[error][-1]timeout`
+1. [[⭐] https://www.moki.cn](https://www.moki.cn) **Moki。** Moki是美图公司推出的AI短片创作工具，专注于辅助视频创作者打造动画短片、网文短剧、故事绘本和音乐视频（MV）。基于美图自研的奇想智能大模型（MiracleVision），通过智能剪辑、自动配乐、音效添加和字幕生成等功能，大幅简化视频制作流程，提高创作效率。MOKI深度理解创作者需求，实现内容和成本的双重可控，让视频创作变得更加简单和高效。
 1. [[⭐] https://www.morphstudio.com](https://www.morphstudio.com) **Morph Studio。** Morph Studio是一款领先的文字转视频AI平台，通过智能算法，将用户输入的文字转化为精美视频。其优势在于快速、高效地实现用户的创意想法，为创作者提供了全新的表现方式。定价灵活多样，适合个人用户和企业用户。定位于提升视频创作效率，让创意更快实现。
 1. [[⭐] https://www.narakeet.com/app/text-to-audio/](https://www.narakeet.com/app/text-to-audio/) **Narakeet。** Narakeet是一个在线工具，允许用户轻松创建逼真的文本转语音和旁白视频。它提供了多种语言和声音选择，支持多种文件格式上传，并允许用户自定义音量、速度和输出格式。Narakeet的定价模式为一次性支付，无需订阅，适合商业用户和需要大量音频文件的用户。
 1. [[⭐] https://www.opus.pro](https://www.opus.pro) **Opus Clip。** Opus Clip可将长视频转换成高质量的短片，以在TikTok、YouTube Shorts 和 Reels上分享，以增加社交媒体的覆盖范围。
@@ -979,7 +979,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://wordvice.ai/cn](https://wordvice.ai/cn) **Wordvice AI。** Wordvice AI是一款在线英语语法检查工具，提供实时高效的英语语法和拼写检查，突破基本功能，提供语气风格修改，提供有效反馈建议，适用于各类英文文件。Wordvice AI还提供人工编辑服务和其他英文写作工具。
 1. [[⭐] https://writebot.io](https://writebot.io) **WriteBot。** WriteBot是一个AI辅助写作工具，旨在帮助用户快速生成独特、符合SEO标准的内容。不需要月费订阅，采用按需付费的定价模式。这个工具特别适合生产博客文章、Facebook广告、产品描述等，带有关键词和SEO优化功能，提高内容创作的效率和质量。
 1. [[⭐] https://wukong.com/tool](https://wukong.com/tool) **小悟空AI。** 小悟空是一个集成了多种智能工具的网站，旨在提高个人和团队的创作效率和运营效果。它通过提供诸如文章生成、视频脚本创作、笔记创作等多样化功能，满足不同用户在内容创作、个人表达、学习教育等方面的需求。产品背景基于人工智能技术，结合大数据分析，为用户提供个性化、高质量的服务。价格定位为免费试用，部分功能付费，以适应不同用户的需求。
-1. [[⭐] https://www.5118.com/ai/articlegenius](https://www.5118.com/ai/articlegenius) **5118 SEO优化精灵。** 一键式生成高质量SEO文章
+1. [[⭐] https://www.5118.com/ai/articlegenius](https://www.5118.com/ai/articlegenius) **5118 SEO优化精灵。** 一键式生成高质量SEO文章 `[error][-1]timeout`
 1. [[⭐] https://www.aigaixie.com](https://www.aigaixie.com) **爱改写。** 爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。
 1. [[⭐] https://www.aipaperpass.com](https://www.aipaperpass.com) **AIPaperPass。** AIPaperPass是一款AI原创论文写作平台,提供免费千字大纲,5分钟生成3万字初稿,同时包含答辩汇报PPT、开题报告和任务书等增值服务。用户只需输入论文题目,平台即可智能生成高质量论文框架,帮助用户迅速完成论文写作,解决用户论文难题,实现一键PaperPass。
 1. [[⭐] https://www.aiprm.com](https://www.aiprm.com) **AIPRM。** AIPRM 是一个 AI Prompt 市场和社区驱动的 Prompt 库。使用它可以在几分钟内完成营销、销售、运营、生产力和客户支持等任务。提供了 ChatGPT、Bard、Midjourney 和 DALL-E 2 的即用型 Prompts。可以轻松创建博客标题、完整的原创文章、服务页面的文案等。AIPRM 可以帮助您以您的声音快速、有创意地创建内容。
@@ -1057,7 +1057,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://gezhe.com](https://gezhe.com) **歌者PPT。** 歌者PPT（gezhe.com）是一款永久免费的智能 PPT 生成工具。用户可以轻松将任何主题或资料转化为PPT，并选择应用大量精美的模板。无论是商务演示、教育培训、学术报告还是专业领域，歌者PPT都能提供便捷的操作和智能化体验，让幻灯片制作变得更加轻松高效。
 1. [[⭐] https://glimmerai.tech](https://glimmerai.tech) **Glimmer Ai。** 热门！基于GPT-3和DALL·E2的AI PPT知名工具
 1. [[⭐] https://gptexcel.uk](https://gptexcel.uk) **GPTExcel。** GPT Excel是一款基于人工智能的产品，通过生成和解释Microsoft Excel、Google Sheets和Airtable公式，提高用户在电子表格处理中的效率。它还能自动生成VBA脚本、Apps Script和Airtable脚本，实现自动化的工作流程。用户还可以使用GPT Excel生成和调试高级SQL查询，轻松处理多个数据库系统。GPT Excel是一个功能强大的产品，帮助用户提高生产力和数据分析能力。定价方案灵活，提供免费和付费版本。
-1. [[⭐] https://huntr.co](https://huntr.co) **Huntr AI。** Huntr帮助您在几秒钟内创建定制的简历和求职信，一键填写申请表格，并自动组织您的求职过程。它提供AI简历生成器、简历检查器、AI求职信、简历摘要生成器、简历段落生成器、简历技能生成器等功能。此外，Huntr还提供求职追踪器、联系追踪器、面试追踪器和求职指标等工具，帮助您加快求职过程。您还可以使用Huntr的Chrome插件进行职位申请自动填充。
+1. [[⭐] https://huntr.co](https://huntr.co) **Huntr AI。** Huntr帮助您在几秒钟内创建定制的简历和求职信，一键填写申请表格，并自动组织您的求职过程。它提供AI简历生成器、简历检查器、AI求职信、简历摘要生成器、简历段落生成器、简历技能生成器等功能。此外，Huntr还提供求职追踪器、联系追踪器、面试追踪器和求职指标等工具，帮助您加快求职过程。您还可以使用Huntr的Chrome插件进行职位申请自动填充。 `[error][-1]timeout`
 1. [[⭐] https://ichuangnao.com/introduction](https://ichuangnao.com/introduction) **创脑。** 创脑是国内知名 AI 机器人社区，用户可以免费使用各类 AI 机器人助手，包括行业专家、AI 写作、办公助手等，帮助提升工作效率和生活便利。
 1. [[⭐] https://meeting.tencent.com/ai/](https://meeting.tencent.com/ai/) **腾讯会议·AI小助手。** 腾讯会议是腾讯自主研发的一款会议软件,提供视频会议、网络研讨会、会议室等产品和服务,支持桌面客户端、移动端等多端使用。可实时共享屏幕,支持白板互动等,实现高清音视频会议。还提供开放API,可深度定制开发。适合企业员工在线会议、网络课堂、远程面试等多种场景使用。
 1. [[⭐] https://mymap.ai](https://mymap.ai) **mymap.ai。** MyMap.AI是一个将文本思路转化为脑图和演示文稿的AI工具。它通过简单的聊天界面，将您的文本思路转化为可视化的脑图和演示文稿。非常适合学生、教师和没有设计技巧的专业人士使用。它是您节省时间的工具，可以轻松进行协作性的可视化创作。
@@ -1217,7 +1217,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[🚀] https://ludo.ai](https://ludo.ai) **Ludo AI。** 快速帮助游戏开发者进行创造过程
 1. [[❓] https://www.inceptionlabs.ai/news](https://www.inceptionlabs.ai/news) **Mercury Coder。** Mercury Coder 是 Inception Labs 推出的首款商用级扩散大语言模型（dLLM），专为代码生成优化。该模型采用扩散模型技术，通过‘粗到细’的生成方式，显著提升生成速度和质量。其速度比传统自回归语言模型快 5-10 倍，能够在 NVIDIA H100 硬件上达到每秒 1000 多个 token 的生成速度，同时保持高质量的代码生成能力。该技术的背景是当前自回归语言模型在生成速度和推理成本上的瓶颈，而 Mercury Coder 通过算法优化突破了这一限制，为企业级应用提供了更高效、低成本的解决方案。 `[error][403]Forbidden`
 1. [[❓] https://openai.com/index/introducing-gpt-4-5/](https://openai.com/index/introducing-gpt-4-5/) **GPT-4.5。** GPT-4.5是OpenAI发布的最新语言模型，代表了当前无监督学习技术的前沿水平。该模型通过大规模计算和数据训练，提升了对世界知识的理解和模式识别能力，减少了幻觉现象，能够更自然地与人类进行交互。它在写作、编程、解决问题等任务上表现出色，尤其适合需要高创造力和情感理解的场景。GPT-4.5目前处于研究预览阶段，面向Pro用户和开发者开放，旨在探索其潜在能力。 `[error][403]Forbidden`
-1. [[❓] https://blog.cloudflare.com/build-ai-agents-on-cloudflare/](https://blog.cloudflare.com/build-ai-agents-on-cloudflare/) **Cloudflare AI Agents。** Cloudflare AI Agents 是一个基于 Cloudflare Workers 和 Workers AI 的平台，旨在帮助开发者构建能够自主执行任务的 AI 代理。该平台通过提供 agents-sdk 和其他工具，使开发者能够快速创建、部署和管理 AI 代理。其主要优势在于低延迟、高可扩展性和成本效益，同时支持复杂任务的自动化和动态决策。Cloudflare 的全球分布式网络和 Durable Objects 技术为 AI 代理提供了强大的基础支持。 `[error][-1]getaddrinfo ENOTFOUND blog.cloudflare.com`
+1. [[❓] https://blog.cloudflare.com/build-ai-agents-on-cloudflare/](https://blog.cloudflare.com/build-ai-agents-on-cloudflare/) **Cloudflare AI Agents。** Cloudflare AI Agents 是一个基于 Cloudflare Workers 和 Workers AI 的平台，旨在帮助开发者构建能够自主执行任务的 AI 代理。该平台通过提供 agents-sdk 和其他工具，使开发者能够快速创建、部署和管理 AI 代理。其主要优势在于低延迟、高可扩展性和成本效益，同时支持复杂任务的自动化和动态决策。Cloudflare 的全球分布式网络和 Durable Objects 技术为 AI 代理提供了强大的基础支持。 `[error][200]<!DOCTYPE html><script type="module" src="/_astro/index.astro_astro_type_script_index_0_lang.CoXd8L9s.js"></script> <html lang="en-us" dir="ltr"> <head><script async src="https://ot.www.cl`
 
 ### AI 网站生成 (5)
 

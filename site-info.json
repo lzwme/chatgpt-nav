@@ -1362,7 +1362,9 @@
         "AI 写作助手"
       ],
       "title": "5118 SEO优化精灵",
-      "desc": "一键式生成高质量SEO文章"
+      "desc": "一键式生成高质量SEO文章",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.shenyandayi.com": {
       "type": [
@@ -4057,7 +4059,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://imglarger.com": {
@@ -7246,9 +7248,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -8482,7 +8482,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://explainthis.ai": {
       "title": "ExplainThis",
@@ -9511,9 +9513,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chathub.gg": {
       "title": "ChatHub",
@@ -12317,7 +12317,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://apps.apple.com/au/app/grok/id6670324846": {
@@ -12467,9 +12467,7 @@
         "国外精选",
         "网站"
       ],
-      "type": [],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "type": []
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12712,7 +12710,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.florafauna.ai": {
@@ -12775,7 +12773,7 @@
         "AI 写作助手",
         "AI 编程开发"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://exa.ai/blog/websets-evals": {
@@ -12833,8 +12831,8 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 4,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND blog.cloudflare.com"
+      "needVerify": 5,
+      "errmsg": "[error][200]<!DOCTYPE html><script type=\"module\" src=\"/_astro/index.astro_astro_type_script_index_0_lang.CoXd8L9s.js\"></script> <html lang=\"en-us\" dir=\"ltr\"> <head><script async src=\"https://ot.www.cl"
     },
     "https://wanxai.com": {
       "title": "Wan",
@@ -12915,7 +12913,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko": {
@@ -13021,7 +13019,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND rightbrain.art"
     },
     "https://www.promeai.com": {
@@ -13030,7 +13028,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com"
     },
     "https://voxcraft.com": {
@@ -13039,7 +13037,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://beatbot.fm": {
@@ -13048,7 +13046,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://kuaiyi.wps.cn/txt-translate": {
@@ -13057,7 +13055,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://ppinfra.com/user/": {
