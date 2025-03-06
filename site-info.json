@@ -683,7 +683,9 @@
         "AI 行业工具"
       ],
       "desc": "收录热门AI产品",
-      "title": "Khanmigo"
+      "title": "Khanmigo",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat.yqcloud.top": {
       "needVPN": 1,
@@ -1362,9 +1364,7 @@
         "AI 写作助手"
       ],
       "title": "5118 SEO优化精灵",
-      "desc": "一键式生成高质量SEO文章",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "一键式生成高质量SEO文章"
     },
     "https://www.shenyandayi.com": {
       "type": [
@@ -4058,9 +4058,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://imglarger.com": {
       "title": "Imglarger",
@@ -5511,7 +5509,9 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://www.bilingwriting.com": {
       "title": "笔灵 AI 写作",
@@ -7248,7 +7248,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -8482,9 +8484,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://explainthis.ai": {
       "title": "ExplainThis",
@@ -8682,7 +8682,9 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kraftful.com": {
       "title": "Kraftful",
@@ -8740,7 +8742,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.teamsmart.ai": {
       "title": "TeamSmart AI",
@@ -9122,7 +9126,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -11468,7 +11474,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -12192,7 +12200,9 @@
       "desc": "美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板,可在线智能生成海报,一键换色,一键换装,一键去水印,图片高清修复,无损放大,抠图,拼图。",
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://shop-ai.app": {
       "title": "ShopAI",
@@ -12317,7 +12327,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://apps.apple.com/au/app/grok/id6670324846": {
@@ -12710,7 +12720,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.florafauna.ai": {
@@ -12773,7 +12783,7 @@
         "AI 写作助手",
         "AI 编程开发"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://exa.ai/blog/websets-evals": {
@@ -12831,7 +12841,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][200]<!DOCTYPE html><script type=\"module\" src=\"/_astro/index.astro_astro_type_script_index_0_lang.CoXd8L9s.js\"></script> <html lang=\"en-us\" dir=\"ltr\"> <head><script async src=\"https://ot.www.cl"
     },
     "https://wanxai.com": {
@@ -12913,7 +12923,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][404]Not Found"
     },
     "https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko": {
@@ -13019,7 +13029,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND rightbrain.art"
     },
     "https://www.promeai.com": {
@@ -13028,7 +13038,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com"
     },
     "https://voxcraft.com": {
@@ -13037,7 +13047,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://beatbot.fm": {
@@ -13046,7 +13056,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][404]Not Found"
     },
     "https://kuaiyi.wps.cn/txt-translate": {
@@ -13055,7 +13065,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://ppinfra.com/user/": {
