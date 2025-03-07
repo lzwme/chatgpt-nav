@@ -917,6 +917,16 @@
       "lang": "en",
       "star": 3
     },
+    "https://lingma.aliyun.com": {
+      "title": "通义灵码",
+      "desc": "灵动指间，快码加编，你的智能编码助手",
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "vscode", "编程插件"
+      ]
+    },
     "https://deepmind.google/technologies/gemini": {
       "desc": "Gemini(双子座)是Google最新的大型语言模型，在一系列多模式基准测试中超越了最先进GPT4。在各种自然语言任务中表现良好，例如摘要、指令跟踪、内容生成、情感分析、实体提取、分类等。",
       "title": "Google Gemini",
@@ -13016,11 +13026,16 @@
         "AI 搜索引擎"
       ]
     },
-    "https://mp.weixin.qq.com/s/fZtFbxkHvmyQPykc81pydw": {
-      "title": "腾讯文档智能助手",
-      "desc": "支持全品类内容生成、数据处理、版式美化等高效创作",
+    "https://www.studywithgpt.com/zh-cn": {
+      "title": "Study with GPT",
+      "intro": "提出你的学习目标，AI将为你提供个性化的学习内容及学习步骤。",
+      "desc": "GPT时代，你还在到处找教程资源学习？无论是学习Java、php、golang、python、前端、后端、运维、微服务等等任意方向的技术栈，AI全栈导师为你量身打造教程，有问题也不用跪求大神，AI全栈导师24小时为你解答。",
+      "star": 2,
       "type": [
-        "AI 写作助手"
+        "AI 搜索引擎"
+      ],
+      "tags": [
+        "AI 教程"
       ]
     },
     "https://rightbrain.art": {
