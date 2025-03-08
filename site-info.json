@@ -719,7 +719,9 @@
     },
     "https://www.meout.app/lander": {
       "desc": "Find your next outing in seconds",
-      "title": "Meout - Find your outing"
+      "title": "Meout - Find your outing",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "http://itecheasy.com.cn": {
       "needVPN": 1,
@@ -1913,9 +1915,7 @@
         "AI 图像处理"
       ],
       "title": "模袋云AI",
-      "desc": "模袋云AI是一款在线别墅设计神器。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "模袋云AI是一款在线别墅设计神器。"
     },
     "https://www.nolibox.com": {
       "type": [
@@ -2028,9 +2028,7 @@
         "AI 语音生成"
       ],
       "title": "魔音工坊",
-      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。"
     },
     "https://mubert.com": {
       "type": [
@@ -2105,9 +2103,7 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI真人视频创作工具。"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -2395,7 +2391,7 @@
       ],
       "title": "ClickPrompt",
       "desc": "一款专为 Prompt 编写者设计的工具",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.clickprompt.org"
     },
     "https://lib.kalos.art": {
@@ -5698,9 +5694,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://www.contentscale.ai": {
       "title": "contentatscale",
@@ -8642,7 +8636,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://mem.ai": {
       "title": "Mem.ai",
@@ -11367,9 +11363,7 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -12275,7 +12269,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.capybaradb.co": {
       "title": "CapybaraDB",
@@ -12334,7 +12330,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://apps.apple.com/au/app/grok/id6670324846": {
