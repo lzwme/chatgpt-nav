@@ -719,9 +719,7 @@
     },
     "https://www.meout.app/lander": {
       "desc": "Find your next outing in seconds",
-      "title": "Meout - Find your outing",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "title": "Meout - Find your outing"
     },
     "http://itecheasy.com.cn": {
       "needVPN": 1,
@@ -814,9 +812,7 @@
       "desc": "基于字节跳动研发的云雀大语言模型的Chat应用",
       "title": "豆包",
       "star": 3,
-      "sort": -88,
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      "sort": -88
     },
     "https://www.coze.cn": {
       "type": [
@@ -2200,7 +2196,9 @@
         "AI 绘图"
       ],
       "title": "一帧秒创",
-      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。"
+      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.animiz.cn/microvideo": {
       "type": [
@@ -2393,7 +2391,7 @@
       ],
       "title": "ClickPrompt",
       "desc": "一款专为 Prompt 编写者设计的工具",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.clickprompt.org"
     },
     "https://lib.kalos.art": {
@@ -8638,9 +8636,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://mem.ai": {
       "title": "Mem.ai",
@@ -12330,8 +12326,9 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://apps.apple.com/au/app/grok/id6670324846": {
       "title": "Grok App",
