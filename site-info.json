@@ -240,7 +240,7 @@
       "icon": "https://api.ekumao.com/api/favicon?url=https://volcengine.com",
       "title": "火山方舟-极速体验模型",
       "star": 3,
-      "sort": -89,
+      "sort": -90,
       "desc": "字节火山方舟平台。当前有活动，免费领大模型，全速体验DeepSeek！"
     },
     "https://kimi.moonshot.cn": {
@@ -1170,7 +1170,6 @@
       "star": 3,
       "sort": -84,
       "needLogin": 1,
-      "icon": "https://static.tiangong.cn/wwwsite/logo.ico",
       "desc": "昆仑万维提供的对标 ChatGPT 的双千亿级大语言模型，也是一个对话式AI助手",
       "title": "天工AI"
     },
@@ -1647,12 +1646,10 @@
       "type": [
         "AI 网站生成"
       ],
-      "star": 3,
+      "star": 2,
       "title": "Bolt",
-      "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
+      "lang": "en",
+      "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。"
     },
     "https://webflow.com": {
       "type": [
@@ -1696,10 +1693,7 @@
         "AI 绘图"
       ],
       "title": "Leonardo",
-      "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。"
     },
     "https://pixai.art": {
       "type": [
@@ -1755,12 +1749,12 @@
       "desc": "探索人工智能生成的动漫艺术，找到最佳提示，使用我们的免费人工智能艺术生成器创建美丽的图像，并与其他动漫迷分享！",
       "needVPN": 1
     },
-    "https://6pen.art": {
+    "https://www.6pen.pro": {
       "type": [
         "AI 绘图"
       ],
       "title": "6pen",
-      "icon": "https://6pen.art/favicon.svg",
+      "icon": "https://www.6pen.pro/logo.svg",
       "desc": "6pen是一个为大多数人打造的AI绘画创作社区"
     },
     "https://playgroundai.com": {
@@ -2196,9 +2190,7 @@
         "AI 绘图"
       ],
       "title": "一帧秒创",
-      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。"
     },
     "https://www.animiz.cn/microvideo": {
       "type": [
@@ -2345,10 +2337,8 @@
         "AI 图像处理"
       ],
       "title": "Midlibrary",
-      "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "lang": "en",
+      "desc": "风格多样！实用超2000+MJ提示词资源"
     },
     "https://promptbase.com": {
       "type": [
@@ -2430,10 +2420,7 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词",
-      "needVerify": 7,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>",
-      "hide": 1
+      "desc": "有趣ChatGPT提示词"
     },
     "https://catjourney.life": {
       "type": [
@@ -3215,6 +3202,7 @@
       ],
       "title": "Mutable AI",
       "desc": "一款更全面的 GitHub Copilot 替代品",
+      "hide": 1,
       "needVerify": -1
     },
     "https://www.warp.dev": {
@@ -3435,9 +3423,7 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
+      "lang": "en"
     },
     "https://nijijourney.com/zh": {
       "title": "NijiJourney",
@@ -10094,7 +10080,7 @@
       "desc": "DeepSeek-V2是一款基于2千亿参数量的MoE（Mixture of Experts）模型的AI技术产品，它在对话官网和API上全面上线，提供领先性能和超低价格。该产品在中文综合能力（AlignBench）和英文综合能力（MT-Bench）的评测中表现出色，与GPT-4-Turbo等闭源模型处于同一梯队。DeepSeek-V2支持128K上下文的开源模型，而对话官网/API支持32K上下文。产品的主要优点包括即刻接入、能力卓越、价格低廉，并且兼容OpenAI API接口，提供丝滑的体验。",
       "lang": "zh",
       "star": 3,
-      "sort": -100,
+      "sort": -89,
       "tags": [
         "AI技术",
         "MoE模型",
@@ -12293,7 +12279,7 @@
       "lang": "en",
       "needVPN": 1,
       "star": 3,
-      "sort": -90,
+      "sort": -88,
       "tags": [
         "AI",
         "推理",
@@ -12377,7 +12363,7 @@
       "lang": "en",
       "needVPN": 1,
       "star": 3,
-      "sort": -90,
+      "sort": -88,
       "tags": [
         "AI",
         "基准测试",
@@ -13025,16 +13011,6 @@
       "type": [
         "AI 视频生成"
       ]
-    },
-    "https://kuaiyi.wps.cn/txt-translate": {
-      "title": "金山快译",
-      "desc": "金山旗下多场景的翻译服务",
-      "type": [
-        "AI 翻译工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][502]Bad Gateway",
-      "hide": 1
     },
     "https://ppinfra.com/user/": {
       "type": [

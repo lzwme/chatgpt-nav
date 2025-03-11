@@ -1,4 +1,4 @@
-# 黑名单
+# 黑名单 - 已失效站点列表
 https://x.com/i/broadcasts/1gqGvjeBljOGB
 https://kuaiyi.wps.cn/txt-translate
 https://www.pandagpt.io
@@ -6,3 +6,5 @@ https://beatbot.fm
 https://mp.weixin.qq.com/s/fZtFbxkHvmyQPykc81pydw
 https://docs.qq.com/form/page/DQnJoYkdBVWRCT0tS
 https://mp.weixin.qq.com/s/fZtFbxkHvmyQPykc81pydw
+https://kuaiyi.wps.cn/txt-translate
+https://6pen.art
