@@ -1650,7 +1650,7 @@
       "title": "Bolt",
       "lang": "en",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://webflow.com": {
@@ -1696,7 +1696,7 @@
       ],
       "title": "Leonardo",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://pixai.art": {
@@ -1911,9 +1911,7 @@
         "AI 图像处理"
       ],
       "title": "模袋云AI",
-      "desc": "模袋云AI是一款在线别墅设计神器。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "模袋云AI是一款在线别墅设计神器。"
     },
     "https://www.nolibox.com": {
       "type": [
@@ -2345,7 +2343,7 @@
       "title": "Midlibrary",
       "lang": "en",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://promptbase.com": {
@@ -2389,7 +2387,7 @@
       ],
       "title": "ClickPrompt",
       "desc": "一款专为 Prompt 编写者设计的工具",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.clickprompt.org"
     },
     "https://lib.kalos.art": {
@@ -4065,7 +4063,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://imglarger.com": {
       "title": "Imglarger",
@@ -7253,9 +7253,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -8916,7 +8914,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://weiban.qq.com": {
       "title": "未伴",
@@ -10251,7 +10251,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://code.fittentech.com": {
       "title": "Fitten Code",
@@ -11317,7 +11319,7 @@
         "AI 绘图",
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.kuaijianji.com": {
@@ -11475,9 +11477,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -11932,7 +11932,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://openai.com/index/o1-and-new-tools-for-developers/": {
       "title": "OpenAI o1 API",
@@ -12222,9 +12224,7 @@
       "desc": "人人皆导演，让视频创作变得轻松自如",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://new.imyai.top": {
       "title": "IMYAI智能助手",
