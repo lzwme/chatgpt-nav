@@ -1217,9 +1217,7 @@
         "AI 行业工具"
       ],
       "title": "Wanderlog",
-      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！"
     },
     "https://www.tipranks.com": {
       "type": [
@@ -1357,7 +1355,9 @@
         "AI 写作助手"
       ],
       "title": "秘塔写作猫",
-      "desc": "写作猫是新一代交互式中英文写作辅助平台，集智能文本纠错、改写润色、自动续写、智能配图为一体。"
+      "desc": "写作猫是新一代交互式中英文写作辅助平台，集智能文本纠错、改写润色、自动续写、智能配图为一体。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://littlefrog.ai": {
       "type": [
@@ -1652,7 +1652,7 @@
       "title": "Bolt",
       "lang": "en",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://webflow.com": {
@@ -1698,7 +1698,7 @@
       ],
       "title": "Leonardo",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://pixai.art": {
@@ -2230,7 +2230,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -2347,7 +2347,7 @@
       "title": "Midlibrary",
       "lang": "en",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://promptbase.com": {
@@ -2431,9 +2431,7 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      "desc": "有趣ChatGPT提示词"
     },
     "https://catjourney.life": {
       "type": [
@@ -2808,7 +2806,9 @@
         "AI 写作助手"
       ],
       "title": "新华妙笔",
-      "desc": "新华社媒体出品！AI公文写作学习平台"
+      "desc": "新华社媒体出品！AI公文写作学习平台",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.editage.cn/paperpal": {
       "type": [
@@ -3360,9 +3360,7 @@
       "desc": "「印象笔记」X「印象AI」会创作的第二大脑",
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.edrawsoft.cn/mindmaster": {
       "title": "亿图脑图",
@@ -4684,7 +4682,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "http://removewatermark.ai": {
       "title": "WatermarkRemoverAI",
@@ -7242,7 +7242,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://www.moki.cn": {
       "title": "Moki",
@@ -8173,9 +8175,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://otterai.sjv.io/c/3697237/1063514/13661": {
       "title": "Otter.ai",
@@ -8924,7 +8924,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://weiban.qq.com": {
@@ -10261,7 +10261,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://code.fittentech.com": {
@@ -11882,7 +11882,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND duile.cn"
     },
     "https://browser-use.com": {
       "title": "Browser Use.com",
@@ -12484,9 +12486,7 @@
         "国外精选",
         "网站"
       ],
-      "type": [],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "type": []
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
