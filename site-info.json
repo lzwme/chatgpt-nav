@@ -1650,7 +1650,7 @@
       "title": "Bolt",
       "lang": "en",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://webflow.com": {
@@ -1696,7 +1696,7 @@
       ],
       "title": "Leonardo",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://pixai.art": {
@@ -2343,7 +2343,7 @@
       "title": "Midlibrary",
       "lang": "en",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://promptbase.com": {
@@ -2560,7 +2560,9 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱"
+      "desc": "多功能的AI图片处理工具箱",
+      "needVerify": 1,
+      "errmsg": "[error][523]EO errCode : DNS resolve failed"
     },
     "https://insightface.ai": {
       "type": [
@@ -4676,9 +4678,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "http://removewatermark.ai": {
       "title": "WatermarkRemoverAI",
@@ -8916,7 +8916,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://weiban.qq.com": {
@@ -10253,7 +10253,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://code.fittentech.com": {
@@ -10553,7 +10553,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.singduck.cn": {
       "title": "唱鸭",
@@ -10720,7 +10722,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://maken.it/spleetergui/": {
       "title": "SpleeterGUI",
@@ -11854,7 +11858,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://duile.cn/homeIndex": {
       "title": "对了网",
@@ -11875,7 +11881,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND duile.cn"
     },
     "https://browser-use.com": {
@@ -12223,7 +12229,9 @@
       "desc": "人人皆导演，让视频创作变得轻松自如",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://new.imyai.top": {
       "title": "IMYAI智能助手",
@@ -12478,7 +12486,9 @@
         "国外精选",
         "网站"
       ],
-      "type": []
+      "type": [],
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
