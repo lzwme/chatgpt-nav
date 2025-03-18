@@ -720,7 +720,7 @@
     "https://www.meout.app/lander": {
       "desc": "Find your next outing in seconds",
       "title": "Meout - Find your outing",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.meout.app"
     },
     "http://itecheasy.com.cn": {
@@ -2232,7 +2232,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -2434,9 +2434,7 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词",
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      "desc": "有趣ChatGPT提示词"
     },
     "https://catjourney.life": {
       "type": [
@@ -4073,7 +4071,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://imglarger.com": {
       "title": "Imglarger",
@@ -8905,27 +8905,6 @@
         "AI 聊天对话"
       ]
     },
-    "https://www.greynights.com": {
-      "title": "GreyNights",
-      "intro": "AI生成的男性伴侣，提供个性化聊天体验。",
-      "desc": "GreyNights - AI Companions 是一款通过AI技术生成的男性伴侣服务，旨在通过聊天应用如WhatsApp或Telegram提供个性化的聊天体验。产品注重隐私保护，24小时全天候服务，可以根据用户偏好定制虚拟伴侣，进行深入对话和轻松交流。",
-      "lang": "en",
-      "tags": [
-        "AI伴侣",
-        "个性化聊天",
-        "隐私保护",
-        "全天候服务",
-        "聊天",
-        "国外精选",
-        "网站"
-      ],
-      "type": [
-        "AI 聊天对话",
-        "AI 行业工具"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://weiban.qq.com": {
       "title": "未伴",
       "intro": "完美AI伴侣,只为你而存在",
@@ -9135,9 +9114,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]socket hang up"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -10243,27 +10220,6 @@
       "type": [
         "AI 编程开发"
       ]
-    },
-    "https://www.devchat.ai/zh": {
-      "title": "DevChat",
-      "intro": "智能编程助手，让开发更轻松！",
-      "desc": "DevChat是一款智能编程助手，集成于多款主流IDE中，支持国内外大模型，提供精准的上下文控制和简单可扩展的提示词目录。它能帮助开发者解决技术方案设计、单元测试、错误信息处理、代码文档编写、代码评审等问题，提升团队效能30%。同时，DevChat支持微软Azure平台，提供全球顶级的数据隐私保护，成本由DevChat承担，推动项目健康发展。新手也能从中受益，让大模型学过的知识都为团队所用。",
-      "lang": "zh",
-      "tags": [
-        "智能编程",
-        "助手",
-        "IDE集成",
-        "数据安全",
-        "团队效能",
-        "编程",
-        "中文精选",
-        "插件"
-      ],
-      "type": [
-        "AI 编程开发"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://code.fittentech.com": {
       "title": "Fitten Code",
@@ -11884,7 +11840,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND duile.cn"
     },
     "https://browser-use.com": {
@@ -12104,7 +12060,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "http://tuan.weilaigpt.cn": {
       "title": "站长团购AI PPT系统",
@@ -12487,9 +12445,7 @@
         "国外精选",
         "网站"
       ],
-      "type": [],
-      "needVerify": 2,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "type": []
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
