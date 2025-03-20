@@ -240,8 +240,8 @@
       "icon": "https://api.ekumao.com/api/favicon?url=https://volcengine.com",
       "title": "火山方舟-极速体验模型",
       "star": 3,
-      "sort": -90,
-      "desc": "字节火山方舟平台。当前有活动，免费领大模型，全速体验DeepSeek！"
+      "sort": -86,
+      "desc": "字节火山方舟平台。全速体验DeepSeek！"
     },
     "https://kimi.moonshot.cn": {
       "type": [
@@ -690,14 +690,6 @@
       "desc": "可正常访问，但接口无响应",
       "hide": 1,
       "title": "AIchatOS"
-    },
-    "https://chat.alpaca-bi.com": {
-      "needPay": 1,
-      "needLogin": 1,
-      "title": "Alpaca ChatGPT",
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chat.alpaca-bi.com",
-      "hide": 1
     },
     "https://aigcfun.com": {
       "title": "AI EDU",
@@ -1183,16 +1175,6 @@
       "title": "秘塔AI搜索",
       "desc": "秘塔科技旗下的一款AI搜索产品，能够大幅提升搜索效率，解决日常生活、工作学习等场景中遇到的各类搜索需求"
     },
-    "https://www.cheggmate.ai": {
-      "type": [
-        "AI 行业工具"
-      ],
-      "title": "CheggMate",
-      "desc": "【教育】CheggMate是一款一体化解答作业的AI产品。",
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.cheggmate.ai",
-      "hide": 1
-    },
     "https://www.khanmigo.ai": {
       "type": [
         "AI 行业工具"
@@ -1252,8 +1234,7 @@
         "国外精选",
         "网站"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][429]Too Many Requests"
+      "needVerify": -1
     },
     "https://docs.qq.com/ai/chat/": {
       "type": [
@@ -1366,10 +1347,7 @@
         "AI 写作助手"
       ],
       "title": "写作蛙",
-      "desc": "清华智谱旗下的AI写作助手",
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND littlefrog.ai",
-      "hide": 1
+      "desc": "清华智谱旗下的AI写作助手"
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -1653,10 +1631,7 @@
       "star": 2,
       "title": "Bolt",
       "lang": "en",
-      "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
+      "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。"
     },
     "https://webflow.com": {
       "type": [
@@ -1700,10 +1675,7 @@
         "AI 绘图"
       ],
       "title": "Leonardo",
-      "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。"
     },
     "https://pixai.art": {
       "type": [
@@ -2452,16 +2424,6 @@
       ],
       "title": "Booltool",
       "desc": "多合一AI图像处理网站，快速进行编辑修整"
-    },
-    "https://pensoulai.com": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "IPensoul",
-      "desc": "超好用的AI图片工具！提供建筑家居草图渲染，AI抠图等功能",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
     },
     "https://www.upscayl.org": {
       "type": [
@@ -4036,10 +3998,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      ]
     },
     "https://upscales.ai": {
       "title": "upscales.ai",
@@ -4155,10 +4114,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND bgsub.cn",
-      "hide": 1
+      ]
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -4728,9 +4684,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -5108,9 +5062,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://302.ai": {
       "title": "302.AI",
@@ -5149,10 +5101,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      ]
     },
     "https://www.adobe.com/au/sensei/generative-ai/firefly.html": {
       "title": "Adobe Firefly",
@@ -5173,9 +5122,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
+      "needVerify": -1
     },
     "https://tusi.art": {
       "title": "吐司 Tusi.Art",
