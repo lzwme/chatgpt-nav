@@ -573,9 +573,7 @@
       "sort": -84,
       "needLogin": 1,
       "desc": "中科院自动化所和武汉人工智能研究院联合推出的新一代大模型，从三模态走向全模态，支持多轮问答、文本创作、图像生成、3D理解、信号分析等全面问答任务，拥有更强的认知、理解、创作能力，带来全新互动体验。",
-      "title": "紫东太初",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "紫东太初"
     },
     "https://bot.360.com": {
       "type": [
@@ -714,7 +712,7 @@
     "https://www.meout.app/lander": {
       "desc": "Find your next outing in seconds",
       "title": "Meout - Find your outing",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.meout.app"
     },
     "http://itecheasy.com.cn": {
@@ -898,7 +896,9 @@
       ],
       "star": 3,
       "title": "Anthropic",
-      "desc": "Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。"
+      "desc": "Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://bard.google.com": {
       "type": [
@@ -1634,7 +1634,7 @@
       "title": "Bolt",
       "lang": "en",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://webflow.com": {
@@ -1680,7 +1680,7 @@
       ],
       "title": "Leonardo",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://pixai.art": {
@@ -2008,7 +2008,9 @@
         "AI 语音生成"
       ],
       "title": "魔音工坊",
-      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。"
+      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。",
+      "needVerify": 1,
+      "errmsg": "[error][522]Connect origin timed out"
     },
     "https://mubert.com": {
       "type": [
@@ -2212,7 +2214,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -2487,9 +2489,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "商业级AI影像处理工具"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -4005,7 +4005,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://upscales.ai": {
@@ -4042,9 +4042,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://imglarger.com": {
       "title": "Imglarger",
@@ -5112,7 +5110,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.adobe.com/au/sensei/generative-ai/firefly.html": {
@@ -7222,7 +7220,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -7726,7 +7726,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://pdfcandy.com": {
       "title": "PDF Candy",
@@ -8636,9 +8638,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.glean.com": {
       "title": "Glean",
@@ -11247,9 +11247,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -11406,7 +11404,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -11925,9 +11925,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://tldraw.dev": {
       "title": "tldraw.dev",
@@ -12596,7 +12594,7 @@
         "AI 图像处理"
       ],
       "lang": "en",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.bigmodel.cn/invite?icode=TY4kHajmj2PV8KLUkl97jP2gad6AKpjZefIo3dVEQyA%3D": {
