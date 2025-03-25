@@ -898,7 +898,7 @@
       "star": 3,
       "title": "Anthropic",
       "desc": "Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://bard.google.com": {
@@ -1197,9 +1197,7 @@
         "AI 行业工具"
       ],
       "title": "Ixigo",
-      "desc": "【旅游】GPT旅行，在几秒钟内计划您的梦想旅行！",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "【旅游】GPT旅行，在几秒钟内计划您的梦想旅行！"
     },
     "https://wanderlog.com/trip-plan-assistant": {
       "type": [
@@ -1637,7 +1635,7 @@
       "title": "Bolt",
       "lang": "en",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://webflow.com": {
@@ -1683,7 +1681,7 @@
       ],
       "title": "Leonardo",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://pixai.art": {
@@ -3390,9 +3388,7 @@
       "type": [
         "AI 图像处理",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://vocalremover.org": {
       "title": "Vocal Remover",
@@ -4006,7 +4002,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://upscales.ai": {
@@ -4123,9 +4119,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -5113,7 +5107,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.adobe.com/au/sensei/generative-ai/firefly.html": {
@@ -6439,7 +6433,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://deepl.com": {
@@ -11905,9 +11899,7 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.ysdaima.com": {
       "title": "颜色代码表",

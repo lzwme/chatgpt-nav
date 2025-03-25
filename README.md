@@ -212,7 +212,7 @@
 1. [[⭐] https://apps.apple.com/au/app/grok/id6670324846](https://apps.apple.com/au/app/grok/id6670324846) **Grok App。** Grok是一个由X.AI Corp开发的AI助手应用，旨在提供最真实、有用和好奇的答案。用户可以通过Grok获取任何问题的答案、生成引人注目的图像，并上传图片以更深入地了解世界。Grok以其高质量的图像生成、实时更新的数据、对话式的幽默语气和注重隐私的特性，为用户提供了一个安全、高效的AI体验平台。
 1. [[⭐] https://art.aiseo.ai](https://art.aiseo.ai) **AISEO ART。** AISEO Art 的AI算法按照分类进行过细致的训练
 1. [[⭐] https://bgeraser.com](https://bgeraser.com) **Bg.Eraser。** 背景擦除器是一款使用AI技术快速、轻松地从照片中移除背景的工具。它能够帮助用户实现专业级的效果，增强图像的质量。背景擦除器还提供批量处理功能，节省用户大量的时间和精力。无论是用于产品照片、人像、图形、风景照片、动物照片还是物体，背景擦除器都能帮助用户实现理想的效果。
-1. [[⭐] https://bgsub.cn](https://bgsub.cn) **BgSub。** BgSub 是一个完全自动化的图像处理工具，使用先进的人工智能技术自动消除或替换图像背景。它可以智能调整颜色，所有操作都在浏览器中完成，无需上传图像。BgSub 不仅能够节省时间，还能保护用户隐私。它适用于个人用户、网站 / 应用开发者、摄影师、电子商务、媒体从业者和市场营销人员等多个场景。 `[error][-1]timeout`
+1. [[⭐] https://bgsub.cn](https://bgsub.cn) **BgSub。** BgSub 是一个完全自动化的图像处理工具，使用先进的人工智能技术自动消除或替换图像背景。它可以智能调整颜色，所有操作都在浏览器中完成，无需上传图像。BgSub 不仅能够节省时间，还能保护用户隐私。它适用于个人用户、网站 / 应用开发者、摄影师、电子商务、媒体从业者和市场营销人员等多个场景。
 1. [[⭐] https://bigjpg.com](https://bigjpg.com) **Bigjpg。** AI图片在线无损放大
 1. [[⭐] https://bing.com/create](https://bing.com/create) **Bing Image Creator。** Bing影像建立工具是一款由Microsoft Bing提供的智能搜索工具，可以帮助用户快速找到想要的图像信息，并获得奖励。
 1. [[⭐] https://boolpic.fun/background-remover](https://boolpic.fun/background-remover) **Toolkit。** 多功能的AI图片处理工具箱
@@ -390,7 +390,7 @@
 1. [[⭐] https://appicons.ai](https://appicons.ai) **Appicons AI。** AI生成精致的App图标
 1. [[⭐] https://arc.tencent.com/zh/ai-demos/humansegmentation](https://arc.tencent.com/zh/ai-demos/humansegmentation) **腾讯ARC官网。** 腾讯 ARC 官网是腾讯 PCG 旗下的应用研究中心，致力于探索和挑战智能媒体前沿技术。团队汇聚了国内外一流高端人才，主要研究领域涵盖视觉、音频、自然语言处理等，通过 AutoML、多模态和深度学习等方法提高算法性能。ARC 通过解耦业务需求和科研的机制，与业务团队合作，以业务需求和行业趋势为导向，不断探索、创新和突破。网站提供了关于 ARC 的使命、团队介绍、机制和领域等详细信息。
 1. [[⭐] https://bgeraser.com](https://bgeraser.com) **Bg.Eraser。** 背景擦除器是一款使用AI技术快速、轻松地从照片中移除背景的工具。它能够帮助用户实现专业级的效果，增强图像的质量。背景擦除器还提供批量处理功能，节省用户大量的时间和精力。无论是用于产品照片、人像、图形、风景照片、动物照片还是物体，背景擦除器都能帮助用户实现理想的效果。
-1. [[⭐] https://bgsub.cn](https://bgsub.cn) **BgSub。** BgSub 是一个完全自动化的图像处理工具，使用先进的人工智能技术自动消除或替换图像背景。它可以智能调整颜色，所有操作都在浏览器中完成，无需上传图像。BgSub 不仅能够节省时间，还能保护用户隐私。它适用于个人用户、网站 / 应用开发者、摄影师、电子商务、媒体从业者和市场营销人员等多个场景。 `[error][-1]timeout`
+1. [[⭐] https://bgsub.cn](https://bgsub.cn) **BgSub。** BgSub 是一个完全自动化的图像处理工具，使用先进的人工智能技术自动消除或替换图像背景。它可以智能调整颜色，所有操作都在浏览器中完成，无需上传图像。BgSub 不仅能够节省时间，还能保护用户隐私。它适用于个人用户、网站 / 应用开发者、摄影师、电子商务、媒体从业者和市场营销人员等多个场景。
 1. [[⭐] https://bigjpg.com](https://bigjpg.com) **Bigjpg。** AI图片在线无损放大
 1. [[⭐] https://boolpic.fun/background-remover](https://boolpic.fun/background-remover) **Toolkit。** 多功能的AI图片处理工具箱
 1. [[⭐] https://booltool.boolv.tech/home](https://booltool.boolv.tech/home) **Booltool。** 多合一AI图像处理网站，快速进行编辑修整
@@ -530,7 +530,7 @@
 1. [[⭐] https://www.x-design.com](https://www.x-design.com) **美图 AI PPT。** 美图设计室是一款由中国互联网公司美图公司开发的图像处理、照片编辑和设计软件。
 1. [[⭐] https://www.yijianlogo.com](https://www.yijianlogo.com) **一键Logo设计。** 一键Logo设计是一款基于AI大数据计算的智能设计生成器，只需简单输入名称口号，选择行业偏好，即可一键生成LOGO。所有元素均可调整修改，多种格式文件均可下载导出。一次购买长期使用，各种模板字体均可商用。适用于需要快速生成LOGO的个人、企业、团队等用户。
 1. [[⭐] https://www.ysdaima.com](https://www.ysdaima.com) **颜色代码表。** 颜色代码表是一个为设计师和开发者提供一站式色彩解决方案的专业网站。运用机器学习技术，为您推荐最适合的配色方案AI辅助配色。它基于色彩理论，提供多种颜色工具，包括颜色代码转换、配色方案生成、渐变色生成等，帮助用户快速高效地完成设计工作。该网站支持多种颜色格式，并提供代码导出功能，方便用户将颜色方案直接应用到项目中。此外，它还符合WCAG 2.1标准，确保配色方案的无障碍设计。
-1. [[⭐] https://www.zmo.ai](https://www.zmo.ai) **ZMO.AI。** ZMO可以轻松的生成令人惊叹的动漫、艺术或图像。 `[error][500]Internal Server Error`
+1. [[⭐] https://www.zmo.ai](https://www.zmo.ai) **ZMO.AI。** ZMO可以轻松的生成令人惊叹的动漫、艺术或图像。
 1. [[⭐] https://yige.baidu.com](https://yige.baidu.com) **文心一格。** 百度旗下AI艺术和创意辅助平台
 1. [[⭐] https://yunxiu.meitu.com/home](https://yunxiu.meitu.com/home) **美图云修。** 商业级AI影像处理工具
 1. [[🚀] https://www.canva.com/ai-image-generator](https://www.canva.com/ai-image-generator) **Canva。** 将文字和短语变成美丽的图片。
@@ -845,7 +845,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://inksprout.co](https://inksprout.co) **Inksprout Video。** Inksprout是一款AI助手，可以从博客生成社交视频。它使用AI生成字幕，让您可以在几秒钟内生成引人注目的、简洁的社交视频。您只需输入博客的URL，AI将自动摘要文章内容，并根据摘要生成视频。您可以使用这些视频在多个社交媒体平台上分享，并提高用户参与度。Inksprout提供免费计划，同时还有更多功能丰富的付费计划可供选择。
 1. [[⭐] https://kastro.chat](https://kastro.chat) **Kastro。** Kastro是一个基于ChatGPT的AI聊天机器人，可用于客户支持。它提供即时响应，降低支持成本，增强客户体验。您可以在几分钟内创建和训练一个ChatGPT-powered AI聊天机器人，它可以快速学习和改进以提供更好的响应。Kastro提供24/7即时支持，通过优化和改进客户支持流程，降低支持运营成本。
 1. [[⭐] https://keyue.cloud.baidu.com](https://keyue.cloud.baidu.com) **百度智能云客悦。** 百度智能云客悦基于百度文心一言大模型,全面重构智能客服系列产品,涵盖客户服务、智能营销、智能通信三大系列,满足企业智能客服全场景需求。主要产品包括:智能对话平台(提供大模型驱动的高智能客服机器人)、智能外呼平台(高拟人度语音对话营销)、对话洞察平台(对话数据分析洞见优化建议)、智能通信平台(集成通信资源API接入)等。产品优势有:基于大模型对话更准确友好全面、高效快速上线运营、多渠道无缝集成适配等。
-1. [[⭐] https://kuaiyapaper.com](https://kuaiyapaper.com) **快鸭论文。** 快鸭论文是一个AI论文写作平台，利用人工智能技术帮助用户快速生成论文大纲和初稿。该平台支持多种论文类型，包括毕业论文、期刊论文和开题报告等，覆盖多个学科领域。快鸭论文的主要优点在于高效率和便捷性，能够大幅缩短论文写作时间，提高写作效率。产品背景信息显示，该平台已累计生成86900+篇论文，今日已生成218篇，显示出较高的用户活跃度和市场需求。价格方面，快鸭论文提供不同层次的服务，包括基础的论文生成和附加服务如查重报告、开题报告等，价格从9.90元到99.90元不等，定位于为广大学生和研究人员提供便捷的论文写作辅助工具。 `[error][-1]timeout`
+1. [[⭐] https://kuaiyapaper.com](https://kuaiyapaper.com) **快鸭论文。** 快鸭论文是一个AI论文写作平台，利用人工智能技术帮助用户快速生成论文大纲和初稿。该平台支持多种论文类型，包括毕业论文、期刊论文和开题报告等，覆盖多个学科领域。快鸭论文的主要优点在于高效率和便捷性，能够大幅缩短论文写作时间，提高写作效率。产品背景信息显示，该平台已累计生成86900+篇论文，今日已生成218篇，显示出较高的用户活跃度和市场需求。价格方面，快鸭论文提供不同层次的服务，包括基础的论文生成和附加服务如查重报告、开题报告等，价格从9.90元到99.90元不等，定位于为广大学生和研究人员提供便捷的论文写作辅助工具。
 1. [[⭐] https://ling.jd.com](https://ling.jd.com) **京东羚珑。** 京东羚珑是一站式内容生产与管理服务平台，提供商品主图设计、广告 banner 设计、店铺首页设计等功能。其主要优点包括丰富的模板选择、免费设计服务、高效便捷的操作流程。产品定位于为商家提供设计合作伙伴服务。
 1. [[⭐] https://looka.com](https://looka.com) **Looka。** AI辅助logo和品牌设计
 1. [[⭐] https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko](https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko) **AI课代表 - B站学习助手, 视频总结, 字幕列表, GPT-4。** “AI课代表” 是您在B站最专业的人工智能助手 🤖 基于GPT4的“知识提问+“视频总结”+“字幕搜索” 每日刷新免费额度 解决问题，快速定位关键点，筛选视频，帮你成为人见人爱的“课代表” 无情吸赞，学霸人设，专栏大佬，最重要的是：您的声音至关重要，我们将以“3天1更”的速度持续改进！
@@ -881,7 +881,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://www.ihuiwa.com](https://www.ihuiwa.com) **绘蛙。** 绘蛙是一款智能图片、文案创作平台，通过AI生成商拍图和种草文案，免费创作小红书图片、电商商品主图等。其功能包括AI生成商拍图、种草文案、美图、稿定设计、换装、去水印、图片高清修复等。定位于为用户提供简洁好用的智能创作工具。
 1. [[⭐] https://www.intelogos.com](https://www.intelogos.com) **Intelogos。** Intelogos是首款自动详细人员分析和绩效管理工具。它可以收集员工绩效数据,生成建议,帮助团队成长进步。
 1. [[⭐] https://www.iwencai.com](https://www.iwencai.com) **同花顺问财。** 同花顺问财是同花顺旗下的智能选股平台，提供智能选股、量化投资、技术分析等服务，覆盖股票、指数、美股、港股等，帮助投资者提高投资效能。定位于为投资者提供智能化的投资决策支持。
-1. [[⭐] https://www.ixigo.com/plan](https://www.ixigo.com/plan) **Ixigo。** 【旅游】GPT旅行，在几秒钟内计划您的梦想旅行！ `[error][-1]timeout`
+1. [[⭐] https://www.ixigo.com/plan](https://www.ixigo.com/plan) **Ixigo。** 【旅游】GPT旅行，在几秒钟内计划您的梦想旅行！
 1. [[⭐] https://www.khanmigo.ai](https://www.khanmigo.ai) **Khanmigo。** 【教育】可汗学院Khanmigo，教育界的世界级人工智能。
 1. [[⭐] https://www.kraftful.com](https://www.kraftful.com) **Kraftful。** Kraftful为产品建设者提供深度AI分析用户反馈的能力，帮助他们了解用户的需求，以及如何让产品更加令人愉悦。我们的产品经理工具能够综合客户情感，提供有价值的见解，优化产品开发生命周期。
 1. [[⭐] https://www.piccopilot.com](https://www.piccopilot.com) **Pic Copilot。** Pic Copilot是一个利用图像生成模型为电商提供的AI驱动图片优化工具。它能够通过对大量图片点击量数据的训练,有效提高图片的点击转化率,从而优化电商的营销效果。其关键优势是提高图片的点击转化率,从而提升电商营销效果。它是阿里巴巴团队训练的数据结果,能够显著优化图片的点击转化表现。
@@ -949,7 +949,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://jasper.ai](https://jasper.ai) **Jasper。** 最佳AI写作和艺术生成工具
 1. [[⭐] https://jenni.ai](https://jenni.ai) **jenni。** 面向作家的AI协作助手
 1. [[⭐] https://katteb.com/en](https://katteb.com/en) **Katteb。** Katteb是最佳的AI写作工具，可进行事实核查并生成可靠的AI内容。加入超过200,000位依赖Katteb的作者！Katteb提供多达30种类型、超过110种语言的内容生成，通过引用可信赖来源的内文引文，确保内容的准确性。
-1. [[⭐] https://kuaiyapaper.com](https://kuaiyapaper.com) **快鸭论文。** 快鸭论文是一个AI论文写作平台，利用人工智能技术帮助用户快速生成论文大纲和初稿。该平台支持多种论文类型，包括毕业论文、期刊论文和开题报告等，覆盖多个学科领域。快鸭论文的主要优点在于高效率和便捷性，能够大幅缩短论文写作时间，提高写作效率。产品背景信息显示，该平台已累计生成86900+篇论文，今日已生成218篇，显示出较高的用户活跃度和市场需求。价格方面，快鸭论文提供不同层次的服务，包括基础的论文生成和附加服务如查重报告、开题报告等，价格从9.90元到99.90元不等，定位于为广大学生和研究人员提供便捷的论文写作辅助工具。 `[error][-1]timeout`
+1. [[⭐] https://kuaiyapaper.com](https://kuaiyapaper.com) **快鸭论文。** 快鸭论文是一个AI论文写作平台，利用人工智能技术帮助用户快速生成论文大纲和初稿。该平台支持多种论文类型，包括毕业论文、期刊论文和开题报告等，覆盖多个学科领域。快鸭论文的主要优点在于高效率和便捷性，能够大幅缩短论文写作时间，提高写作效率。产品背景信息显示，该平台已累计生成86900+篇论文，今日已生成218篇，显示出较高的用户活跃度和市场需求。价格方面，快鸭论文提供不同层次的服务，包括基础的论文生成和附加服务如查重报告、开题报告等，价格从9.90元到99.90元不等，定位于为广大学生和研究人员提供便捷的论文写作辅助工具。
 1. [[⭐] https://languagetool.org](https://languagetool.org) **Language Tool。** LanguageTool 是一款免费的英语、西班牙语和其他30种语言的语法检查和改写工具。
 1. [[⭐] https://ling.jd.com](https://ling.jd.com) **京东羚珑。** 京东羚珑是一站式内容生产与管理服务平台，提供商品主图设计、广告 banner 设计、店铺首页设计等功能。其主要优点包括丰富的模板选择、免费设计服务、高效便捷的操作流程。产品定位于为商家提供设计合作伙伴服务。
 1. [[⭐] https://littlefrog.ai](https://littlefrog.ai) **写作蛙。** 清华智谱旗下的AI写作助手
@@ -1341,7 +1341,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://www.tracejourney.com](https://www.tracejourney.com) **Tracejourney。** 拯救MJ渣画质！图片一键转矢量
 1. [[⭐] https://www.unscreen.com](https://www.unscreen.com) **Unscreen。** 智能AI去除视频背景在线神器
 1. [[⭐] https://www.veed.io](https://www.veed.io) **Veed。** 视频编辑变得简单。只需单击即可创建出色的视频。添加字幕，转录音频，浏览AI工具，使用模板等等。
-1. [[⭐] https://www.zmo.ai](https://www.zmo.ai) **ZMO.AI。** ZMO可以轻松的生成令人惊叹的动漫、艺术或图像。 `[error][500]Internal Server Error`
+1. [[⭐] https://www.zmo.ai](https://www.zmo.ai) **ZMO.AI。** ZMO可以轻松的生成令人惊叹的动漫、艺术或图像。
 1. [[⭐⭐⭐🚀] https://bard.google.com](https://bard.google.com) **Google Bard。** Google推出的聊天机器人。
 1. [[🚀] https://cn.bing.com/create](https://cn.bing.com/create) **Bing Image Creator。** 基于Dalle的AI绘画工具，Edge的侧边栏可直接使用。中国区不可用
 1. [[🚀] https://changestyleai.com](https://changestyleai.com) **Change Style AI。** 人工智能多风格肖像生成器！能够AI生成30种照片
