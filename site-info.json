@@ -898,7 +898,7 @@
       "star": 3,
       "title": "Anthropic",
       "desc": "Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://bard.google.com": {
@@ -1498,7 +1498,9 @@
       ],
       "star": 3,
       "title": "WPS AI",
-      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。"
+      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://smartread.cc": {
       "type": [
@@ -1635,8 +1637,9 @@
       "title": "Bolt",
       "lang": "en",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 6,
-      "errmsg": "[error][500]Internal Server Error"
+      "needVerify": 7,
+      "errmsg": "[error][500]Internal Server Error",
+      "hide": 1
     },
     "https://webflow.com": {
       "type": [
@@ -1681,8 +1684,9 @@
       ],
       "title": "Leonardo",
       "desc": "以前所未有的质量、速度和风格一致性，为您的项目创建高质量的视觉资产。",
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://pixai.art": {
       "type": [
@@ -2688,7 +2692,9 @@
         "AI 图像处理"
       ],
       "title": "Alpaca",
-      "desc": "个性化的AI工具包，可接入Ps的SD绘画插件"
+      "desc": "个性化的AI工具包，可接入Ps的SD绘画插件",
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://flair.ai": {
       "type": [
@@ -4002,8 +4008,9 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://upscales.ai": {
       "title": "upscales.ai",
@@ -5107,8 +5114,9 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.adobe.com/au/sensei/generative-ai/firefly.html": {
       "title": "Adobe Firefly",
@@ -6433,7 +6441,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://deepl.com": {
@@ -6958,7 +6966,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://morphcut.github.io": {
       "title": "MorphCut",
@@ -7516,7 +7526,9 @@
       "type": [
         "AI 文档办公",
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.boardmix.com": {
       "title": "boardmix",
@@ -10195,7 +10207,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.tabnine.com": {
       "title": "Tabnine",
@@ -12402,7 +12416,9 @@
         "国外精选",
         "网站"
       ],
-      "type": []
+      "type": [],
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
