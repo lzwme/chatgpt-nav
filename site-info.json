@@ -2102,7 +2102,9 @@
         "AI 数字人"
       ],
       "title": "小冰",
-      "desc": "小冰基于全球领先的完备人工智能小冰框架，推出了数字专家和数字员工等完整产品线。"
+      "desc": "小冰基于全球领先的完备人工智能小冰框架，推出了数字专家和数字员工等完整产品线。",
+      "needVerify": 1,
+      "errmsg": "[error][503]Service Temporarily Unavailable"
     },
     "https://virbo.wondershare.cn": {
       "type": [
@@ -2182,7 +2184,9 @@
         "AI 绘图"
       ],
       "title": "一帧秒创",
-      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。"
+      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.animiz.cn/microvideo": {
       "type": [
@@ -2215,9 +2219,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2694,7 +2696,7 @@
       ],
       "title": "Alpaca",
       "desc": "个性化的AI工具包，可接入Ps的SD绘画插件",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://flair.ai": {
@@ -2963,7 +2965,9 @@
         "AI 图像处理"
       ],
       "title": "3DFY AI",
-      "desc": "AI创建大规模高质量的3D资产"
+      "desc": "AI创建大规模高质量的3D资产",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://bigesj.com/ai-ppt/": {
       "type": [
@@ -2971,9 +2975,7 @@
       ],
       "title": "比格AI PPT",
       "needPay": 1,
-      "desc": "AI 一键生成PPT。需付费",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI 一键生成PPT。需付费"
     },
     "https://tome.app": {
       "type": [
@@ -4049,7 +4051,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://imglarger.com": {
       "title": "Imglarger",
@@ -5739,7 +5743,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://writersdesk.ai": {
       "title": "星火网文助手",
@@ -6116,9 +6122,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.thunisoft.com/gywm/index.jhtml": {
       "title": "万象公文",
@@ -6446,7 +6450,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://deepl.com": {
@@ -8930,9 +8934,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://maopaoya.com": {
       "title": "冒泡鸭AI",
@@ -11662,9 +11664,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
@@ -12419,9 +12419,7 @@
         "国外精选",
         "网站"
       ],
-      "type": [],
-      "needVerify": 2,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "type": []
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12992,7 +12990,9 @@
         "API",
         "deepseek",
         "大厂合集(精选大厂热门AI产品)"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     }
   }
 }
