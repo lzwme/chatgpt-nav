@@ -1899,9 +1899,7 @@
         "AI 图像处理"
       ],
       "title": "模袋云AI",
-      "desc": "模袋云AI是一款在线别墅设计神器。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "模袋云AI是一款在线别墅设计神器。"
     },
     "https://www.nolibox.com": {
       "type": [
@@ -2105,7 +2103,7 @@
       ],
       "title": "小冰",
       "desc": "小冰基于全球领先的完备人工智能小冰框架，推出了数字专家和数字员工等完整产品线。",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][503]Service Temporarily Unavailable"
     },
     "https://virbo.wondershare.cn": {
@@ -2114,7 +2112,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://runwayml.com": {
       "type": [
@@ -2493,7 +2493,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2688,16 +2690,6 @@
       ],
       "title": "Recraft",
       "desc": "便捷的AI生成矢量图像生成工具"
-    },
-    "https://www.alpacaml.com": {
-      "type": [
-        "AI 绘图",
-        "AI 图像处理"
-      ],
-      "title": "Alpaca",
-      "desc": "个性化的AI工具包，可接入Ps的SD绘画插件",
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://flair.ai": {
       "type": [
@@ -2966,7 +2958,7 @@
       ],
       "title": "3DFY AI",
       "desc": "AI创建大规模高质量的3D资产",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://bigesj.com/ai-ppt/": {
@@ -3029,7 +3021,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2F&y=ipr:20.169.0.192:1743538448.551\"></meta></head></html>"
     },
     "https://otter.ai": {
       "type": [
@@ -3548,7 +3542,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.169.0.192:1743538454.295\"></meta></head></html>"
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -9086,7 +9082,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -11005,9 +11003,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.framer.com/ai": {
       "title": "Framer AI",
@@ -11415,7 +11411,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -12419,7 +12417,7 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://jina.ai/deepsearch/": {
