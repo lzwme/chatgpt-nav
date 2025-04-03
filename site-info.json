@@ -2952,8 +2952,9 @@
       ],
       "title": "3DFY AI",
       "desc": "AI创建大规模高质量的3D资产",
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://bigesj.com/ai-ppt/": {
       "type": [
@@ -4408,9 +4409,7 @@
         "AI 图像处理",
         "AI 电商工具",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.productai.photo": {
       "title": "ProductAI",
@@ -9093,7 +9092,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatlify.me": {
       "title": "Chatlify",
@@ -11462,7 +11463,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -12405,7 +12408,7 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://jina.ai/deepsearch/": {
@@ -12977,7 +12980,9 @@
         "API",
         "deepseek",
         "大厂合集(精选大厂热门AI产品)"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     }
   }
 }
