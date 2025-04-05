@@ -255,9 +255,7 @@
       "title": "Kimi.ai",
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://yiyan.baidu.com": {
       "type": [
@@ -2217,9 +2215,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2493,7 +2489,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -3216,9 +3214,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -11406,7 +11402,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -11467,9 +11465,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -12411,9 +12407,7 @@
         "国外精选",
         "网站"
       ],
-      "type": [],
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "type": []
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12636,9 +12630,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "lang": "en"
     },
     "https://www.inceptionlabs.ai/news": {
       "title": "Mercury Coder",
