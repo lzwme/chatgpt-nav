@@ -573,9 +573,7 @@
       "sort": -84,
       "needLogin": 1,
       "desc": "中科院自动化所和武汉人工智能研究院联合推出的新一代大模型，从三模态走向全模态，支持多轮问答、文本创作、图像生成、3D理解、信号分析等全面问答任务，拥有更强的认知、理解、创作能力，带来全新互动体验。",
-      "title": "紫东太初",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "紫东太初"
     },
     "https://bot.360.com": {
       "type": [
@@ -1200,14 +1198,18 @@
         "AI 行业工具"
       ],
       "title": "Ixigo",
-      "desc": "【旅游】GPT旅行，在几秒钟内计划您的梦想旅行！"
+      "desc": "【旅游】GPT旅行，在几秒钟内计划您的梦想旅行！",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://wanderlog.com/trip-plan-assistant": {
       "type": [
         "AI 行业工具"
       ],
       "title": "Wanderlog",
-      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！"
+      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.tipranks.com": {
       "type": [
@@ -1418,7 +1420,9 @@
         "AI 写作助手"
       ],
       "title": "爱改写",
-      "desc": "爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。"
+      "desc": "爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.heyfriday.cn/home": {
       "type": [
@@ -1875,7 +1879,9 @@
         "AI 图像处理"
       ],
       "title": "即时AI",
-      "desc": "即时AI是一款极具前沿创新的AIGC产品，一款可以快速生成设计稿的生成式设计工具，它能够通过简单的自然语言描述来生成与需求相匹配的设计稿。"
+      "desc": "即时AI是一款极具前沿创新的AIGC产品，一款可以快速生成设计稿的生成式设计工具，它能够通过简单的自然语言描述来生成与需求相匹配的设计稿。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]write EPROTO 404C6C24F27F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
     },
     "https://pixso.cn": {
       "type": [
@@ -2491,7 +2497,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2945,7 +2953,9 @@
         "AI 图像处理"
       ],
       "title": "DreamFusion",
-      "desc": "谷歌推出的文本转3D模型"
+      "desc": "谷歌推出的文本转3D模型",
+      "needVerify": 1,
+      "errmsg": "[error][503]Service Unavailable"
     },
     "https://3dfy.ai": {
       "type": [
@@ -7222,7 +7232,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -9075,7 +9087,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]socket hang up"
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -11402,7 +11416,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -12405,7 +12421,9 @@
         "国外精选",
         "网站"
       ],
-      "type": []
+      "type": [],
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
