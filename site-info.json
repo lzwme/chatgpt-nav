@@ -1198,18 +1198,14 @@
         "AI 行业工具"
       ],
       "title": "Ixigo",
-      "desc": "【旅游】GPT旅行，在几秒钟内计划您的梦想旅行！",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "【旅游】GPT旅行，在几秒钟内计划您的梦想旅行！"
     },
     "https://wanderlog.com/trip-plan-assistant": {
       "type": [
         "AI 行业工具"
       ],
       "title": "Wanderlog",
-      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！"
     },
     "https://www.tipranks.com": {
       "type": [
@@ -1420,9 +1416,7 @@
         "AI 写作助手"
       ],
       "title": "爱改写",
-      "desc": "爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。"
     },
     "https://www.heyfriday.cn/home": {
       "type": [
@@ -1880,8 +1874,8 @@
       ],
       "title": "即时AI",
       "desc": "即时AI是一款极具前沿创新的AIGC产品，一款可以快速生成设计稿的生成式设计工具，它能够通过简单的自然语言描述来生成与需求相匹配的设计稿。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]write EPROTO 404C6C24F27F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
+      "needVerify": 2,
+      "errmsg": "[error][-1]write EPROTO 400CB21A217F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
     },
     "https://pixso.cn": {
       "type": [
@@ -2497,9 +2491,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "商业级AI影像处理工具"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2684,7 +2676,9 @@
         "AI 图像处理"
       ],
       "title": "ImageCreator",
-      "desc": "PS中免费使用的SD神级插件"
+      "desc": "PS中免费使用的SD神级插件",
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://app.recraft.ai/community": {
       "type": [
@@ -2953,9 +2947,7 @@
         "AI 图像处理"
       ],
       "title": "DreamFusion",
-      "desc": "谷歌推出的文本转3D模型",
-      "needVerify": 1,
-      "errmsg": "[error][503]Service Unavailable"
+      "desc": "谷歌推出的文本转3D模型"
     },
     "https://3dfy.ai": {
       "type": [
@@ -7232,9 +7224,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -9087,9 +9077,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]socket hang up"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -11416,9 +11404,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -11437,7 +11423,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "http://d-id.com": {
       "title": "D-ID",
@@ -12421,9 +12409,7 @@
         "国外精选",
         "网站"
       ],
-      "type": [],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "type": []
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
