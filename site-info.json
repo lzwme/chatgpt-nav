@@ -573,7 +573,9 @@
       "sort": -84,
       "needLogin": 1,
       "desc": "中科院自动化所和武汉人工智能研究院联合推出的新一代大模型，从三模态走向全模态，支持多轮问答、文本创作、图像生成、3D理解、信号分析等全面问答任务，拥有更强的认知、理解、创作能力，带来全新互动体验。",
-      "title": "紫东太初"
+      "title": "紫东太初",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://bot.360.com": {
       "type": [
@@ -1874,8 +1876,8 @@
       ],
       "title": "即时AI",
       "desc": "即时AI是一款极具前沿创新的AIGC产品，一款可以快速生成设计稿的生成式设计工具，它能够通过简单的自然语言描述来生成与需求相匹配的设计稿。",
-      "needVerify": 2,
-      "errmsg": "[error][-1]write EPROTO 400CB21A217F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
+      "needVerify": 3,
+      "errmsg": "[error][-1]write EPROTO 408CF2EBBA7F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
     },
     "https://pixso.cn": {
       "type": [
@@ -2677,7 +2679,7 @@
       ],
       "title": "ImageCreator",
       "desc": "PS中免费使用的SD神级插件",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://app.recraft.ai/community": {
@@ -4824,7 +4826,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.logopony.com": {
       "title": "LOGOPONY",
@@ -6188,7 +6192,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hubspot.com/campaign-assistant": {
       "title": "HubSpot Campaign Assistant",
@@ -9077,7 +9083,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -11404,7 +11412,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -11423,9 +11433,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "http://d-id.com": {
       "title": "D-ID",
@@ -11467,7 +11475,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -12409,7 +12419,9 @@
         "国外精选",
         "网站"
       ],
-      "type": []
+      "type": [],
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
