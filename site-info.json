@@ -1801,7 +1801,9 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://arc.tencent.com/zh/ai-demos/faceRestoration": {
       "type": [
@@ -1874,8 +1876,8 @@
       ],
       "title": "即时AI",
       "desc": "即时AI是一款极具前沿创新的AIGC产品，一款可以快速生成设计稿的生成式设计工具，它能够通过简单的自然语言描述来生成与需求相匹配的设计稿。",
-      "needVerify": 5,
-      "errmsg": "[error][-1]write EPROTO 404C5447857F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
+      "needVerify": 6,
+      "errmsg": "[error][-1]write EPROTO 403CCBF0867F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
     },
     "https://pixso.cn": {
       "type": [
@@ -2217,7 +2219,9 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中"
+      "desc": "国内自研的AI作画系统！内测中",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2677,7 +2681,7 @@
       ],
       "title": "ImageCreator",
       "desc": "PS中免费使用的SD神级插件",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://app.recraft.ai/community": {
@@ -7224,9 +7228,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -9079,9 +9081,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -11251,9 +11251,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -11410,9 +11408,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
