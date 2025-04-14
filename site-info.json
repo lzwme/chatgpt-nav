@@ -1603,7 +1603,9 @@
         "AI 编程开发"
       ],
       "title": "讯飞iFlyCode",
-      "desc": "代码大模型，支持讯飞AI能力，具有业界领先的代码大模型能力。"
+      "desc": "代码大模型，支持讯飞AI能力，具有业界领先的代码大模型能力。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.zelinai.com": {
       "type": [
@@ -2678,8 +2680,9 @@
       ],
       "title": "ImageCreator",
       "desc": "PS中免费使用的SD神级插件",
-      "needVerify": 6,
-      "errmsg": "[error][502]Bad Gateway"
+      "needVerify": 7,
+      "errmsg": "[error][502]Bad Gateway",
+      "hide": 1
     },
     "https://app.recraft.ai/community": {
       "type": [
@@ -4043,9 +4046,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://imglarger.com": {
       "title": "Imglarger",
@@ -6966,7 +6967,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://morphcut.github.io": {
       "title": "MorphCut",
@@ -8925,9 +8928,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://maopaoya.com": {
       "title": "冒泡鸭AI",
@@ -9082,9 +9083,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -12414,7 +12413,9 @@
         "国外精选",
         "网站"
       ],
-      "type": []
+      "type": [],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12961,9 +12962,7 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ppinfra.com/user/": {
       "type": [
