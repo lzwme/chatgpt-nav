@@ -1972,9 +1972,7 @@
         "AI 电商工具"
       ],
       "title": "WeShop",
-      "desc": "AI商拍工具，在WeShop再也不会受到模特限制，鼠标就是快门，点击就看成片。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI商拍工具，在WeShop再也不会受到模特限制，鼠标就是快门，点击就看成片。"
     },
     "https://www.suno.ai": {
       "type": [
@@ -2421,7 +2419,9 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词"
+      "desc": "有趣ChatGPT提示词",
+      "needVerify": 1,
+      "errmsg": "[error][200]<html>\n\t<head>\n\t\t<script>\n\t\t\tvar forwardingUrl = \"/page/bouncy.php?&bpae=GbhGsj%2Fnyip%2F95vhmf6J9sHYsHszMs0%2BqFlNh%2FGicOvSPOy1oqJtRxCwJdvJkLP1st4adsKV1En6j3EalkY9AfJVx9BUjEQI8llJiFE4aRv"
     },
     "https://catjourney.life": {
       "type": [
@@ -2903,7 +2903,9 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理"
+      "desc": "AI生成3D无缝贴图纹理",
+      "needVerify": 1,
+      "errmsg": "[error][200]<html>\n\t<head>\n\t\t<script>\n\t\t\tvar forwardingUrl = \"/page/bouncy.php?&bpae=GbhGcj3701R7jkvUdQTyTurMzidObZoUObYaYKkTb%2BAcJTsiqrnekoDqZF496LKD2IL1wl8kbfGYPWkEM56vFLy%2BArADJgEXScKbR7k58Lf7wco"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -3041,7 +3043,9 @@
         "生产力",
         "国外精选",
         "网站"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://noty.ai": {
       "type": [
@@ -3910,7 +3914,9 @@
       "type": [
         "AI 写作助手",
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://suppr.wilddata.cn": {
       "title": "超能文献·文档翻译",
@@ -8679,7 +8685,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://donotpay.com": {
       "title": "DoNotPay",
@@ -8944,9 +8952,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://apps.apple.com/cn/app/%E8%AF%9D%E7%82%89/id6475000292": {
       "title": "话炉",
