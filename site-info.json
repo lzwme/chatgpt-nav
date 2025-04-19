@@ -1198,9 +1198,7 @@
         "AI 行业工具"
       ],
       "title": "Ixigo",
-      "desc": "【旅游】GPT旅行，在几秒钟内计划您的梦想旅行！",
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      "desc": "【旅游】GPT旅行，在几秒钟内计划您的梦想旅行！"
     },
     "https://wanderlog.com/trip-plan-assistant": {
       "type": [
@@ -1501,9 +1499,7 @@
       ],
       "star": 3,
       "title": "WPS AI",
-      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。"
     },
     "https://smartread.cc": {
       "type": [
@@ -2222,9 +2218,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
