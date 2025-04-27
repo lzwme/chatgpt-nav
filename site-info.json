@@ -562,7 +562,9 @@
       "sort": -80,
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
-      "title": "C知道"
+      "title": "C知道",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai-maas.wair.ac.cn": {
       "type": [
@@ -653,7 +655,7 @@
       "source": "recommend",
       "title": "T-CHAT",
       "desc": "免费的AI画图",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://gpt.nowait.xin/chat": {
@@ -1764,9 +1766,7 @@
         "AI 绘图"
       ],
       "title": "无限画",
-      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。"
     },
     "https://www.ishencai.com": {
       "type": [
@@ -2223,7 +2223,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -2924,7 +2924,7 @@
       ],
       "title": "Plasmo",
       "desc": "将草图转为3D模型",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.plasmo.ai"
     },
     "https://cascadeur.com": {
@@ -3916,9 +3916,7 @@
       "type": [
         "AI 写作助手",
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://suppr.wilddata.cn": {
       "title": "超能文献·文档翻译",
@@ -8749,7 +8747,7 @@
         "AI 行业工具",
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.teamsmart.ai"
     },
     "https://www.rewind.ai": {
@@ -9010,7 +9008,9 @@
         "AI 行业工具",
         "AI 写作助手",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND ichuangnao.com"
     },
     "https://character.sensetime.com/character-wb/home": {
       "title": "商汤商量拟人大模型",
@@ -9091,7 +9091,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -9110,7 +9112,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://chatlify.me": {
       "title": "Chatlify",
@@ -10329,8 +10333,9 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
+      "needVerify": 7,
+      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>",
+      "hide": 1
     },
     "https://www.texttovoice.online": {
       "title": "Texttovoice.online",
@@ -12111,7 +12116,9 @@
       "desc": "开搜AI是一款面向大众免费无广告问答搜索引擎，不仅为用户问题提供直接、精准的答案，还能自动总结重点、生成大纲、思维导图并下载，帮您从上亿文献资料中筛选有用信息，提升您信息获取效率",
       "type": [
         "AI 搜索引擎"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND kaisouai.com"
     },
     "https://www.hippolearning.cn": {
       "title": "河马爱学",
