@@ -1795,7 +1795,9 @@
         "AI 绘图"
       ],
       "title": "像素蛋糕",
-      "desc": "像素蛋糕是一款简单易用的AI修图工具，只需要拖入图片，即可实现一键智能Raw转档调色，一键磨皮全身液化，轻松实现“一秒初修，三秒精修”的批量修图操作。"
+      "desc": "像素蛋糕是一款简单易用的AI修图工具，只需要拖入图片，即可实现一键智能Raw转档调色，一键磨皮全身液化，轻松实现“一秒初修，三秒精修”的批量修图操作。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://d.design": {
       "type": [
@@ -2221,9 +2223,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 4,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -3342,9 +3342,7 @@
       "desc": "「印象笔记」X「印象AI」会创作的第二大脑",
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.edrawsoft.cn/mindmaster": {
       "title": "亿图脑图",
@@ -4134,9 +4132,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -8344,9 +8340,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
@@ -8753,8 +8747,9 @@
         "AI 行业工具",
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.teamsmart.ai"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.teamsmart.ai",
+      "hide": 1
     },
     "https://www.rewind.ai": {
       "title": "Rewind AI",
@@ -9015,7 +9010,7 @@
         "AI 写作助手",
         "AI 聊天对话"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ichuangnao.com"
     },
     "https://character.sensetime.com/character-wb/home": {
@@ -11427,7 +11422,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -12119,7 +12116,7 @@
       "type": [
         "AI 搜索引擎"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND kaisouai.com"
     },
     "https://www.hippolearning.cn": {
@@ -12818,7 +12815,9 @@
       "type": [
         "AI 语音生成",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://qwenlm.github.io/zh/blog/qwq-max-preview/": {
       "title": "QwQ-Max-Preview",
