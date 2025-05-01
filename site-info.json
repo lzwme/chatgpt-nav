@@ -1795,9 +1795,7 @@
         "AI 绘图"
       ],
       "title": "像素蛋糕",
-      "desc": "像素蛋糕是一款简单易用的AI修图工具，只需要拖入图片，即可实现一键智能Raw转档调色，一键磨皮全身液化，轻松实现“一秒初修，三秒精修”的批量修图操作。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "像素蛋糕是一款简单易用的AI修图工具，只需要拖入图片，即可实现一键智能Raw转档调色，一键磨皮全身液化，轻松实现“一秒初修，三秒精修”的批量修图操作。"
     },
     "https://d.design": {
       "type": [
@@ -2424,7 +2422,9 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词"
+      "desc": "有趣ChatGPT提示词",
+      "needVerify": 1,
+      "errmsg": "[error][200]<html>\n\t<head>\n\t\t<script>\n\t\t\tvar forwardingUrl = \"/page/bouncy.php?&bpae=GbhGsj%2Fnyip%2F95vhmd7rkS1uPaUEH7hSBS9Nh%2FF0dbwZKdu2S7n6aRZnSpEsL%2FaqacxJiGGplkYUZvFe2DYCgDvf0QNGvs8uDaDy7wvh0SC"
     },
     "https://catjourney.life": {
       "type": [
@@ -2792,7 +2792,9 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai.zaker.cn": {
       "type": [
@@ -4132,7 +4134,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -7234,7 +7238,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -9010,7 +9016,7 @@
         "AI 写作助手",
         "AI 聊天对话"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ichuangnao.com"
     },
     "https://character.sensetime.com/character-wb/home": {
@@ -11265,7 +11271,9 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -11423,7 +11431,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
@@ -12116,7 +12124,7 @@
       "type": [
         "AI 搜索引擎"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND kaisouai.com"
     },
     "https://www.hippolearning.cn": {
@@ -12816,7 +12824,7 @@
         "AI 语音生成",
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://qwenlm.github.io/zh/blog/qwq-max-preview/": {
