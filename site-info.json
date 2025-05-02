@@ -645,7 +645,9 @@
       "source": "recommend",
       "needLogin": 1,
       "desc": "Best AI Content Writer",
-      "title": "ChattyAid"
+      "title": "ChattyAid",
+      "needVerify": 1,
+      "errmsg": "[error][521]<none>"
     },
     "https://home.v50.ltd": {
       "star": 2,
@@ -2423,8 +2425,8 @@
       ],
       "title": "Ordinary Prompts",
       "desc": "有趣ChatGPT提示词",
-      "needVerify": 1,
-      "errmsg": "[error][200]<html>\n\t<head>\n\t\t<script>\n\t\t\tvar forwardingUrl = \"/page/bouncy.php?&bpae=GbhGsj%2Fnyip%2F95vhmd7rkS1uPaUEH7hSBS9Nh%2FF0dbwZKdu2S7n6aRZnSpEsL%2FaqacxJiGGplkYUZvFe2DYCgDvf0QNGvs8uDaDy7wvh0SC"
+      "needVerify": 2,
+      "errmsg": "[error][200]<html>\n\t<head>\n\t\t<script>\n\t\t\tvar forwardingUrl = \"/page/bouncy.php?&bpae=GbhGcr%2Fmyip%2Fj3PVddAsj%2B9SSuiZGPVrPoht2qK6QXImm3K%2FyFsRZ8mciZnZwBWADVlp4JwzqO2%2BhcD%2F1auyZpVd2xReDbQJiOmk3ul"
     },
     "https://catjourney.life": {
       "type": [
@@ -2792,9 +2794,7 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具"
     },
     "https://ai.zaker.cn": {
       "type": [
@@ -4134,9 +4134,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -7238,9 +7236,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -9016,7 +9012,7 @@
         "AI 写作助手",
         "AI 聊天对话"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ichuangnao.com"
     },
     "https://character.sensetime.com/character-wb/home": {
@@ -11271,9 +11267,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -11431,7 +11425,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
@@ -12124,7 +12118,7 @@
       "type": [
         "AI 搜索引擎"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND kaisouai.com"
     },
     "https://www.hippolearning.cn": {
@@ -12824,7 +12818,7 @@
         "AI 语音生成",
         "AI 聊天对话"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://qwenlm.github.io/zh/blog/qwq-max-preview/": {
