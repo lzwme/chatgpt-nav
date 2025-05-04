@@ -735,9 +735,7 @@
     "https://chat.binjie.site:7777": {
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
-      "title": "仅用于开发学习交流",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "仅用于开发学习交流"
     },
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
@@ -2197,9 +2195,7 @@
         "AI 视频生成"
       ],
       "title": "万彩微影",
-      "desc": "万彩微影，一款全能的AI智能短视频制作软件合集，专门制作热门的手绘动画视频，文字动画视频，还能一键把图文/文章/PPT转换为视频。",
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      "desc": "万彩微影，一款全能的AI智能短视频制作软件合集，专门制作热门的手绘动画视频，文字动画视频，还能一键把图文/文章/PPT转换为视频。"
     },
     "https://www.laihua.com": {
       "type": [
@@ -2226,7 +2222,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -10032,7 +10028,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat.xverse.cn/home/": {
       "title": "元象大模型 XChat",
@@ -11446,7 +11444,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "http://d-id.com": {
       "title": "D-ID",
@@ -12186,7 +12186,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND new.imyai.top"
     },
     "https://xiaowenpaper.com": {
@@ -12822,7 +12822,7 @@
         "AI 语音生成",
         "AI 聊天对话"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://qwenlm.github.io/zh/blog/qwq-max-preview/": {
@@ -12984,9 +12984,7 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ppinfra.com/user/": {
       "type": [
