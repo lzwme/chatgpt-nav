@@ -1070,7 +1070,9 @@
         "AI 聊天对话"
       ],
       "title": "零一万物",
-      "desc": "零一万物是由李开复老师创办的，致力于成为一家由技术愿景驱动、拥有卓越中国工程底蕴的创新企业，推动以基座大模型为突破的AI 2.0掀起技术、平台到应用多个层面的革命。"
+      "desc": "零一万物是由李开复老师创办的，致力于成为一家由技术愿景驱动、拥有卓越中国工程底蕴的创新企业，推动以基座大模型为突破的AI 2.0掀起技术、平台到应用多个层面的革命。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat.sensetime.com": {
       "type": [
@@ -2222,7 +2224,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -10028,9 +10030,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chat.xverse.cn/home/": {
       "title": "元象大模型 XChat",
@@ -11444,9 +11444,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "http://d-id.com": {
       "title": "D-ID",
@@ -12186,7 +12184,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND new.imyai.top"
     },
     "https://xiaowenpaper.com": {
@@ -12822,7 +12820,7 @@
         "AI 语音生成",
         "AI 聊天对话"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][404]Not Found"
     },
     "https://qwenlm.github.io/zh/blog/qwq-max-preview/": {
@@ -13008,7 +13006,9 @@
         "API",
         "deepseek",
         "大厂合集(精选大厂热门AI产品)"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     }
   }
 }
