@@ -1070,9 +1070,7 @@
         "AI 聊天对话"
       ],
       "title": "零一万物",
-      "desc": "零一万物是由李开复老师创办的，致力于成为一家由技术愿景驱动、拥有卓越中国工程底蕴的创新企业，推动以基座大模型为突破的AI 2.0掀起技术、平台到应用多个层面的革命。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "零一万物是由李开复老师创办的，致力于成为一家由技术愿景驱动、拥有卓越中国工程底蕴的创新企业，推动以基座大模型为突破的AI 2.0掀起技术、平台到应用多个层面的革命。"
     },
     "https://chat.sensetime.com": {
       "type": [
@@ -2224,7 +2222,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -11925,7 +11923,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.ysdaima.com": {
       "title": "颜色代码表",
@@ -12184,7 +12184,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND new.imyai.top"
     },
     "https://xiaowenpaper.com": {
@@ -12800,29 +12800,6 @@
         "AI 开源工具"
       ]
     },
-    "https://noet.ai": {
-      "title": "Noet",
-      "intro": "AI驱动的客户支持平台，提供24/7智能语音和聊天支持，提升客户体验。",
-      "desc": "Noet是一个AI驱动的客户支持平台，旨在通过智能化、个性化的支持服务，彻底改变传统的客户体验。它利用先进的AI技术，实现24/7的智能语音和聊天支持，能够实时分析客户情绪和意图，并提供全渠道支持，包括电子邮件、电话以及WhatsApp、LinkedIn和Instagram等平台。这种创新的客户支持方式，不仅提高了问题解决的效率，还通过主动关怀和预防问题的发生，进一步提升了客户满意度。Noet的出现，标志着客户支持服务进入了一个全新的智能化时代，为企业提供了一个高效、智能的客户支持解决方案，有助于企业在竞争激烈的市场中脱颖而出。",
-      "lang": "en",
-      "tags": [
-        "AI",
-        "客户支持",
-        "智能语音",
-        "聊天支持",
-        "全渠道",
-        "数据分析",
-        "商业",
-        "国外精选",
-        "网站"
-      ],
-      "type": [
-        "AI 语音生成",
-        "AI 聊天对话"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://qwenlm.github.io/zh/blog/qwq-max-preview/": {
       "title": "QwQ-Max-Preview",
       "intro": "QwQ-Max-Preview 是 Qwen 系列的最新成果，基于 Qwen2.5-Max 构建，具备强大的推理和多领域应用能力。",
@@ -13006,9 +12983,7 @@
         "API",
         "deepseek",
         "大厂合集(精选大厂热门AI产品)"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     }
   }
 }
