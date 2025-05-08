@@ -256,7 +256,7 @@
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://yiyan.baidu.com": {
@@ -708,7 +708,9 @@
       "type": [
         "AI 综合工具"
       ],
-      "title": "AI帮个忙"
+      "title": "AI帮个忙",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://weeklyreport.avemaria.fun": {
       "desc": "周报生成器。仅于周一、五、六、日免费使用，其余时间自备 OpenAI API Key",
@@ -2190,9 +2192,7 @@
         "AI 绘图"
       ],
       "title": "一帧秒创",
-      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。"
     },
     "https://www.animiz.cn/microvideo": {
       "type": [
@@ -2225,9 +2225,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2551,7 +2549,9 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱"
+      "desc": "多功能的AI图片处理工具箱",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://insightface.ai": {
       "type": [
@@ -3231,7 +3231,7 @@
       ],
       "title": "Theculturedao",
       "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://ludo.ai": {
@@ -3756,9 +3756,7 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://toolfolio.io": {
       "title": "Toolfolio",
@@ -8925,7 +8923,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://zhumengdao.com": {
       "title": "筑梦岛",
@@ -12438,7 +12438,7 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://jina.ai/deepsearch/": {
@@ -12663,7 +12663,7 @@
         "AI 文档办公"
       ],
       "lang": "en",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.inceptionlabs.ai/news": {
@@ -12967,9 +12967,7 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ppinfra.com/user/": {
       "type": [
