@@ -256,7 +256,7 @@
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://yiyan.baidu.com": {
@@ -1615,9 +1615,7 @@
         "AI 编程开发"
       ],
       "title": "ZelinAI",
-      "desc": "ZelinAI零代码构建你的AI应用，ZelinAI目前接入了微软合规的GPT3.5、GPT4大智能体以及文心一言、星火等国内知名的大智能体",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "ZelinAI零代码构建你的AI应用，ZelinAI目前接入了微软合规的GPT3.5、GPT4大智能体以及文心一言、星火等国内知名的大智能体"
     },
     "https://www.dora.run": {
       "type": [
@@ -1825,7 +1823,9 @@
         "AI 绘图"
       ],
       "title": "图查查",
-      "desc": "图查查是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。"
+      "desc": "图查查是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.whee.com": {
       "type": [
@@ -2015,9 +2015,7 @@
         "AI 语音生成"
       ],
       "title": "讯飞智作",
-      "desc": "讯飞智作是一站式配音平台，可以提供AI文字转语音、语音合成、智能配音、AI虚拟主播等工具。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "讯飞智作是一站式配音平台，可以提供AI文字转语音、语音合成、智能配音、AI虚拟主播等工具。"
     },
     "https://www.moyin.com": {
       "type": [
@@ -2501,7 +2499,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2796,9 +2796,7 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具"
     },
     "https://ai.zaker.cn": {
       "type": [
@@ -3233,7 +3231,7 @@
       ],
       "title": "Theculturedao",
       "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://ludo.ai": {
@@ -3905,9 +3903,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://wensi.sodabot.cn": {
       "title": "文思助手",
@@ -5375,9 +5371,7 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.overleaf.com": {
       "title": "Overleaf",
@@ -9124,9 +9118,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      ]
     },
     "https://chatlify.me": {
       "title": "Chatlify",
@@ -11437,7 +11429,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -12167,7 +12161,9 @@
       "desc": "美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板,可在线智能生成海报,一键换色,一键换装,一键去水印,图片高清修复,无损放大,抠图,拼图。",
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://shop-ai.app": {
       "title": "ShopAI",
@@ -12444,7 +12440,7 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://jina.ai/deepsearch/": {
@@ -12669,7 +12665,7 @@
         "AI 文档办公"
       ],
       "lang": "en",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.inceptionlabs.ai/news": {
@@ -12974,7 +12970,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://ppinfra.com/user/": {
