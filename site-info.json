@@ -255,9 +255,7 @@
       "title": "Kimi.ai",
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
-      ],
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://yiyan.baidu.com": {
       "type": [
@@ -1823,9 +1821,7 @@
         "AI 绘图"
       ],
       "title": "图查查",
-      "desc": "图查查是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "图查查是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。"
     },
     "https://www.whee.com": {
       "type": [
@@ -2499,9 +2495,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "商业级AI影像处理工具"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -3230,9 +3224,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -8095,7 +8087,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -11429,9 +11423,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -12161,9 +12153,7 @@
       "desc": "美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板,可在线智能生成海报,一键换色,一键换装,一键去水印,图片高清修复,无损放大,抠图,拼图。",
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://shop-ai.app": {
       "title": "ShopAI",
@@ -12439,9 +12429,7 @@
         "国外精选",
         "网站"
       ],
-      "type": [],
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "type": []
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12664,9 +12652,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en",
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "lang": "en"
     },
     "https://www.inceptionlabs.ai/news": {
       "title": "Mercury Coder",
@@ -12969,9 +12955,7 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ppinfra.com/user/": {
       "type": [
