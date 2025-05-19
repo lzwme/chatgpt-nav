@@ -256,7 +256,7 @@
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://yiyan.baidu.com": {
@@ -1845,7 +1845,9 @@
         "AI 绘图"
       ],
       "title": "tusi.art",
-      "desc": "吐司是可在线生图的AI模型分享社区"
+      "desc": "吐司是可在线生图的AI模型分享社区",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://civitai.com": {
       "type": [
@@ -2096,7 +2098,7 @@
       ],
       "title": "D-ID",
       "desc": "AI真人视频创作工具。",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.guiji.ai": {
@@ -2225,9 +2227,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -3231,7 +3231,7 @@
       ],
       "title": "Theculturedao",
       "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://ludo.ai": {
@@ -3424,7 +3424,9 @@
         "AI 视频生成",
         "AI 国外工具"
       ],
-      "lang": "en"
+      "lang": "en",
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://nijijourney.com/zh": {
       "title": "NijiJourney",
@@ -7463,7 +7465,9 @@
       "type": [
         "AI 图像处理",
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://gezhe.com": {
       "title": "歌者PPT",
@@ -8095,7 +8099,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -9099,9 +9105,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -9528,9 +9532,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://github.com/sunner/ChatALL": {
       "title": "ChatALL",
@@ -10155,7 +10157,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://sky-code.singularity-ai.com": {
       "title": "天工智码 SkyCode",
@@ -11933,7 +11937,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.ysdaima.com": {
       "title": "颜色代码表",
@@ -12440,7 +12446,7 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://jina.ai/deepsearch/": {
@@ -12665,7 +12671,7 @@
         "AI 文档办公"
       ],
       "lang": "en",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.inceptionlabs.ai/news": {
@@ -12969,9 +12975,7 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ppinfra.com/user/": {
       "type": [
