@@ -255,9 +255,7 @@
       "title": "Kimi.ai",
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://yiyan.baidu.com": {
       "type": [
@@ -564,7 +562,9 @@
       "sort": -80,
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
-      "title": "C知道"
+      "title": "C知道",
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://ai-maas.wair.ac.cn": {
       "type": [
@@ -1845,9 +1845,7 @@
         "AI 绘图"
       ],
       "title": "tusi.art",
-      "desc": "吐司是可在线生图的AI模型分享社区",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "吐司是可在线生图的AI模型分享社区"
     },
     "https://civitai.com": {
       "type": [
@@ -2098,7 +2096,7 @@
       ],
       "title": "D-ID",
       "desc": "AI真人视频创作工具。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.guiji.ai": {
@@ -3223,16 +3221,16 @@
         "AI 编程开发"
       ],
       "title": "MarsX",
-      "desc": "使用无代码和零编码技能开始构建微应用程序"
+      "desc": "使用无代码和零编码技能开始构建微应用程序",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.theculturedao.com": {
       "type": [
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -3425,7 +3423,7 @@
         "AI 国外工具"
       ],
       "lang": "en",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://nijijourney.com/zh": {
@@ -5632,7 +5630,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xfyun.cn/services/zhi-jian": {
       "title": "讯飞智检",
@@ -6530,7 +6530,9 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -7262,7 +7264,9 @@
         "AI 图像处理",
         "AI 视频生成",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://github.com/Picsart-AI-Research/StreamingT2V": {
       "title": "StreamingT2V",
@@ -7465,9 +7469,7 @@
       "type": [
         "AI 图像处理",
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://gezhe.com": {
       "title": "歌者PPT",
@@ -8100,7 +8102,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -9105,7 +9107,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -10157,9 +10161,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://sky-code.singularity-ai.com": {
       "title": "天工智码 SkyCode",
@@ -10250,7 +10252,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -11937,9 +11941,7 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.ysdaima.com": {
       "title": "颜色代码表",
@@ -12445,9 +12447,7 @@
         "国外精选",
         "网站"
       ],
-      "type": [],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "type": []
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12670,9 +12670,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en",
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "lang": "en"
     },
     "https://www.inceptionlabs.ai/news": {
       "title": "Mercury Coder",
@@ -12975,7 +12973,9 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ppinfra.com/user/": {
       "type": [
