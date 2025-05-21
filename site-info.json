@@ -563,7 +563,7 @@
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
       "title": "C知道",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://ai-maas.wair.ac.cn": {
@@ -2095,9 +2095,7 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。",
-      "needVerify": 4,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "AI真人视频创作工具。"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -3221,9 +3219,7 @@
         "AI 编程开发"
       ],
       "title": "MarsX",
-      "desc": "使用无代码和零编码技能开始构建微应用程序",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "使用无代码和零编码技能开始构建微应用程序"
     },
     "https://www.theculturedao.com": {
       "type": [
@@ -3423,7 +3419,7 @@
         "AI 国外工具"
       ],
       "lang": "en",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://nijijourney.com/zh": {
@@ -5630,9 +5626,7 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.xfyun.cn/services/zhi-jian": {
       "title": "讯飞智检",
@@ -6531,7 +6525,7 @@
         "AI 搜索引擎",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
@@ -7265,7 +7259,7 @@
         "AI 视频生成",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://github.com/Picsart-AI-Research/StreamingT2V": {
@@ -8102,7 +8096,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -9107,9 +9101,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -9345,7 +9337,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "https://parrotchat.io": {
       "title": "ParrotChat",
@@ -10252,9 +10246,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -11482,7 +11474,9 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -12973,9 +12967,7 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ppinfra.com/user/": {
       "type": [
