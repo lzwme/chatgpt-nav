@@ -562,9 +562,7 @@
       "sort": -80,
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
-      "title": "C知道",
-      "needVerify": 4,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "title": "C知道"
     },
     "https://ai-maas.wair.ac.cn": {
       "type": [
@@ -1767,9 +1765,7 @@
         "AI 绘图"
       ],
       "title": "无限画",
-      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。"
     },
     "https://www.ishencai.com": {
       "type": [
@@ -2097,9 +2093,7 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。",
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "AI真人视频创作工具。"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -2228,7 +2222,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -3425,7 +3419,7 @@
         "AI 国外工具"
       ],
       "lang": "en",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://nijijourney.com/zh": {
@@ -4669,7 +4663,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "http://removewatermark.ai": {
       "title": "WatermarkRemoverAI",
@@ -6530,7 +6526,9 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -7022,7 +7020,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://ltx.studio": {
@@ -7264,9 +7262,7 @@
         "AI 图像处理",
         "AI 视频生成",
         "AI 绘图"
-      ],
-      "needVerify": 4,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://github.com/Picsart-AI-Research/StreamingT2V": {
       "title": "StreamingT2V",
@@ -8101,7 +8097,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8407,7 +8405,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.wondercv.com": {
       "title": "超级简历",
@@ -9342,7 +9342,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "https://parrotchat.io": {
@@ -10250,7 +10250,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -10921,7 +10923,7 @@
         "AI 写作助手",
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://novelai.dev": {
@@ -11480,9 +11482,7 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -11502,7 +11502,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -12447,7 +12449,9 @@
         "国外精选",
         "网站"
       ],
-      "type": []
+      "type": [],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
