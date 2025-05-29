@@ -2093,9 +2093,7 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "AI真人视频创作工具。"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -6525,7 +6523,9 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -6999,26 +6999,6 @@
       "needVerify": 7,
       "errmsg": "[error][200]<!DOCTYPE html>\n<html>\n<head>\n  <meta http-equiv=\"refresh\" content=\"2; url=https://jeanne-wang.github.io/jumpcutsmoothing/\">\n</head>\n</html>\n",
       "hide": 1
-    },
-    "https://www.fastcutai.co": {
-      "title": "FastCut",
-      "intro": "一键制作吸引眼球的视频短片",
-      "desc": "FastCut是一个视频制作平台,可以一键自动生成流行风格的视频短片。它内置了各种流行模板,支持自动添加字幕、关键词高亮、表情符号等功能,让用户无需编辑就可以制作出吸引眼球的视频。",
-      "lang": "en",
-      "tags": [
-        "视频制作",
-        "视频编辑",
-        "创作工具",
-        "短视频",
-        "视频",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 视频生成"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://ltx.studio": {
       "title": "LTX Studio",
@@ -10675,9 +10655,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://maken.it/spleetergui/": {
       "title": "SpleeterGUI",
@@ -11474,7 +11452,9 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -11494,7 +11474,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -12184,9 +12166,7 @@
       "desc": "人人皆导演，让视频创作变得轻松自如",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://new.imyai.top": {
       "title": "IMYAI智能助手",
@@ -12249,7 +12229,7 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.capybaradb.co"
     },
     "https://x.ai": {
