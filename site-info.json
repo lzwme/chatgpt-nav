@@ -256,7 +256,7 @@
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://yiyan.baidu.com": {
@@ -1782,7 +1782,9 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://img.logosc.cn": {
       "type": [
@@ -2096,7 +2098,7 @@
       ],
       "title": "D-ID",
       "desc": "AI真人视频创作工具。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.guiji.ai": {
@@ -2801,7 +2803,9 @@
         "AI 写作助手"
       ],
       "title": "爱创作",
-      "desc": "一键生成文章、营销文本、配图与短视频等多类型内容"
+      "desc": "一键生成文章、营销文本、配图与短视频等多类型内容",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://openai.com/sora": {
       "type": [
@@ -3229,7 +3233,7 @@
       ],
       "title": "Theculturedao",
       "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://ludo.ai": {
@@ -6530,7 +6534,7 @@
         "AI 搜索引擎",
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
@@ -8080,7 +8084,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -10231,7 +10237,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
@@ -11419,7 +11425,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -12233,7 +12241,7 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.capybaradb.co"
     },
     "https://x.ai": {
@@ -12428,7 +12436,7 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://jina.ai/deepsearch/": {
@@ -12653,7 +12661,7 @@
         "AI 文档办公"
       ],
       "lang": "en",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.inceptionlabs.ai/news": {
@@ -12957,9 +12965,7 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ppinfra.com/user/": {
       "type": [
