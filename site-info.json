@@ -255,9 +255,7 @@
       "title": "Kimi.ai",
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://yiyan.baidu.com": {
       "type": [
@@ -2013,7 +2011,9 @@
         "AI 语音生成"
       ],
       "title": "讯飞智作",
-      "desc": "讯飞智作是一站式配音平台，可以提供AI文字转语音、语音合成、智能配音、AI虚拟主播等工具。"
+      "desc": "讯飞智作是一站式配音平台，可以提供AI文字转语音、语音合成、智能配音、AI虚拟主播等工具。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.moyin.com": {
       "type": [
@@ -2223,9 +2223,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2549,9 +2547,7 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "多功能的AI图片处理工具箱"
     },
     "https://insightface.ai": {
       "type": [
@@ -3230,9 +3226,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -6532,7 +6526,7 @@
         "AI 搜索引擎",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
@@ -6948,7 +6942,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -7676,7 +7672,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -9107,9 +9103,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chatlify.me": {
       "title": "Chatlify",
@@ -11107,7 +11101,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][530]<none>"
     },
     "https://www.photomagic.cn": {
       "title": "PhotoMagic",
@@ -12063,9 +12059,7 @@
       "type": [
         "AI 文档办公",
         "AI 开源工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://tuan.chinaz.com/goods_detail/3751": {
       "title": "站长之家数字人系统V3",
@@ -12435,8 +12429,8 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 2,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12659,9 +12653,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "lang": "en"
     },
     "https://www.inceptionlabs.ai/news": {
       "title": "Mercury Coder",
