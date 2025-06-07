@@ -1347,9 +1347,7 @@
         "AI 写作助手"
       ],
       "title": "秘塔写作猫",
-      "desc": "写作猫是新一代交互式中英文写作辅助平台，集智能文本纠错、改写润色、自动续写、智能配图为一体。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "写作猫是新一代交互式中英文写作辅助平台，集智能文本纠错、改写润色、自动续写、智能配图为一体。"
     },
     "https://littlefrog.ai": {
       "type": [
@@ -1549,9 +1547,7 @@
         "AI 思维导图"
       ],
       "title": "GitMind思乎",
-      "desc": "GitMind是一款全平台在线思维导图脑图架构图制作软件工具，支持手机手机思维导图，Windows/Mac多平台操作及内容同步。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "GitMind是一款全平台在线思维导图脑图架构图制作软件工具，支持手机手机思维导图，Windows/Mac多平台操作及内容同步。"
     },
     "https://www.deepl.com/translator": {
       "type": [
@@ -2097,7 +2093,9 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。"
+      "desc": "AI真人视频创作工具。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -2225,7 +2223,9 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中"
+      "desc": "国内自研的AI作画系统！内测中",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2426,9 +2426,7 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词",
-      "needVerify": 1,
-      "errmsg": "[error][200]<html>\n\t<head>\n\t\t<script>\n\t\t\tvar forwardingUrl = \"/page/bouncy.php?&bpae=GbhWdq0molx7j3N1PAun9P8r%2FXOPd34nwjXzQOLpskfBPs5jq18POkI1fOWttu9TpSXNiYvNbpHx0W7w3ewLsvO9ay5aCk0Il65oJe3T3f%2FppL%"
+      "desc": "有趣ChatGPT提示词"
     },
     "https://catjourney.life": {
       "type": [
@@ -2746,9 +2744,7 @@
         "AI 写作助手"
       ],
       "title": "秘塔写作猫",
-      "desc": "基于GPT的中文写作工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "基于GPT的中文写作工具"
     },
     "https://www.editgpt.app": {
       "type": [
@@ -2843,7 +2839,9 @@
         "AI 绘图"
       ],
       "title": "Genmo",
-      "desc": "更具创造性！使用文本指令编辑图像和视频"
+      "desc": "更具创造性！使用文本指令编辑图像和视频",
+      "needVerify": 1,
+      "errmsg": "[error][429]Too Many Requests"
     },
     "https://www.capcut.cn": {
       "type": [
@@ -3348,7 +3346,9 @@
       "desc": "「印象笔记」X「印象AI」会创作的第二大脑",
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.edrawsoft.cn/mindmaster": {
       "title": "亿图脑图",
@@ -3783,7 +3783,9 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -6947,7 +6949,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://dashtoon.com": {
@@ -8083,7 +8085,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -10498,9 +10500,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.singduck.cn": {
       "title": "唱鸭",
@@ -11266,7 +11266,9 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -11484,7 +11486,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -12432,9 +12436,7 @@
         "国外精选",
         "网站"
       ],
-      "type": [],
-      "needVerify": 3,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "type": []
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
