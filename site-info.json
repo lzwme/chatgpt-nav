@@ -255,9 +255,7 @@
       "title": "Kimi.ai",
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://yiyan.baidu.com": {
       "type": [
@@ -1272,7 +1270,9 @@
         "AI 聊天对话"
       ],
       "title": "Jasper AI",
-      "desc": "AI文字内容创作工具。"
+      "desc": "AI文字内容创作工具。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://writesonic.com": {
       "type": [
@@ -1767,7 +1767,9 @@
         "AI 绘图"
       ],
       "title": "无限画",
-      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。"
+      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.ishencai.com": {
       "type": [
@@ -2095,7 +2097,9 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。"
+      "desc": "AI真人视频创作工具。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -2224,7 +2228,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -3025,7 +3029,9 @@
         "AI 文档办公"
       ],
       "title": "Taskade",
-      "desc": "高颜值AI大纲和思维导图生成，统一您的工作流程"
+      "desc": "高颜值AI大纲和思维导图生成，统一您的工作流程",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://rossum.ai": {
       "type": [
@@ -3228,9 +3234,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -4042,7 +4046,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND upscales.ai"
     },
     "https://ai.nero.com/enhance": {
@@ -6531,9 +6535,7 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -6949,7 +6951,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][404]Not Found"
     },
     "https://dashtoon.com": {
@@ -7677,7 +7679,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -8372,9 +8376,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.52cv.com": {
       "title": "职徒简历",
@@ -10236,9 +10238,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -11691,9 +11691,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][503]Service Unavailable"
+      ]
     },
     "https://www.creatifyone.com": {
       "title": "创一AI",
@@ -12436,9 +12434,7 @@
         "国外精选",
         "网站"
       ],
-      "type": [],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "type": []
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12661,9 +12657,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "lang": "en"
     },
     "https://www.inceptionlabs.ai/news": {
       "title": "Mercury Coder",
@@ -12966,9 +12960,7 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ppinfra.com/user/": {
       "type": [
