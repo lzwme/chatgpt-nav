@@ -1270,9 +1270,7 @@
         "AI 聊天对话"
       ],
       "title": "Jasper AI",
-      "desc": "AI文字内容创作工具。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI文字内容创作工具。"
     },
     "https://writesonic.com": {
       "type": [
@@ -1377,7 +1375,9 @@
         "AI 写作助手"
       ],
       "title": "笔灵AI",
-      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。"
+      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://effidit.qq.com": {
       "type": [
@@ -1767,9 +1767,7 @@
         "AI 绘图"
       ],
       "title": "无限画",
-      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。"
     },
     "https://www.ishencai.com": {
       "type": [
@@ -2097,9 +2095,7 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "AI真人视频创作工具。"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -2228,7 +2224,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -2888,7 +2884,9 @@
         "AI 视频生成"
       ],
       "title": "Clipchamp",
-      "desc": "将文本转为视频旁白！几分钟即可创建导出视频"
+      "desc": "将文本转为视频旁白！几分钟即可创建导出视频",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://ttsmaker.cn": {
       "type": [
@@ -3029,9 +3027,7 @@
         "AI 文档办公"
       ],
       "title": "Taskade",
-      "desc": "高颜值AI大纲和思维导图生成，统一您的工作流程",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "高颜值AI大纲和思维导图生成，统一您的工作流程"
     },
     "https://rossum.ai": {
       "type": [
@@ -4046,7 +4042,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND upscales.ai"
     },
     "https://ai.nero.com/enhance": {
@@ -4674,7 +4670,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "http://removewatermark.ai": {
       "title": "WatermarkRemoverAI",
@@ -4772,7 +4770,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://turbologo.com/logo-maker/templates/artificial-intelligence": {
       "title": "Artificial Intelligence Logo Maker",
@@ -6535,7 +6535,9 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -6934,25 +6936,6 @@
         "AI 绘图",
         "AI 视频生成"
       ]
-    },
-    "https://www.chuangzuomao.cn": {
-      "title": "创作猫",
-      "intro": "致力于为短视频创作者提供一站式解决方案",
-      "desc": "创作猫平台致力于为短视频创作者提供从创作到变现全流程的一站式解决方案。提供丰富的模板、素材、课程、工具等资源,帮助用户轻松创作优质短视频。同时,平台内置大量变现任务,用户可以通过推广任务进行变现。创作猫采用开放的小程序能力,构建了丰富的生态,覆盖用户各种使用场景。平台还采用创作者内容分成的方式,不断供给优质内容,形成闭环。整体而言,创作猫提供内容丰富、功能全面、易于上手的短视频创作与变现解决方案。",
-      "lang": "zh",
-      "tags": [
-        "短视频",
-        "创作",
-        "变现",
-        "视频",
-        "中文精选",
-        "网站"
-      ],
-      "type": [
-        "AI 视频生成"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -7680,7 +7663,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -8088,7 +8071,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -9092,7 +9077,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -11466,7 +11453,9 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -12434,7 +12423,9 @@
         "国外精选",
         "网站"
       ],
-      "type": []
+      "type": [],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12960,7 +12951,9 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ppinfra.com/user/": {
       "type": [
