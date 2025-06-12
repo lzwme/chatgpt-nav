@@ -255,7 +255,9 @@
       "title": "Kimi.ai",
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://yiyan.baidu.com": {
       "type": [
@@ -1375,9 +1377,7 @@
         "AI 写作助手"
       ],
       "title": "笔灵AI",
-      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。"
     },
     "https://effidit.qq.com": {
       "type": [
@@ -2029,7 +2029,9 @@
         "AI 视频生成"
       ],
       "title": "Mubert",
-      "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。"
+      "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。",
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://play.ht": {
       "type": [
@@ -2095,7 +2097,9 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。"
+      "desc": "AI真人视频创作工具。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -2224,7 +2228,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -2885,7 +2889,7 @@
       ],
       "title": "Clipchamp",
       "desc": "将文本转为视频旁白！几分钟即可创建导出视频",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://ttsmaker.cn": {
@@ -3230,7 +3234,9 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ludo.ai": {
       "type": [
@@ -4042,7 +4048,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND upscales.ai"
     },
     "https://ai.nero.com/enhance": {
@@ -4670,9 +4676,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "http://removewatermark.ai": {
       "title": "WatermarkRemoverAI",
@@ -4770,9 +4774,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://turbologo.com/logo-maker/templates/artificial-intelligence": {
       "title": "Artificial Intelligence Logo Maker",
@@ -5507,7 +5509,9 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.bilingwriting.com": {
       "title": "笔灵 AI 写作",
@@ -6535,9 +6539,7 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -7491,7 +7493,9 @@
       "type": [
         "AI 文档办公",
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][503]Service Unavailable"
     },
     "https://www.mindshow.fun": {
       "title": "MindShow",
@@ -7663,7 +7667,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -8072,7 +8076,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -8863,7 +8867,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://weiban.qq.com": {
       "title": "未伴",
@@ -9077,9 +9083,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -9740,7 +9744,9 @@
       "type": [
         "AI 聊天对话",
         "AI 角色生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][503]Service Unavailable"
     },
     "https://pi.ai": {
       "title": "Pi",
@@ -11272,7 +11278,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://weta365.com/conduct": {
       "title": "奇妙元",
@@ -11454,7 +11462,7 @@
         "AI 聊天对话",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
@@ -12424,8 +12432,8 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 2,
+      "errmsg": "[error][-1]timeout"
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12648,7 +12656,9 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en"
+      "lang": "en",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.inceptionlabs.ai/news": {
       "title": "Mercury Coder",
@@ -12952,7 +12962,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://ppinfra.com/user/": {
