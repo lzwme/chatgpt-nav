@@ -255,9 +255,7 @@
       "title": "Kimi.ai",
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://yiyan.baidu.com": {
       "type": [
@@ -2029,9 +2027,7 @@
         "AI 视频生成"
       ],
       "title": "Mubert",
-      "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。",
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。"
     },
     "https://play.ht": {
       "type": [
@@ -2097,9 +2093,7 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "AI真人视频创作工具。"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -2227,9 +2221,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2889,7 +2881,7 @@
       ],
       "title": "Clipchamp",
       "desc": "将文本转为视频旁白！几分钟即可创建导出视频",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://ttsmaker.cn": {
@@ -3124,7 +3116,9 @@
       ],
       "icon": "https://fanyi.xfyun.cn/assets/logo.0cb48385.svg",
       "title": "讯飞智能翻译",
-      "desc": "科大讯飞推出的人工智能翻译平台"
+      "desc": "科大讯飞推出的人工智能翻译平台",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fanyi.caiyunapp.com": {
       "type": [
@@ -3234,9 +3228,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -4048,7 +4040,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND upscales.ai"
     },
     "https://ai.nero.com/enhance": {
@@ -4676,7 +4668,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "http://removewatermark.ai": {
       "title": "WatermarkRemoverAI",
@@ -5509,9 +5503,7 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.bilingwriting.com": {
       "title": "笔灵 AI 写作",
@@ -6539,7 +6531,9 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -7493,9 +7487,7 @@
       "type": [
         "AI 文档办公",
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][503]Service Unavailable"
+      ]
     },
     "https://www.mindshow.fun": {
       "title": "MindShow",
@@ -7667,7 +7659,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -8075,9 +8067,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8867,9 +8857,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://weiban.qq.com": {
       "title": "未伴",
@@ -9420,7 +9408,9 @@
       "type": [
         "AI 语音生成",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://github.com/lrhh123/ChatGPT-On-CS": {
       "title": "ChatGPT-On-CS",
@@ -9640,7 +9630,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]write EPROTO 400CEBDBE17F0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 40\n"
     },
     "https://www.chatplayground.ai": {
       "title": "ChatPlayground AI",
@@ -9744,9 +9736,7 @@
       "type": [
         "AI 聊天对话",
         "AI 角色生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][503]Service Unavailable"
+      ]
     },
     "https://pi.ai": {
       "title": "Pi",
@@ -11278,9 +11268,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://weta365.com/conduct": {
       "title": "奇妙元",
@@ -11461,9 +11449,7 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -12432,8 +12418,8 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 3,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12656,9 +12642,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "lang": "en"
     },
     "https://www.inceptionlabs.ai/news": {
       "title": "Mercury Coder",
@@ -12962,7 +12946,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://ppinfra.com/user/": {
