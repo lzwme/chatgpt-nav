@@ -255,9 +255,7 @@
       "title": "Kimi.ai",
       "tags": [
         "大厂合集(精选大厂热门AI产品)"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://yiyan.baidu.com": {
       "type": [
@@ -647,9 +645,7 @@
       "source": "recommend",
       "needLogin": 1,
       "desc": "Best AI Content Writer",
-      "title": "ChattyAid",
-      "needVerify": 3,
-      "errmsg": "[error][200]<br />\n<b>Fatal error</b>:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /www/wwwroot/chattyaid.com/includes/lib/idiorm.php:365\nStack trace:\n#0 /www/wwwroot/c"
+      "title": "ChattyAid"
     },
     "https://home.v50.ltd": {
       "star": 2,
@@ -1551,7 +1547,9 @@
         "AI 思维导图"
       ],
       "title": "GitMind思乎",
-      "desc": "GitMind是一款全平台在线思维导图脑图架构图制作软件工具，支持手机手机思维导图，Windows/Mac多平台操作及内容同步。"
+      "desc": "GitMind是一款全平台在线思维导图脑图架构图制作软件工具，支持手机手机思维导图，Windows/Mac多平台操作及内容同步。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.deepl.com/translator": {
       "type": [
@@ -2097,9 +2095,7 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。",
-      "needVerify": 4,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "AI真人视频创作工具。"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -3233,9 +3229,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -4243,7 +4237,9 @@
         "AI 图像处理",
         "AI 电商工具",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.picwish.com": {
       "title": "PicWish",
@@ -6537,9 +6533,7 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -7665,7 +7659,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -8073,9 +8067,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -9079,9 +9071,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -10228,7 +10218,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
@@ -11457,7 +11447,9 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -12425,9 +12417,7 @@
         "国外精选",
         "网站"
       ],
-      "type": [],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "type": []
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12650,9 +12640,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "lang": "en"
     },
     "https://www.inceptionlabs.ai/news": {
       "title": "Mercury Coder",
