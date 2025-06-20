@@ -1547,9 +1547,7 @@
         "AI 思维导图"
       ],
       "title": "GitMind思乎",
-      "desc": "GitMind是一款全平台在线思维导图脑图架构图制作软件工具，支持手机手机思维导图，Windows/Mac多平台操作及内容同步。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "GitMind是一款全平台在线思维导图脑图架构图制作软件工具，支持手机手机思维导图，Windows/Mac多平台操作及内容同步。"
     },
     "https://www.deepl.com/translator": {
       "type": [
@@ -2223,7 +2221,9 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中"
+      "desc": "国内自研的AI作画系统！内测中",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2424,7 +2424,9 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词"
+      "desc": "有趣ChatGPT提示词",
+      "needVerify": 1,
+      "errmsg": "[error][200]<html>\n\t<head>\n\t\t<script>\n\t\t\tvar forwardingUrl = \"/page/bouncy.php?&bpae=GbhGsr%2Fm4lR7NptPqTMp%2Fgwg23I4a142O383igm1xjJHPjV9qnyQIv590RTYlMx2mkL5CGbEtiwULalxeqHr3u%2BB5W7A8bs7jVVf%2BNd%2Bp"
     },
     "https://catjourney.life": {
       "type": [
@@ -4237,9 +4239,7 @@
         "AI 图像处理",
         "AI 电商工具",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.picwish.com": {
       "title": "PicWish",
@@ -7658,9 +7658,7 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -10217,9 +10215,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -11447,9 +11443,7 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
