@@ -1215,9 +1215,7 @@
         "AI 行业工具"
       ],
       "title": "Tipranks",
-      "desc": "【金融】",
-      "needVerify": 1,
-      "errmsg": "[error][471]HTTP_471"
+      "desc": "【金融】"
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
       "type": [
@@ -1767,9 +1765,7 @@
         "AI 绘图"
       ],
       "title": "无限画",
-      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。"
     },
     "https://www.ishencai.com": {
       "type": [
@@ -2097,9 +2093,7 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。",
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "AI真人视频创作工具。"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -2227,9 +2221,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -3235,7 +3227,9 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ludo.ai": {
       "type": [
@@ -3762,7 +3756,9 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://toolfolio.io": {
       "title": "Toolfolio",
@@ -3786,7 +3782,9 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -6537,7 +6535,9 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -8069,9 +8069,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -11450,7 +11448,7 @@
         "AI 聊天对话",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
@@ -12420,8 +12418,8 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 3,
+      "errmsg": "[error][-1]timeout"
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12644,7 +12642,9 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en"
+      "lang": "en",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.inceptionlabs.ai/news": {
       "title": "Mercury Coder",
