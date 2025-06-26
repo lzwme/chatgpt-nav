@@ -2093,7 +2093,9 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。"
+      "desc": "AI真人视频创作工具。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -2221,7 +2223,9 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中"
+      "desc": "国内自研的AI作画系统！内测中",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -3031,9 +3035,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3229,9 +3231,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -3676,9 +3676,7 @@
       "type": [
         "AI 视频生成",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://skybox.blockadelabs.com": {
       "title": "Text to Skybox",
@@ -3761,7 +3759,7 @@
         "AI 综合工具",
         "AI 国外工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][404]Not Found"
     },
     "https://toolfolio.io": {
@@ -3786,7 +3784,9 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -8070,7 +8070,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -9218,7 +9218,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://sermoai.net": {
       "title": "SermoAI",
@@ -10221,7 +10223,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -11450,7 +11454,7 @@
         "AI 聊天对话",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
@@ -12420,8 +12424,8 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12644,9 +12648,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en",
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "lang": "en"
     },
     "https://www.inceptionlabs.ai/news": {
       "title": "Mercury Coder",
