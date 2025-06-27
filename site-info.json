@@ -2093,9 +2093,7 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "AI真人视频创作工具。"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -2223,9 +2221,7 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "国内自研的AI作画系统！内测中"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -3231,7 +3227,9 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ludo.ai": {
       "type": [
@@ -3759,7 +3757,7 @@
         "AI 综合工具",
         "AI 国外工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://toolfolio.io": {
@@ -3784,9 +3782,7 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -8070,7 +8066,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -9075,7 +9071,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -9218,9 +9216,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://sermoai.net": {
       "title": "SermoAI",
@@ -10224,7 +10220,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
@@ -10505,7 +10501,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://github.com/RVC-Boss/GPT-SoVITS": {
       "title": "GPT-SoVITS",
@@ -11372,7 +11370,9 @@
       ],
       "type": [
         "AI 数字人"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.chanjing.cc": {
       "title": "蝉镜",
@@ -11454,7 +11454,7 @@
         "AI 聊天对话",
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
@@ -12424,8 +12424,9 @@
         "网站"
       ],
       "type": [],
-      "needVerify": 6,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12648,7 +12649,9 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en"
+      "lang": "en",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.inceptionlabs.ai/news": {
       "title": "Mercury Coder",
