@@ -2222,7 +2222,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -2597,7 +2597,9 @@
         "AI 图像处理"
       ],
       "title": "Digram",
-      "desc": "让Figma更好用的AI神器"
+      "desc": "让Figma更好用的AI神器",
+      "needVerify": 1,
+      "errmsg": "[error][-1]write EPROTO 403CB17A647F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
     },
     "https://appicons.ai": {
       "type": [
@@ -3772,9 +3774,7 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -4254,9 +4254,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][521]HTTP_521"
+      ]
     },
     "https://arc.tencent.com/zh/ai-demos/humansegmentation": {
       "title": "腾讯ARC官网",
@@ -6527,7 +6525,9 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -7653,7 +7653,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -8061,7 +8061,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8367,9 +8369,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]connect ECONNREFUSED 127.0.0.1:443"
+      ]
     },
     "https://www.wondercv.com": {
       "title": "超级简历",
@@ -10213,9 +10213,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -12103,9 +12101,7 @@
       "desc": "【教育】字节旗下基于AI的教育平台，河马爱学拥有行业领先的技术团队，通过构建基于学习行为的推荐模型，评测学生能力并实时跟踪“掌握度”变化，个性化推荐学习内容，帮助老师精准教学，帮助学生自适应学习。",
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      ]
     },
     "https://www.figma.com/community/widget/1274481464484630971/jambot": {
       "title": "Jambot",
