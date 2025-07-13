@@ -2221,7 +2221,9 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中"
+      "desc": "国内自研的AI作画系统！内测中",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2495,7 +2497,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2596,8 +2600,8 @@
       ],
       "title": "Digram",
       "desc": "让Figma更好用的AI神器",
-      "needVerify": 4,
-      "errmsg": "[error][-1]write EPROTO 40CC11D3A27F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
+      "needVerify": 5,
+      "errmsg": "[error][-1]write EPROTO 407CA9EAA97F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
     },
     "https://appicons.ai": {
       "type": [
@@ -3229,9 +3233,7 @@
         "AI 编程开发"
       ],
       "title": "Theculturedao",
-      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "desc": "技术优势！快速打造 AI的迪士尼漫画、游戏、电影和 Gepetto"
     },
     "https://ludo.ai": {
       "type": [
@@ -3774,9 +3776,7 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -5104,7 +5104,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][503]Service Unavailable"
     },
     "http://leonardo.ai": {
       "title": "LeonardoAI",
@@ -6528,7 +6530,7 @@
         "AI 搜索引擎",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
@@ -7206,7 +7208,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -7654,9 +7658,7 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -8063,9 +8065,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -9069,7 +9069,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]socket hang up"
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -9088,7 +9090,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatlify.me": {
       "title": "Chatlify",
@@ -10215,7 +10219,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -11443,9 +11449,7 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -11653,7 +11657,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.yishijuan.com"
     },
     "https://answerai.pro": {
@@ -12641,9 +12645,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "lang": "en",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "lang": "en"
     },
     "https://www.inceptionlabs.ai/news": {
       "title": "Mercury Coder",
