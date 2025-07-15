@@ -26,7 +26,7 @@ export function siteUrlVerify() {
     const startTime = Date.now();
     const r = await httpLinkChecker(url, {
       verify: body => /<body/i.test(body) || /<\/body>/i.test(body),
-      reqOptions: { timeout: 10_000, rejectUnauthorized: false },
+      reqOptions: { timeout: 10_000, rejectUnauthorized: false, referer: new URL(url).origin },
     });
 
     if (r.code) {

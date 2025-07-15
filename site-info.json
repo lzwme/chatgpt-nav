@@ -237,7 +237,7 @@
         "字节跳动",
         "API"
       ],
-      "icon": "https://api.ekumao.com/api/favicon?url=https://volcengine.com",
+      "icon": "https://portal.volccdn.com/obj/volcfe/misc/favicon.png",
       "title": "火山方舟-极速体验模型",
       "star": 3,
       "sort": -86,
@@ -647,16 +647,6 @@
       "desc": "Best AI Content Writer",
       "title": "ChattyAid"
     },
-    "https://home.v50.ltd": {
-      "star": 2,
-      "needLogin": 1,
-      "source": "recommend",
-      "title": "T-CHAT",
-      "desc": "免费的AI画图",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
     "https://gpt.nowait.xin/chat": {
       "star": 2,
       "needLogin": 1,
@@ -711,13 +701,6 @@
     "https://weeklyreport.avemaria.fun": {
       "desc": "周报生成器。仅于周一、五、六、日免费使用，其余时间自备 OpenAI API Key",
       "needKey": 1
-    },
-    "https://www.meout.app/lander": {
-      "desc": "Find your next outing in seconds",
-      "title": "Meout - Find your outing",
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.meout.app",
-      "hide": 1
     },
     "http://itecheasy.com.cn": {
       "needVPN": 1,
@@ -797,8 +780,6 @@
     "https://puaai.net": {
       "title": "Ymiai",
       "desc": "快捷、高效的人工智能创作平台",
-      "needVerify": 7,
-      "errmsg": "[error][-1]read ECONNRESET",
       "hide": 1
     },
     "https://www.doubao.com/chat/": {
@@ -817,6 +798,7 @@
         "AI 聊天对话",
         "国产大模型"
       ],
+      "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
       "title": "扣子",
       "desc": "Coze中文版，字节旗下一款用来开发新一代 AI ChatBot的应用编辑平台",
       "star": 3,
@@ -901,9 +883,9 @@
       "star": 3,
       "title": "Anthropic",
       "desc": "Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。",
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVPN": 1,
+      "lang": "en",
+      "needVerify": -1
     },
     "https://bard.google.com": {
       "type": [
@@ -1639,9 +1621,7 @@
       "title": "Bolt",
       "lang": "en",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
+      "needVerify": -1
     },
     "https://webflow.com": {
       "type": [
@@ -2239,16 +2219,6 @@
         "网站"
       ]
     },
-    "https://www.esheep.com": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "eSheep",
-      "desc": "国内知名的AIGC在线画图网站，提供海量模型，并支持在线AI画图",
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.esheep.com",
-      "hide": 1
-    },
     "https://www.wujieai.com": {
       "type": [
         "AI 绘图"
@@ -2336,10 +2306,7 @@
       ],
       "title": "Midlibrary",
       "lang": "en",
-      "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "desc": "风格多样！实用超2000+MJ提示词资源"
     },
     "https://promptbase.com": {
       "type": [
@@ -2374,17 +2341,6 @@
       ],
       "title": "PromptoMania",
       "desc": "MJ和SD提示词生成器"
-    },
-    "https://www.clickprompt.org/zh-CN": {
-      "type": [
-        "AI 提示词",
-        "AI 图像处理"
-      ],
-      "title": "ClickPrompt",
-      "desc": "一款专为 Prompt 编写者设计的工具",
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.clickprompt.org",
-      "hide": 1
     },
     "https://lib.kalos.art": {
       "type": [
@@ -2730,13 +2686,6 @@
       "desc": "AI写作神器！比你想得更多！写得更快",
       "star": 3
     },
-    "https://www.writingo.net/home": {
-      "type": [
-        "AI 写作助手"
-      ],
-      "title": "火山写作",
-      "desc": "字节的AI英语写作工具，高效提升英文表达"
-    },
     "https://www.xiezuocat.com": {
       "type": [
         "AI 写作助手"
@@ -2918,17 +2867,6 @@
       ],
       "title": "Sloyd",
       "desc": "快速生成3D游戏资产"
-    },
-    "https://www.plasmo.ai": {
-      "type": [
-        "AI 绘图",
-        "AI 图像处理"
-      ],
-      "title": "Plasmo",
-      "desc": "将草图转为3D模型",
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.plasmo.ai",
-      "hide": 1
     },
     "https://cascadeur.com": {
       "type": [
@@ -4014,27 +3952,6 @@
       ],
       "needVerify": 7,
       "errmsg": "[error][403]Forbidden",
-      "hide": 1
-    },
-    "https://upscales.ai": {
-      "title": "upscales.ai",
-      "intro": "AI图像放大器，提高图像质量",
-      "desc": "AI图像放大器利用数百万张图像进行训练，自动提高图像质量，使您的照片在几分钟内变得专业级！功能包括：图像放大，细节精炼，颜色增强等。优势是简单易用，快速高效。定价请参考官方网站。定位为满足个人、专业摄影师的图像处理需求。",
-      "lang": "en",
-      "tags": [
-        "图像处理",
-        "图像放大",
-        "AI技术",
-        "图像",
-        "国外精选",
-        "网站"
-      ],
-      "type": [
-        "AI 图像处理",
-        "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND upscales.ai",
       "hide": 1
     },
     "https://ai.nero.com/enhance": {
@@ -5146,29 +5063,6 @@
       ],
       "needVerify": -1
     },
-    "https://tusi.art": {
-      "title": "吐司 Tusi.Art",
-      "intro": "在线生图的 AI 模型分享社区",
-      "desc": "吐司 Tusi.Art 是一个在线生图的 AI 模型分享社区，用户可以在这里分享和使用 AI 模型进行图像创作。该平台提供免费的在线生图服务，用户可以上传自己的模型或者使用其他人分享的模型进行图像生成。通过吐司 Tusi.Art，用户可以轻松创建出独特、有趣的图像作品。",
-      "lang": "zh",
-      "tags": [
-        "AI",
-        "图像生成",
-        "创作",
-        "模型",
-        "分享",
-        "图像",
-        "中文精选",
-        "生产力",
-        "网站"
-      ],
-      "type": [
-        "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND tusi.art",
-      "hide": 1
-    },
     "https://www.xiaochuanai.com/youchuan/": {
       "title": "悠船",
       "intro": "让创意更简单、更高效",
@@ -5497,28 +5391,6 @@
         "AI 搜索引擎"
       ]
     },
-    "https://www.bilingwriting.com": {
-      "title": "笔灵 AI 写作",
-      "intro": "专业的 AI 论文写作助手，节省时间和精力。",
-      "desc": "笔灵 AI 写作是一款专业的 AI 论文写作助手，通过人工智能技术帮助用户撰写高质量的论文。其主要优点包括快速生成论文大纲、节省写作时间、提供各类论文模板和服务。产品定位于提高论文写作效率和质量，适用于学生、研究人员等写作需求。",
-      "lang": "zh",
-      "tags": [
-        "学术",
-        "人工智能",
-        "高效写作",
-        "写作",
-        "普通产品",
-        "生产力",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手",
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.bilingwriting.com",
-      "hide": 1
-    },
     "https://copyleaks.com": {
       "title": "Copyleaks",
       "intro": "AI内容检测",
@@ -5669,27 +5541,6 @@
         "AI 写作助手"
       ]
     },
-    "https://www.contentscale.ai": {
-      "title": "contentatscale",
-      "intro": "使用我们的免费 AI 检测器，AI 检查器和 ChatGPT 检测器。",
-      "desc": "AI 内容检测器拥有惊人的 98% 准确率，可区分人类与来自 ChatGPT、GPT4、Bard、Claude 和 Gemini 等 AI 生成的内容。它在搜索引擎排名、学术评分和读者感知方面具有重要影响。",
-      "lang": "zh",
-      "tags": [
-        "文本检测",
-        "AI 技术",
-        "人工智能",
-        "写作工具",
-        "写作",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.contentscale.ai",
-      "hide": 1
-    },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
       "intro": "您一直期待的非评判性、永不枯竭创意的AI写作伙伴",
@@ -5745,28 +5596,6 @@
         "AI 写作助手"
       ]
     },
-    "https://writersdesk.ai": {
-      "title": "星火网文助手",
-      "intro": "一站式 AI 创作平台，助你轻松创作小说。",
-      "desc": "星火网文助手是一款 AI 创作辅助工具，提供创作灵感、润色续写等功能，帮助作家更高效地写作。背靠强大的 AI 技术支持，定位于提升小说写作体验，提高作品质量。",
-      "lang": "zh",
-      "tags": [
-        "创作辅助",
-        "小说写作",
-        "人工智能",
-        "灵感启发",
-        "写作",
-        "普通产品",
-        "生产力",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND writersdesk.ai",
-      "hide": 1
-    },
     "https://www.ximalaya.com/gatekeeper/write-wise-web": {
       "title": "WriteWise",
       "intro": "写作助手，提升写作效率",
@@ -5801,27 +5630,6 @@
       "type": [
         "AI 写作助手"
       ]
-    },
-    "https://www.wawawriter.com": {
-      "title": "蛙蛙写作",
-      "intro": "AI 免费写小说神器",
-      "desc": "蛙蛙写作是一款 AI 小说写作工具，作者可以使用 AI 工具来写小说，想剧情，AI 润色文风，AI 生成角色地名，AI 续写全文等，蛙蛙写作将帮助作者提高写作效率，更快更好完成一篇高质量小说。",
-      "lang": "zh",
-      "tags": [
-        "AI 写作",
-        "小说创作",
-        "文学工具",
-        "文案写作",
-        "写作",
-        "中文精选",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.wawawriter.com",
-      "hide": 1
     },
     "https://www.story.com": {
       "title": "Story.com",
@@ -6160,26 +5968,6 @@
       "type": [
         "AI 写作助手"
       ]
-    },
-    "https://www.bimogw.com": {
-      "title": "笔墨公文",
-      "intro": "领先的公文写作智能 AI 创作平台",
-      "desc": "笔墨公文是一款专注于公文写作的智能 AI 创作平台，提供全面的写作、校对、润色、资料库及模板服务。无论是公职人员、事业单位、国企人员、还是医院、学校等机构，笔墨公文都能帮助您高效完成述职报告、工作总结、心得体会、调研报告、年终总结等各类公文材料的创作。",
-      "lang": "zh",
-      "tags": [
-        "公文写作",
-        "智能 AI",
-        "创作平台",
-        "写作",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.bimogw.com",
-      "hide": 1
     },
     "https://www.hanlinmiaobi.com": {
       "title": "翰林妙笔",
@@ -6748,27 +6536,6 @@
       "type": [
         "AI 视频生成"
       ]
-    },
-    "https://www.yiyingshi.com": {
-      "title": "艺映 AI",
-      "intro": "释放每一帧的创造力和创新，免费 AI 视频生成平台。",
-      "desc": "艺映 AI 是一款专注人工智能视频领域的免费 AI 视频创作工具。它能够将文本、图片或视频转换为高质量 AI 视频，适用于多种场景，如抖音短视频、小说推文、AI 短片、AI 电影等制作。其主要优点在于提供多种视频生成方式，从文本到图片再到视频，满足用户多样化的创作需求。",
-      "lang": "zh",
-      "tags": [
-        "视频",
-        "AI",
-        "创作工具",
-        "文本转换",
-        "动态视频",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 视频生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.yiyingshi.com",
-      "hide": 1
     },
     "https://www.microsoft.com/en-us/research/project/vasa-1/": {
       "title": "VASA-1",
@@ -8259,28 +8026,6 @@
         "AI 文档办公"
       ]
     },
-    "https://www.airgram.io": {
-      "title": "Airgram",
-      "intro": "自动会议记录和摘要",
-      "desc": "Airgram是一款智能助手，可以自动记录、转录和摘要会议，提高工作效率。与Zoom、Google Meet、Teams和Webex完美配合使用。",
-      "lang": "en",
-      "tags": [
-        "会议记录",
-        "会议摘要",
-        "自动化",
-        "工作效率",
-        "生产力",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 会议助手",
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.airgram.io",
-      "hide": 1
-    },
     "https://zoomscape.ai": {
       "title": "Zoomscape AI",
       "intro": "用AI创建令人惊艳的Zoom背景",
@@ -8698,31 +8443,6 @@
         "AI 写作助手"
       ]
     },
-    "https://www.teamsmart.ai": {
-      "title": "TeamSmart AI",
-      "intro": "一键访问团队智能AI助手",
-      "desc": "TeamSmart AI是一个Chrome插件，通过一键访问团队智能AI助手，帮助用户提高工作效率。该插件提供了多种功能，包括内容摘要、代码生成、推文起草等，用户可以直接在浏览器中完成这些任务。TeamSmart AI还提供了25+个新的AI营销助手，用户可以根据自己的需求选择使用。",
-      "lang": "en",
-      "tags": [
-        "智能助手",
-        "工作效率",
-        "AI营销",
-        "内容摘要",
-        "代码生成",
-        "生产力",
-        "普通产品",
-        "桌面客户端"
-      ],
-      "type": [
-        "AI 编程开发",
-        "AI 综合工具",
-        "AI 行业工具",
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.teamsmart.ai",
-      "hide": 1
-    },
     "https://www.rewind.ai": {
       "title": "Rewind AI",
       "intro": "将您在Mac和iPhone上看到的一切都捕捉下来，并使用AI进行搜索",
@@ -8961,31 +8681,6 @@
         "AI 聊天对话"
       ]
     },
-    "https://ichuangnao.com/introduction": {
-      "title": "创脑",
-      "intro": "提供行业专家 / AI 写作 / 办公 / 绘画 / 数字员工等领域的 AI 机器人各类助手，是提升工作效率、生活便利的 AI 全能工具库。",
-      "desc": "创脑是国内知名 AI 机器人社区，用户可以免费使用各类 AI 机器人助手，包括行业专家、AI 写作、办公助手等，帮助提升工作效率和生活便利。",
-      "lang": "zh",
-      "tags": [
-        "AI 机器人",
-        "办公助手",
-        "知识变现",
-        "行业专家",
-        "创作写作",
-        "聊天",
-        "中文精选",
-        "网站"
-      ],
-      "type": [
-        "AI 文档办公",
-        "AI 行业工具",
-        "AI 写作助手",
-        "AI 聊天对话"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND ichuangnao.com",
-      "hide": 1
-    },
     "https://character.sensetime.com/character-wb/home": {
       "title": "商汤商量拟人大模型",
       "intro": "支持个性化角色创建与定制、知识库构建、长对话记忆、多人群聊等功能的商汤商量拟人大模型。",
@@ -9104,28 +8799,6 @@
       "type": [
         "AI 行业工具"
       ]
-    },
-    "https://www.servibot.io": {
-      "title": "ServiBot",
-      "intro": "人工智能聊天机器人",
-      "desc": "ServiBot是一个基于AI的智能聊天机器人,可以帮助企业快速接入聊天机器人,提高用户体验和转化率。它具有易于集成、可高度自定义、智能对话等功能。企业可以通过ServiBot提升客户服务质量,同时获得用户行为数据分析。它既可以作为独立的聊天机器人使用,也可以集成在网站、APP等中。ServiBot可以帮助企业节省客服成本,提高工作效率。",
-      "lang": "en",
-      "tags": [
-        "AI",
-        "聊天机器人",
-        "智能客服",
-        "用户体验",
-        "商业",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 聊天对话",
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.servibot.io",
-      "hide": 1
     },
     "https://dialoggpt.io/home": {
       "title": "DialogGPT",
@@ -9775,6 +9448,7 @@
       "intro": "AI聊天机器人构建平台",
       "desc": "Coze是一款下一代AI聊天机器人构建平台，能够快速创建、调试和优化AI聊天机器人应用程序。用户可以在不编写代码的情况下快速创建机器人，并将其发布到各种平台上。Coze还提供了丰富的插件，可以扩展机器人的能力，让机器人与数据互动，将想法转化为机器人技能，装备机器人长期记忆，并允许机器人启动对话。",
       "lang": "en",
+      "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
       "tags": [
         "AI",
         "聊天机器人",
@@ -9927,30 +9601,6 @@
       ],
       "needVerify": 7,
       "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
-    "https://botvip.cn": {
-      "title": "AI对话鸭",
-      "intro": "一键发起AI机器人对话，集成多款国产大模型。",
-      "desc": "AI对话鸭是一个领先的AI聊天对话平台，它集成了多款国产大模型，提供了丰富的对话场景和功能，满足不同用户的需求。该平台以其高效的对话生成能力和多样的应用场景，在提高工作效率和娱乐互动方面具有显著优势。",
-      "lang": "zh",
-      "tags": [
-        "AI聊天",
-        "文案生成",
-        "教育辅助",
-        "营销工具",
-        "编程辅助",
-        "聊天",
-        "中文精选",
-        "网站"
-      ],
-      "type": [
-        "AI 聊天对话",
-        "AI 编程开发",
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND botvip.cn",
       "hide": 1
     },
     "https://taichu-web.ia.ac.cn": {
@@ -10736,27 +10386,6 @@
         "AI 写作助手",
         "AI 行业工具"
       ]
-    },
-    "https://icihun.com": {
-      "title": "词魂",
-      "intro": "AI 提示词工具，提升工作效率",
-      "desc": "词魂是一款提供 AI 提示词（promt）和咒语服务的工具，用户可以在这里快速找到各类高质量提示词和咒语，帮助 AI 绘画、midjourney、stable diffusion 等工具用户提升工作效率。定位于提供优质的提示词服务。",
-      "lang": "zh",
-      "tags": [
-        "AI 提示词",
-        "工作效率",
-        "AI 绘画",
-        "生产力",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 提示词",
-        "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND icihun.com",
-      "hide": 1
     },
     "https://www.aigallery.top": {
       "title": "Ai 画廊",
@@ -11637,27 +11266,6 @@
         "AI 综合工具"
       ]
     },
-    "https://www.yishijuan.com": {
-      "title": "AEE",
-      "intro": "告别传统繁琐做表流程，智能自动化Excel编辑。",
-      "desc": "AEE（Auto Excel Editor）是一款在线AI全自动Excel编辑器，它通过先进的人工智能技术，实现了对Excel表格的全自动化逻辑操作。用户只需输入简单的提示语，AEE便能自动完成智能录入、自动插入公式、样式修改、生成数据、生成模板、增删改查等任务，极大地提升了工作效率。AEE的背景是针对传统Excel操作繁琐、学习成本高的问题，旨在通过智能化手段简化Excel使用流程，让非专业人士也能轻松处理数据。",
-      "lang": "zh",
-      "tags": [
-        "自动化",
-        "Excel编辑",
-        "人工智能",
-        "数据录入",
-        "公式自动插入",
-        "生产力",
-        "中文精选",
-        "网站"
-      ],
-      "type": [
-        "AI 文档办公"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.yishijuan.com"
-    },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
       "intro": "AI家教，学习辅导，作业解答",
@@ -11788,29 +11396,6 @@
         "AI 图像处理"
       ]
     },
-    "https://duile.cn/homeIndex": {
-      "title": "对了网",
-      "intro": "AI驱动的法律服务平台，提供智能合同服务。",
-      "desc": "对了网是一个以AI技术为核心的法律服务平台，专注于提供电子合同相关的服务。它通过先进的AI技术，为用户提供智能合同咨询、草拟、审查等功能，以及多种合同模板，满足不同行业和场景的需求。对了网致力于降低法律服务成本，提高效率，同时保障交易安全，适应数字化时代的商业需求。",
-      "detail": "",
-      "lang": "zh",
-      "tags": [
-        "AI法律服务",
-        "电子合同",
-        "合同模板",
-        "法律咨询",
-        "智能审查",
-        "商业",
-        "中文精选",
-        "网站"
-      ],
-      "type": [
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND duile.cn",
-      "hide": 1
-    },
     "https://browser-use.com": {
       "title": "Browser Use.com",
       "intro": "使网站对AI代理可访问，提升网络交互效率。",
@@ -11886,9 +11471,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://kuaiyapaper.com": {
       "title": "快鸭论文",
@@ -12007,9 +11590,8 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVPN": 1,
+      "needVerify": -1
     },
     "http://write.thisonegpt.com": {
       "title": "神笔AI写作",
@@ -12094,16 +11676,6 @@
         "AI 搜索引擎"
       ]
     },
-    "https://kaisouai.com": {
-      "title": "开搜AI",
-      "desc": "开搜AI是一款面向大众免费无广告问答搜索引擎，不仅为用户问题提供直接、精准的答案，还能自动总结重点、生成大纲、思维导图并下载，帮您从上亿文献资料中筛选有用信息，提升您信息获取效率",
-      "type": [
-        "AI 搜索引擎"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND kaisouai.com",
-      "hide": 1
-    },
     "https://www.hippolearning.cn": {
       "title": "河马爱学",
       "desc": "【教育】字节旗下基于AI的教育平台，河马爱学拥有行业领先的技术团队，通过构建基于学习行为的推荐模型，评测学生能力并实时跟踪“掌握度”变化，个性化推荐学习内容，帮助老师精准教学，帮助学生自适应学习。",
@@ -12177,10 +11749,7 @@
       "tags": [
         "AI论文",
         "AI写作"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]socket hang up",
-      "hide": 1
+      ]
     },
     "https://chat.doltrans.com": {
       "title": "免费ChatGPT中文版",
@@ -12205,26 +11774,6 @@
       "type": [
         "AI 绘图"
       ]
-    },
-    "https://www.capybaradb.co": {
-      "title": "CapybaraDB",
-      "intro": "CapybaraDB 是一个 AI 原生数据库，让构建智能应用变得简单。",
-      "desc": "CapybaraDB 是一个 AI 原生数据库，旨在通过内置的 AI 能力简化数据处理和存储。它将 NoSQL、向量数据库和对象存储等多种存储类型统一到一个接口中，使开发者无需管理多个数据库或复杂的管道。CapybaraDB 提供了自动化的数据处理功能，如媒体转文本、文本分块、嵌入生成和向量索引等，大大提高了开发效率。其 MongoDB 兼容性使其能够受益于丰富的生态系统和社区支持。CapybaraDB 定位为高效、低成本的数据库解决方案，适用于需要快速构建 AI 应用的开发者和企业。",
-      "lang": "en",
-      "tags": [
-        "AI 原生",
-        "数据库",
-        "自动化",
-        "高效",
-        "MongoDB 兼容",
-        "生产力",
-        "国外精选",
-        "网站"
-      ],
-      "type": [],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.capybaradb.co",
-      "hide": 1
     },
     "https://x.ai": {
       "title": "Grok 3",
@@ -12266,9 +11815,8 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVPN": 1,
+      "needVerify": -1
     },
     "https://apps.apple.com/au/app/grok/id6670324846": {
       "title": "Grok App",
@@ -12401,7 +11949,7 @@
         "AI 翻译工具"
       ]
     },
-    "https://www.bilds.ai": {
+    "https://www.bild.ai": {
       "title": "Bild AI",
       "intro": "Bild AI 是一款利用人工智能读取和理解蓝图的工具，帮助快速估算材料成本并确保蓝图准确性。",
       "desc": "Bild AI 是一款专注于建筑行业的生产力工具，通过人工智能技术读取和理解建筑蓝图，快速生成材料成本估算和确保蓝图的准确性。该技术能够显著减少人工估算的时间和错误率，帮助建筑企业提高效率和竞争力。Bild AI 的主要优势在于其高效的 AI 模型，能够快速识别蓝图中的关键信息，并生成详细的成本分析报告。此外，它还能提前发现蓝图中的合规性问题，确保提交的图纸一次性通过审批。Bild AI 的目标是为建筑行业提供一个高效、准确且可靠的数字化解决方案，帮助企业在复杂的建筑项目中节省时间和成本。",
@@ -12416,11 +11964,7 @@
         "生产力",
         "国外精选",
         "网站"
-      ],
-      "type": [],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
+      ]
     },
     "https://jina.ai/deepsearch/": {
       "title": "Jina DeepSearch",
@@ -12625,7 +12169,7 @@
       "title": "AICNN",
       "desc": "提供稳定的GPT超级大模型服务，包括AI绘画、AI语音生成和人工智能对话，支持文本解析、文件解析和OCR",
       "star": 3,
-      "sort": -89,
+      "sort": -87,
       "type": [
         "AI 综合工具",
         "AI 聊天对话"
@@ -12663,9 +12207,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.florafauna.ai": {
       "title": "FLORA",
@@ -12727,9 +12269,7 @@
         "AI 写作助手",
         "AI 编程开发"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://exa.ai/blog/websets-evals": {
       "title": "Websets",
@@ -12911,25 +12451,14 @@
         "AI 教程"
       ]
     },
-    "https://rightbrain.art": {
-      "title": "Vega AI",
-      "desc": "国内专业的ai创作平台，支持文本生成图片，图片风格转换",
-      "type": [
-        "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND rightbrain.art",
-      "hide": 1
-    },
     "https://www.promeai.com": {
       "title": "PromeAI",
       "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.promeai.com",
-      "hide": 1
+      "needVPN": 1,
+      "needVerify": -1
     },
     "https://voxcraft.com": {
       "title": "VoxCraft",
