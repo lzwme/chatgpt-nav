@@ -1617,7 +1617,7 @@
       "type": [
         "AI 网站生成"
       ],
-      "star": 2,
+      "star": 3,
       "title": "Bolt",
       "lang": "en",
       "desc": "Bolt․new 是一个集成了AI和全栈开发功能的 Web 编程工具，自动编写代码、运行、编辑和部署应用程序。Bolt․new依托于 WebContainers 技术，支持在浏览器中直接运行完整的 Node.js 环境，无需任何本地安装或配置。用户只需通过简单的提示命令，快速生成代码，并且立即在浏览器中运行和测试代码。",
@@ -3653,7 +3653,7 @@
     "https://windsurfai.org/zh": {
       "title": "Windsurf AI IDE",
       "desc": "Windsurf AI IDE 利用尖端技术为开发人员提供工具，这些工具可以预测需求、简化工作流程并提高开发过程各个方面的生产力。",
-      "star": 2,
+      "star": 3,
       "type": [
         "AI 编程开发"
       ]
@@ -3661,7 +3661,7 @@
     "https://traeide.com/zh/": {
       "title": "Trae IDE",
       "desc": "字节跳动旗下的AI代码编辑器，支持Claude 3.5和GPT-4，现在限时免费",
-      "star": 2,
+      "star": 3,
       "type": [
         "AI 编程开发"
       ],
@@ -9703,6 +9703,24 @@
       "title": "Cursor",
       "intro": "Cursor是AI-first的代码编辑器，为强大的AI进行了配对编程。",
       "desc": "Cursor是未来的IDE，专为与强大的AI进行配对编程而构建。它的功能包括聊天式代码查询、代码参考、代码更改、自然语言编辑、从头生成代码、错误调试等。Cursor适用于多种使用场景，可帮助开发人员更快地构建软件。它受到数万名工程师的信赖，包括一些知名公司的工程师。",
+      "lang": "en",
+      "star": 3,
+      "tags": [
+        "代码编辑器",
+        "AI",
+        "编程工具",
+        "编程",
+        "国外精选",
+        "网站"
+      ],
+      "type": [
+        "AI 编程开发",
+        "AI 国外工具"
+      ]
+    },
+    "https://kiro.dev": {
+      "title": "Kiro",
+      "desc": "由亚马逊云科技开发的AI Agent IDE。Kiro通过规范驱动的开发方式为AI编码带来结构，帮助你完成最出色的工作。",
       "lang": "en",
       "star": 3,
       "tags": [
