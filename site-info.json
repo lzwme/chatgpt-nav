@@ -2306,7 +2306,9 @@
       ],
       "title": "Midlibrary",
       "lang": "en",
-      "desc": "风格多样！实用超2000+MJ提示词资源"
+      "desc": "风格多样！实用超2000+MJ提示词资源",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://promptbase.com": {
       "type": [
@@ -2552,8 +2554,9 @@
       ],
       "title": "Digram",
       "desc": "让Figma更好用的AI神器",
-      "needVerify": 6,
-      "errmsg": "[error][-1]write EPROTO 40CC88B2BF7F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n"
+      "needVerify": 7,
+      "errmsg": "[error][-1]write EPROTO 40BC90B5417F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n",
+      "hide": 1
     },
     "https://appicons.ai": {
       "type": [
@@ -2733,7 +2736,9 @@
         "AI 写作助手"
       ],
       "title": "新华妙笔",
-      "desc": "新华社媒体出品！AI公文写作学习平台"
+      "desc": "新华社媒体出品！AI公文写作学习平台",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.editage.cn/paperpal": {
       "type": [
@@ -6312,7 +6317,7 @@
         "AI 搜索引擎",
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
@@ -6969,9 +6974,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -7510,7 +7513,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://gptexcel.uk": {
       "title": "GPTExcel",
@@ -7826,9 +7831,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -9168,7 +9171,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://github.com/sunner/ChatALL": {
       "title": "ChatALL",
@@ -9879,9 +9884,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -10456,9 +10459,7 @@
       ],
       "type": [
         "AI 提示词"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
@@ -10892,9 +10893,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -11093,7 +11092,7 @@
         "AI 聊天对话",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
@@ -11114,7 +11113,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -12493,9 +12494,7 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ppinfra.com/user/": {
       "type": [
