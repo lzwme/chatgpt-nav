@@ -246,7 +246,8 @@
     "https://kimi.moonshot.cn": {
       "type": [
         "AI 聊天对话",
-        "国产大模型"
+        "国产大模型",
+        "API"
       ],
       "star": 3,
       "sort": -87,
@@ -12180,6 +12181,32 @@
       "tags": [
         "AI开放平台",
         "deepseek",
+        "API"
+      ],
+      "lang": "zh"
+    },
+    "https://mistral.ai": {
+      "title": "Mistral AI",
+      "desc": "Mistral AI 是一家致力于构建全球最佳开源模型的研究实验室。平台让开发者和企业能够构建由 Mistral 开源和商业 LLM 提供支持的新产品和应用程序。",
+      "type": [
+        "AI 综合工具",
+        "AI 聊天对话",
+        "API"
+      ]
+    },
+    "https://yourapi.cn/register?aff=Cx3T": {
+      "title": "YOURAPI",
+      "desc": "基于new-api的OpenAI接口聚合服务，价格便宜，支持调用 Claude4 等顶级模型API调用！",
+      "star": 3,
+      "sort": -90,
+      "type": [
+        "AI 综合工具",
+        "AI 聊天对话"
+      ],
+      "tags": [
+        "AI开放平台",
+        "deepseek",
+        "claude",
         "API"
       ],
       "lang": "zh"
