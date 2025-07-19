@@ -1197,7 +1197,9 @@
         "AI 行业工具"
       ],
       "title": "Tipranks",
-      "desc": "【金融】"
+      "desc": "【金融】",
+      "needVerify": 1,
+      "errmsg": "[error][471]HTTP_471"
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
       "type": [
@@ -2307,7 +2309,7 @@
       "title": "Midlibrary",
       "lang": "en",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://promptbase.com": {
@@ -2737,7 +2739,7 @@
       ],
       "title": "新华妙笔",
       "desc": "新华社媒体出品！AI公文写作学习平台",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.editage.cn/paperpal": {
@@ -3715,7 +3717,9 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -7512,7 +7516,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://gptexcel.uk": {
@@ -8701,7 +8705,7 @@
         "AI 角色生成",
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]connect ECONNREFUSED 103.177.28.107:443"
     },
     "https://npc.baichuan-ai.com/index": {
@@ -9172,7 +9176,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://github.com/sunner/ChatALL": {
@@ -11091,9 +11095,7 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -11114,7 +11116,7 @@
         "AI 视频生成",
         "AI 语音生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://fullpeace.cn": {
@@ -12502,9 +12504,7 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ppinfra.com/user/": {
       "type": [
