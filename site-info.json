@@ -1197,9 +1197,7 @@
         "AI 行业工具"
       ],
       "title": "Tipranks",
-      "desc": "【金融】",
-      "needVerify": 1,
-      "errmsg": "[error][471]HTTP_471"
+      "desc": "【金融】"
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
       "type": [
@@ -1403,7 +1401,9 @@
         "AI 写作助手"
       ],
       "title": "爱改写",
-      "desc": "爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。"
+      "desc": "爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.aigaixie.com"
     },
     "https://www.heyfriday.cn/home": {
       "type": [
@@ -2309,7 +2309,7 @@
       "title": "Midlibrary",
       "lang": "en",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://promptbase.com": {
@@ -2739,7 +2739,7 @@
       ],
       "title": "新华妙笔",
       "desc": "新华社媒体出品！AI公文写作学习平台",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.editage.cn/paperpal": {
@@ -3500,7 +3500,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -3717,9 +3719,7 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -4588,7 +4588,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "http://removewatermark.ai": {
       "title": "WatermarkRemoverAI",
@@ -7424,7 +7426,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -7516,7 +7520,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://gptexcel.uk": {
@@ -7833,7 +7837,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8705,7 +8711,7 @@
         "AI 角色生成",
         "AI 聊天对话"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]connect ECONNREFUSED 103.177.28.107:443"
     },
     "https://npc.baichuan-ai.com/index": {
@@ -9176,7 +9182,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://github.com/sunner/ChatALL": {
@@ -11095,7 +11101,9 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -11116,7 +11124,7 @@
         "AI 视频生成",
         "AI 语音生成"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://fullpeace.cn": {
@@ -11194,7 +11202,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN www.elmo.chat"
     },
     "https://www.artbreeder.com/browse": {
       "title": "Artbreeder",
@@ -12504,7 +12514,9 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ppinfra.com/user/": {
       "type": [
