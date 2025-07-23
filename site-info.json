@@ -1198,7 +1198,7 @@
       ],
       "title": "Tipranks",
       "desc": "【金融】",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][471]HTTP_471"
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
@@ -1404,7 +1404,7 @@
       ],
       "title": "爱改写",
       "desc": "爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.aigaixie.com"
     },
     "https://www.heyfriday.cn/home": {
@@ -2281,7 +2281,7 @@
       ],
       "title": "TryEmoji",
       "desc": "将emoji表情变成3D元素",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo EAI_AGAIN www.tryemoji.com"
     },
     "https://apps.apple.com/us/app/opencat/id6445999201": {
@@ -2313,8 +2313,9 @@
       "title": "Midlibrary",
       "lang": "en",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://promptbase.com": {
       "type": [
@@ -2459,9 +2460,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "商业级AI影像处理工具"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2752,9 +2751,7 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具"
     },
     "https://ai.zaker.cn": {
       "type": [
@@ -3596,7 +3593,9 @@
       "desc": "一键总结B站音视频内容",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.stableaudio.com": {
       "title": "Stable Audio",
@@ -6325,7 +6324,7 @@
         "AI 搜索引擎",
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
@@ -6982,9 +6981,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -7432,9 +7429,7 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -7526,8 +7521,9 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://gptexcel.uk": {
       "title": "GPTExcel",
@@ -7843,9 +7839,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -9186,8 +9180,9 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://github.com/sunner/ChatALL": {
       "title": "ChatALL",
@@ -9898,7 +9893,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -10473,7 +10470,9 @@
       ],
       "type": [
         "AI 提示词"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
@@ -10907,9 +10906,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -11107,9 +11104,7 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -11129,9 +11124,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -11208,9 +11201,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN www.elmo.chat"
+      ]
     },
     "https://www.artbreeder.com/browse": {
       "title": "Artbreeder",
