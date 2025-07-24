@@ -686,7 +686,9 @@
     },
     "https://aigcfun.com": {
       "title": "AI EDU",
-      "desc": "该站点已暂停访问"
+      "desc": "该站点已暂停访问",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://aitools.run": {
       "urls": [
@@ -1198,7 +1200,7 @@
       ],
       "title": "Tipranks",
       "desc": "【金融】",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][471]HTTP_471"
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
@@ -1404,7 +1406,7 @@
       ],
       "title": "爱改写",
       "desc": "爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.aigaixie.com"
     },
     "https://www.heyfriday.cn/home": {
@@ -2281,7 +2283,7 @@
       ],
       "title": "TryEmoji",
       "desc": "将emoji表情变成3D元素",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo EAI_AGAIN www.tryemoji.com"
     },
     "https://apps.apple.com/us/app/opencat/id6445999201": {
@@ -3593,9 +3595,7 @@
       "desc": "一键总结B站音视频内容",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.stableaudio.com": {
       "title": "Stable Audio",
@@ -6323,9 +6323,7 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -7429,7 +7427,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -8892,7 +8892,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://sermoai.net": {
       "title": "SermoAI",
@@ -9893,9 +9895,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -10470,9 +10470,7 @@
       ],
       "type": [
         "AI 提示词"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
@@ -11063,7 +11061,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -11104,7 +11104,9 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
