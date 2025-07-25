@@ -686,9 +686,7 @@
     },
     "https://aigcfun.com": {
       "title": "AI EDU",
-      "desc": "该站点已暂停访问",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "该站点已暂停访问"
     },
     "https://aitools.run": {
       "urls": [
@@ -720,7 +718,9 @@
     "https://chat.binjie.site:7777": {
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
-      "title": "仅用于开发学习交流"
+      "title": "仅用于开发学习交流",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
@@ -1200,7 +1200,7 @@
       ],
       "title": "Tipranks",
       "desc": "【金融】",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][471]HTTP_471"
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
@@ -1406,7 +1406,7 @@
       ],
       "title": "爱改写",
       "desc": "爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.aigaixie.com"
     },
     "https://www.heyfriday.cn/home": {
@@ -2207,7 +2207,9 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中"
+      "desc": "国内自研的AI作画系统！内测中",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2283,7 +2285,7 @@
       ],
       "title": "TryEmoji",
       "desc": "将emoji表情变成3D元素",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo EAI_AGAIN www.tryemoji.com"
     },
     "https://apps.apple.com/us/app/opencat/id6445999201": {
@@ -4837,7 +4839,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://logofa.st": {
       "title": "LogoFast",
@@ -4874,7 +4878,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.intelogos.com": {
       "title": "Intelogos",
@@ -7428,7 +7434,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -8123,7 +8129,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.wondercv.com": {
       "title": "超级简历",
@@ -8892,9 +8900,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://sermoai.net": {
       "title": "SermoAI",
@@ -9895,7 +9901,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -11061,9 +11069,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -11105,7 +11111,7 @@
         "AI 聊天对话",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
@@ -12513,7 +12519,9 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ppinfra.com/user/": {
       "type": [
