@@ -719,7 +719,7 @@
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
       "title": "仅用于开发学习交流",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://chat-simplifier.imzbb.cc": {
@@ -2012,9 +2012,7 @@
         "AI 视频生成"
       ],
       "title": "Mubert",
-      "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。",
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。"
     },
     "https://play.ht": {
       "type": [
@@ -2284,8 +2282,9 @@
       ],
       "title": "TryEmoji",
       "desc": "将emoji表情变成3D元素",
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN www.tryemoji.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN www.tryemoji.com",
+      "hide": 1
     },
     "https://apps.apple.com/us/app/opencat/id6445999201": {
       "type": [
@@ -6325,7 +6324,7 @@
         "AI 搜索引擎",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
@@ -7841,7 +7840,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -9897,7 +9896,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
@@ -11423,7 +11422,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://browser-use.com": {
       "title": "Browser Use.com",
@@ -12486,7 +12487,9 @@
       ],
       "tags": [
         "AI 教程"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.promeai.com": {
       "title": "PromeAI",
