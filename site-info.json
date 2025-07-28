@@ -718,9 +718,7 @@
     "https://chat.binjie.site:7777": {
       "star": 2,
       "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
-      "title": "仅用于开发学习交流",
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "title": "仅用于开发学习交流"
     },
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
@@ -1199,7 +1197,9 @@
         "AI 行业工具"
       ],
       "title": "Tipranks",
-      "desc": "【金融】"
+      "desc": "【金融】",
+      "needVerify": 1,
+      "errmsg": "[error][471]HTTP_471"
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
       "type": [
@@ -1735,7 +1735,9 @@
       ],
       "title": "6pen",
       "icon": "https://www.6pen.pro/logo.svg",
-      "desc": "6pen是一个为大多数人打造的AI绘画创作社区"
+      "desc": "6pen是一个为大多数人打造的AI绘画创作社区",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://playgroundai.com": {
       "type": [
@@ -1765,7 +1767,9 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://img.logosc.cn": {
       "type": [
@@ -1967,7 +1971,9 @@
         "AI 语音生成"
       ],
       "title": "Suno",
-      "desc": "AI音乐创作平台，不需要任何工具，只需要想象力，就可以创作出美妙动听的音乐。"
+      "desc": "AI音乐创作平台，不需要任何工具，只需要想象力，就可以创作出美妙动听的音乐。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.songtell.com": {
       "type": [
@@ -1981,7 +1987,9 @@
         "AI 语音生成"
       ],
       "title": "Speechify",
-      "desc": "拥有数百万次在Chrome、iOS和Android上的下载量的领先文本到语音应用，可以在任何设备上听取互联网内容。"
+      "desc": "拥有数百万次在Chrome、iOS和Android上的下载量的领先文本到语音应用，可以在任何设备上听取互联网内容。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://elevenlabs.io": {
       "type": [
@@ -2126,7 +2134,9 @@
         "AI 视频生成"
       ],
       "title": "Loom",
-      "desc": "使用 Loom AI 录制更好、更快的视频消息，让您的工作更加高效。"
+      "desc": "使用 Loom AI 录制更好、更快的视频消息，让您的工作更加高效。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://ai.invideo.io": {
       "type": [
@@ -2821,7 +2831,9 @@
         "AI 国外工具"
       ],
       "title": "uberduck",
-      "desc": "开源的AI语音生成平台"
+      "desc": "开源的AI语音生成平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.unscreen.com": {
       "type": [
@@ -3158,7 +3170,9 @@
         "AI 编程开发"
       ],
       "title": "Warp",
-      "desc": "内置AI命令搜索！21世纪的终端工具"
+      "desc": "内置AI命令搜索！21世纪的终端工具",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://fig.io": {
       "type": [
@@ -3668,7 +3682,9 @@
       "star": 3,
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://traeide.com/zh/": {
       "title": "Trae IDE",
@@ -4530,7 +4546,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://inpaintweb.lxfater.com": {
       "title": "Inpaint-web",
@@ -5551,7 +5569,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
@@ -5659,7 +5679,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://midreal.ai": {
       "title": "MidReal",
@@ -5694,7 +5716,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jasper.ai": {
       "title": "Jasper",
@@ -6323,9 +6347,7 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -7186,7 +7208,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "http://bigesj.com/ai-ppt/": {
       "title": "比格PPT",
@@ -7429,7 +7453,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -7728,7 +7754,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://getluminal.com": {
       "title": "Luminal",
@@ -7839,9 +7867,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8512,7 +8538,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://replika.com": {
       "title": "Replika",
@@ -9311,7 +9339,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][429]Too Many Requests"
     },
     "https://www.chatplayground.ai": {
       "title": "ChatPlayground AI",
@@ -9896,7 +9926,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
@@ -11104,7 +11134,9 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -11422,9 +11454,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://browser-use.com": {
       "title": "Browser Use.com",
@@ -11579,7 +11609,9 @@
       "type": [
         "AI 语音生成",
         "AI 角色生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://revvinvest.com": {
       "title": "Revv",
@@ -12201,7 +12233,9 @@
       "type": [
         "AI 综合工具",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://aicnn.cn/loginPage?aff=4MvsDBGxfZ": {
       "title": "AICNN",
@@ -12326,7 +12360,9 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://zapier.com/agents": {
       "title": "Zapier Agents",
@@ -12343,7 +12379,9 @@
         "国外精选",
         "网站"
       ],
-      "type": []
+      "type": [],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://wanxai.com": {
       "title": "Wan",
@@ -12488,7 +12526,7 @@
       "tags": [
         "AI 教程"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.promeai.com": {
