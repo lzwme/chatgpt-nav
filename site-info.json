@@ -302,10 +302,12 @@
     "https://aigc.baidu.com": {
       "type": [
         "AI 写作助手",
-        "AI 视频生成"
+        "AI 视频生成",
+        "AI 综合工具"
       ],
       "tags": [
-        "百度"
+        "数字人",
+        "文生图"
       ],
       "title": "百度度加创作工具",
       "desc": "百度旗下产品，打造人人可用的AI创作工具"
@@ -314,6 +316,10 @@
       "type": [
         "AI 编程开发"
       ],
+      "tags": [
+        "IDE"
+      ],
+      "star": 3,
       "title": "文心快码",
       "desc": "基于文心大模型，结合百度积累多年的编程现场大数据和外部优秀开源数据，为你生成更符合实际研发场景的优质代码。"
     },
@@ -898,24 +904,13 @@
       "lang": "en",
       "star": 3
     },
-    "https://lingma.aliyun.com": {
-      "title": "通义灵码",
-      "desc": "灵动指间，快码加编，你的智能编码助手",
-      "type": [
-        "AI 编程开发"
-      ],
-      "tags": [
-        "vscode",
-        "编程插件"
-      ]
-    },
     "https://deepmind.google/technologies/gemini": {
       "desc": "Gemini(双子座)是Google最新的大型语言模型，在一系列多模式基准测试中超越了最先进GPT4。在各种自然语言任务中表现良好，例如摘要、指令跟踪、内容生成、情感分析、实体提取、分类等。",
       "title": "Google Gemini",
       "star": 3,
       "lang": "en",
       "type": [
-        "AI 编程开发"
+        "AI 综合工具"
       ]
     },
     "https://gemini.google.com": {
@@ -946,8 +941,9 @@
       "desc": "Gemini Code Assist 是 Google Cloud 提供的一款 AI 编码助理，它通过生成式 AI 协助、企业安全和隐私保护机制，帮助提升软件开发和交付速度。该产品利用数十亿行开源代码、安全数据以及 Google Cloud 文档和示例代码进行微调，为开发者在其 IDE 和 Google Cloud 服务中提供代码补全、代码生成、自然语言聊天等功能。它支持多种编程语言，并集成了 Google Cloud 的多种服务，如 Firebase、Colab Enterprise、Databases、BigQuery、Apigee 和 Application Integration。",
       "lang": "zh",
       "needVPN": 1,
-      "star": 3,
+      "star": 2,
       "tags": [
+        "IDE",
         "AI 辅助",
         "代码生成",
         "自然语言处理",
@@ -1400,16 +1396,6 @@
       "title": "万彩AI",
       "desc": "万彩AI是一款强大的AI写作工具合集，它为缺乏灵感或对写作感到困难的人提供了AI智能写作支持。"
     },
-    "https://www.aigaixie.com": {
-      "type": [
-        "AI 写作助手"
-      ],
-      "title": "爱改写",
-      "desc": "爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。",
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.aigaixie.com",
-      "hide": 1
-    },
     "https://www.heyfriday.cn/home": {
       "type": [
         "AI 写作助手"
@@ -1455,7 +1441,7 @@
       "tags": [
         "智能",
         "自动化",
-        "简单",
+        "PPT",
         "高效",
         "生产力",
         "中文精选",
@@ -1466,6 +1452,7 @@
       "type": [
         "AI 文档办公"
       ],
+      "tags": ["PPT"],
       "title": "ChatPPT",
       "desc": "必优科技推出的中文AI生成PPT的办公产品"
     },
@@ -1474,6 +1461,7 @@
         "AI 文档办公",
         "AI 图像处理"
       ],
+      "tags": ["PPT"],
       "title": "爱设计PPT",
       "desc": "爱设计PPT利用先进的AI技术,自动创建并优化PPT模版。爱设计的AI能为您生成适合的,高质量且独特的PPT模版。"
     },
@@ -1489,6 +1477,7 @@
         "AI 文档办公",
         "AI 语音生成"
       ],
+      "tags": ["PPT"],
       "star": 3,
       "title": "WPS AI",
       "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。"
@@ -1569,6 +1558,30 @@
       "title": "网易见外",
       "desc": "网易自营的智能转写翻译服务。"
     },
+    "https://lingma.aliyun.com": {
+      "title": "通义灵码",
+      "desc": "灵动指间，快码加编，你的智能编码助手",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "IDE",
+        "vscode"
+      ]
+    },
+    "https://copilot.tencent.com": {
+      "title": "CodeBuddy",
+      "desc": "腾讯自研编程编程AI助手。从此用自然语言编程，AI 自主完成多文件代码生成和改写，让灵感即刻落地。",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "IDE",
+        "vscode"
+      ]
+    },
     "https://replit.com": {
       "type": [
         "AI 编程开发"
@@ -1593,6 +1606,9 @@
     "https://iflycode.xfyun.cn": {
       "type": [
         "AI 编程开发"
+      ],
+      "tags": [
+        "IDE"
       ],
       "title": "讯飞iFlyCode",
       "desc": "代码大模型，支持讯飞AI能力，具有业界领先的代码大模型能力。"
@@ -1856,17 +1872,6 @@
       ],
       "title": "MasterGo AI",
       "desc": "MasterGo AI使用人工智能辅助设计，开启数字交互新时代。"
-    },
-    "https://jsai.cc/ai": {
-      "type": [
-        "AI 绘图",
-        "AI 图像处理"
-      ],
-      "title": "即时AI",
-      "desc": "即时AI是一款极具前沿创新的AIGC产品，一款可以快速生成设计稿的生成式设计工具，它能够通过简单的自然语言描述来生成与需求相匹配的设计稿。",
-      "needVerify": 7,
-      "errmsg": "[error][-1]write EPROTO 409C6CDFBA7F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n",
-      "hide": 1
     },
     "https://pixso.cn": {
       "type": [
@@ -2278,19 +2283,12 @@
       "title": "AISEO ART",
       "desc": "AISEO Art 的AI算法按照分类进行过细致的训练"
     },
-    "https://www.tryemoji.com": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "TryEmoji",
-      "desc": "将emoji表情变成3D元素",
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN www.tryemoji.com",
-      "hide": 1
-    },
     "https://apps.apple.com/us/app/opencat/id6445999201": {
       "type": [
         "AI 聊天对话"
+      ],
+      "tags": [
+        "APP"
       ],
       "title": "OpenCat",
       "desc": "在苹果手表上用ChatGPT"
@@ -2559,16 +2557,6 @@
       "title": "Noya",
       "desc": "让线框图变成高保真设计"
     },
-    "https://diagram.com": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "Digram",
-      "desc": "让Figma更好用的AI神器",
-      "needVerify": 7,
-      "errmsg": "[error][-1]write EPROTO 40BC90B5417F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n",
-      "hide": 1
-    },
     "https://appicons.ai": {
       "type": [
         "AI 图像处理",
@@ -2644,18 +2632,6 @@
       ],
       "title": "ImgCreator",
       "desc": "超赞的多合一AI设计工具，超强的背景生成、海报生成能力"
-    },
-    "https://imagecreator.alkaidvision.com": {
-      "type": [
-        "AI 绘图",
-        "AI 国外工具",
-        "AI 图像处理"
-      ],
-      "title": "ImageCreator",
-      "desc": "PS中免费使用的SD神级插件",
-      "needVerify": 7,
-      "errmsg": "[error][502]Bad Gateway",
-      "hide": 1
     },
     "https://app.recraft.ai/community": {
       "type": [
@@ -3091,19 +3067,26 @@
       "title": "搜狗翻译",
       "desc": "支持中、英、法、日等50多种语言之间的互译功能"
     },
-    "https://codeium.com": {
+    "https://windsurf.com": {
       "type": [
         "AI 编程开发"
       ],
-      "title": "Codeium",
-      "desc": "超过40种语言的免费代码加速工具"
+      "tags": [
+        "IDE"
+      ],
+      "title": "Windsurf",
+      "star": 3,
+      "desc": "由 Codeium 推出的 AI 驱动的集成开发环境（IDE），旨在提升开发者的编程效率和协作体验。"
     },
-    "https://www.codium.ai": {
+    "https://www.qodo.ai": {
       "type": [
         "AI 编程开发"
       ],
-      "title": "CodiumAI",
-      "desc": "超实用的技术编程句子补全工具"
+      "tags": [
+        "IDE"
+      ],
+      "title": "Qodo",
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3365,18 +3348,6 @@
         "AI 国外工具"
       ],
       "needVerify": -1
-    },
-    "https://www.veed.io": {
-      "title": "Veed",
-      "desc": "视频编辑变得简单。只需单击即可创建出色的视频。添加字幕，转录音频，浏览AI工具，使用模板等等。",
-      "type": [
-        "AI 视频生成",
-        "AI 国外工具"
-      ],
-      "lang": "en",
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
     },
     "https://nijijourney.com/zh": {
       "title": "NijiJourney",
@@ -3662,14 +3633,9 @@
         "AI 编程开发",
         "AI 开源工具",
         "AI 国外工具"
-      ]
-    },
-    "https://windsurfai.org/zh": {
-      "title": "Windsurf AI IDE",
-      "desc": "Windsurf AI IDE 利用尖端技术为开发人员提供工具，这些工具可以预测需求、简化工作流程并提高开发过程各个方面的生产力。",
-      "star": 3,
-      "type": [
-        "AI 编程开发"
+      ],
+      "tags": [
+        "IDE"
       ]
     },
     "https://traeide.com/zh/": {
@@ -3680,7 +3646,9 @@
         "AI 编程开发"
       ],
       "tags": [
-        "字节跳动"
+        "字节跳动",
+        "vscode",
+        "IDE"
       ]
     },
     "https://play.aidungeon.io/main/home": {
@@ -5944,28 +5912,6 @@
         "AI 写作助手"
       ]
     },
-    "https://www.thunisoft.com/gywm/index.jhtml": {
-      "title": "万象公文",
-      "intro": "华宇自主研发的公文智能辅助系统，提供公文智能生成、智能改写、专业知识检索等服务。",
-      "desc": "万象公文是一站式公文知识赋能和智能写作平台，基于人工智能和大模型技术。主要优点包括提升公文写作效率和质量，提供智能生成、改写、校对、排版等功能。",
-      "lang": "zh",
-      "tags": [
-        "公文智能",
-        "写作辅助",
-        "政企单位",
-        "人工智能",
-        "生产力",
-        "普通产品",
-        "写作",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][405]Not Allowed",
-      "hide": 1
-    },
     "https://botsmart.net": {
       "title": "博特妙笔",
       "intro": "AI写作工具，公文写作神器",
@@ -6209,50 +6155,6 @@
       "type": [
         "AI 行业工具"
       ]
-    },
-    "https://chat.moyanaigc.com": {
-      "title": "陌言AI",
-      "intro": "多功能AIGC智能写作平台",
-      "desc": "陌言AI写作是一个集多种智能写作功能于一体的平台，它利用人工智能技术帮助用户在不同的写作场景下快速生成高质量文案和文章。产品背景信息显示，陌言AI写作小程序版在微信上可以搜索使用，并且关注公众号可以体验到AI音乐、AI视频、姓氏头像等工具。产品的主要优点包括高效率、原创性和个性化，适合需要大量文案创作和编辑的用户。",
-      "lang": "zh",
-      "tags": [
-        "AI写作",
-        "文章改写",
-        "自媒体运营",
-        "写作",
-        "中文精选",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]socket hang up",
-      "hide": 1
-    },
-    "https://claude.ai": {
-      "title": "Claude",
-      "intro": "智能翻译助手，轻松解决语言障碍",
-      "desc": "云翻译助手是一款智能翻译工具，能够快速准确地将文字、语音、图片进行翻译。具有多国语言支持，翻译结果精准可靠。用户可以通过网页端直接使用，无需安装任何插件或软件。云翻译助手提供简单易用的界面和丰富的功能，助您轻松解决语言障碍。定价灵活合理，同时也提供免费试用期。",
-      "lang": "en",
-      "tags": [
-        "翻译",
-        "语言",
-        "智能工具",
-        "生产力",
-        "全球热门",
-        "网站",
-        "人工智能",
-        "自然语言处理",
-        "文件处理",
-        "多语言对话"
-      ],
-      "type": [
-        "AI 翻译工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
     },
     "https://deepl.com": {
       "title": "DeepL",
@@ -6742,7 +6644,7 @@
         "AI 视频生成"
       ]
     },
-    "https://morphcut.github.io": {
+    "https://jeanne-wang.github.io/jumpcutsmoothing/": {
       "title": "MorphCut",
       "intro": "平滑跳切，消除填充词，输出流畅视频",
       "desc": "该产品提供了一种新颖的框架，用于平滑跳切，特别是在对话视频中。它利用视频中主体的外观，通过 DensePose 关键点和面部标志驱动的中级表示来融合其他源帧中的信息。为了实现运动，它在切割周围的端帧之间插值关键点和标志。然后使用图像转换网络从关键点和源帧合成像素。由于关键点可能包含错误，因此提出了一种跨模态注意机制，以选择和为每个关键点挑选最合适的源。通过利用这种中级表示，我们的方法可以比强视频插值基准获得更强的结果。我们在对话视频的各种跳切上展示了我们的方法，例如切除填充词、暂停，甚至随机切割。我们的实验表明，即使在对话头部旋转或剧烈移动的挑战性情况下，我们也可以实现无缝过渡。",
@@ -6753,16 +6655,11 @@
         "DensePose",
         "面部标志",
         "视频插值",
-        "视频",
-        "普通产品",
-        "其他"
+        "视频"
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][200]<!DOCTYPE html>\n<html>\n<head>\n  <meta http-equiv=\"refresh\" content=\"2; url=https://jeanne-wang.github.io/jumpcutsmoothing/\">\n</head>\n</html>\n",
-      "hide": 1
+      ]
     },
     "https://ltx.studio": {
       "title": "LTX Studio",
@@ -6875,27 +6772,6 @@
       ],
       "needVerify": 7,
       "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
-    "https://www.contentgroove.com": {
-      "title": "Video Highlight, Clip and Transcript API",
-      "intro": "AI自动生成视频亮点和剪辑",
-      "desc": "ContentGroove使用生成式人工智能技术，从长视频中自动创建亮点和剪辑，节省您宝贵的编辑时间和金钱。您无需昂贵的编辑工具或专业技能！快速、轻松地将长视频转化为精彩亮点和剪辑！",
-      "lang": "en",
-      "tags": [
-        "视频编辑",
-        "人工智能",
-        "自动化",
-        "视频",
-        "普通产品",
-        "生产力",
-        "网站"
-      ],
-      "type": [
-        "AI 视频生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]write EPROTO 003850ACF57F0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1590:SSL alert number 40\n",
       "hide": 1
     },
     "https://sider.ai": {
@@ -7129,10 +7005,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      ]
     },
     "https://www.arcads.ai": {
       "title": "Arcads",
@@ -8977,50 +8850,6 @@
         "AI 行业工具"
       ]
     },
-    "https://talkitout.ai": {
-      "title": "TalkItOut",
-      "intro": "自定义AI聊天机器人",
-      "desc": "Talk It Out是一个自定义AI聊天机器人平台，通过上传文档或添加网页链接，可以创建一个能回答相关问题的聊天机器人，并将其添加为网站的小部件。它可以帮助提供即时的客户支持和回答常见问题，提高用户体验和网站流量。Talk It Out还提供不同的定价计划，适合个人用户和企业用户的不同需求。",
-      "lang": "en",
-      "tags": [
-        "聊天机器人",
-        "智能聊天",
-        "智能客服",
-        "智能营销",
-        "网站工具",
-        "聊天",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 聊天对话",
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>",
-      "hide": 1
-    },
-    "https://parrotchat.io": {
-      "title": "ParrotChat",
-      "intro": "定制化聊天机器人",
-      "desc": "ParrotChat是一款定制化聊天机器人工具，能够根据你的网站内容进行学习，并提供个性化的回答。它可以用于客户支持、电子商务、员工支持等多种场景。ParrotChat集成了Shopify、WordPress等主流平台，使用简单方便。欢迎免费试用！",
-      "lang": "en",
-      "tags": [
-        "聊天机器人",
-        "智能聊天",
-        "智能客服",
-        "聊天",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 聊天对话",
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
     "http://langdrive.ai": {
       "title": "LangDrive",
       "intro": "定制AI，解决客服瓶颈",
@@ -9366,26 +9195,6 @@
         "AI 开源工具"
       ]
     },
-    "https://crushon.ai": {
-      "title": "CrushOn AI",
-      "intro": "CrushOn AI是一款基于人工智能的社交匹配应用。",
-      "desc": "CrushOn AI通过人工智能算法为用户提供社交匹配服务。它利用机器学习分析用户偏好，为他们找到潜在的社交伙伴。",
-      "lang": "en",
-      "tags": [
-        "AI社交匹配",
-        "交友",
-        "人工智能",
-        "聊天",
-        "全球热门",
-        "网站"
-      ],
-      "type": [
-        "AI 聊天对话"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
-    },
     "https://spicychat.ai": {
       "title": "Spicychat",
       "intro": "具有 AI 角色的聊天机器人平台",
@@ -9442,10 +9251,7 @@
       "type": [
         "AI 聊天对话",
         "AI 综合工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      ]
     },
     "https://www.tawk.to": {
       "title": "tawk.to",
@@ -9730,6 +9536,7 @@
       "lang": "en",
       "star": 3,
       "tags": [
+        "IDE",
         "代码编辑器",
         "AI",
         "编程工具",
@@ -9748,8 +9555,8 @@
       "lang": "en",
       "star": 3,
       "tags": [
+        "IDE",
         "代码编辑器",
-        "AI",
         "编程工具",
         "编程",
         "国外精选",
@@ -9766,7 +9573,7 @@
       "desc": "Amazon CodeWhisperer是一个AI代码伴侣，基于您的注释和现有代码，实时生成代码建议，包括代码片段和完整函数。它可以帮助您绕过耗时的编码任务，加速使用陌生API构建应用程序。CodeWhisperer训练有数十亿行代码，并可以根据您的需求生成代码建议。它还可以检测代码中难以发现的漏洞，并提供修复建议。您可以在15种编程语言和多个集成开发环境中使用CodeWhisperer，包括Python、Java、JavaScript、VS Code、IntelliJ IDEA等。使用CodeWhisperer，您可以更快、更安全地编写代码。",
       "lang": "en",
       "tags": [
-        "AI",
+        "IDE",
         "代码生成",
         "编程助手",
         "编程",
@@ -9783,7 +9590,7 @@
       "desc": "Cody 是一款强大而准确的 AI 编码助手，可帮助编写、修复和维护代码。它利用人工智能和对代码库的深入理解，帮助用户更快地编写和理解代码。",
       "lang": "en",
       "tags": [
-        "AI",
+        "IDE",
         "编码助手",
         "自动补全",
         "代码解释",
@@ -9796,10 +9603,10 @@
         "AI 编程开发"
       ]
     },
-    "https://codefuse.alipay.com/welcome/product": {
+    "https://codefuse.alipay.com": {
       "title": "codeFuse",
       "intro": "让研发变得更简单",
-      "desc": "codeFuse 是一个能够辅助开发者进行代码补全、添加注释、解释代码等功能的插件。它基于海量数据提供实时的代码补全服务，并支持解释代码、生成注释等功能，能够帮助开发者快速完成功能研发，提高研发效率。此外，codeFuse 还可以对选定代码段进行分析理解，提出优化和改进建议，甚至可以直接生成代码补丁，帮助开发者写出更好的代码。另外，codeFuse 还能智能生成具备业务语义的测试用例，提升问题发现效率，方便快捷。codeFuse 支持 40 多种编程语言。",
+      "desc": "网上销售获客，用AI 创造你的网站，满意就上线",
       "lang": "zh",
       "tags": [
         "开发工具",
@@ -9811,7 +9618,7 @@
         "插件"
       ],
       "type": [
-        "AI 编程开发"
+        "AI 网站生成"
       ]
     },
     "https://sky-code.singularity-ai.com": {
@@ -9838,6 +9645,7 @@
       "desc": "CodeArts Snap是华为云自研的基于盘古研发大模型的智能开发助手。它通过强大的软硬件算力底座、深厚的软件分析与安全可信基座、以及坚实的研发数据积淀,为开发者提供代码生成、知识问答、代码检查等多种智能化研发服务,大幅提高软件研发效率,释放研发生产力。",
       "lang": "zh",
       "tags": [
+        "IDE",
         "研发效率",
         "智能生成",
         "大模型",
@@ -9855,6 +9663,7 @@
       "desc": "JetBrains助手是一款集成在 JetBrains IDE 中的 AI 助手插件。它可以根据项目上下文提供代码补全和问题解答功能，帮助开发者更高效地编写代码。此外，AI 助手还具有安全、可靠、成本效益高等优势。用户可以通过官方网站获取详细定价和使用方式。",
       "lang": "en",
       "tags": [
+        "IDE",
         "AI 助手",
         "代码补全",
         "问题解答",
@@ -9873,6 +9682,7 @@
       "desc": "Fitten Code是一个GPT驱动的代码生成和完成工具，支持多种语言：Python、Javascript、Typescript、Java等。它能够自动为您的代码补充缺失的部分，节省您宝贵的开发时间。基于AI大模型对代码进行语义级翻译，支持多种编程语言互译。同时，它能够根据您的代码自动生成相关注释，为您的代码提供清晰易懂的解释和文档。除此之外，它还拥有智能bug查找、解释代码、自动生成单元测试的功能，以及根据代码自动产生相应的测试用例等功能。",
       "lang": "en",
       "tags": [
+        "IDE",
         "代码生成",
         "代码完成",
         "编程辅助",
@@ -9893,9 +9703,8 @@
       "desc": "Tabnine是一款AI代码助手，支持所有编程语言和集成开发环境（IDE）。它提供智能代码补全、自动代码生成、错误检查和代码导航等功能，大大提高开发效率。Tabnine的优势在于其强大的机器学习模型和海量代码数据库，可以为开发人员提供准确和有用的代码建议。定价灵活多样，适应个人开发者和企业团队的需求。Tabnine定位于成为开发者的好帮手，让开发工作更高效、更快速。",
       "lang": "zh",
       "tags": [
-        "AI",
-        "代码",
-        "助手",
+        "IDE",
+        "代码助手",
         "开发",
         "智能",
         "编程",
@@ -9999,10 +9808,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>",
-      "hide": 1
+      ]
     },
     "https://www.texttovoice.online": {
       "title": "Texttovoice.online",
@@ -10037,26 +9843,6 @@
         "AI 语音生成",
         "AI 视频生成"
       ]
-    },
-    "https://www.udio.com": {
-      "title": "Udio",
-      "intro": "发现、创作和分享音乐的平台",
-      "desc": "Udio是一个音乐发现、创作和分享的平台。用户可以在这里发现新的音乐作品,上传自己的创作分享给他人,并与其他音乐爱好者互动交流。该平台提供免费使用,同时也有付费高级服务供选择。定位为专注于音乐创作和分享的社交平台。",
-      "lang": "en",
-      "tags": [
-        "音乐创作",
-        "音乐分享",
-        "音乐社交",
-        "音乐",
-        "优质新品",
-        "网站"
-      ],
-      "type": [
-        "AI 语音生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]Parse Error: Header overflow",
-      "hide": 1
     },
     "https://home.tiangong.cn/downloadGuide": {
       "title": "天工SkyMusic",
@@ -10295,10 +10081,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      ]
     },
     "https://mvsep.com/zh": {
       "title": "MVSEP",
@@ -10338,7 +10121,7 @@
         "AI 语音生成"
       ]
     },
-    "https://maken.it/spleetergui/": {
+    "https://maken.it/lander/": {
       "title": "SpleeterGUI",
       "intro": "SpleeterGUI 是一款音乐源分离桌面应用程序。",
       "desc": "SpleeterGUI 是一个音乐源分离的桌面应用程序，用户无需安装 Python 或 Spleeter，该应用程序内含预装 Python 版本和 Spleeter。通过分离音轨，用户可以从音乐中提取出不同的声音源，提供了更灵活的音频处理能力。",
@@ -10352,10 +10135,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>",
-      "hide": 1
+      ]
     },
     "https://y.qq.com/tme_studio/": {
       "title": "TME Studio",
@@ -11227,16 +11007,6 @@
         "AI 图像处理"
       ]
     },
-    "https://ailogo.qq.com/guide/brandname": {
-      "title": "AIDesign",
-      "desc": "10秒创建Logo！腾讯出品的AI Logo神器",
-      "type": [
-        "AI 图像处理"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][503]Service Unavailable",
-      "hide": 1
-    },
     "https://zapier.com/ai": {
       "title": "Zapier AI",
       "desc": "赞！Zapier推出的AI自动化集成功能",
@@ -11261,10 +11031,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][200]<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"utf-8\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n<meta name=\"keywords\" content=\"T-Rex, visual prompting, intelligent annotation, i",
-      "hide": 1
+      ]
     },
     "https://raccoon.sensetime.com/office": {
       "title": "办公小浣熊 Raccoon",
@@ -11435,7 +11202,7 @@
       ]
     },
     "https://browser-use.com": {
-      "title": "Browser Use.com",
+      "title": "Browser Use",
       "intro": "使网站对AI代理可访问，提升网络交互效率。",
       "desc": "Browser Use是一个致力于使网站对AI代理可访问的平台，通过提取所有交互元素，让AI代理能够专注于其核心任务。该产品结合了先进的AI能力和强大的浏览器自动化技术，支持多标签管理、元素跟踪、自定义动作等，兼容所有LangChain LLMs，包括GPT-4、Claude 3和Llama 2。Browser Use以其高精度的Web代理性能和易用性，成为AI网络自动化领域的佼佼者。",
       "lang": "en",
@@ -11451,24 +11218,6 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
-    },
-    "https://m.chinaz.com/handdrawn/avatar.shtml": {
-      "title": "手绘头像定制",
-      "intro": "定制艺术手绘头像，打造独特社交形象",
-      "desc": "头像定制是一个提供个性化手绘头像服务的网站。它允许用户上传自己的照片，由专业的绘画师根据照片绘制出风格独特的头像。这种服务不仅满足了用户在社交平台上展示个性化形象的需求，也因其艺术性和独特性而受到欢迎。产品背景信息显示，该服务由经验丰富的绘画师提供，包括首席绘画师jissacos和新秀kiki等，他们擅长捕捉面部表情和个人特色。价格方面，根据绘画师的不同，提供不同价位的服务，用户可以根据自己的预算和喜好选择合适的服务。",
-      "lang": "zh",
-      "tags": [
-        "手绘",
-        "个性化",
-        "社交形象",
-        "艺术头像",
-        "设计",
-        "中文精选",
-        "网站"
-      ],
-      "type": [
-        "AI 图像处理"
       ]
     },
     "http://ezprompt.org": {
@@ -11504,7 +11253,7 @@
         "视觉推理",
         "编程",
         "国外精选",
-        "模型"
+        "API"
       ],
       "type": [
         "AI 编程开发"
@@ -11615,7 +11364,7 @@
       "desc": "OpenAI o3模型是继o1之后的新一代推理模型，包括o3和o3-mini两个版本。o3在某些条件下接近于通用人工智能（AGI），在ARC-AGI基准测试中得分高达87.5%，远超人类平均水平。它在数学和编程任务中表现出色，在2024年美国数学邀请赛（AIME）中得分96.7%，在Codeforces评级中达到2727分。o3能够自我事实核查，通过“私人思维链”进行推理，提高答案的准确性。o3是首个使用“审议对齐”技术训练的模型，以符合安全原则。目前，o3模型尚未广泛可用，但安全研究人员可以注册预览o3-mini模型。o3 mini版将在1月底推出，之后不久推出o3完整版。",
       "lang": "en",
       "tags": [
-        "人工智能",
+        "API",
         "推理模型",
         "数学竞赛",
         "编程竞赛",
@@ -11670,26 +11419,6 @@
         "AI 开源工具"
       ]
     },
-    "https://tuan.chinaz.com/goods_detail/3751": {
-      "title": "站长之家数字人系统V3",
-      "intro": "通过AI技术实现智能虚拟主播自动直播互动",
-      "desc": "该系统通过AI技术实现虚拟数字人自动化智能直播互动,拥有全天候在线、支持OBS、支持跨平台直播等优势。系统支持私有化部署、无限克隆、无限OEM贴牌、无限账号等,可满足企业自主二次开发需求。适用于直播、虚拟主播、虚拟学习助手等场景。",
-      "lang": "en",
-      "tags": [
-        "AI数字人",
-        "直播系统",
-        "虚拟主播",
-        "生成视频",
-        "虚拟助手",
-        "视频",
-        "中文精选",
-        "网站"
-      ],
-      "type": [
-        "AI 数字人",
-        "AI 视频生成"
-      ]
-    },
     "https://www.designify.com": {
       "title": "Designify",
       "desc": "免费在线抠图，识别内容，提供适合的合成设计",
@@ -11729,9 +11458,19 @@
       ],
       "needVerify": -1
     },
+    "https://github.com/cline/cline": {
+      "title": "Cline",
+      "desc": "Cline 是一个开源的 AI 编程助手，以 VSCode 插件的形式提供安装使用。",
+      "star": 3,
+      "tags": ["IDE", "vscode"],
+      "type": [
+        "AI 编程开发"
+      ]
+    },
     "https://www.marscode.com": {
       "title": "Marscode",
       "desc": "MarsCode是字节旗下AI代码助手，提供了一个内置AI助手和扩展的IDE，支持超过100种语言和主流IDE。",
+      "tags": ["IDE", "vscode"],
       "type": [
         "AI 编程开发"
       ]
@@ -11739,6 +11478,7 @@
     "https://codegeex.cn": {
       "title": "CodeGeeX",
       "desc": "CodeGeeX是一个基于AI大模型的编程辅助工具，可以实现自动代码生成、代码翻译、自动编写注释等功能，支持20多种编程语言。",
+      "tags": ["IDE", "vscode"],
       "type": [
         "AI 编程开发"
       ]
@@ -11822,7 +11562,7 @@
       "star": 3,
       "sort": -88,
       "tags": [
-        "AI",
+        "API",
         "推理",
         "多模态",
         "教育",
@@ -11832,8 +11572,8 @@
         "模型"
       ],
       "type": [
-        "AI 行业工具",
-        "AI 编程开发"
+        "AI 综合工具",
+        "AI 聊天对话"
       ]
     },
     "https://grok.com": {
@@ -11981,10 +11721,7 @@
       "type": [
         "国产大模型",
         "AI 综合工具",
-        "AI 聊天对话",
-        "AI 写作助手",
-        "AI 编程开发",
-        "AI 翻译工具"
+        "AI 聊天对话"
       ]
     },
     "https://www.bild.ai": {
@@ -11992,6 +11729,7 @@
       "intro": "Bild AI 是一款利用人工智能读取和理解蓝图的工具，帮助快速估算材料成本并确保蓝图准确性。",
       "desc": "Bild AI 是一款专注于建筑行业的生产力工具，通过人工智能技术读取和理解建筑蓝图，快速生成材料成本估算和确保蓝图的准确性。该技术能够显著减少人工估算的时间和错误率，帮助建筑企业提高效率和竞争力。Bild AI 的主要优势在于其高效的 AI 模型，能够快速识别蓝图中的关键信息，并生成详细的成本分析报告。此外，它还能提前发现蓝图中的合规性问题，确保提交的图纸一次性通过审批。Bild AI 的目标是为建筑行业提供一个高效、准确且可靠的数字化解决方案，帮助企业在复杂的建筑项目中节省时间和成本。",
       "lang": "en",
+      "type": ["AI 行业工具"],
       "tags": [
         "人工智能",
         "建筑",
@@ -12203,6 +11941,21 @@
       ],
       "lang": "zh"
     },
+    "https://z.ai": {
+      "title": "Z.ai",
+      "desc": "智谱面向全球推出的最新模型体验平台，提供GLM系列模型，并提供API调用服务。",
+      "star": 3,
+      "type": [
+        "AI 综合工具",
+        "AI 聊天对话"
+      ],
+      "tags": [
+        "AI开放平台",
+        "PPT",
+        "API"
+      ],
+      "lang": "zh"
+    },
     "https://mistral.ai": {
       "title": "Mistral AI",
       "desc": "Mistral AI 是一家致力于构建全球最佳开源模型的研究实验室。平台让开发者和企业能够构建由 Mistral 开源和商业 LLM 提供支持的新产品和应用程序。",
@@ -12309,7 +12062,7 @@
         "知识问答",
         "生产力",
         "全球热门",
-        "模型"
+        "LLM"
       ],
       "type": [
         "AI 写作助手",
@@ -12388,7 +12141,7 @@
         "创新",
         "生产力",
         "中文精选",
-        "模型"
+        "LLM"
       ],
       "type": [
         "AI 编程开发",
@@ -12396,7 +12149,7 @@
       ]
     },
     "https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko": {
-      "title": "AI课代表 - B站学习助手, 视频总结, 字幕列表, GPT-4",
+      "title": "AI课代表",
       "intro": "Bilibili 视频总结插件~",
       "desc": "“AI课代表” 是您在B站最专业的人工智能助手 🤖 基于GPT4的“知识提问+“视频总结”+“字幕搜索” 每日刷新免费额度 解决问题，快速定位关键点，筛选视频，帮你成为人见人爱的“课代表” 无情吸赞，学霸人设，专栏大佬，最重要的是：您的声音至关重要，我们将以“3天1更”的速度持续改进！",
       "lang": "en",
@@ -12407,7 +12160,8 @@
         "人工智能",
         "教育",
         "普通产品",
-        "插件"
+        "插件",
+        "APP"
       ],
       "type": [
         "AI 视频生成",
@@ -12465,6 +12219,7 @@
         "聊天",
         "全球热门",
         "生产力",
+        "LLM",
         "网站"
       ],
       "type": [
