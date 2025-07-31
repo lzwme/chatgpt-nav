@@ -1193,9 +1193,7 @@
         "AI 行业工具"
       ],
       "title": "Tipranks",
-      "desc": "【金融】",
-      "needVerify": 3,
-      "errmsg": "[error][471]HTTP_471"
+      "desc": "【金融】"
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
       "type": [
@@ -1355,9 +1353,7 @@
         "AI 写作助手"
       ],
       "title": "笔灵AI",
-      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。"
     },
     "https://effidit.qq.com": {
       "type": [
@@ -1452,7 +1448,9 @@
       "type": [
         "AI 文档办公"
       ],
-      "tags": ["PPT"],
+      "tags": [
+        "PPT"
+      ],
       "title": "ChatPPT",
       "desc": "必优科技推出的中文AI生成PPT的办公产品"
     },
@@ -1461,7 +1459,9 @@
         "AI 文档办公",
         "AI 图像处理"
       ],
-      "tags": ["PPT"],
+      "tags": [
+        "PPT"
+      ],
       "title": "爱设计PPT",
       "desc": "爱设计PPT利用先进的AI技术,自动创建并优化PPT模版。爱设计的AI能为您生成适合的,高质量且独特的PPT模版。"
     },
@@ -1477,7 +1477,9 @@
         "AI 文档办公",
         "AI 语音生成"
       ],
-      "tags": ["PPT"],
+      "tags": [
+        "PPT"
+      ],
       "star": 3,
       "title": "WPS AI",
       "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。"
@@ -3086,7 +3088,9 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -6228,7 +6232,7 @@
         "AI 搜索引擎",
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
@@ -7005,7 +7009,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.arcads.ai": {
       "title": "Arcads",
@@ -7304,9 +7310,7 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -7717,7 +7721,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -8390,7 +8394,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://replika.com": {
@@ -8690,9 +8694,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://dialoggpt.io/home": {
       "title": "DialogGPT",
@@ -9251,7 +9253,9 @@
       "type": [
         "AI 聊天对话",
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.tawk.to": {
       "title": "tawk.to",
@@ -9693,9 +9697,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][418]Unknown Status"
+      ]
     },
     "https://www.tabnine.com": {
       "title": "Tabnine",
@@ -10081,7 +10083,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://mvsep.com/zh": {
       "title": "MVSEP",
@@ -10135,7 +10139,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "https://y.qq.com/tme_studio/": {
       "title": "TME Studio",
@@ -10892,9 +10898,7 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -11462,7 +11466,10 @@
       "title": "Cline",
       "desc": "Cline 是一个开源的 AI 编程助手，以 VSCode 插件的形式提供安装使用。",
       "star": 3,
-      "tags": ["IDE", "vscode"],
+      "tags": [
+        "IDE",
+        "vscode"
+      ],
       "type": [
         "AI 编程开发"
       ]
@@ -11470,7 +11477,10 @@
     "https://www.marscode.com": {
       "title": "Marscode",
       "desc": "MarsCode是字节旗下AI代码助手，提供了一个内置AI助手和扩展的IDE，支持超过100种语言和主流IDE。",
-      "tags": ["IDE", "vscode"],
+      "tags": [
+        "IDE",
+        "vscode"
+      ],
       "type": [
         "AI 编程开发"
       ]
@@ -11478,7 +11488,10 @@
     "https://codegeex.cn": {
       "title": "CodeGeeX",
       "desc": "CodeGeeX是一个基于AI大模型的编程辅助工具，可以实现自动代码生成、代码翻译、自动编写注释等功能，支持20多种编程语言。",
-      "tags": ["IDE", "vscode"],
+      "tags": [
+        "IDE",
+        "vscode"
+      ],
       "type": [
         "AI 编程开发"
       ]
@@ -11729,7 +11742,9 @@
       "intro": "Bild AI 是一款利用人工智能读取和理解蓝图的工具，帮助快速估算材料成本并确保蓝图准确性。",
       "desc": "Bild AI 是一款专注于建筑行业的生产力工具，通过人工智能技术读取和理解建筑蓝图，快速生成材料成本估算和确保蓝图的准确性。该技术能够显著减少人工估算的时间和错误率，帮助建筑企业提高效率和竞争力。Bild AI 的主要优势在于其高效的 AI 模型，能够快速识别蓝图中的关键信息，并生成详细的成本分析报告。此外，它还能提前发现蓝图中的合规性问题，确保提交的图纸一次性通过审批。Bild AI 的目标是为建筑行业提供一个高效、准确且可靠的数字化解决方案，帮助企业在复杂的建筑项目中节省时间和成本。",
       "lang": "en",
-      "type": ["AI 行业工具"],
+      "type": [
+        "AI 行业工具"
+      ],
       "tags": [
         "人工智能",
         "建筑",
@@ -12251,7 +12266,7 @@
       "tags": [
         "AI 教程"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.promeai.com": {
@@ -12278,7 +12293,9 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ppinfra.com/user/": {
       "type": [
