@@ -658,9 +658,7 @@
       "needLogin": 1,
       "source": "recommend",
       "desc": "每天可免费提问10次，会员无限制。实打实向微软付费，企业级服务接口，速度快，非常稳定",
-      "title": "33GPT - 为内容创客打造的AI对话工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "33GPT - 为内容创客打造的AI对话工具"
     },
     "https://shutu.cn": {
       "star": 2,
@@ -1195,9 +1193,7 @@
         "AI 行业工具"
       ],
       "title": "Tipranks",
-      "desc": "【金融】",
-      "needVerify": 2,
-      "errmsg": "[error][471]HTTP_471"
+      "desc": "【金融】"
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
       "type": [
@@ -2468,7 +2464,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2789,7 +2787,9 @@
         "AI 视频生成"
       ],
       "title": "剪映专业版",
-      "desc": "强大的国产剪辑工具！支持AI智能生成字幕和配音"
+      "desc": "强大的国产剪辑工具！支持AI智能生成字幕和配音",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://soundraw.io": {
       "type": [
@@ -5527,9 +5527,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
@@ -6236,7 +6234,7 @@
         "AI 搜索引擎",
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
@@ -6867,7 +6865,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -6979,7 +6979,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://fancy.tech": {
@@ -7016,7 +7016,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.arcads.ai": {
@@ -7317,7 +7317,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -7636,9 +7636,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.canva.cn": {
       "title": "Canva 可画",
@@ -7730,7 +7728,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -9104,7 +9104,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "https://apps.apple.com/us/app/claude/id6473753684": {
@@ -9265,7 +9265,7 @@
         "AI 聊天对话",
         "AI 综合工具"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.tawk.to": {
@@ -9728,7 +9728,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
@@ -9824,7 +9824,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.texttovoice.online": {
@@ -10099,7 +10099,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://mvsep.com/zh": {
@@ -10155,7 +10155,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "https://y.qq.com/tme_studio/": {
@@ -10914,7 +10914,7 @@
         "AI 聊天对话",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.cyrinn.cn": {
@@ -12333,7 +12333,7 @@
         "deepseek",
         "大厂合集(精选大厂热门AI产品)"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ppinfra.com"
     },
     "https://yourapi.cn": {
