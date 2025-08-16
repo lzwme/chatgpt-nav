@@ -683,7 +683,7 @@
       ],
       "desc": "收录热门AI产品",
       "title": "Khanmigo",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]connect ECONNREFUSED 8.133.16.9:443"
     },
     "https://chat.yqcloud.top": {
@@ -1195,7 +1195,9 @@
         "AI 行业工具"
       ],
       "title": "Tipranks",
-      "desc": "【金融】"
+      "desc": "【金融】",
+      "needVerify": 1,
+      "errmsg": "[error][471]HTTP_471"
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
       "type": [
@@ -2098,7 +2100,7 @@
       ],
       "title": "硅基智能",
       "desc": "打造硅基劳动力，让人回归人的价值。",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]connect ECONNREFUSED 47.110.62.172:443"
     },
     "https://www.xiaoice.com": {
@@ -2967,7 +2969,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3092,7 +3096,9 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3746,7 +3752,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][404]Not Found"
     },
     "https://webassistants.ai": {
@@ -6236,7 +6242,7 @@
         "AI 搜索引擎",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
@@ -7319,7 +7325,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -7730,7 +7736,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8604,7 +8612,9 @@
       "type": [
         "AI 角色生成",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://npc.baichuan-ai.com/index": {
       "title": "百川角色大模型",
@@ -9390,7 +9400,9 @@
       ],
       "type": [
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat.baichuan-ai.com/home": {
       "title": "百川大模型",
@@ -9467,7 +9479,9 @@
         "生产力",
         "模型"
       ],
-      "type": []
+      "type": [],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://home.tiangong.cn": {
       "title": "天工SkyMusic",
@@ -9732,9 +9746,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -10942,7 +10954,7 @@
         "AI 视频生成",
         "AI 语音生成"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://fullpeace.cn": {
