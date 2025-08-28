@@ -225,7 +225,9 @@
         "API",
         "deepseek",
         "大厂合集(精选大厂热门AI产品)"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.volcengine.com/experience/ark": {
       "type": [
@@ -568,9 +570,7 @@
       "sort": -80,
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
-      "title": "C知道",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "C知道"
     },
     "https://ai-maas.wair.ac.cn": {
       "type": [
@@ -661,7 +661,7 @@
       "source": "recommend",
       "desc": "每天可免费提问10次，会员无限制。实打实向微软付费，企业级服务接口，速度快，非常稳定",
       "title": "33GPT - 为内容创客打造的AI对话工具",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://shutu.cn": {
@@ -1285,7 +1285,9 @@
         "AI 写作助手"
       ],
       "title": "Language Tool",
-      "desc": "LanguageTool 是一款免费的英语、西班牙语和其他30种语言的语法检查和改写工具。"
+      "desc": "LanguageTool 是一款免费的英语、西班牙语和其他30种语言的语法检查和改写工具。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://smodin.io/zh-cn": {
       "type": [
@@ -2094,7 +2096,9 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。"
+      "desc": "AI真人视频创作工具。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.guiji.ai": {
       "type": [
@@ -2575,7 +2579,9 @@
         "AI 绘图"
       ],
       "title": "Appicons AI",
-      "desc": "AI生成精致的App图标"
+      "desc": "AI生成精致的App图标",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.dora.run/ai": {
       "type": [
@@ -3224,7 +3230,9 @@
         "AI 国外工具"
       ],
       "title": "QoQo",
-      "desc": "AI快速创建用户旅程地图"
+      "desc": "AI快速创建用户旅程地图",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.chai-research.com": {
       "title": "Chai Research",
@@ -6221,7 +6229,9 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -6736,7 +6746,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.chatvideo.cc": {
       "title": "Chat Video",
@@ -6851,7 +6863,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -7302,7 +7316,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -7712,9 +7728,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8687,7 +8701,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://dialoggpt.io/home": {
       "title": "DialogGPT",
@@ -8774,8 +8790,9 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.pingparrot.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.pingparrot.com",
+      "hide": 1
     },
     "https://sermoai.net": {
       "title": "SermoAI",
@@ -8794,7 +8811,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.choony.io": {
@@ -9721,7 +9738,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
@@ -10865,7 +10882,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -10930,8 +10949,8 @@
         "AI 视频生成",
         "AI 语音生成"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      "needVerify": 2,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -11553,9 +11572,7 @@
       "tags": [
         "AI论文",
         "AI写作"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chat.doltrans.com": {
       "title": "免费ChatGPT中文版",
