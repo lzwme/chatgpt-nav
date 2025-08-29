@@ -703,7 +703,7 @@
       "source": "recommend",
       "desc": "每天可免费提问10次，会员无限制。实打实向微软付费，企业级服务接口，速度快，非常稳定",
       "title": "33GPT - 为内容创客打造的AI对话工具",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://shutu.cn": {
@@ -1301,9 +1301,7 @@
         "AI 写作助手"
       ],
       "title": "Language Tool",
-      "desc": "LanguageTool 是一款免费的英语、西班牙语和其他30种语言的语法检查和改写工具。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "LanguageTool 是一款免费的英语、西班牙语和其他30种语言的语法检查和改写工具。"
     },
     "https://smodin.io/zh-cn": {
       "type": [
@@ -1675,7 +1673,9 @@
         "AI 图像处理"
       ],
       "title": "Dora AI",
-      "desc": "Dora AI可以做到使用自然语言生成、定制和部署网站，所有这些都在Dora强大的无代码编辑器中完成，他能在几秒钟内生成令人惊叹的、完全可编辑的网站，将静态设计转换为3D，自动化您的动画过程。"
+      "desc": "Dora AI可以做到使用自然语言生成、定制和部署网站，所有这些都在Dora强大的无代码编辑器中完成，他能在几秒钟内生成令人惊叹的、完全可编辑的网站，将静态设计转换为3D，自动化您的动画过程。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://v0.dev": {
       "type": [
@@ -2134,9 +2134,7 @@
         "AI 视频生成"
       ],
       "title": "D-ID",
-      "desc": "AI真人视频创作工具。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI真人视频创作工具。"
     },
     "https://www.xiaoice.com": {
       "type": [
@@ -2357,7 +2355,9 @@
       ],
       "title": "Midlibrary",
       "lang": "en",
-      "desc": "风格多样！实用超2000+MJ提示词资源"
+      "desc": "风格多样！实用超2000+MJ提示词资源",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://promptbase.com": {
       "type": [
@@ -2502,7 +2502,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2603,9 +2605,7 @@
         "AI 绘图"
       ],
       "title": "Appicons AI",
-      "desc": "AI生成精致的App图标",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI生成精致的App图标"
     },
     "https://www.dora.run/ai": {
       "type": [
@@ -2770,7 +2770,9 @@
         "AI 写作助手"
       ],
       "title": "爱创作",
-      "desc": "一键生成文章、营销文本、配图与短视频等多类型内容"
+      "desc": "一键生成文章、营销文本、配图与短视频等多类型内容",
+      "needVerify": 1,
+      "errmsg": "[error][-1]socket hang up"
     },
     "https://openai.com/sora": {
       "type": [
@@ -2853,7 +2855,9 @@
         "AI 视频生成"
       ],
       "title": "Clipchamp",
-      "desc": "将文本转为视频旁白！几分钟即可创建导出视频"
+      "desc": "将文本转为视频旁白！几分钟即可创建导出视频",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://ttsmaker.cn": {
       "type": [
@@ -3241,9 +3245,7 @@
         "AI 国外工具"
       ],
       "title": "QoQo",
-      "desc": "AI快速创建用户旅程地图",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI快速创建用户旅程地图"
     },
     "https://www.chai-research.com": {
       "title": "Chai Research",
@@ -6218,9 +6220,7 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -6735,9 +6735,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.chatvideo.cc": {
       "title": "Chat Video",
@@ -6852,9 +6850,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -7306,7 +7302,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -7717,7 +7713,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8690,9 +8688,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://dialoggpt.io/home": {
       "title": "DialogGPT",
@@ -8800,7 +8796,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.choony.io": {
@@ -9726,9 +9722,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -10871,9 +10865,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -10937,9 +10929,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
