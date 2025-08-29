@@ -220,14 +220,42 @@
         "语言模型",
         "知识增强",
         "中文精选",
-        "生产力",
         "云服务",
         "API",
         "deepseek",
         "大厂合集(精选大厂热门AI产品)"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": -1
+    },
+    "https://iflow.cn": {
+      "type": [
+        "AI 聊天对话",
+        "AI 综合工具"
+      ],
+      "star": 3,
+      "desc": "心流是一款AI助手，帮助你高效获取知识，无论是日常娱乐生活百科还是专业学术论文知识，都可以轻松解答，让你快速进入心流状态，让知识随心流动！",
+      "title": "心流AI助手",
+      "tags": [
+        "人工智能",
+        "大厂合集(精选大厂热门AI产品)"
+      ],
+      "needVerify": -1
+    },
+    "https://platform.iflow.cn": {
+      "type": [
+        "AI 聊天对话",
+        "AI 综合工具"
+      ],
+      "star": 3,
+      "desc": "用AI重塑研发范式，让每一位开发者体验沉浸、高效的创作流程。提供免费的大模型 API 调用额度。",
+      "title": "心流AI开放平台",
+      "tags": [
+        "人工智能",
+        "云服务",
+        "API",
+        "大厂合集(精选大厂热门AI产品)"
+      ],
+      "needVerify": -1
     },
     "https://www.volcengine.com/experience/ark": {
       "type": [
@@ -256,7 +284,8 @@
       "desc": "Kimi智能助手能够支持约20万汉字的上下文输入，具备显著的中文优势，能够为用户提供回答问题、速读文件、整理资料、激发灵感、辅助创作等服务",
       "title": "Kimi.ai",
       "tags": [
-        "大厂合集(精选大厂热门AI产品)"
+        "大厂合集(精选大厂热门AI产品)",
+        "API"
       ]
     },
     "https://yiyan.baidu.com": {
@@ -276,7 +305,8 @@
         "中文精选",
         "生产力",
         "模型",
-        "大厂合集(精选大厂热门AI产品)"
+        "大厂合集(精选大厂热门AI产品)",
+        "API"
       ]
     },
     "https://cp.baidu.com": {
@@ -298,6 +328,7 @@
       "tags": [
         "deepseek",
         "百度",
+        "开放平台",
         "API"
       ]
     },
@@ -506,9 +537,21 @@
         "数学题解答",
         "代码理解与编写",
         "中文精选",
-        "生产力",
-        "模型",
-        "大厂合集(精选大厂热门AI产品)"
+        "大厂合集(精选大厂热门AI产品)",
+        "API"
+      ]
+    },
+    "https://www.xfyun.cn": {
+      "title": "讯飞开放平台",
+      "intro": "以语音交互为核心的人工智能开放平台。",
+      "desc": "科大讯飞推出的移动互联网智能交互平台，为开发者免费提供：涵盖语音能力增强型SDK，一站式人机智能语音交互解决方案，专业全面的移动应用分析。",
+      "lang": "zh",
+      "tags": [
+        "开放平台",
+        "API"
+      ],
+      "type": [
+        "AI 综合工具"
       ]
     },
     "https://chatglm.cn": {
@@ -524,7 +567,8 @@
       "desc": "清华大学孵化的智谱AI提供的千亿参数对话模型ChatGLM",
       "title": "智谱清言",
       "tags": [
-        "大厂合集(精选大厂热门AI产品)"
+        "大厂合集(精选大厂热门AI产品)",
+        "API"
       ]
     },
     "https://hunyuan.tencent.com": {
@@ -544,9 +588,7 @@
         "中文创作",
         "逻辑推理",
         "任务执行",
-        "生产力",
-        "普通产品",
-        "模型",
+        "API",
         "大厂合集(精选大厂热门AI产品)"
       ]
     },
@@ -680,27 +722,6 @@
       "source": "recommend",
       "title": "ChatGPT Web--免费的国内ChatGPT"
     },
-    "https://www.aicpw.cn": {
-      "type": [
-        "AI 综合工具",
-        "AI 行业工具"
-      ],
-      "desc": "收录热门AI产品",
-      "title": "Khanmigo",
-      "needVerify": 7,
-      "errmsg": "[error][-1]connect ECONNREFUSED 8.133.16.9:443",
-      "hide": 1
-    },
-    "https://chat.yqcloud.top": {
-      "needVPN": 1,
-      "desc": "可正常访问，但接口无响应",
-      "hide": 1,
-      "title": "AIchatOS"
-    },
-    "https://aigcfun.com": {
-      "title": "AI EDU",
-      "desc": "该站点已暂停访问"
-    },
     "https://aitools.run": {
       "urls": [
         "https://aibang.run"
@@ -727,11 +748,6 @@
     "https://ai117.com": {
       "needVPN": 1,
       "title": "AI Chat"
-    },
-    "https://chat.binjie.site:7777": {
-      "star": 2,
-      "desc": "基于 GPT3 的在线对话应用（非 OpenAI GTP 3.5+），支持部分信息在线搜索",
-      "title": "仅用于开发学习交流"
     },
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
@@ -817,7 +833,7 @@
       "star": 3,
       "sort": -87
     },
-    "https://tongyi.aliyun.com/qianwen": {
+    "https://www.tongyi.com": {
       "type": [
         "AI 聊天对话",
         "国产大模型"
@@ -828,7 +844,7 @@
         "语义理解",
         "语言生成",
         "中文精选",
-        "生产力",
+        "PPT",
         "模型"
       ],
       "title": "通义千问",
@@ -935,7 +951,7 @@
         "学习",
         "生产力",
         "全球热门",
-        "网站"
+        "API"
       ],
       "type": [
         "AI 写作助手",
@@ -1581,6 +1597,17 @@
         "vscode"
       ]
     },
+    "https://qoder.com": {
+      "title": "Qoder",
+      "desc": "阿里出品面向国际版的 AI Coding IDE",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "IDE"
+      ]
+    },
     "https://copilot.tencent.com": {
       "title": "CodeBuddy",
       "desc": "腾讯自研编程编程AI助手。从此用自然语言编程，AI 自主完成多文件代码生成和改写，让灵感即刻落地。",
@@ -1591,6 +1618,17 @@
       "tags": [
         "IDE",
         "vscode"
+      ]
+    },
+    "https://www.codebuddy.ai": {
+      "title": "CodeBuddy 国际版",
+      "desc": "腾讯出品面向国际版的AI编程助手。",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "IDE"
       ]
     },
     "https://replit.com": {
@@ -2100,17 +2138,6 @@
       "needVerify": 1,
       "errmsg": "[error][-1]timeout"
     },
-    "https://www.guiji.ai": {
-      "type": [
-        "AI 数字人",
-        "AI 视频生成"
-      ],
-      "title": "硅基智能",
-      "desc": "打造硅基劳动力，让人回归人的价值。",
-      "needVerify": 7,
-      "errmsg": "[error][-1]connect ECONNREFUSED 47.110.62.172:443",
-      "hide": 1
-    },
     "https://www.xiaoice.com": {
       "type": [
         "AI 数字人"
@@ -2330,10 +2357,7 @@
       ],
       "title": "Midlibrary",
       "lang": "en",
-      "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "desc": "风格多样！实用超2000+MJ提示词资源"
     },
     "https://promptbase.com": {
       "type": [
@@ -2669,16 +2693,6 @@
       "title": "Flair AI",
       "desc": "你的私人AI设计师！一键生成精美产品照片"
     },
-    "https://getgetai.com/workstation": {
-      "type": [
-        "AI 写作助手"
-      ],
-      "title": "字语未来",
-      "desc": "用AI创造更有价值的信息，定义新一代智能办公平台",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
     "https://lunwenbang.cc": {
       "type": [
         "AI 写作助手"
@@ -2839,10 +2853,7 @@
         "AI 视频生成"
       ],
       "title": "Clipchamp",
-      "desc": "将文本转为视频旁白！几分钟即可创建导出视频",
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "desc": "将文本转为视频旁白！几分钟即可创建导出视频"
     },
     "https://ttsmaker.cn": {
       "type": [
@@ -5483,28 +5494,6 @@
         "AI 行业工具"
       ]
     },
-    "https://www.xfyun.cn/services/zhi-jian": {
-      "title": "讯飞智检",
-      "intro": "智能 AI 写作、文档纠错校对、文本图像合规检测平台。",
-      "desc": "讯飞智检是一款基于海量标注数据和深度学习算法实现文本纠错、涉黄、涉政及违禁词等识别的产品。通过节省人工成本，极大地提升了数据的正确性、规范性。定位于提高数据安全性、降低审核成本的 AI 文本审核平台。",
-      "lang": "zh",
-      "tags": [
-        "文本审核",
-        "文本纠错",
-        "内容合规",
-        "AI 写作",
-        "数据安全",
-        "写作",
-        "普通产品",
-        "网站"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
-    },
     "https://undetectable.ai": {
       "title": "Undetectable.ai",
       "intro": "AI写作工具，欺骗AI检测器",
@@ -7360,7 +7349,7 @@
       "hide": 1
     },
     "https://chatdoc.xfyun.cn": {
-      "title": "星火文档问答",
+      "title": "星火知识库",
       "intro": "高效检索文档信息，准确回答专业问题",
       "desc": "讯飞星火知识库文档问答是科大讯飞基于讯飞星火大模型和星火知识库搭建的文档问答服务，能够高效检索文档信息，准确回答专业问题。具备多文档问答，文档知识库，信源原文定位，文档总结，自定义切分等功能。",
       "lang": "zh",
