@@ -703,7 +703,7 @@
       "source": "recommend",
       "desc": "每天可免费提问10次，会员无限制。实打实向微软付费，企业级服务接口，速度快，非常稳定",
       "title": "33GPT - 为内容创客打造的AI对话工具",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://shutu.cn": {
@@ -1376,7 +1376,9 @@
         "AI 写作助手"
       ],
       "title": "笔灵AI",
-      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。"
+      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://effidit.qq.com": {
       "type": [
@@ -2354,7 +2356,7 @@
       "title": "Midlibrary",
       "lang": "en",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://promptbase.com": {
@@ -2767,7 +2769,7 @@
       ],
       "title": "爱创作",
       "desc": "一键生成文章、营销文本、配图与短视频等多类型内容",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]socket hang up"
     },
     "https://openai.com/sora": {
@@ -2844,7 +2846,9 @@
         "AI 视频生成"
       ],
       "title": "Audo Studio",
-      "desc": "听起来很棒！AI一键清除音频背景杂音"
+      "desc": "听起来很棒！AI一键清除音频背景杂音",
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://clipchamp.com/zh-hans": {
       "type": [
@@ -2852,7 +2856,7 @@
       ],
       "title": "Clipchamp",
       "desc": "将文本转为视频旁白！几分钟即可创建导出视频",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://ttsmaker.cn": {
@@ -2990,9 +2994,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3118,7 +3120,7 @@
       ],
       "title": "Qodo",
       "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
@@ -5940,7 +5942,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hubspot.com/campaign-assistant": {
       "title": "HubSpot Campaign Assistant",
@@ -6220,7 +6224,9 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -7301,7 +7307,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -7711,9 +7719,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8794,7 +8800,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.choony.io": {
@@ -9153,9 +9159,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.chatplayground.ai": {
       "title": "ChatPlayground AI",
@@ -9665,7 +9669,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.jetbrains.com/ai/": {
       "title": "JetBrains",
@@ -10274,7 +10280,9 @@
       ],
       "type": [
         "AI 提示词"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
