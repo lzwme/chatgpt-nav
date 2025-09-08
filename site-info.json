@@ -765,7 +765,7 @@
     "https://chat.wangyaodi.com": {
       "repo": "yorzi/chatgpt-demo",
       "title": "NextChat",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://ai.ls": {
@@ -1379,7 +1379,9 @@
         "AI 写作助手"
       ],
       "title": "笔灵AI",
-      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。"
+      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://effidit.qq.com": {
       "type": [
@@ -1685,8 +1687,9 @@
       "star": 3,
       "title": "V0",
       "desc": "基于文本、设计图生成网站！V0 是由vercel团队开发的前端用户界面生成工具。",
-      "needVerify": 6,
-      "errmsg": "[error][429]Too Many Requests"
+      "needVerify": 7,
+      "errmsg": "[error][429]Too Many Requests",
+      "hide": 1
     },
     "https://bolt.new": {
       "type": [
@@ -2998,9 +3001,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -6226,9 +6227,7 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ],
-      "needVerify": 4,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -6433,9 +6432,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][405]Not Allowed"
+      ]
     },
     "https://pixverse.ai": {
       "title": "PixVerse",
@@ -6713,9 +6710,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][405]Not Allowed"
+      ]
     },
     "https://github.com/Boese0601/MagicDance": {
       "title": "MagicDance",
@@ -7314,7 +7309,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -7725,9 +7720,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -7846,9 +7839,7 @@
         "AI 语音生成",
         "AI 翻译工具",
         "AI 会议助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://miro.com/ai": {
       "title": "Miro AI",
@@ -8013,7 +8004,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 127.0.0.1:443"
     },
     "https://www.wondercv.com": {
       "title": "超级简历",
@@ -9737,9 +9730,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -12340,9 +12331,7 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ppinfra.com/user/": {
       "type": [
@@ -12369,14 +12358,6 @@
       ],
       "needVerify": -1
     },
-    "https://remove-watermark.org/": {
-      "type": "AI 图像处理",
-      "source": "recommend",
-      "star": 2,
-      "desc": "几秒钟内获得干净、专业的图片。轻松移除水印——无需 Photoshop 技能",
-      "title": "iPurix - 轻松去除任何水印",
-      "needPay": 1
-    },
     "https://yourapi.cn": {
       "title": "YOURAPI",
       "desc": "基于new-api的OpenAI接口聚合服务，价格便宜，支持调用 Claude4 等顶级模型API调用！",
@@ -12393,6 +12374,16 @@
         "API"
       ],
       "lang": "zh"
+    },
+    "https://remove-watermark.org": {
+      "type": [
+        "AI 图像处理"
+      ],
+      "source": "recommend",
+      "star": 2,
+      "desc": "几秒钟内获得干净、专业的图片。轻松移除水印——无需 Photoshop 技能",
+      "title": "iPurix - 轻松去除任何水印",
+      "needPay": 1
     }
   }
 }
