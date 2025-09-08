@@ -12367,9 +12367,15 @@
         "deepseek",
         "大厂合集(精选大厂热门AI产品)"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND ppinfra.com",
-      "hide": 1
+      "needVerify": -1
+    },
+    "https://remove-watermark.org/": {
+      "type": "AI 图像处理",
+      "source": "recommend",
+      "star": 2,
+      "desc": "几秒钟内获得干净、专业的图片。轻松移除水印——无需 Photoshop 技能",
+      "title": "iPurix - 轻松去除任何水印",
+      "needPay": 1
     },
     "https://yourapi.cn": {
       "title": "YOURAPI",
