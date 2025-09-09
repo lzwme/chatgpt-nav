@@ -3669,6 +3669,7 @@
     "https://github.com/features/copilot": {
       "title": "GitHub Copilot",
       "desc": "热门！GitHub AI编程工具",
+      "star": 3,
       "type": [
         "AI 编程开发",
         "AI 开源工具",
@@ -3678,9 +3679,22 @@
         "IDE"
       ]
     },
-    "https://traeide.com/zh/": {
-      "title": "Trae IDE",
-      "desc": "字节跳动旗下的AI代码编辑器，支持Claude 3.5和GPT-4，现在限时免费",
+    "https://www.trae.ai": {
+      "title": "Trae AI",
+      "desc": "字节跳动旗下的AI代码编辑器，面向国内用户。",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "字节跳动",
+        "vscode",
+        "IDE"
+      ]
+    },
+    "https://www.trae.cn": {
+      "title": "Trae CN",
+      "desc": "字节跳动推出面向国际版的AI代码编辑器，支持Claude和GPT最新模型",
       "star": 3,
       "type": [
         "AI 编程开发"
@@ -12384,6 +12398,105 @@
       "desc": "几秒钟内获得干净、专业的图片。轻松移除水印——无需 Photoshop 技能",
       "title": "iPurix - 轻松去除任何水印",
       "needPay": 1
+    },
+    "https://docs.anthropic.com/zh-CN/docs/claude-code/overview": {
+       "title": "Claude Code",
+       "desc": "Claude Code 是 Anthropic 的智能编程工具，它运行在您的终端中，帮助您比以往更快地将想法转化为代码。",
+       "star": 3,
+       "type": [
+         "AI 编程开发"
+       ],
+       "tags": [
+         "CLI"
+        ]
+    },
+    "https://openai.com/index/openai-codex": {
+       "title": "OpenAI Codex",
+       "desc": "OpenAI 推出的基于终端的编程工具，支持 GPT5 模型，后端语言编程能力强。",
+       "star": 3,
+       "type": [
+         "AI 编程开发"
+       ],
+       "tags": [
+         "CLI"
+       ]
+    },
+    "https://qwenlm.github.io/qwen-code-docs/zh/": {
+       "title": "Qwen Code",
+       "desc": "千问团队专为开发人员打造的强大人工智能工具。提供每日 2000 次免费调用额度。",
+       "star": 3,
+       "type": [
+         "AI 编程开发"
+       ],
+       "tags": [
+         "CLI"
+       ]
+    },
+    "https://google-gemini.github.io/gemini-cli/": {
+       "title": "Gemini CLI",
+       "desc": "Gemini CLI 是一个开源 AI 代理，可将 Gemini 的强大功能直接带入您的终端。它提供了对 Gemini 的轻量级访问，为您提供从提示到我们模型的最直接路径。",
+       "star": 3,
+       "type": [
+         "AI 编程开发"
+       ],
+       "tags": [
+         "CLI"
+       ]
+    },
+    "https://github.com/shareAI-lab/Kode/": {
+       "title": "Kode",
+       "desc": "Claude Code 的开源优化增强版",
+       "star": 3,
+       "type": [
+         "AI 编程开发"
+       ],
+       "tags": [
+         "CLI"
+       ]
+    },
+    "https://cursor.com/cn/cli": {
+       "title": "Kode",
+       "desc": "Cursor 于2025年8月发布的基于终端的AI编程工具，支持使用 GPT5 模型。",
+       "star": 3,
+       "type": [
+         "AI 编程开发"
+       ],
+       "tags": [
+         "CLI"
+       ]
+    },
+    "https://docs.cloudbase.net/cli-v1/ai/introduce": {
+       "title": "CloudBase AI CLI",
+       "desc": "腾讯云开发的 AI CLI 辅助工具，支持能够通过一个简单的命令使用 Claude Code、OpenAI Codex、aider、Qwen Code 等 AI 编程助手。",
+       "star": 3,
+       "type": [
+         "AI 编程开发"
+       ],
+       "tags": [
+         "CLI"
+       ]
+    },
+    "https://cnb.cool/codebuddy/codebuddy-code": {
+       "title": "CodeBuddy Code",
+       "desc": "腾讯云官方2025年9月发布的 AI 智能编码工具，支持在终端、IDE 及 GitHub 上通过自然语言高效协作与开发。",
+       "star": 3,
+       "type": [
+         "AI 编程开发"
+       ],
+       "tags": [
+         "CLI"
+       ]
+    },
+    "https://aider.chat": {
+       "title": "Aider",
+       "desc": "AI pair programming in your terminal",
+       "star": 2,
+       "type": [
+         "AI 编程开发"
+       ],
+       "tags": [
+         "CLI"
+       ]
     }
   }
 }
