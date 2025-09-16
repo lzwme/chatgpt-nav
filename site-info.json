@@ -669,7 +669,9 @@
       "needLogin": 1,
       "needPay": 1,
       "source": "recommend",
-      "title": "灵沐AI（Immuse AI)"
+      "title": "灵沐AI（Immuse AI)",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chattyaid.com": {
       "star": 2,
@@ -1361,7 +1363,9 @@
         "AI 写作助手"
       ],
       "title": "火龙果写作",
-      "desc": "火龙果智能写作软件，是一款基于AI 驱动的写作辅助神器，它提供了文章内容生成续写、智能改写、校对纠错、实时翻等强大功能。"
+      "desc": "火龙果智能写作软件，是一款基于AI 驱动的写作辅助神器，它提供了文章内容生成续写、智能改写、校对纠错、实时翻等强大功能。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai.kezhan365.com": {
       "type": [
@@ -1580,7 +1584,9 @@
       ],
       "tags": [
         "IDE"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://replit.com": {
       "type": [
@@ -1888,7 +1894,9 @@
         "AI 图像处理"
       ],
       "title": "模袋云AI",
-      "desc": "模袋云AI是一款在线别墅设计神器。"
+      "desc": "模袋云AI是一款在线别墅设计神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.nolibox.com": {
       "type": [
@@ -1903,7 +1911,9 @@
         "AI 绘图"
       ],
       "title": "稿定AI",
-      "desc": "稿定智能设计工具是一款智能化的设计工具，采用先进的人工智能技术，自动分析和生成设计方案。只需稍作调整，即可完成完美的设计。"
+      "desc": "稿定智能设计工具是一款智能化的设计工具，采用先进的人工智能技术，自动分析和生成设计方案。只需稍作调整，即可完成完美的设计。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.photoroom.com": {
       "type": [
@@ -1958,7 +1968,9 @@
         "AI 电商工具"
       ],
       "title": "WeShop",
-      "desc": "AI商拍工具，在WeShop再也不会受到模特限制，鼠标就是快门，点击就看成片。"
+      "desc": "AI商拍工具，在WeShop再也不会受到模特限制，鼠标就是快门，点击就看成片。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.suno.ai": {
       "type": [
@@ -2001,7 +2013,9 @@
         "AI 语音生成"
       ],
       "title": "魔音工坊",
-      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。"
+      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://mubert.com": {
       "type": [
@@ -2188,7 +2202,9 @@
         "AI 图像处理"
       ],
       "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中"
+      "desc": "国内自研的AI作画系统！内测中",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
       "type": [
@@ -2286,8 +2302,9 @@
       "title": "Midlibrary",
       "lang": "en",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://promptbase.com": {
       "type": [
@@ -2368,7 +2385,9 @@
         "AI 绘图"
       ],
       "title": "Booltool",
-      "desc": "多合一AI图像处理网站，快速进行编辑修整"
+      "desc": "多合一AI图像处理网站，快速进行编辑修整",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.upscayl.org": {
       "type": [
@@ -2769,8 +2788,9 @@
       ],
       "title": "Clipchamp",
       "desc": "将文本转为视频旁白！几分钟即可创建导出视频",
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://ttsmaker.cn": {
       "type": [
@@ -2899,7 +2919,7 @@
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
@@ -2999,7 +3019,9 @@
       ],
       "icon": "https://dlweb.sogoucdn.com/translate/favicon.ico",
       "title": "搜狗翻译",
-      "desc": "支持中、英、法、日等50多种语言之间的互译功能"
+      "desc": "支持中、英、法、日等50多种语言之间的互译功能",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://windsurf.com": {
       "type": [
@@ -3021,7 +3043,7 @@
       ],
       "title": "Qodo",
       "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
@@ -3191,7 +3213,9 @@
       "desc": "「印象笔记」X「印象AI」会创作的第二大脑",
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.edrawsoft.cn/mindmaster": {
       "title": "亿图脑图",
@@ -3751,7 +3775,9 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://undermind.ai": {
       "title": "Undermind.ai",
@@ -3820,8 +3846,9 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://ai.nero.com/enhance": {
       "title": "Nero AI Image Upscaler",
@@ -3910,7 +3937,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -4224,7 +4253,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -4525,8 +4556,9 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://logodiffusion.com": {
       "title": "Logo Diffusion",
@@ -4687,7 +4719,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://github.com/levihsu/OOTDiffusion": {
       "title": "OOTDiffusion",
@@ -4881,8 +4915,9 @@
         "AI 行业工具",
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://baoyueai.com/home?utm_id=219599": {
       "title": "包阅AI文档阅读",
@@ -4932,7 +4967,7 @@
         "AI 写作助手",
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.overleaf.com": {
@@ -5200,7 +5235,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xiaomengai.com": {
       "title": "彩云小梦尝鲜版",
@@ -5714,9 +5751,7 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -5749,7 +5784,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://free-trial.adcreative.ai/98krjvb7wdoq": {
       "title": "Adcreative.ai",
@@ -6178,8 +6215,9 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.runwayml.com": {
       "title": "Runwayml",
@@ -6356,8 +6394,9 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.arcads.ai": {
       "title": "Arcads",
@@ -6563,7 +6602,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://audionotes.ai": {
       "title": "AudioNotes.ai",
@@ -6612,7 +6653,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -6643,7 +6684,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://pdfcandy.com": {
       "title": "PDF Candy",
@@ -6865,8 +6908,9 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.feishu.cn/product/ai_companion": {
       "title": "飞书智能伙伴",
@@ -6927,7 +6971,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -6963,7 +7007,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://static.app.yinxiang.com/evermind/product/login": {
       "title": "印象图记",
@@ -6978,7 +7024,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://otterai.sjv.io/c/3697237/1063514/13661": {
       "title": "Otter.ai",
@@ -7571,7 +7619,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://zhumengdao.com": {
       "title": "筑梦岛",
@@ -7585,7 +7635,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://maopaoya.com": {
       "title": "冒泡鸭AI",
@@ -7601,7 +7653,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://apps.apple.com/cn/app/%E8%AF%9D%E7%82%89/id6475000292": {
       "title": "话炉",
@@ -7631,7 +7685,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://character.sensetime.com/character-wb/home": {
       "title": "商汤商量拟人大模型",
@@ -7650,7 +7706,9 @@
       "type": [
         "AI 角色生成",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://npc.baichuan-ai.com/index": {
       "title": "百川角色大模型",
@@ -8185,7 +8243,9 @@
       ],
       "type": [
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat.baichuan-ai.com/home": {
       "title": "百川大模型",
@@ -8298,7 +8358,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.deepseek.com": {
       "title": "deepseek",
@@ -8477,7 +8539,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.tabnine.com": {
       "title": "Tabnine",
@@ -8495,7 +8559,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -8703,7 +8769,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.singduck.cn": {
       "title": "唱鸭",
@@ -8820,8 +8888,9 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://mvsep.com/zh": {
       "title": "MVSEP",
@@ -8856,7 +8925,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://y.qq.com/tme_studio/": {
       "title": "TME Studio",
@@ -8965,7 +9036,9 @@
       ],
       "type": [
         "AI 提示词"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
@@ -9309,7 +9382,9 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.dreamavatar.com": {
       "title": "DreamAvatar",
@@ -9370,7 +9445,9 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -9560,8 +9637,9 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://getliner.com": {
       "title": "Liner",
@@ -9647,7 +9725,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fintax.golcer.com": {
       "title": "高灯财务 AI 助手",
@@ -9666,7 +9746,9 @@
       "type": [
         "AI 行业工具",
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
@@ -10123,7 +10205,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://x.ai": {
       "title": "Grok 3",
@@ -10239,7 +10323,9 @@
         "AI 写作助手",
         "AI 搜索引擎",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.yanbiai.com": {
       "title": "言笔AI",
@@ -10938,7 +11024,9 @@
       "tags": [
         "CLI",
         "编程"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://cnb.cool/codebuddy/codebuddy-code": {
       "title": "CodeBuddy Code",
@@ -10950,7 +11038,9 @@
       "tags": [
         "CLI",
         "编程"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://aider.chat": {
       "title": "Aider",
