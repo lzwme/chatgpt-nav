@@ -2900,7 +2900,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3729,7 +3731,9 @@
       "type": [
         "AI 写作助手",
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://suppr.wilddata.cn": {
       "title": "超能文献·文档翻译",
@@ -5714,7 +5718,7 @@
         "AI 搜索引擎",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
@@ -6239,7 +6243,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -8493,7 +8499,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -8543,7 +8551,9 @@
       "type": [
         "AI 语音生成",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://peiyin.baibaoyin.com": {
       "title": "百宝音",
@@ -9065,7 +9075,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND imagetopromptai.com"
     },
     "https://taishan.qq.com/brand/": {

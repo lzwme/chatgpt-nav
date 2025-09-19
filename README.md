@@ -623,7 +623,7 @@
 1. [[⭐] https://www.loom.com](https://www.loom.com) **Loom。** 使用 Loom AI 录制更好、更快的视频消息，让您的工作更加高效。
 1. [[⭐] https://www.microsoft.com/en-us/research/project/vasa-1/](https://www.microsoft.com/en-us/research/project/vasa-1/) **VASA-1。** VASA-1是由微软研究院开发的一个模型，专注于实时生成与音频相匹配的逼真人脸动画。该技术通过深度学习算法，能够根据输入的语音内容，自动生成相应的口型和面部表情，为用户提供一种全新的交互体验。VASA-1的主要优势在于其高度逼真的生成效果和实时响应能力，使得虚拟角色能够更加自然地与用户进行互动。目前，VASA-1主要应用于虚拟助手、在线教育、娱乐等领域，其定价策略尚未公布，但预计将提供免费试用版本供用户体验。
 1. [[⭐] https://www.modelscope.cn/studios/vigen/video_generation/summary](https://www.modelscope.cn/studios/vigen/video_generation/summary) **追影。** 追影-视频生成是一款基于人工智能技术的视频生成工具，能够快速生成高质量的视频内容。其优势在于提供丰富的视频模板和智能编辑功能，用户可以轻松制作出令人印象深刻的视频作品。定价灵活合理，定位于个人用户和小型企业，为用户提供高效的视频创作解决方案。
-1. [[⭐] https://www.moki.cn](https://www.moki.cn) **Moki。** Moki是美图公司推出的AI短片创作工具，专注于辅助视频创作者打造动画短片、网文短剧、故事绘本和音乐视频（MV）。基于美图自研的奇想智能大模型（MiracleVision），通过智能剪辑、自动配乐、音效添加和字幕生成等功能，大幅简化视频制作流程，提高创作效率。MOKI深度理解创作者需求，实现内容和成本的双重可控，让视频创作变得更加简单和高效。
+1. [[⭐] https://www.moki.cn](https://www.moki.cn) **Moki。** Moki是美图公司推出的AI短片创作工具，专注于辅助视频创作者打造动画短片、网文短剧、故事绘本和音乐视频（MV）。基于美图自研的奇想智能大模型（MiracleVision），通过智能剪辑、自动配乐、音效添加和字幕生成等功能，大幅简化视频制作流程，提高创作效率。MOKI深度理解创作者需求，实现内容和成本的双重可控，让视频创作变得更加简单和高效。 `[error][-1]timeout`
 1. [[⭐] https://www.morphstudio.com](https://www.morphstudio.com) **Morph Studio。** Morph Studio是一款领先的文字转视频AI平台，通过智能算法，将用户输入的文字转化为精美视频。其优势在于快速、高效地实现用户的创意想法，为创作者提供了全新的表现方式。定价灵活多样，适合个人用户和企业用户。定位于提升视频创作效率，让创意更快实现。
 1. [[⭐] https://www.narakeet.com/app/text-to-audio/](https://www.narakeet.com/app/text-to-audio/) **Narakeet。** Narakeet是一个在线工具，允许用户轻松创建逼真的文本转语音和旁白视频。它提供了多种语言和声音选择，支持多种文件格式上传，并允许用户自定义音量、速度和输出格式。Narakeet的定价模式为一次性支付，无需订阅，适合商业用户和需要大量音频文件的用户。
 1. [[⭐] https://www.opus.pro](https://www.opus.pro) **Opus Clip。** Opus Clip可将长视频转换成高质量的短片，以在TikTok、YouTube Shorts 和 Reels上分享，以增加社交媒体的覆盖范围。
@@ -667,7 +667,7 @@
 1. [[⭐] https://app.deepbrain.io/dashboard](https://app.deepbrain.io/dashboard) **DeepBrain AI。** AI Studios提供了一个用户友好的仪表板，让用户可以轻松创建和管理AI项目。该平台可能包含多种AI工具和功能，以支持用户在图像、视频、音频等领域的创作和编辑。
 1. [[⭐] https://audionotes.ai](https://audionotes.ai) **AudioNotes.ai。** AudioNotes.ai是一款利用智能AI将您的口述文字转化为有序文本摘要的应用程序，使得记笔记、头脑风暴和内容创作等活动变得更加轻松！您只需通过语音输入，即可获得清晰、有序的文字记录。此外，AudioNotes.ai还具有智能分类和标签功能，帮助您快速组织和检索笔记。该应用程序适用于各种场景，包括会议记录、学习笔记、写作草稿等。通过AudioNotes.ai，您可以更高效地记录和整理您的想法，提升工作和学习效率。
 1. [[⭐] https://bgmcat.com/home](https://bgmcat.com/home) **BGM 猫。** BGM 猫提供版权背景音乐一站式服务，正版商业授权，AI 智能生成曲库，免费无限，快捷授权，一键下载。
-1. [[⭐] https://crikk.com](https://crikk.com) **Crikk。** Crikk是一款价格实惠的强大文本转语音工具，支持56种语言，提供真实的语音合成技术。无论是用于语音播报、有声书还是教育，Crikk都能为用户提供高质量的声音合成。用户可以选择免费试用或者采用月费20美元的专业版，月额度为500,000个字符，拥有6种不同的声音和56种语言。此外，Crikk还将推出移动应用，实现图片或PDF的文字转语音。Monster Incorporation Inc.位于Delaware，United States。
+1. [[⭐] https://crikk.com](https://crikk.com) **Crikk。** Crikk是一款价格实惠的强大文本转语音工具，支持56种语言，提供真实的语音合成技术。无论是用于语音播报、有声书还是教育，Crikk都能为用户提供高质量的声音合成。用户可以选择免费试用或者采用月费20美元的专业版，月额度为500,000个字符，拥有6种不同的声音和56种语言。此外，Crikk还将推出移动应用，实现图片或PDF的文字转语音。Monster Incorporation Inc.位于Delaware，United States。 `[error][500]Internal Server Error`
 1. [[⭐] https://elevenlabs.io](https://elevenlabs.io) **Eleven Labs。** ElevenLabs 带来了最逼真、丰富和生动的声音，为寻求叙事的终极工具的创作者和发布者提供了最具吸引力的文本转语音和语音克隆软件。
 1. [[⭐] https://enriccorona.github.io/vlogger/](https://enriccorona.github.io/vlogger/) **VLOGGER。** VLOGGER是一种从单张人物输入图像生成文本和音频驱动的讲话人类视频的方法，它建立在最近生成扩散模型的成功基础上。我们的方法包括1)一个随机的人类到3D运动扩散模型，以及2)一个新颖的基于扩散的架构，通过时间和空间控制增强文本到图像模型。这种方法能够生成长度可变的高质量视频，并且通过对人类面部和身体的高级表达方式轻松可控。与以前的工作不同，我们的方法不需要为每个人训练，也不依赖于人脸检测和裁剪，生成完整的图像（而不仅仅是面部或嘴唇），并考虑到正确合成交流人类所需的广泛场景（例如可见的躯干或多样性主体身份）。
 1. [[⭐] https://fanyi.xfyun.cn/console/trans/text](https://fanyi.xfyun.cn/console/trans/text) **讯飞智能翻译。** 科大讯飞推出的人工智能翻译平台
@@ -808,7 +808,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://chatlify.me](https://chatlify.me) **Chatlify。** Chatlify是一款AI智能客服助手，可为企业提供销售、支持和成功方面的帮助。它能够处理用户的查询和问题，提供个性化推荐，自动生成工单，计算价格，提供实时价格详情，进行高级故障排除，并提供多语言支持和分析。Chatlify可以帮助企业简化客户互动过程，并提高销售业绩。
 1. [[⭐] https://claid.ai](https://claid.ai) **Claid AI Scene Creation。** Claid.ai是一个提供AI生成、增强和编辑产品图片的平台。它能够自动转换普通产品图片为具有拍摄品质的营销图片，提高图片的清晰度，去除背景，并创建令人惊叹的照片，从而提升转化率。Claid.ai支持生成多个适合品牌的产品图片，并提供统一的背景和图像大小，以适应不同的平台。用户可以通过API访问结果，实时获取编辑后的图片。Claid.ai还提供了多种功能，包括图片放大、智能去除背景、智能框架、AI颜色校正等，这些功能可以提高图片的质量和视觉效果。Claid.ai的目标是帮助企业实现图片的统一化和提升，从而提升转化率和销售业绩。
 1. [[⭐] https://copyleaks.com](https://copyleaks.com) **Copyleaks。** Copyleaks是唯一的基于AI的平台，可快速检测抄袭内容、AI生成内容等。它被全球数百万人使用，被验证为最准确的AI内容检测器。除了检测抄袭内容外，还可以验证内容是否由人或AI生成，并提供企业级解决方案。定价根据不同需求而定。
-1. [[⭐] https://crikk.com](https://crikk.com) **Crikk。** Crikk是一款价格实惠的强大文本转语音工具，支持56种语言，提供真实的语音合成技术。无论是用于语音播报、有声书还是教育，Crikk都能为用户提供高质量的声音合成。用户可以选择免费试用或者采用月费20美元的专业版，月额度为500,000个字符，拥有6种不同的声音和56种语言。此外，Crikk还将推出移动应用，实现图片或PDF的文字转语音。Monster Incorporation Inc.位于Delaware，United States。
+1. [[⭐] https://crikk.com](https://crikk.com) **Crikk。** Crikk是一款价格实惠的强大文本转语音工具，支持56种语言，提供真实的语音合成技术。无论是用于语音播报、有声书还是教育，Crikk都能为用户提供高质量的声音合成。用户可以选择免费试用或者采用月费20美元的专业版，月额度为500,000个字符，拥有6种不同的声音和56种语言。此外，Crikk还将推出移动应用，实现图片或PDF的文字转语音。Monster Incorporation Inc.位于Delaware，United States。 `[error][500]Internal Server Error`
 1. [[⭐] https://crossplag.com](https://crossplag.com) **Crossplag。** Crossplag 是专注于查重的综合工具，提供超过 100 种语言的单语言和翻译查重功能。用户可以全面控制数据，确保原创性并保护数据隐私。
 1. [[⭐] https://designs.ai/cn](https://designs.ai/cn) **Designs AI。** 免费AI设计。使用生成型 AI 创建图像、视频等。利用人工智能的力量提升您的社交媒体营销水平。
 1. [[⭐] https://donotpay.com](https://donotpay.com) **DoNotPay。** DoNotPay 是一个利用人工智能帮助你与大公司抗争、保护隐私、寻找隐藏收入并对抗垄断平台。它可以帮你自动取消免费试用、解决停车罚单、与客服争议、降低银行费用等。DoNotPay 通过智能算法提供最佳解决方案，使用户能够省时省力地解决各种问题。
@@ -948,7 +948,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://video-ocean.com/en](https://video-ocean.com/en) **Video Ocean。** Video Ocean是一个基于人工智能模型技术的视频制作平台，提供文本生成、图像生成、音视频生成等功能。用户可以输入描述性文本、图片、音频和视频，获得定制化的AI生成文本、图片、音频和视频。该平台致力于简化视频生成的复杂性，通过提供先进的工具和详细的资源，使高质量的视频制作变得易于访问和不费力。Video Ocean的主要优点包括开放源代码、易于使用、高效生产和创新性。它通过提供100个免费币来吸引用户试用，推动内容创作的民主化，鼓励创新、创造力和包容性。
 1. [[⭐] https://wantalk.baidu.com](https://wantalk.baidu.com) **万话。** 万话创作者平台是一个专注于角色创建和管理的在线服务，它允许用户构建和细化角色设定，包括基础信息、世界观设定、角色设定、隐藏设定以及开场白。该平台特别适合需要角色构建和剧情推进的写作项目，如小说创作、剧本编写等。它通过提供角色调试功能，帮助用户达到理想的角色设定效果。
 1. [[⭐] https://wantquotes.net](https://wantquotes.net) **据意查句。** 清华出品！AI 神器让你的文案立马变高级
-1. [[⭐] https://wensi.sodabot.cn](https://wensi.sodabot.cn) **文思助手。** 文思助手是一款AI写作智能体，能够一键生成专业报告、工作总结、科研论文等文档。它利用先进的人工智能技术，为用户节省时间，提高工作效率。该产品由厦门苏哒智能科技有限公司开发，拥有强大的功能和广泛的应用场景。
+1. [[⭐] https://wensi.sodabot.cn](https://wensi.sodabot.cn) **文思助手。** 文思助手是一款AI写作智能体，能够一键生成专业报告、工作总结、科研论文等文档。它利用先进的人工智能技术，为用户节省时间，提高工作效率。该产品由厦门苏哒智能科技有限公司开发，拥有强大的功能和广泛的应用场景。 `[error][-1]timeout`
 1. [[⭐] https://wordai.com](https://wordai.com) **WordAi。** 10倍速AI内容输出！创建读者喜爱的优质内容
 1. [[⭐] https://wordvice.ai/cn](https://wordvice.ai/cn) **Wordvice AI。** Wordvice AI是一款在线英语语法检查工具，提供实时高效的英语语法和拼写检查，突破基本功能，提供语气风格修改，提供有效反馈建议，适用于各类英文文件。Wordvice AI还提供人工编辑服务和其他英文写作工具。
 1. [[⭐] https://writebot.io](https://writebot.io) **WriteBot。** WriteBot是一个AI辅助写作工具，旨在帮助用户快速生成独特、符合SEO标准的内容。不需要月费订阅，采用按需付费的定价模式。这个工具特别适合生产博客文章、Facebook广告、产品描述等，带有关键词和SEO优化功能，提高内容创作的效率和质量。
@@ -1043,7 +1043,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://raccoon.sensetime.com/office](https://raccoon.sensetime.com/office) **办公小浣熊 Raccoon。** 办公小浣熊是基于商汤大语言模型的大模型原生数据分析产品，通过自然语言输入，结合商汤大模型的能力，自动将数据转化为有意义的分析和可视化结果。它支持复杂表格、多表格、多文件的理解，能够完成数据清洗、数据运算、比较分析、趋势分析，预测性分析、可视化等常见数据分析任务，赋能财务分析、商业分析、销售预测、市场分析、宏观分析等多个应用场景。
 1. [[⭐] https://resume.co](https://resume.co) **Resume。** 使用Resume，在短短 5 分钟内创建一份能帮助你获得工作的简历。选择超过 20 个专业、现代和创意的简历模板。
 1. [[⭐] https://resumeboostai.com](https://resumeboostai.com) **ResumeBoostAI。** ResumeBoostAI是一个AI简历和求职文书生成工具。用户可以使用其 resume builder 快速生成个性化简历,或使用 cover letter、bullet points、common job answers等功能自动生成求职文书。该工具使用AI技术,根据用户提供的个人信息智能生成简历内容,节省用户大量撰写时间,提升简历质量。适合正在找工作的求职者使用。
-1. [[⭐] https://rossum.ai](https://rossum.ai) **Rossum.ai。** 深受企业信赖，强大易用的AI智能文档处理平台
+1. [[⭐] https://rossum.ai](https://rossum.ai) **Rossum.ai。** 深受企业信赖，强大易用的AI智能文档处理平台 `[error][403]Forbidden`
 1. [[⭐] https://rows.com](https://rows.com) **Rows。** Rows是一个功能强大、安全可靠的在线电子表格工具。它提供了丰富的电子表格功能,包括格式化、公式、图表等,能满足用户的大部分数据分析和呈现需求。Rows拥有直观的操作界面,新用户可以快速上手。同时它支持实时协作,多用户可以同时编辑一个文档。Rows提供了业界领先的安全机制,确保文档和数据的安全。它还支持将文档发布为网页,方便数据的浏览和共享。总的来说,Rows是一个功能强大且易于使用的在线电子表格工具,适合个人和团队进行数据分析和呈现。它的免费版本已经能满足大多数用户的需求。
 1. [[⭐] https://sheetai.app/�](https://sheetai.app/�) **SheetAI.app。** SheetAI是一个Google Sheets的插件，帮助您在电子表格中释放AI的力量。它提供了一套强大的基于AI的功能，可以帮助您自动化任务和生成洞察力。它包括SHEETAI_BRAIN来简化文案撰写，SHEETAI_LIST来生成多个答案，SHEETAI_FILL来填充数据等功能。
 1. [[⭐] https://slidesgo.com/ai-presentations](https://slidesgo.com/ai-presentations) **SlidesGo。** Slidesgo最新推出了AI演示制作工具，它能在几次点击之内，为你制作出符合你需求的精美幻灯片。而且，它完全免费！
@@ -1052,7 +1052,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://timelyapp.com](https://timelyapp.com) **Timely。** 一款AI时间管理工具！可以帮助你更有效地管理时间
 1. [[⭐] https://tome.app](https://tome.app) **Tome。** 先进的AI智能PPT制作工具
 1. [[⭐] https://tome.app/ai](https://tome.app/ai) **Tome。** AI专为演示而构建。
-1. [[⭐] https://wensi.sodabot.cn](https://wensi.sodabot.cn) **文思助手。** 文思助手是一款AI写作智能体，能够一键生成专业报告、工作总结、科研论文等文档。它利用先进的人工智能技术，为用户节省时间，提高工作效率。该产品由厦门苏哒智能科技有限公司开发，拥有强大的功能和广泛的应用场景。
+1. [[⭐] https://wensi.sodabot.cn](https://wensi.sodabot.cn) **文思助手。** 文思助手是一款AI写作智能体，能够一键生成专业报告、工作总结、科研论文等文档。它利用先进的人工智能技术，为用户节省时间，提高工作效率。该产品由厦门苏哒智能科技有限公司开发，拥有强大的功能和广泛的应用场景。 `[error][-1]timeout`
 1. [[⭐] https://whimsical.com](https://whimsical.com) **Whimsical。** Whimsical是一个集图表、白板等多种功能于一体的视觉协作平台。用户可以使用Whimsical创建流程图、线框图、思维导图和文档，快速将想法变为现实。它可以帮助团队成员更好地协作，从而更快地构建出更好的产品。Whimsical还可以与Jira、GitHub、Notion、Figma和Slack等常用工具集成，提高工作效率。
 1. [[⭐] https://wordai.com](https://wordai.com) **WordAi。** 10倍速AI内容输出！创建读者喜爱的优质内容
 1. [[⭐] https://writebot.io](https://writebot.io) **WriteBot。** WriteBot是一个AI辅助写作工具，旨在帮助用户快速生成独特、符合SEO标准的内容。不需要月费订阅，采用按需付费的定价模式。这个工具特别适合生产博客文章、Facebook广告、产品描述等，带有关键词和SEO优化功能，提高内容创作的效率和质量。
@@ -1181,7 +1181,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://www.paddlepaddle.org.cn](https://www.paddlepaddle.org.cn) **百度飞桨。** 飞桨致力于让深度学习技术的创新与应用更简单。
 1. [[⭐] https://www.polymet.ai](https://www.polymet.ai) **Polymet。** Polymet是一个利用人工智能技术帮助用户快速从创意到原型的设计工具。它通过连接Figma和代码库，使用户能够快速设计并迭代，同时导出符合设计模式的生产就绪代码。Polymet的主要优点包括提高设计和迭代速度，无缝连接设计工具和代码库，以及通过AI辅助设计，减少手动编码工作量，从而加速产品上市时间。
 1. [[⭐] https://www.qodo.ai](https://www.qodo.ai) **Qodo。** 面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。
-1. [[⭐] https://www.tabnine.com](https://www.tabnine.com) **Tabnine。** Tabnine是一款AI代码助手，支持所有编程语言和集成开发环境（IDE）。它提供智能代码补全、自动代码生成、错误检查和代码导航等功能，大大提高开发效率。Tabnine的优势在于其强大的机器学习模型和海量代码数据库，可以为开发人员提供准确和有用的代码建议。定价灵活多样，适应个人开发者和企业团队的需求。Tabnine定位于成为开发者的好帮手，让开发工作更高效、更快速。
+1. [[⭐] https://www.tabnine.com](https://www.tabnine.com) **Tabnine。** Tabnine是一款AI代码助手，支持所有编程语言和集成开发环境（IDE）。它提供智能代码补全、自动代码生成、错误检查和代码导航等功能，大大提高开发效率。Tabnine的优势在于其强大的机器学习模型和海量代码数据库，可以为开发人员提供准确和有用的代码建议。定价灵活多样，适应个人开发者和企业团队的需求。Tabnine定位于成为开发者的好帮手，让开发工作更高效、更快速。 `[error][403]Forbidden`
 1. [[⭐] https://www.tryparity.com](https://www.tryparity.com) **Parity。** Parity 是世界上首个为 Kubernetes 值班工程师设计的 AI SRE（Site Reliability Engineer）。它在工程师打开笔记本电脑之前，就已经进行了问题调查、根因分析，并提出了补救措施。其主要优点包括快速的根因分析、智能运行手册执行、与集群的直接对话，以及与基础设施堆栈的安全集成。
 1. [[⭐] https://www.warp.dev](https://www.warp.dev) **Warp。** 内置AI命令搜索！21世纪的终端工具
 1. [[⭐] https://www.zelinai.com](https://www.zelinai.com) **ZelinAI。** ZelinAI零代码构建你的AI应用，ZelinAI目前接入了微软合规的GPT3.5、GPT4大智能体以及文心一言、星火等国内知名的大智能体
