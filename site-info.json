@@ -1169,7 +1169,9 @@
         "AI 行业工具"
       ],
       "title": "Wanderlog",
-      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！"
+      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.tipranks.com": {
       "type": [
@@ -2900,9 +2902,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3731,9 +3731,7 @@
       "type": [
         "AI 写作助手",
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://suppr.wilddata.cn": {
       "title": "超能文献·文档翻译",
@@ -5717,9 +5715,7 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -6243,9 +6239,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -6427,9 +6421,7 @@
       "type": [
         "AI 图像处理",
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://gezhe.com": {
       "title": "歌者PPT",
@@ -6620,7 +6612,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -6935,7 +6929,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -7714,7 +7708,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND airkit.ai"
     },
     "https://chatbros.ai": {
@@ -7731,7 +7725,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatlify.me": {
       "title": "Chatlify",
@@ -8505,9 +8501,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -8947,7 +8941,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -8978,7 +8974,9 @@
       ],
       "type": [
         "AI 提示词"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
@@ -9322,9 +9320,7 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.dreamavatar.com": {
       "title": "DreamAvatar",
@@ -9346,9 +9342,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -10123,7 +10117,9 @@
       "tags": [
         "AI论文",
         "AI写作"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.ducduc.fun/zh": {
       "title": "爱涂鸭",
