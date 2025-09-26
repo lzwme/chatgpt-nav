@@ -282,9 +282,7 @@
       "tags": [
         "大厂合集(精选大厂热门AI产品)",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://yiyan.baidu.com": {
       "type": [
@@ -2191,7 +2189,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.liblib.ai": {
@@ -2720,7 +2718,9 @@
         "AI 视频生成"
       ],
       "title": "BibiGPT",
-      "desc": "一键总结B站音视频内容"
+      "desc": "一键总结B站音视频内容",
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.genmo.ai": {
       "type": [
@@ -2905,7 +2905,7 @@
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
@@ -3026,7 +3026,9 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -4871,7 +4873,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://www.scholarcy.com": {
@@ -4940,7 +4942,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.aipaperpass.com"
     },
     "https://www.overleaf.com": {
       "title": "Overleaf",
@@ -5721,7 +5725,9 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -5864,7 +5870,9 @@
       "type": [
         "AI 视频生成",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][436]status code 436"
     },
     "https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary": {
       "title": "Motionshop",
@@ -6245,9 +6253,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -6621,7 +6627,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -6717,7 +6723,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://excelly-ai.io": {
       "title": "Excelly-AI",
@@ -6936,7 +6944,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -7714,8 +7724,9 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND airkit.ai"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND airkit.ai",
+      "hide": 1
     },
     "https://chatbros.ai": {
       "title": "Chatbros.ai",
@@ -8505,9 +8516,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -8948,8 +8957,8 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 2,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -8980,7 +8989,9 @@
       ],
       "type": [
         "AI 提示词"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
@@ -9346,9 +9357,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
