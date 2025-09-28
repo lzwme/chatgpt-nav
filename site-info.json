@@ -676,9 +676,7 @@
       "source": "recommend",
       "needLogin": 1,
       "desc": "Best AI Content Writer",
-      "title": "ChattyAid",
-      "needVerify": 1,
-      "errmsg": "[error][200]<br />\n<b>Fatal error</b>:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /www/wwwroot/chattyaid.com/includes/lib/idiorm.php:365\nStack trace:\n#0 /www/wwwroot/c"
+      "title": "ChattyAid"
     },
     "https://shutu.cn": {
       "star": 2,
@@ -1333,9 +1331,7 @@
         "AI 写作助手"
       ],
       "title": "笔灵AI",
-      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。"
     },
     "https://effidit.qq.com": {
       "type": [
@@ -2206,7 +2202,9 @@
         "创意平台",
         "中文精选",
         "图像"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 8.218.194.183:443"
     },
     "https://www.wujieai.com": {
       "type": [
@@ -2904,7 +2902,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3025,7 +3025,7 @@
       ],
       "title": "Qodo",
       "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
@@ -3393,7 +3393,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -4871,7 +4873,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://www.scholarcy.com": {
@@ -4941,7 +4943,7 @@
         "AI 写作助手",
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.aipaperpass.com"
     },
     "https://www.overleaf.com": {
@@ -5723,7 +5725,9 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -8505,7 +8509,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
@@ -8946,9 +8950,7 @@
       ],
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -8979,9 +8981,7 @@
       ],
       "type": [
         "AI 提示词"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
