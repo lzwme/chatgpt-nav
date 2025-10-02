@@ -2171,8 +2171,8 @@
       ],
       "title": "来画",
       "desc": "来画是有创意的AI动画短视频制作平台，仅需几张图片，几段文字和声音简单组合， 即可在短时间内生成一个有趣的动画短视频。",
-      "needVerify": 2,
-      "errmsg": "[error][-1]socket hang up"
+      "needVerify": 3,
+      "errmsg": "[error][417]HTTP_417"
     },
     "https://openai.com/research/dall-e": {
       "type": [
@@ -2191,7 +2191,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.tiamat.world"
     },
     "https://www.liblib.ai": {
@@ -2207,7 +2207,7 @@
         "中文精选",
         "图像"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]connect ECONNREFUSED 8.218.194.183:443"
     },
     "https://www.wujieai.com": {
@@ -3621,7 +3621,9 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -3735,9 +3737,7 @@
       "type": [
         "AI 写作助手",
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://suppr.wilddata.cn": {
       "title": "超能文献·文档翻译",
@@ -4786,9 +4786,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.acgnai.art": {
       "title": "触手 AI ",
@@ -4946,8 +4944,9 @@
         "AI 写作助手",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.aipaperpass.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.aipaperpass.com",
+      "hide": 1
     },
     "https://www.overleaf.com": {
       "title": "Overleaf",
@@ -6252,9 +6251,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -6627,7 +6624,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -7753,9 +7752,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.choony.io": {
       "title": "Choony",
@@ -8514,7 +8511,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
@@ -8955,9 +8952,7 @@
       ],
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -9495,9 +9490,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
