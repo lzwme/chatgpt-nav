@@ -2170,9 +2170,7 @@
         "AI 图像处理"
       ],
       "title": "来画",
-      "desc": "来画是有创意的AI动画短视频制作平台，仅需几张图片，几段文字和声音简单组合， 即可在短时间内生成一个有趣的动画短视频。",
-      "needVerify": 3,
-      "errmsg": "[error][417]HTTP_417"
+      "desc": "来画是有创意的AI动画短视频制作平台，仅需几张图片，几段文字和声音简单组合， 即可在短时间内生成一个有趣的动画短视频。"
     },
     "https://openai.com/research/dall-e": {
       "type": [
@@ -2191,7 +2189,7 @@
       ],
       "title": "Tiamat",
       "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.tiamat.world"
     },
     "https://www.liblib.ai": {
@@ -2207,7 +2205,7 @@
         "中文精选",
         "图像"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]connect ECONNREFUSED 8.218.194.183:443"
     },
     "https://www.wujieai.com": {
@@ -3393,7 +3391,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:52.190.183.87:1759522388.853\"></meta></head></html>"
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -3622,7 +3622,7 @@
         "AI 综合工具",
         "AI 国外工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://topai.tools": {
@@ -3757,7 +3757,9 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://undermind.ai": {
       "title": "Undermind.ai",
@@ -5727,7 +5729,9 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -6624,9 +6628,7 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -8510,9 +8512,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -10817,7 +10817,9 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ppinfra.com/user/": {
       "type": [
