@@ -2670,9 +2670,7 @@
         "AI 写作助手"
       ],
       "title": "jenni",
-      "desc": "面向作家的AI协作助手",
-      "needVerify": 1,
-      "errmsg": "[error][200]<!doctype html>\r\n<!-- ✨ Built with Framer • https://www.framer.com/ -->\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"utf-8\">\r\n    \r\n    \r\n    <script>try{if(localStorage.get(\"__framer_for"
+      "desc": "面向作家的AI协作助手"
     },
     "https://bearly.ai": {
       "type": [
@@ -2908,9 +2906,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3030,7 +3026,9 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3626,7 +3624,7 @@
         "AI 综合工具",
         "AI 国外工具"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://topai.tools": {
@@ -3921,9 +3919,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -5468,9 +5464,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://botsmart.net": {
       "title": "博特妙笔",
@@ -5735,9 +5729,7 @@
       "type": [
         "AI 搜索引擎",
         "AI 写作助手"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -5880,7 +5872,9 @@
       "type": [
         "AI 视频生成",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][436]status code 436"
     },
     "https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary": {
       "title": "Motionshop",
@@ -6261,9 +6255,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -6636,7 +6628,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -6951,7 +6945,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -7421,9 +7415,7 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kraftful.com": {
       "title": "Kraftful",
@@ -8933,7 +8925,7 @@
       "type": [
         "AI 提示词"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][504]Gateway Time-out"
     },
     "https://www.aiprm.com": {
@@ -9504,9 +9496,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -10798,9 +10788,7 @@
       "desc": "360旗下的AI聊天助手",
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://so.360.com": {
       "title": "360AI搜索",
