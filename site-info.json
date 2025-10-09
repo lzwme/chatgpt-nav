@@ -1594,9 +1594,7 @@
         "AI 编程开发"
       ],
       "title": "昇思 MindSpore",
-      "desc": "通过社区合作，面向全场景构建最佳昇腾匹配、支持多处理器架构的开放AI架构，为算法工程师和数据科学家提供开发友好、运行高效、部署灵活的体验，帮助人工智能软硬件应用生态繁荣发展。",
-      "needVerify": 1,
-      "errmsg": "[error][418]HTTP_418"
+      "desc": "通过社区合作，面向全场景构建最佳昇腾匹配、支持多处理器架构的开放AI架构，为算法工程师和数据科学家提供开发友好、运行高效、部署灵活的体验，帮助人工智能软硬件应用生态繁荣发展。"
     },
     "https://www.paddlepaddle.org.cn": {
       "type": [
@@ -2435,7 +2433,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2909,7 +2909,7 @@
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
@@ -3031,7 +3031,7 @@
       ],
       "title": "Qodo",
       "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
@@ -4790,7 +4790,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.acgnai.art": {
       "title": "触手 AI ",
@@ -5875,8 +5877,8 @@
         "AI 视频生成",
         "AI 绘图"
       ],
-      "needVerify": 2,
-      "errmsg": "[error][436]status code 436"
+      "needVerify": 3,
+      "errmsg": "[error][439]status code 439"
     },
     "https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary": {
       "title": "Motionshop",
@@ -6258,7 +6260,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
@@ -6632,9 +6634,7 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -6948,7 +6948,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8518,7 +8520,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -8927,7 +8931,7 @@
       "type": [
         "AI 提示词"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][504]Gateway Time-out"
     },
     "https://www.aiprm.com": {
@@ -8991,9 +8995,7 @@
       ],
       "type": [
         "AI 提示词"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
@@ -9359,9 +9361,7 @@
         "AI 数字人",
         "AI 绘图",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -9502,7 +9502,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
