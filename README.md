@@ -118,7 +118,7 @@
 1. [[⭐] https://chat.colossalai.org](https://chat.colossalai.org) **ColossalChat。** 免费开源的AI聊天机器人
 1. [[⭐] https://chat.xverse.cn/home/](https://chat.xverse.cn/home/) **元象大模型 XChat。** 元象大模型 XChat 是一款国内领先的通用大模型产品。它自研高性能，从零训练，可以大幅降低开发门槛与推理成本，满足不同复杂度的多任务需求。该产品融合了意图理解、信息检索以及强化学习技术，结合有监督微调与人类意图对齐，在知识问答、文本创作领域表现突出。欲了解更多详情，请访问官网：[元象大模型 XChat](https://www.xverse.ai/)
 1. [[⭐] https://chatboxai.app/zh](https://chatboxai.app/zh) **Chatbox。** Chatbox是一个易于使用的人工智能解决方案，支持多平台，帮助提升工作和学习效率。它具备本地数据存储，确保隐私和轻松访问，同时支持多种尖端人工智能模型，提供多样化、适应性和智能化的用户互动。Chatbox还具备强大的提示功能，释放创造力，支持Markdown、引用、令牌估计等功能，为思维提供广阔的发展空间。
-1. [[⭐] https://chatbros.ai](https://chatbros.ai) **Chatbros.ai。** Chatbros.ai是一款人工智能驱动的聊天机器人,它可以重新定义数字互动,提升转化率、促进销售增长、完全改变用户参与度。它提供无缝的帮助和无限的功能。
+1. [[⭐] https://chatbros.ai](https://chatbros.ai) **Chatbros.ai。** Chatbros.ai是一款人工智能驱动的聊天机器人,它可以重新定义数字互动,提升转化率、促进销售增长、完全改变用户参与度。它提供无缝的帮助和无限的功能。 `[error][-1]getaddrinfo ENOTFOUND chatbros.ai`
 1. [[⭐] https://chatdocuments.ai](https://chatdocuments.ai) **ChatDocuments。** ChatDocuments是一款由人工智能驱动的应用，可以轻松与PDF、PPTX、XLSX和DOCX文件进行聊天互动。支持所有语言。定价：免费试用，免费使用3个文档；付费套餐详见官网。定位：提供便捷的文档交互体验。 `[error][-1]timeout`
 1. [[⭐] https://chatexcel.com](https://chatexcel.com) **酷表ChatExcel。** 酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据。
 1. [[⭐] https://chatfai.com](https://chatfai.com) **ChatFAI。** 与您最喜爱的角色聊天
@@ -287,7 +287,7 @@
 1. [[⭐] https://www.6pen.pro](https://www.6pen.pro) **6pen。** 6pen是一个为大多数人打造的AI绘画创作社区
 1. [[⭐] https://www.acgnai.art](https://www.acgnai.art) **触手 AI 。** 触手 AI 绘画专业版是一款面向插画师、漫画师、设计师等专业用户的国产 AI 绘图平台。支持文生成图、图生成图、参考生成图、AI 模型训练等功能，用户可在基础风格模型上使用叠加模型，也可以收藏各类画风、IP、场景、人物、设计类模型。产品定位于提升专业用户的绘画效率和创作品质。
 1. [[⭐] https://www.adobe.com/au/sensei/generative-ai/firefly.html](https://www.adobe.com/au/sensei/generative-ai/firefly.html) **Adobe Firefly。** Adobe Firefly 是由 Adobe 推出的基于生成式人工智能的创作工具。它可以通过简单的文字提示生成精美的图像、转换文字、玩转色彩等。Firefly 可以帮助创意人士释放想象力，创造出无尽的艺术作品。Firefly 目前处于测试阶段，预计在未来提供多种不同用途的 Firefly 模型。
-1. [[⭐] https://www.aigallery.top](https://www.aigallery.top) **Ai 画廊。** Ai 画廊是一款提供 Ai 关键词生成器的网站，展示人工智能作品和生成关键词描述，帮助用户更好地了解和分享 Ai 作品。用户可以浏览不同风格的 Ai 作品，获取灵感和创意。 `[error][403]Forbidden`
+1. [[⭐] https://www.aigallery.top](https://www.aigallery.top) **Ai 画廊。** Ai 画廊是一款提供 Ai 关键词生成器的网站，展示人工智能作品和生成关键词描述，帮助用户更好地了解和分享 Ai 作品。用户可以浏览不同风格的 Ai 作品，获取灵感和创意。
 1. [[⭐] https://www.artbreeder.com/browse](https://www.artbreeder.com/browse) **Artbreeder。** 在线AI图像合成创意工具
 1. [[⭐] https://www.chanjing.cc](https://www.chanjing.cc) **蝉镜。** 蝉镜是一个在线数字人视频创作平台，利用 AI 简化视频创作过程，提供 AI 数字人播报、短视频制作、分身定制等服务。广告营销、跨境电商、短视频口播等领域的用户可以在此提升创作效率、降低成本。
 1. [[⭐] https://www.chatplayground.ai](https://www.chatplayground.ai) **ChatPlayground AI。** ChatPlayground AI是一个集成了16+ AI应用和功能的聊天机器人平台，它允许用户通过一个订阅来访问多种AI模型。该平台的主要优点包括行业领先的AI模型、实时网络搜索、图像生成器、历史记录回顾、多语言支持以及导入自定义内容的能力。ChatPlayground AI旨在为开发者、数据科学家、学生、研究人员、内容创作者、作家和AI爱好者提供服务，帮助他们提高工作效率和创造力。
@@ -372,7 +372,7 @@
 1. [[⭐⭐] https://d.design](https://d.design) **阿里堆友。** 堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。
 1. [[⭐] http://bigesj.com/ai-ppt/](http://bigesj.com/ai-ppt/) **比格PPT。** 比格PPT是一款功能强大的在线智能PPT设计SaaS平台。用户可以通过语言描述快速自动生成PPT,大大提升工作效率。平台拥有10000+精美PPT模板,覆盖商业、教育等多个行业场景。用户还可以利用平台强大的AI功能,一键优化PPT内容,实现高质量的演示文稿内容。平台提供了多种订阅方案,个人用户每月最低¥19元起,企业用户可享受更优惠价格
 1. [[⭐] http://removewatermark.ai](http://removewatermark.ai) **WatermarkRemoverAI。** Watermark Remover AI是一个在线图像水印删除工具,使用AI技术,只需单击一下即可自动识别并删除图像中的水印。它提供一键式操作,速度快,重建准确,可以批量处理多张照片。用户只需上传有水印的图片,系统即可智能识别水印区域并去除,输出清晰的无水印图像。该工具使用简单,删除效果专业,非常适合初学者或专业人士使用。
-1. [[⭐] https://ai.logo123.com](https://ai.logo123.com) **123LOGO生成器。** LOGO123 是一款超级智能好用的 Logo 在线设计生成器，为您提供免费公司 logo 设计制作。只需输入品牌名称就能免费在线生成公司 logo 设计及配套企业 VI，轻松打造您的个性品牌！我们还提供配套名片、企业 VI、专业出品、版权可商用等服务，帮助您打造完整的品牌形象。
+1. [[⭐] https://ai.logo123.com](https://ai.logo123.com) **123LOGO生成器。** LOGO123 是一款超级智能好用的 Logo 在线设计生成器，为您提供免费公司 logo 设计制作。只需输入品牌名称就能免费在线生成公司 logo 设计及配套企业 VI，轻松打造您的个性品牌！我们还提供配套名片、企业 VI、专业出品、版权可商用等服务，帮助您打造完整的品牌形象。 `[error][403]Forbidden`
 1. [[⭐] https://ai.meitu.com/index](https://ai.meitu.com/index) **美图AI开放平台。** 美图推出的AI人脸图像处理平台
 1. [[⭐] https://ai.nero.com/enhance](https://ai.nero.com/enhance) **Nero AI Image Upscaler。** Nero AI Image Upscaler是一款免费在线AI图像放大工具，支持jpg、png、bmp、webp等多种文件格式。它使用最先进的AI技术，可以将低分辨率的图像放大至高分辨率，同时保持图像细节和清晰度。Nero AI Image Upscaler可以在PC和移动设备上使用，是一款非常实用的图像处理工具。
 1. [[⭐] https://ai.zitijia.com/?referer=81657](https://ai.zitijia.com/?referer=81657) **字体家AI神笔。** 造字神器！ 仅需8个汉字即可生成一套6K+中文字库
@@ -489,7 +489,7 @@
 1. [[⭐] https://www.modaiyun.com/mdy/ai](https://www.modaiyun.com/mdy/ai) **模袋云AI。** 模袋云AI是一款在线别墅设计神器。
 1. [[⭐] https://www.muglife.com](https://www.muglife.com) **Mug Life。** Mug Life通过将计算机图形学专业知识与最新的计算机视觉技术相结合，创造出令人惊叹的3D角色。其技术分为三个阶段：拆解、动画和重构，结合社交平台，让用户能够连接和分享创作。
 1. [[⭐] https://www.nolibox.com](https://www.nolibox.com) **图宇宙。** 图宇宙是计算美学是高品质的智能设计平台，致力于让每个人都能享受好设计。
-1. [[⭐] https://www.noya.io](https://www.noya.io) **Noya。** 让线框图变成高保真设计
+1. [[⭐] https://www.noya.io](https://www.noya.io) **Noya。** 让线框图变成高保真设计 `[error][503]Service Unavailable`
 1. [[⭐] https://www.photomagic.cn](https://www.photomagic.cn) **PhotoMagic。** 快速创建商业图片的 AI 工具
 1. [[⭐] https://www.photorestore.io](https://www.photorestore.io) **PhotoRestore.io。** PhotoRestore.io 是一家提供免费 AI 照片修复服务的网站，利用先进的算法修复模糊、褪色或损坏的照片，为用户呈现清晰高质量的图像。用户可在保护隐私和数据安全的前提下体验恢复照片的魔法，创造代代传承的珍贵回忆。
 1. [[⭐] https://www.photoroom.com](https://www.photoroom.com) **PhotoRoom。** 在几秒钟内创建高品质的图像。只需轻点一下，即可去除背景并合成一个能展示产品或模特的图像。PhotoRoom赋予每个人设计超能力，因为你编辑的是物体而不是像素。PhotoRoom是一款图像编辑应用程序，让您通过编辑物体来捕捉、编辑和混合图像。
@@ -547,7 +547,7 @@
 1. [[⭐] https://app.deepbrain.io/dashboard](https://app.deepbrain.io/dashboard) **DeepBrain AI。** AI Studios提供了一个用户友好的仪表板，让用户可以轻松创建和管理AI项目。该平台可能包含多种AI工具和功能，以支持用户在图像、视频、音频等领域的创作和编辑。
 1. [[⭐] https://audo.ai](https://audo.ai) **Audo Studio。** 听起来很棒！AI一键清除音频背景杂音
 1. [[⭐] https://b.jimmylv.cn](https://b.jimmylv.cn) **BibiGPT。** 一键总结B站音视频内容
-1. [[⭐] https://beatbot.fm](https://beatbot.fm) **BeatBot。** Splash的AI音乐生成器 `[error][-1]timeout`
+1. [[⭐] https://beatbot.fm](https://beatbot.fm) **BeatBot。** Splash的AI音乐生成器
 1. [[⭐] https://bibigpt.co](https://bibigpt.co) **BibiGPT。** 一键总结B站音视频内容
 1. [[⭐] https://chat.qwen.ai](https://chat.qwen.ai) **Wan。** Wan是阿里巴巴通义实验室开发的先进视觉生成模型，具备强大的视频生成能力。它能够根据文本、图像及其他控制信号生成视频。Wan2.1系列模型现已完全开源。其主要优点包括卓越的复杂运动生成能力，能够生成逼真的视频，涵盖广泛的身体动作、复杂旋转、动态场景转换和流畅的镜头运动；精准的物理模拟，生成符合真实物理规律的视频；电影质感的画面，提供丰富的纹理和多样化的风格化效果；可控的编辑功能，支持使用图像或视频参考进行精确编辑。该模型的开源为视频生成领域带来了新的可能性，降低了使用门槛，推动了相关技术的发展。
 1. [[⭐] https://clone.ttk.ink](https://clone.ttk.ink) **AI数字人分身系统。** 小狐狸AI数字人分身系统是一款结合了人工智能技术的数字人口型同步产品，支持无限多开和贴牌OEM，适用于需要虚拟形象进行口型同步互动的场景。该产品背景基于人工智能技术的发展，特别是在虚拟主播和在线教育领域的应用需求日益增长。产品价格为3580元，定位于中高端市场，主要优点包括完全开源、支持自主二次开发和定制二次开发，以及免费搭建服务。
@@ -709,7 +709,7 @@
 1. [[⭐] https://www.stableaudio.com](https://www.stableaudio.com) **Stable Audio。** Stability Al最新推出的音乐生成工具
 1. [[⭐] https://www.suno.ai](https://www.suno.ai) **Suno。** AI音乐创作平台，不需要任何工具，只需要想象力，就可以创作出美妙动听的音乐。
 1. [[⭐] https://www.texttovoice.online](https://www.texttovoice.online) **Texttovoice.online。** 在线文本转语音是一款免费的工具，可以将文本转换为真实的语音。它具有高音质、自然的语音效果，并支持多种语言和声音选择。用户只需输入文本，选择语言和声音，即可生成自定义的语音内容。该工具适用于多种场景，如视频配音、教育辅助、语音导航等。无论是Mac还是Windows用户，都可以轻松使用该工具。
-1. [[⭐] https://www.voicefy.com.br](https://www.voicefy.com.br) **Voicefy。** Voicefy是一款直观的平台，将文本转化为真实的语音，提供多种语言和声音选择，以提高内容的可访问性和互动性。Voicefy可用于创建有声书、自动化广告、医疗指导录音等。价格根据使用情况而定，提供免费试用。 `[error][-1]timeout`
+1. [[⭐] https://www.voicefy.com.br](https://www.voicefy.com.br) **Voicefy。** Voicefy是一款直观的平台，将文本转化为真实的语音，提供多种语言和声音选择，以提高内容的可访问性和互动性。Voicefy可用于创建有声书、自动化广告、医疗指导录音等。价格根据使用情况而定，提供免费试用。 `[error][502]Bad Gateway`
 1. [[⭐] https://www.yinziai.com](https://www.yinziai.com) **音子 AI。** 音子 AI 是一款在线音轨分离解决方案，用户可上传音频或视频文件，立即获取独立的人声和伴奏文件。该产品基于人工智能技术，提供高效的音轨提取功能。
 1. [[⭐] https://y.qq.com/tme_studio/](https://y.qq.com/tme_studio/) **TME Studio。** TME Studio是一款为音乐爱好者提供的创作工具。它包括音乐分离、MIR计算、辅助写词、智能曲谱等功能。用户可以上传任意歌曲，分离出其中的人声和乐器，进行音乐内容理解与分析，提取音乐的各种信息。同时，它还提供了作词工具，帮助用户找到合适的押韵词语，打开创作灵感。另外，用户还可以生成智能吉他曲谱，只需上传音乐即可弹奏自己想弹的歌曲。音乐创作助手将助力音乐爱好者更轻松地进行音乐创作。
 1. [[⭐⭐⭐🚀] https://play.google.com/store/apps/details](https://play.google.com/store/apps/details) **Text To Audio—TTS & MP3_WAV。** Text2Audio是一款免费的文本转语音应用，通过一键操作将文本转换为音频文件。用户可以选择多个智能声音演员，还可以根据需要调整语速和音调，创建男声、女声、叙述等不同类型的声音。适用于制作短视频解说的评论，如TikTok、YouTube、Instgram等。
@@ -799,7 +799,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://answerai.pro](https://answerai.pro) **AnswerAI.pro。** Answer.AI是一款AI家教应用程序，利用先进的人工智能技术，为用户提供从数学到历史等各个学科的作业解答和学习辅导服务。它通过拍照、扫描问题、上传PDF或聊天等方式与AI家教互动，提供详细的步骤解答和视频解释，帮助学生更好地理解和掌握知识点。该应用支持iOS和Android系统，并提供Chrome浏览器扩展。Answer.AI以其高准确率和高答案率在教育类应用中名列前茅，深受全球数百万学生的喜爱。
 1. [[⭐] https://anyword.com](https://anyword.com) **Anyword。** Anyword是一款AI写作工具，为营销团队提供高效撰写营销内容的解决方案。它能够分析您过去发布的所有内容，并帮助您发现最有效的信息传递方式。同时，Anyword提供品牌声音管理功能，让您可以在一个平台上管理品牌口吻、目标受众和品牌规则。您还可以训练定制的AI模型，利用品牌和绩效数据来提高各个渠道的表现，并显著影响业务结果。
 1. [[⭐] https://apps.apple.com/au/app/grok/id6670324846](https://apps.apple.com/au/app/grok/id6670324846) **Grok App。** Grok是一个由X.AI Corp开发的AI助手应用，旨在提供最真实、有用和好奇的答案。用户可以通过Grok获取任何问题的答案、生成引人注目的图像，并上传图片以更深入地了解世界。Grok以其高质量的图像生成、实时更新的数据、对话式的幽默语气和注重隐私的特性，为用户提供了一个安全、高效的AI体验平台。
-1. [[⭐] https://chatbros.ai](https://chatbros.ai) **Chatbros.ai。** Chatbros.ai是一款人工智能驱动的聊天机器人,它可以重新定义数字互动,提升转化率、促进销售增长、完全改变用户参与度。它提供无缝的帮助和无限的功能。
+1. [[⭐] https://chatbros.ai](https://chatbros.ai) **Chatbros.ai。** Chatbros.ai是一款人工智能驱动的聊天机器人,它可以重新定义数字互动,提升转化率、促进销售增长、完全改变用户参与度。它提供无缝的帮助和无限的功能。 `[error][-1]getaddrinfo ENOTFOUND chatbros.ai`
 1. [[⭐] https://chatlify.me](https://chatlify.me) **Chatlify。** Chatlify是一款AI智能客服助手，可为企业提供销售、支持和成功方面的帮助。它能够处理用户的查询和问题，提供个性化推荐，自动生成工单，计算价格，提供实时价格详情，进行高级故障排除，并提供多语言支持和分析。Chatlify可以帮助企业简化客户互动过程，并提高销售业绩。
 1. [[⭐] https://claid.ai](https://claid.ai) **Claid AI Scene Creation。** Claid.ai是一个提供AI生成、增强和编辑产品图片的平台。它能够自动转换普通产品图片为具有拍摄品质的营销图片，提高图片的清晰度，去除背景，并创建令人惊叹的照片，从而提升转化率。Claid.ai支持生成多个适合品牌的产品图片，并提供统一的背景和图像大小，以适应不同的平台。用户可以通过API访问结果，实时获取编辑后的图片。Claid.ai还提供了多种功能，包括图片放大、智能去除背景、智能框架、AI颜色校正等，这些功能可以提高图片的质量和视觉效果。Claid.ai的目标是帮助企业实现图片的统一化和提升，从而提升转化率和销售业绩。
 1. [[⭐] https://copyleaks.com](https://copyleaks.com) **Copyleaks。** Copyleaks是唯一的基于AI的平台，可快速检测抄袭内容、AI生成内容等。它被全球数百万人使用，被验证为最准确的AI内容检测器。除了检测抄袭内容外，还可以验证内容是否由人或AI生成，并提供企业级解决方案。定价根据不同需求而定。
@@ -1035,7 +1035,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://raccoon.sensetime.com/office](https://raccoon.sensetime.com/office) **办公小浣熊 Raccoon。** 办公小浣熊是基于商汤大语言模型的大模型原生数据分析产品，通过自然语言输入，结合商汤大模型的能力，自动将数据转化为有意义的分析和可视化结果。它支持复杂表格、多表格、多文件的理解，能够完成数据清洗、数据运算、比较分析、趋势分析，预测性分析、可视化等常见数据分析任务，赋能财务分析、商业分析、销售预测、市场分析、宏观分析等多个应用场景。
 1. [[⭐] https://resume.co](https://resume.co) **Resume。** 使用Resume，在短短 5 分钟内创建一份能帮助你获得工作的简历。选择超过 20 个专业、现代和创意的简历模板。
 1. [[⭐] https://resumeboostai.com](https://resumeboostai.com) **ResumeBoostAI。** ResumeBoostAI是一个AI简历和求职文书生成工具。用户可以使用其 resume builder 快速生成个性化简历,或使用 cover letter、bullet points、common job answers等功能自动生成求职文书。该工具使用AI技术,根据用户提供的个人信息智能生成简历内容,节省用户大量撰写时间,提升简历质量。适合正在找工作的求职者使用。
-1. [[⭐] https://rossum.ai](https://rossum.ai) **Rossum.ai。** 深受企业信赖，强大易用的AI智能文档处理平台
+1. [[⭐] https://rossum.ai](https://rossum.ai) **Rossum.ai。** 深受企业信赖，强大易用的AI智能文档处理平台 `[error][403]Forbidden`
 1. [[⭐] https://rows.com](https://rows.com) **Rows。** Rows是一个功能强大、安全可靠的在线电子表格工具。它提供了丰富的电子表格功能,包括格式化、公式、图表等,能满足用户的大部分数据分析和呈现需求。Rows拥有直观的操作界面,新用户可以快速上手。同时它支持实时协作,多用户可以同时编辑一个文档。Rows提供了业界领先的安全机制,确保文档和数据的安全。它还支持将文档发布为网页,方便数据的浏览和共享。总的来说,Rows是一个功能强大且易于使用的在线电子表格工具,适合个人和团队进行数据分析和呈现。它的免费版本已经能满足大多数用户的需求。
 1. [[⭐] https://sheetai.app/�](https://sheetai.app/�) **SheetAI.app。** SheetAI是一个Google Sheets的插件，帮助您在电子表格中释放AI的力量。它提供了一套强大的基于AI的功能，可以帮助您自动化任务和生成洞察力。它包括SHEETAI_BRAIN来简化文案撰写，SHEETAI_LIST来生成多个答案，SHEETAI_FILL来填充数据等功能。
 1. [[⭐] https://slidesgo.com/ai-presentations](https://slidesgo.com/ai-presentations) **SlidesGo。** Slidesgo最新推出了AI演示制作工具，它能在几次点击之内，为你制作出符合你需求的精美幻灯片。而且，它完全免费！
@@ -1087,7 +1087,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://modao.cc/brand](https://modao.cc/brand) **墨刀AI。** 墨刀AI是国内知名产品设计协作平台「墨刀」最新推出的AI产品原型设计助手，帮助产品设计人高效实现和落地创意，激发无限创造力。
 1. [[⭐] https://static.app.yinxiang.com/evermind/product/login](https://static.app.yinxiang.com/evermind/product/login) **印象图记。** 印象图记是一个在线思维导图工具与流程图工具，由印象笔记出品。它提供简洁易用的界面、实用主题和丰富图标，支持自由布局、分享导出和云端存储。这个工具旨在帮助用户提高工作和生活效率。
 1. [[⭐] https://whimsical.com](https://whimsical.com) **Whimsical。** Whimsical是一个集图表、白板等多种功能于一体的视觉协作平台。用户可以使用Whimsical创建流程图、线框图、思维导图和文档，快速将想法变为现实。它可以帮助团队成员更好地协作，从而更快地构建出更好的产品。Whimsical还可以与Jira、GitHub、Notion、Figma和Slack等常用工具集成，提高工作效率。
-1. [[⭐] https://www.ayoa.com/ultimate/](https://www.ayoa.com/ultimate/) **Ayoa Ultimate。** AI驱动的思维导图和生产力工具
+1. [[⭐] https://www.ayoa.com/ultimate/](https://www.ayoa.com/ultimate/) **Ayoa Ultimate。** AI驱动的思维导图和生产力工具 `[error][403]Forbidden`
 1. [[⭐] https://www.edrawsoft.cn/mindmaster](https://www.edrawsoft.cn/mindmaster) **亿图脑图。** 万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。
 1. [[⭐] https://www.figma.com/community/widget/1274481464484630971/jambot](https://www.figma.com/community/widget/1274481464484630971/jambot) **Jambot。** Figma的插件工具，Jambot会帮助您激发初稿并更快地取得进展，借助 Jambot，您可以利用 AI 创建视觉思维导图，采用多线程方法进行头脑风暴，并在同一画布中与队友和 ChatGPT 一起产生想法。
 1. [[⭐] https://www.processon.com](https://www.processon.com) **ProcessOn。** ProcessOn 是一款专业在线作图工具和知识分享社区，支持 AI 生成思维导图、流程图等多种图形，实现多人实时在线协作。功能丰富，支持 Markdown、LaTeX 数学公式插入，可导出为大纲、Word 等格式。团队协作共享，提升工作效率。免费使用，提供团队版服务。
@@ -1172,7 +1172,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://www.mindspore.cn](https://www.mindspore.cn) **昇思 MindSpore。** 通过社区合作，面向全场景构建最佳昇腾匹配、支持多处理器架构的开放AI架构，为算法工程师和数据科学家提供开发友好、运行高效、部署灵活的体验，帮助人工智能软硬件应用生态繁荣发展。
 1. [[⭐] https://www.paddlepaddle.org.cn](https://www.paddlepaddle.org.cn) **百度飞桨。** 飞桨致力于让深度学习技术的创新与应用更简单。
 1. [[⭐] https://www.polymet.ai](https://www.polymet.ai) **Polymet。** Polymet是一个利用人工智能技术帮助用户快速从创意到原型的设计工具。它通过连接Figma和代码库，使用户能够快速设计并迭代，同时导出符合设计模式的生产就绪代码。Polymet的主要优点包括提高设计和迭代速度，无缝连接设计工具和代码库，以及通过AI辅助设计，减少手动编码工作量，从而加速产品上市时间。
-1. [[⭐] https://www.qodo.ai](https://www.qodo.ai) **Qodo。** 面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。
+1. [[⭐] https://www.qodo.ai](https://www.qodo.ai) **Qodo。** 面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。 `[error][403]Forbidden`
 1. [[⭐] https://www.tabnine.com](https://www.tabnine.com) **Tabnine。** Tabnine是一款AI代码助手，支持所有编程语言和集成开发环境（IDE）。它提供智能代码补全、自动代码生成、错误检查和代码导航等功能，大大提高开发效率。Tabnine的优势在于其强大的机器学习模型和海量代码数据库，可以为开发人员提供准确和有用的代码建议。定价灵活多样，适应个人开发者和企业团队的需求。Tabnine定位于成为开发者的好帮手，让开发工作更高效、更快速。
 1. [[⭐] https://www.tryparity.com](https://www.tryparity.com) **Parity。** Parity 是世界上首个为 Kubernetes 值班工程师设计的 AI SRE（Site Reliability Engineer）。它在工程师打开笔记本电脑之前，就已经进行了问题调查、根因分析，并提出了补救措施。其主要优点包括快速的根因分析、智能运行手册执行、与集群的直接对话，以及与基础设施堆栈的安全集成。
 1. [[⭐] https://www.warp.dev](https://www.warp.dev) **Warp。** 内置AI命令搜索！21世纪的终端工具

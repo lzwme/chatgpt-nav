@@ -2526,7 +2526,9 @@
         "AI 图像处理"
       ],
       "title": "Noya",
-      "desc": "让线框图变成高保真设计"
+      "desc": "让线框图变成高保真设计",
+      "needVerify": 1,
+      "errmsg": "[error][503]Service Unavailable"
     },
     "https://appicons.ai": {
       "type": [
@@ -2906,7 +2908,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3026,7 +3030,9 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -4613,7 +4619,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.intelogos.com": {
       "title": "Intelogos",
@@ -5726,7 +5734,7 @@
         "AI 搜索引擎",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://writebot.io": {
@@ -6625,7 +6633,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -6940,7 +6948,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -7736,7 +7746,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chatbros.ai"
     },
     "https://chatlify.me": {
       "title": "Chatlify",
@@ -8593,8 +8605,8 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 2,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.texttovoice.online": {
       "title": "Texttovoice.online",
@@ -8921,7 +8933,7 @@
       "type": [
         "AI 提示词"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][504]Gateway Time-out"
     },
     "https://www.aiprm.com": {
@@ -8954,9 +8966,7 @@
       ],
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -10821,9 +10831,7 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ppinfra.com/user/": {
       "type": [
