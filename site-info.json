@@ -1347,7 +1347,9 @@
       "title": "火山写作",
       "desc": "火山写作是由字节跳动推出的，集成创作、润色、纠错、改写、翻译等能力的中英文AI 写作助手。",
       "icon": "https://lf-cdn-tos.bytescm.com/obj/static/fe/writingo/web/favicon.svg",
-      "star": 3
+      "star": 3,
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://chuangyi.taobao.com/pages/aiCopy": {
       "type": [
@@ -2906,7 +2908,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3026,7 +3030,9 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -4614,8 +4620,9 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.intelogos.com": {
       "title": "Intelogos",
@@ -4786,7 +4793,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.acgnai.art": {
       "title": "触手 AI ",
@@ -5761,7 +5770,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://free-trial.adcreative.ai/98krjvb7wdoq": {
@@ -6626,7 +6635,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -6941,7 +6952,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -7739,8 +7750,9 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chatbros.ai"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chatbros.ai",
+      "hide": 1
     },
     "https://chatlify.me": {
       "title": "Chatlify",
@@ -8514,9 +8526,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -8959,7 +8969,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -10824,7 +10836,9 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ppinfra.com/user/": {
       "type": [
