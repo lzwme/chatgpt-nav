@@ -1348,7 +1348,7 @@
       "desc": "火山写作是由字节跳动推出的，集成创作、润色、纠错、改写、翻译等能力的中英文AI 写作助手。",
       "icon": "https://lf-cdn-tos.bytescm.com/obj/static/fe/writingo/web/favicon.svg",
       "star": 3,
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://chuangyi.taobao.com/pages/aiCopy": {
@@ -2909,7 +2909,7 @@
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
@@ -3146,9 +3146,7 @@
       "desc": "MiniMax 全量发布大语言模型 abab6，为国内首个 MoE 大语言模型。在 MoE 结构下，abab6 拥有大参数带来的处理复杂任务的能力，同时模型在单位时间内能够训练足够多的数据，计算效率也可以得到大幅提升。改进了 abab5.5 在处理更复杂、对模型输出有更精细要求场景中出现的问题。",
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://quizlet.com": {
       "title": "Q Chat",
@@ -5767,9 +5765,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://free-trial.adcreative.ai/98krjvb7wdoq": {
       "title": "Adcreative.ai",
@@ -6470,7 +6466,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://www.beautiful.ai": {
       "title": "Beautiful.ai",
@@ -7775,7 +7773,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 138.197.138.168:443"
     },
     "https://answerly.io": {
       "title": "Answerly",
@@ -8520,7 +8520,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -8882,9 +8884,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://y.qq.com/tme_studio/": {
       "title": "TME Studio",
@@ -8966,7 +8966,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
@@ -9505,7 +9505,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
