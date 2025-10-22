@@ -276,6 +276,22 @@
       ],
       "lang": "zh"
     },
+    "https://www.aiionly.com/login/2536924186": {
+      "title": "唯一AI",
+      "desc": "邀请注册即送15元额度！服务稳定的模型聚合服务商，提供国内外热门顶级模型API调用服务。",
+      "star": 3,
+      "sort": -95,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "AI开放平台",
+        "deepseek",
+        "Claude",
+        "API"
+      ],
+      "lang": "zh"
+    },
     "https://ppinfra.com/user/": {
       "type": [
         "AI 聊天对话",
@@ -1892,13 +1908,6 @@
       "title": "美图WHEE",
       "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
-    "https://www.liblib.art": {
-      "type": [
-        "AI 绘图"
-      ],
-      "title": "LiblibAI",
-      "desc": "liblib是一个AI模型分享社区，在这里可以分享模型素材，共同探索AI绘画。"
-    },
     "https://tusiart.com": {
       "type": [
         "AI 绘图"
@@ -2249,18 +2258,7 @@
       "title": "DALL·E2",
       "desc": "OpenAI出品的绘画工具"
     },
-    "https://www.tiamat.world": {
-      "type": [
-        "AI 绘图",
-        "AI 图像处理"
-      ],
-      "title": "Tiamat",
-      "desc": "国内自研的AI作画系统！内测中",
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.tiamat.world",
-      "hide": 1
-    },
-    "https://www.liblib.ai": {
+    "https://www.liblib.art": {
       "type": [
         "AI 绘图"
       ],
@@ -2271,10 +2269,7 @@
         "图像生成",
         "创意平台",
         "图像"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]connect ECONNREFUSED 8.218.194.183:443",
-      "hide": 1
+      ]
     },
     "https://www.wujieai.com": {
       "type": [
@@ -4939,10 +4934,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
+      ]
     },
     "https://www.scholarcy.com": {
       "title": "Scholarcy",
@@ -4996,24 +4988,6 @@
       "type": [
         "AI 写作助手"
       ]
-    },
-    "https://www.aipaperpass.com": {
-      "title": "AIPaperPass",
-      "intro": "AI一键智造,助你PaperPass论文写作平台",
-      "desc": "AIPaperPass是一款AI原创论文写作平台,提供免费千字大纲,5分钟生成3万字初稿,同时包含答辩汇报PPT、开题报告和任务书等增值服务。用户只需输入论文题目,平台即可智能生成高质量论文框架,帮助用户迅速完成论文写作,解决用户论文难题,实现一键PaperPass。",
-      "lang": "zh",
-      "tags": [
-        "论文助手",
-        "写作辅助",
-        "写作"
-      ],
-      "type": [
-        "AI 写作助手",
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.aipaperpass.com",
-      "hide": 1
     },
     "https://www.overleaf.com": {
       "title": "Overleaf",
@@ -7762,49 +7736,6 @@
         "AI 开源工具"
       ]
     },
-    "https://airkit.ai": {
-      "title": "Airkit.ai",
-      "intro": "基于GPT-4的AI客服机器人,可在线为电商客户提供24/7全天候的支持",
-      "desc": "Airkit.ai eCommerce通过GPT-4驱动的AI客服机器人为电商企业提供智能的客户服务支持。它可以覆盖订单状态更新、退货售后、订单问题处理、产品信息查询等多种场景,快速准确地回答客户问题,随时随地为客户提供服务,大幅提高客户满意度;同时,也可以减轻人工客服的工作量,提升企业运营效率。此外,它还具有主动联系客户、个性化定制等功能,可进一步提升客户体验。",
-      "lang": "en",
-      "tags": [
-        "聊天机器人",
-        "智能客服",
-        "智能聊天",
-        "订单",
-        "售后",
-        "智能",
-        "自动化",
-        "商业",
-        "中文精选"
-      ],
-      "type": [
-        "AI 聊天对话",
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND airkit.ai",
-      "hide": 1
-    },
-    "https://chatbros.ai": {
-      "title": "Chatbros.ai",
-      "intro": "Chatbros.ai是一个人工智能驱动的聊天机器人,可以提高网站转化率、吸引用户参与、简化客户互动",
-      "desc": "Chatbros.ai是一款人工智能驱动的聊天机器人,它可以重新定义数字互动,提升转化率、促进销售增长、完全改变用户参与度。它提供无缝的帮助和无限的功能。",
-      "lang": "en",
-      "tags": [
-        "智能聊天",
-        "聊天机器人",
-        "智能营销",
-        "智能客服"
-      ],
-      "type": [
-        "AI 聊天对话",
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND chatbros.ai",
-      "hide": 1
-    },
     "https://chatlify.me": {
       "title": "Chatlify",
       "intro": "AI智能客服助手，24/7为您服务",
@@ -8897,9 +8828,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://mvsep.com/zh": {
       "title": "MVSEP",
@@ -8966,24 +8895,6 @@
       "type": [
         "AI 语音生成"
       ]
-    },
-    "https://promptperfect.jinaai.cn": {
-      "title": "PromptPerfect",
-      "intro": "专业的提示词工程：设计、优化、部署一条龙",
-      "desc": "PromptPerfect 是一款专业的提示词工程开发工具，可用于设计、优化和部署针对各种大型模型的提示词。它提供了逐步优化提示词、构建小样本提示词、将提示词部署为 REST 服务等功能。PromptPerfect 可帮助用户提高大模型的输出质量和效率。",
-      "lang": "zh",
-      "tags": [
-        "AI 工具",
-        "文本生成",
-        "模型优化",
-        "中文精选"
-      ],
-      "type": [
-        "AI 提示词"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][504]Gateway Time-out",
-      "hide": 1
     },
     "https://www.aiprm.com": {
       "title": "AIPRM",
@@ -9636,9 +9547,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://getliner.com": {
       "title": "Liner",
