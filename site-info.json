@@ -1429,7 +1429,7 @@
       "desc": "火山写作是由字节跳动推出的，集成创作、润色、纠错、改写、翻译等能力的中英文AI 写作助手。",
       "icon": "https://lf-cdn-tos.bytescm.com/obj/static/fe/writingo/web/favicon.svg",
       "star": 3,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][404]Not Found"
     },
     "https://chuangyi.taobao.com/pages/aiCopy": {
@@ -2287,9 +2287,7 @@
         "创作平台",
         "图像",
         "中文精选"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://cn.bing.com/create": {
       "type": [
@@ -2755,7 +2753,9 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://openai.com/sora": {
       "type": [
@@ -2970,7 +2970,7 @@
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
@@ -5911,9 +5911,7 @@
       "type": [
         "AI 视频生成",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][436]status code 436"
+      ]
     },
     "https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary": {
       "title": "Motionshop",
@@ -6667,7 +6665,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -6982,7 +6982,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -7764,8 +7764,8 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]connect ECONNREFUSED 138.197.138.168:443"
+      "needVerify": 4,
+      "errmsg": "[error][-1]timeout"
     },
     "https://answerly.io": {
       "title": "Answerly",
@@ -8504,7 +8504,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -8926,9 +8928,7 @@
       ],
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
