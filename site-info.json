@@ -231,7 +231,7 @@
       "star": 3,
       "sort": -98,
       "needLogin": 1,
-      "desc": "邀请注册送1000万Token！提供Claude 4.1 opus、Grok 4 Fast、Gemini、Kimi、Deepseek 等超全的当前国内外流行大模型 API 调用服务。",
+      "desc": "邀请注册多送1000万Token！提供Claude4.1 opus、Grok 4 Fast、Gemini、Kimi、Deepseek 等超全的当前国内外流行大模型 API 调用服务。",
       "title": "七牛云",
       "tags": [
         "grok",
@@ -2342,9 +2342,7 @@
       "title": "Midlibrary",
       "lang": "en",
       "desc": "风格多样！实用超2000+MJ提示词资源",
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://promptbase.com": {
       "type": [
@@ -2827,10 +2825,8 @@
         "AI 视频生成"
       ],
       "title": "Clipchamp",
-      "desc": "将文本转为视频旁白！几分钟即可创建导出视频",
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "desc": "将文本转为视频旁白！几分钟即可创建导出视频。支持免费试用",
+      "needVerify": -1
     },
     "https://ttsmaker.cn": {
       "type": [
@@ -3879,9 +3875,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://ai.nero.com/enhance": {
       "title": "Nero AI Image Upscaler",
@@ -4585,9 +4579,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://logodiffusion.com": {
       "title": "Logo Diffusion",
@@ -4669,9 +4661,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.intelogos.com": {
       "title": "Intelogos",
@@ -4946,11 +4936,9 @@
         "AI 行业工具",
         "AI 写作助手"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
-    "https://baoyueai.com/home?utm_id=219599": {
+    "https://baoyueai.com/home": {
       "title": "包阅AI文档阅读",
       "intro": "包阅AI帮你阅读广、理解深、效率高",
       "desc": "包阅AI阅读助手支持一键总结、AI问答、多语言翻译,涵盖网页、论文文献、法律文档、学术科研、产品手册、市场报告、电子书等多种内容类型。功能包括总结提炼、深度理解、问答解惑、文献检索、文案润色等。定位于帮助用户高效阅读和理解各类文本资料。",
@@ -6229,9 +6217,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.runwayml.com": {
       "title": "Runwayml",
@@ -6408,9 +6394,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.arcads.ai": {
       "title": "Arcads",
@@ -6918,9 +6902,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.feishu.cn/product/ai_companion": {
       "title": "飞书智能伙伴",
@@ -7748,22 +7730,6 @@
       "type": [
         "AI 行业工具"
       ]
-    },
-    "https://www.choony.io": {
-      "title": "Choony",
-      "intro": "定制AI聊天机器人生成器",
-      "desc": "Choony是一个聊天机器人生成器，可以轻松创建、指导和部署聊天机器人到任何地方。使用我们的平台，您可以在5分钟内创建自己的聊天机器人，根据需求进行定制和品牌化。Choony支持OpenAI的GPT-3模型，可以帮助您创建智能、个性化的聊天机器人。您可以在我们的平台上测试和嵌入聊天机器人，直到满足您的需求。无需信用卡，立即开始30天免费试用。",
-      "lang": "en",
-      "tags": [
-        "聊天机器人",
-        "生成器"
-      ],
-      "type": [
-        "AI 聊天对话"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
     },
     "https://answerly.io": {
       "title": "Answerly",
@@ -10854,6 +10820,18 @@
       "title": "CloudBase AI CLI",
       "desc": "腾讯云开发的 AI CLI 辅助工具，支持能够通过一个简单的命令使用 Claude Code、OpenAI Codex、aider、Qwen Code 等 AI 编程助手。",
       "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI",
+        "编程"
+      ]
+    },
+    "https://www.kimi.com/coding/docs/kimi-cli.html": {
+      "title": "Kimi CLI",
+      "desc": "Moonshot AI 自研的命令行通用智能体工具，支持 macOS 和 Linux 系统，要求使用 uv 包管理器安装。",
+      "star": 2,
       "type": [
         "AI 编程开发"
       ],
