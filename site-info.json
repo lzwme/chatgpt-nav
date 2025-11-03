@@ -1961,7 +1961,9 @@
         "AI 图像处理"
       ],
       "title": "图宇宙",
-      "desc": "图宇宙是计算美学是高品质的智能设计平台，致力于让每个人都能享受好设计。"
+      "desc": "图宇宙是计算美学是高品质的智能设计平台，致力于让每个人都能享受好设计。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.gaoding.com/ai/design": {
       "type": [
@@ -2148,7 +2150,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://runwayml.com": {
       "type": [
@@ -2531,7 +2535,9 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱"
+      "desc": "多功能的AI图片处理工具箱",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://insightface.ai": {
       "type": [
@@ -2547,7 +2553,7 @@
       ],
       "title": "Creatie.ai",
       "desc": "一键即出UI作品，绝美界面惊艳全场",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>"
     },
     "https://www.usegalileo.ai": {
@@ -2742,7 +2748,9 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://openai.com/sora": {
       "type": [
@@ -2903,7 +2911,9 @@
       ],
       "title": "比格AI PPT",
       "needPay": 1,
-      "desc": "AI 一键生成PPT。需付费"
+      "desc": "AI 一键生成PPT。需付费",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tome.app": {
       "type": [
@@ -3075,7 +3085,7 @@
       ],
       "title": "Qodo",
       "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
@@ -4914,7 +4924,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://www.scholarcy.com": {
@@ -5058,7 +5068,9 @@
       ],
       "type": [
         "AI 搜索引擎"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://copyleaks.com": {
       "title": "Copyleaks",
@@ -5674,8 +5686,9 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://pipl.ai": {
       "title": "Pipl.ai",
@@ -5896,7 +5909,7 @@
         "AI 视频生成",
         "AI 绘图"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.lensgo.ai"
     },
     "https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary": {
@@ -6456,7 +6469,9 @@
       "type": [
         "AI 图像处理",
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://gezhe.com": {
       "title": "歌者PPT",
@@ -6485,7 +6500,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://www.beautiful.ai": {
@@ -6649,9 +6664,7 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -8197,9 +8210,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://xiake.pro": {
       "title": "虾壳ChatAi",
@@ -8471,7 +8482,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
       "title": "Text2Audio",
@@ -8830,9 +8843,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://y.qq.com/tme_studio/": {
       "title": "TME Studio",
@@ -8895,7 +8906,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -9426,9 +9439,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -10732,7 +10743,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://remove-watermark.org": {
