@@ -1476,7 +1476,7 @@
       ],
       "title": "Tome",
       "desc": "AI专为演示而构建。",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.aippt.cn": {
@@ -2922,7 +2922,7 @@
         "全屏展示",
         "国外精选"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][404]Not Found"
     },
     "https://glimmerai.tech": {
@@ -2959,9 +2959,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -5245,7 +5243,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xiaomengai.com": {
       "title": "彩云小梦尝鲜版",
@@ -6973,9 +6973,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8485,7 +8483,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
@@ -8911,7 +8909,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -8942,9 +8942,7 @@
       ],
       "type": [
         "AI 提示词"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
@@ -9945,9 +9943,7 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "http://tuan.weilaigpt.cn": {
       "title": "站长团购AI PPT系统",
