@@ -604,7 +604,9 @@
         "代码理解与编写",
         "大厂合集(精选大厂热门AI产品)",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xfyun.cn": {
       "title": "讯飞开放平台",
@@ -1412,7 +1414,9 @@
         "AI 写作助手"
       ],
       "title": "笔灵AI",
-      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。"
+      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://effidit.qq.com": {
       "type": [
@@ -1469,15 +1473,6 @@
       ],
       "title": "SlidesGo",
       "desc": "Slidesgo最新推出了AI演示制作工具，它能在几次点击之内，为你制作出符合你需求的精美幻灯片。而且，它完全免费！"
-    },
-    "https://tome.app/ai": {
-      "type": [
-        "AI 文档办公"
-      ],
-      "title": "Tome",
-      "desc": "AI专为演示而构建。",
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://www.aippt.cn": {
       "type": [
@@ -2908,23 +2903,6 @@
       "needPay": 1,
       "desc": "AI 一键生成PPT。需付费"
     },
-    "https://tome.app": {
-      "type": [
-        "AI 文档办公"
-      ],
-      "title": "Tome",
-      "desc": "先进的AI智能PPT制作工具",
-      "tags": [
-        "创意",
-        "演示文稿",
-        "落地页",
-        "交互式",
-        "全屏展示",
-        "国外精选"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://glimmerai.tech": {
       "type": [
         "AI 文档办公"
@@ -2959,7 +2937,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -5243,9 +5223,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.xiaomengai.com": {
       "title": "彩云小梦尝鲜版",
@@ -6661,7 +6639,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -8483,7 +8463,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://text2audio.cc": {
@@ -8910,7 +8890,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
@@ -10729,7 +10709,9 @@
       "desc": "Splash的AI音乐生成器",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://remove-watermark.org": {
       "type": [
