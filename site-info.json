@@ -2736,7 +2736,9 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://openai.com/sora": {
       "type": [
@@ -3648,9 +3650,7 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -6947,9 +6947,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8440,7 +8438,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\""
     },
     "https://www.tabnine.com": {
       "title": "Tabnine",
@@ -8886,7 +8886,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -9382,7 +9384,7 @@
       "type": [
         "AI 数字人"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.chanjing.cc": {
@@ -9453,9 +9455,7 @@
         "AI 视频生成",
         "AI 聊天对话",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.cyrinn.cn": {
       "title": "赛灵力",
@@ -10439,7 +10439,7 @@
         "AI 文档办公"
       ],
       "lang": "en",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.inceptionlabs.ai/news": {
@@ -10534,7 +10534,7 @@
       "type": [
         "AI 搜索引擎"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][429]Too Many Requests"
     },
     "https://zapier.com/agents": {
