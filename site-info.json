@@ -604,7 +604,9 @@
         "代码理解与编写",
         "大厂合集(精选大厂热门AI产品)",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xfyun.cn": {
       "title": "讯飞开放平台",
@@ -1258,7 +1260,7 @@
       ],
       "title": "Tipranks",
       "desc": "【金融】",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
@@ -6228,9 +6230,7 @@
       "type": [
         "AI 视频生成",
         "国产大模型"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://kling.kuaishou.com": {
       "title": "可灵大模型",
@@ -6637,9 +6637,7 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -8374,7 +8372,9 @@
       ],
       "type": [
         "AI 网站生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND codefuse.alipay.com"
     },
     "https://sky-code.singularity-ai.com": {
       "title": "天工智码 SkyCode",
@@ -8891,9 +8891,7 @@
       ],
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -10710,7 +10708,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://remove-watermark.org": {
