@@ -604,9 +604,7 @@
         "代码理解与编写",
         "大厂合集(精选大厂热门AI产品)",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.xfyun.cn": {
       "title": "讯飞开放平台",
@@ -777,7 +775,9 @@
     "http://new.cutim.top": {
       "star": 2,
       "source": "recommend",
-      "title": "ChatGPT Web--免费的国内ChatGPT"
+      "title": "ChatGPT Web--免费的国内ChatGPT",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://aitools.run": {
       "urls": [
@@ -1260,7 +1260,7 @@
       ],
       "title": "Tipranks",
       "desc": "【金融】",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
@@ -2137,7 +2137,9 @@
         "AI 数字人"
       ],
       "title": "小冰",
-      "desc": "小冰基于全球领先的完备人工智能小冰框架，推出了数字专家和数字员工等完整产品线。"
+      "desc": "小冰基于全球领先的完备人工智能小冰框架，推出了数字专家和数字员工等完整产品线。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://virbo.wondershare.cn": {
       "type": [
@@ -2494,7 +2496,9 @@
         "AI 绘图"
       ],
       "title": "清图",
-      "desc": "在线修复！国产的 AI 图像处理工具"
+      "desc": "在线修复！国产的 AI 图像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://jpghd.com/zh": {
       "type": [
@@ -2937,7 +2941,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3424,7 +3430,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:172.190.93.131:1764447246.649\"></meta></head></html>"
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -5771,7 +5779,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://free-trial.adcreative.ai/98krjvb7wdoq": {
       "title": "Adcreative.ai",
@@ -6949,7 +6959,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8373,7 +8385,7 @@
       "type": [
         "AI 网站生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND codefuse.alipay.com"
     },
     "https://sky-code.singularity-ai.com": {
@@ -8891,7 +8903,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -10708,8 +10722,8 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 4,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "needVerify": 5,
+      "errmsg": "[error][-1]timeout"
     },
     "https://remove-watermark.org": {
       "type": [
