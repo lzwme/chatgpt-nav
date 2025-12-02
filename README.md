@@ -119,7 +119,6 @@
 1. [[⭐] https://chat.colossalai.org](https://chat.colossalai.org) **ColossalChat。** 免费开源的AI聊天机器人
 1. [[⭐] https://chat.xverse.cn/home/](https://chat.xverse.cn/home/) **元象大模型 XChat。** 元象大模型 XChat 是一款国内领先的通用大模型产品。它自研高性能，从零训练，可以大幅降低开发门槛与推理成本，满足不同复杂度的多任务需求。该产品融合了意图理解、信息检索以及强化学习技术，结合有监督微调与人类意图对齐，在知识问答、文本创作领域表现突出。欲了解更多详情，请访问官网：[元象大模型 XChat](https://www.xverse.ai/)
 1. [[⭐] https://chatboxai.app/zh](https://chatboxai.app/zh) **Chatbox。** Chatbox是一个易于使用的人工智能解决方案，支持多平台，帮助提升工作和学习效率。它具备本地数据存储，确保隐私和轻松访问，同时支持多种尖端人工智能模型，提供多样化、适应性和智能化的用户互动。Chatbox还具备强大的提示功能，释放创造力，支持Markdown、引用、令牌估计等功能，为思维提供广阔的发展空间。
-1. [[⭐] https://chatdocuments.ai](https://chatdocuments.ai) **ChatDocuments。** ChatDocuments是一款由人工智能驱动的应用，可以轻松与PDF、PPTX、XLSX和DOCX文件进行聊天互动。支持所有语言。定价：免费试用，免费使用3个文档；付费套餐详见官网。定位：提供便捷的文档交互体验。 `[error][-1]timeout`
 1. [[⭐] https://chatexcel.com](https://chatexcel.com) **酷表ChatExcel。** 酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据。
 1. [[⭐] https://chatfai.com](https://chatfai.com) **ChatFAI。** 与您最喜爱的角色聊天
 1. [[⭐] https://chathub.gg](https://chathub.gg) **ChatHub。** ChatHub是一个浏览器插件，可让您同时使用多个聊天机器人。它支持ChatGPT、Bing、Google Bard、Claude等10+个开源聊天机器人。ChatHub提供免费使用的大部分功能，还有付费的ChatHub Premium套餐，解锁所有高级功能。
@@ -180,6 +179,7 @@
 1. [[⭐⭐⭐🚀] https://x.ai](https://x.ai) **Grok 3。** Grok 3是由Elon Musk的AI公司xAI开发的最新旗舰AI模型。它在计算能力和数据集规模上显著提升，能够处理复杂的数学、科学问题，并支持多模态输入。其主要优点是推理能力强大，能够提供更准确的答案，并且在某些基准测试中超越了现有的顶尖模型。Grok 3的推出标志着xAI在AI领域的进一步发展，旨在为用户提供更智能、更高效的AI服务。该模型目前主要通过Grok APP和X平台提供服务，未来还将推出语音模式和企业API接口。其定位是高端AI解决方案，主要面向需要深度推理和多模态交互的用户。
 1. [[🚀] https://grok.com](https://grok.com) **Grok website。** xAI Grok是一个对话式AI系统,能够理解用户的问题并给出知识性的回答。它使用了大规模语言模型来建模语言,从而实现了更人性化的交互。该系统还具有持续学习的能力,会根据用户的反馈不断改进。
 1. [[🚀] https://huggingface.co](https://huggingface.co) **Hugging Face。** 下载开源的SD模型
+1. [[❓] https://chatdocuments.ai](https://chatdocuments.ai) **ChatDocuments。** ChatDocuments是一款由人工智能驱动的应用，可以轻松与PDF、PPTX、XLSX和DOCX文件进行聊天互动。支持所有语言。定价：免费试用，免费使用3个文档；付费套餐详见官网。定位：提供便捷的文档交互体验。 `[error][-1]timeout`
 
 ### AI 绘图 (178)
 
@@ -1001,7 +1001,6 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://botsheets.com](https://botsheets.com) **Botsheets AI Writer。** Botsheets是一款使用Google Sheets作为CMS的Chat自动化工具。它可以将聊天对话转化为结构化数据，并生成Google Sheets，同时可以使用Google Sheets中的数据触发自动化响应。它可以帮助您轻松管理聊天内容，并自动生成自动化回复。无需编写复杂的代码，只需简单设置，即可实现Chat的自动化。
 1. [[⭐] https://chat-ppt.com](https://chat-ppt.com) **ChatPPT。** 必优科技推出的中文AI生成PPT的办公产品
 1. [[⭐] https://chatdoc.xfyun.cn](https://chatdoc.xfyun.cn) **星火知识库。** 讯飞星火知识库文档问答是科大讯飞基于讯飞星火大模型和星火知识库搭建的文档问答服务，能够高效检索文档信息，准确回答专业问题。具备多文档问答，文档知识库，信源原文定位，文档总结，自定义切分等功能。
-1. [[⭐] https://chatdocuments.ai](https://chatdocuments.ai) **ChatDocuments。** ChatDocuments是一款由人工智能驱动的应用，可以轻松与PDF、PPTX、XLSX和DOCX文件进行聊天互动。支持所有语言。定价：免费试用，免费使用3个文档；付费套餐详见官网。定位：提供便捷的文档交互体验。 `[error][-1]timeout`
 1. [[⭐] https://chatexcel.com](https://chatexcel.com) **酷表ChatExcel。** 酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据。
 1. [[⭐] https://chatmind.tech/editor](https://chatmind.tech/editor) **Chatmind AI。** Chatmind 是一款由 Xmind 团队推出的免费在线 AI 思维导图和头脑风暴工具，通过 ChatGPT 技术，帮助用户在几分钟内创建思维导图。用户可以通过简单的文本描述生成思维导图，快速总结文档或 URL 链接为思维导图，与 AI 对话产生创意并整合到思维导图中，描述文本即可立即生成图像，轻松为任何主题创建视觉内容，自动保存文件历史以便跨设备访问，编辑文本和重新排列主题轻松自如，将思维导图转化为幻灯片展示只需一键，轻松以多种格式分享思维导图。
 1. [[⭐] https://excelbot.io](https://excelbot.io) **ExcelBot。** ExcelBot是一个AI驱动的Excel公式和VBA代码生成器。它可以将自然语言文本请求转化为Excel公式或VBA代码,无论您是否擅长Excel。它可以帮助初学者无需编程经验就可以编写复杂的Excel公式和VBA代码,也可以帮助专业人士自动完成繁琐的Excel任务。主要功能包括:支持多种语言输入;提供公式和代码结果解释;支持公式和代码的编辑和复制等。该产品可用于各类Excel数据处理和分析场景,有助于提升工作效率。
@@ -1030,7 +1029,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[⭐] https://raccoon.sensetime.com/office](https://raccoon.sensetime.com/office) **办公小浣熊 Raccoon。** 办公小浣熊是基于商汤大语言模型的大模型原生数据分析产品，通过自然语言输入，结合商汤大模型的能力，自动将数据转化为有意义的分析和可视化结果。它支持复杂表格、多表格、多文件的理解，能够完成数据清洗、数据运算、比较分析、趋势分析，预测性分析、可视化等常见数据分析任务，赋能财务分析、商业分析、销售预测、市场分析、宏观分析等多个应用场景。
 1. [[⭐] https://resume.co](https://resume.co) **Resume。** 使用Resume，在短短 5 分钟内创建一份能帮助你获得工作的简历。选择超过 20 个专业、现代和创意的简历模板。
 1. [[⭐] https://resumeboostai.com](https://resumeboostai.com) **ResumeBoostAI。** ResumeBoostAI是一个AI简历和求职文书生成工具。用户可以使用其 resume builder 快速生成个性化简历,或使用 cover letter、bullet points、common job answers等功能自动生成求职文书。该工具使用AI技术,根据用户提供的个人信息智能生成简历内容,节省用户大量撰写时间,提升简历质量。适合正在找工作的求职者使用。
-1. [[⭐] https://rossum.ai](https://rossum.ai) **Rossum.ai。** 深受企业信赖，强大易用的AI智能文档处理平台
+1. [[⭐] https://rossum.ai](https://rossum.ai) **Rossum.ai。** 深受企业信赖，强大易用的AI智能文档处理平台 `[error][403]Forbidden`
 1. [[⭐] https://rows.com](https://rows.com) **Rows。** Rows是一个功能强大、安全可靠的在线电子表格工具。它提供了丰富的电子表格功能,包括格式化、公式、图表等,能满足用户的大部分数据分析和呈现需求。Rows拥有直观的操作界面,新用户可以快速上手。同时它支持实时协作,多用户可以同时编辑一个文档。Rows提供了业界领先的安全机制,确保文档和数据的安全。它还支持将文档发布为网页,方便数据的浏览和共享。总的来说,Rows是一个功能强大且易于使用的在线电子表格工具,适合个人和团队进行数据分析和呈现。它的免费版本已经能满足大多数用户的需求。
 1. [[⭐] https://sheetai.app/�](https://sheetai.app/�) **SheetAI.app。** SheetAI是一个Google Sheets的插件，帮助您在电子表格中释放AI的力量。它提供了一套强大的基于AI的功能，可以帮助您自动化任务和生成洞察力。它包括SHEETAI_BRAIN来简化文案撰写，SHEETAI_LIST来生成多个答案，SHEETAI_FILL来填充数据等功能。
 1. [[⭐] https://slidesgo.com/ai-presentations](https://slidesgo.com/ai-presentations) **SlidesGo。** Slidesgo最新推出了AI演示制作工具，它能在几次点击之内，为你制作出符合你需求的精美幻灯片。而且，它完全免费！
@@ -1069,6 +1068,7 @@ Rewind的定价为每月$10，适用于个人用户和企业用户。它适用�
 1. [[💰] https://bigesj.com/ai-ppt/](https://bigesj.com/ai-ppt/) **比格AI PPT。** AI 一键生成PPT。需付费
 1. [[🚀] https://chatdoc.com](https://chatdoc.com) **chatDOC。** 通过与文档对话,以引用来源的方式获得即时答案。
 1. [[🚀] https://chatpdf.com](https://chatpdf.com) **chatPDF。** 加入数百万学生、研究人员和专业人士的行列，通过 AI 即时回答问题。
+1. [[❓] https://chatdocuments.ai](https://chatdocuments.ai) **ChatDocuments。** ChatDocuments是一款由人工智能驱动的应用，可以轻松与PDF、PPTX、XLSX和DOCX文件进行聊天互动。支持所有语言。定价：免费试用，免费使用3个文档；付费套餐详见官网。定位：提供便捷的文档交互体验。 `[error][-1]timeout`
 
 ### AI 思维导图 (12)
 
