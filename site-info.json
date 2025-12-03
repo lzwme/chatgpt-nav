@@ -604,7 +604,9 @@
         "代码理解与编写",
         "大厂合集(精选大厂热门AI产品)",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xfyun.cn": {
       "title": "讯飞开放平台",
@@ -776,7 +778,7 @@
       "star": 2,
       "source": "recommend",
       "title": "ChatGPT Web--免费的国内ChatGPT",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://aitools.run": {
@@ -1260,8 +1262,9 @@
       ],
       "title": "Tipranks",
       "desc": "【金融】",
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
       "type": [
@@ -2937,9 +2940,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3059,9 +3060,7 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3428,7 +3427,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -6447,7 +6448,9 @@
       "type": [
         "AI 图像处理",
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://gezhe.com": {
       "title": "歌者PPT",
@@ -6641,9 +6644,7 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -6784,7 +6785,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://rows.com": {
       "title": "Rows",
@@ -6956,7 +6959,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -8381,7 +8384,7 @@
       "type": [
         "AI 网站生成"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://sky-code.singularity-ai.com": {
@@ -8899,7 +8902,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
