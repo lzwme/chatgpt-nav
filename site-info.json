@@ -605,7 +605,7 @@
         "大厂合集(精选大厂热门AI产品)",
         "API"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.xfyun.cn": {
@@ -778,7 +778,7 @@
       "star": 2,
       "source": "recommend",
       "title": "ChatGPT Web--免费的国内ChatGPT",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://aitools.run": {
@@ -1846,7 +1846,9 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://img.logosc.cn": {
       "type": [
@@ -2308,7 +2310,9 @@
         "AI 绘图"
       ],
       "title": "AISEO ART",
-      "desc": "AISEO Art 的AI算法按照分类进行过细致的训练"
+      "desc": "AISEO Art 的AI算法按照分类进行过细致的训练",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://apps.apple.com/us/app/opencat/id6445999201": {
       "type": [
@@ -2940,7 +2944,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3427,9 +3433,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -5362,7 +5366,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.surferseo.com": {
       "title": "Surfer",
@@ -6448,9 +6454,7 @@
       "type": [
         "AI 图像处理",
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://gezhe.com": {
       "title": "歌者PPT",
@@ -6644,7 +6648,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -6785,9 +6791,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://rows.com": {
       "title": "Rows",
@@ -6958,9 +6962,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 5,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8384,8 +8386,9 @@
       "type": [
         "AI 网站生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://sky-code.singularity-ai.com": {
       "title": "天工智码 SkyCode",
@@ -8562,7 +8565,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.texttovoice.online": {
       "title": "Texttovoice.online",
@@ -8903,7 +8908,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
