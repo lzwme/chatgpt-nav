@@ -759,7 +759,9 @@
       "source": "recommend",
       "needLogin": 1,
       "desc": "Best AI Content Writer",
-      "title": "ChattyAid"
+      "title": "ChattyAid",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://shutu.cn": {
       "star": 2,
@@ -1730,7 +1732,9 @@
         "AI 网站生成"
       ],
       "title": "Tilda",
-      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。"
+      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://learningprompt.wiki": {
       "type": [
@@ -2308,7 +2312,7 @@
       ],
       "title": "AISEO ART",
       "desc": "AISEO Art 的AI算法按照分类进行过细致的训练",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://apps.apple.com/us/app/opencat/id6445999201": {
@@ -3062,7 +3066,7 @@
       ],
       "title": "Qodo",
       "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
@@ -3526,7 +3530,9 @@
       "desc": "一键总结B站音视频内容",
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://www.stableaudio.com": {
       "title": "Stable Audio",
@@ -5364,7 +5370,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.surferseo.com": {
@@ -6646,7 +6652,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -6959,9 +6965,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -7115,7 +7119,9 @@
         "AI 语音生成",
         "AI 翻译工具",
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://meeting.tencent.com/ai/": {
       "title": "腾讯会议·AI小助手",
@@ -8904,7 +8910,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -8935,9 +8943,7 @@
       ],
       "type": [
         "AI 提示词"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
