@@ -2308,8 +2308,9 @@
       ],
       "title": "AISEO ART",
       "desc": "AISEO Art 的AI算法按照分类进行过细致的训练",
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://apps.apple.com/us/app/opencat/id6445999201": {
       "type": [
@@ -2942,7 +2943,7 @@
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
@@ -3063,7 +3064,9 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3527,7 +3530,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.stableaudio.com": {
@@ -5366,8 +5369,9 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.surferseo.com": {
       "title": "Surfer",
@@ -6647,7 +6651,9 @@
       "type": [
         "AI 文档办公",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
@@ -6959,7 +6965,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -7600,7 +7608,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://zhumengdao.com": {
@@ -8905,7 +8913,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://prompttools.readthedocs.io": {
