@@ -10883,6 +10883,19 @@
         "开源",
         "编程"
       ]
-    }
+    },
+        "https://scribelydesigns.top/tools/story-starter": {
+    "title": "Scribely Story Starter",
+    "desc": "基于AI的视觉小说与故事开头生成器，帮助克服写作障碍。",
+    "star": 3,
+    "type": [
+      "AI 写作辅助"
+    ],
+    "tags": [
+      "AI",
+      "写作",
+      "灵感生成"
+    ],
+    "repo": "oogwaaay/novel-ai-platform"
   }
 }
