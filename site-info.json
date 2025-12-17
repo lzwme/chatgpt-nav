@@ -1830,7 +1830,9 @@
         "AI 绘图"
       ],
       "title": "无限画",
-      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。"
+      "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
+      "needVerify": 1,
+      "errmsg": "[error][200]<textarea id=\"renderData\" style=\"display:none\">{\"l1\":\"var arg1='5e6ed293617f7ec2c7efae6b5686b937e09b52ceb35bea66a3';\"}</textarea><!doctype html><html><head><meta charset=\"utf-8\"><meta name"
     },
     "https://www.ishencai.com": {
       "type": [
@@ -2745,9 +2747,7 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具"
     },
     "https://openai.com/sora": {
       "type": [
@@ -2944,7 +2944,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3431,9 +3433,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.161.30.225:1765916169.530\"></meta></head></html>"
+      ]
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -3787,7 +3787,9 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][567]Unknown Status"
     },
     "https://undermind.ai": {
       "title": "Undermind.ai",
@@ -3944,9 +3946,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -5255,8 +5255,9 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://midreal.ai": {
       "title": "MidReal",
@@ -5780,7 +5781,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://free-trial.adcreative.ai/98krjvb7wdoq": {
       "title": "Adcreative.ai",
@@ -6882,7 +6885,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.canva.cn": {
@@ -6960,9 +6963,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8693,9 +8694,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.singduck.cn": {
       "title": "唱鸭",
@@ -8944,9 +8943,7 @@
       ],
       "type": [
         "AI 提示词"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
