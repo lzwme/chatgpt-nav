@@ -677,7 +677,9 @@
       "sort": -80,
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
-      "title": "C知道"
+      "title": "C知道",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai-maas.wair.ac.cn": {
       "type": [
@@ -947,7 +949,9 @@
       ],
       "title": "华为盘古",
       "desc": "华为盘古大模型，重塑千行百业",
-      "star": 3
+      "star": 3,
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND pangu.huaweicloud.com"
     },
     "https://www.anthropic.com": {
       "type": [
@@ -1831,8 +1835,8 @@
       ],
       "title": "无限画",
       "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
-      "needVerify": 1,
-      "errmsg": "[error][200]<textarea id=\"renderData\" style=\"display:none\">{\"l1\":\"var arg1='5e6ed293617f7ec2c7efae6b5686b937e09b52ceb35bea66a3';\"}</textarea><!doctype html><html><head><meta charset=\"utf-8\"><meta name"
+      "needVerify": 2,
+      "errmsg": "[error][200]<textarea id=\"renderData\" style=\"display:none\">{\"l1\":\"var arg1='5e69bd5588f8a5ce6eebc348e54ac81c2167202188f664c106';\"}</textarea><!doctype html><html><head><meta charset=\"utf-8\"><meta name"
     },
     "https://www.ishencai.com": {
       "type": [
@@ -2747,7 +2751,9 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://openai.com/sora": {
       "type": [
@@ -2944,9 +2950,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3066,7 +3070,9 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3787,9 +3793,7 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][567]Unknown Status"
+      ]
     },
     "https://undermind.ai": {
       "title": "Undermind.ai",
@@ -5782,7 +5786,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://free-trial.adcreative.ai/98krjvb7wdoq": {
@@ -6884,9 +6888,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.canva.cn": {
       "title": "Canva 可画",
@@ -7571,7 +7573,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://weiban.qq.com": {
       "title": "未伴",
@@ -8943,7 +8947,9 @@
       ],
       "type": [
         "AI 提示词"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
