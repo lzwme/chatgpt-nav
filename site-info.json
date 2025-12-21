@@ -677,9 +677,7 @@
       "sort": -80,
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
-      "title": "C知道",
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "title": "C知道"
     },
     "https://ai-maas.wair.ac.cn": {
       "type": [
@@ -1420,9 +1418,7 @@
         "AI 写作助手"
       ],
       "title": "笔灵AI",
-      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "笔灵AI是国内领先的AI写作助手与智能工具。专为提高写作效率而设计，提供免费的AI文章改写、论文辅助、商业计划书撰写等服务。"
     },
     "https://effidit.qq.com": {
       "type": [
@@ -2659,7 +2655,9 @@
         "AI 图像处理"
       ],
       "title": "ImgCreator",
-      "desc": "超赞的多合一AI设计工具，超强的背景生成、海报生成能力"
+      "desc": "超赞的多合一AI设计工具，超强的背景生成、海报生成能力",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN imgcreator.ai"
     },
     "https://app.recraft.ai/community": {
       "type": [
@@ -3066,9 +3064,7 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3237,9 +3233,7 @@
       "desc": "「印象笔记」X「印象AI」会创作的第二大脑",
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.edrawsoft.cn/mindmaster": {
       "title": "亿图脑图",
@@ -3297,7 +3291,9 @@
       "type": [
         "AI 图像处理",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN www.zmo.ai"
     },
     "https://vocalremover.org": {
       "title": "Vocal Remover",
@@ -3483,7 +3479,9 @@
         "AI 图像处理",
         "AI 开源工具",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://looka.com": {
       "title": "Looka",
@@ -3792,7 +3790,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][567]Unknown Status"
     },
     "https://undermind.ai": {
@@ -4073,7 +4071,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN imgcreator.zmo.ai"
     },
     "https://bgeraser.com": {
       "title": "Bg.Eraser",
@@ -6020,7 +6020,9 @@
       "type": [
         "AI 语音生成",
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://dreamtalk-project.github.io": {
       "title": "DreamTalk",
@@ -6963,7 +6965,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -7559,7 +7563,7 @@
         "AI 聊天对话",
         "AI 综合工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatfai.com": {
@@ -7574,7 +7578,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://weiban.qq.com": {
@@ -8574,7 +8578,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.texttovoice.online": {
@@ -8731,7 +8735,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://myvocal.ai": {
       "title": "MyVocal",
@@ -8853,8 +8859,8 @@
         "AI 视频生成",
         "AI 语音生成"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      "needVerify": 2,
+      "errmsg": "[error][-1]timeout"
     },
     "https://y.qq.com/tme_studio/": {
       "title": "TME Studio",
@@ -10839,7 +10845,9 @@
       "tags": [
         "CLI",
         "编程"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kimi.com/coding/docs/kimi-cli.html": {
       "title": "Kimi CLI",
