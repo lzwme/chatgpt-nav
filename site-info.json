@@ -2656,7 +2656,7 @@
       ],
       "title": "ImgCreator",
       "desc": "超赞的多合一AI设计工具，超强的背景生成、海报生成能力",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo EAI_AGAIN imgcreator.ai"
     },
     "https://app.recraft.ai/community": {
@@ -3292,8 +3292,8 @@
         "AI 图像处理",
         "AI 国外工具"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN www.zmo.ai"
+      "needVerify": 2,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://vocalremover.org": {
       "title": "Vocal Remover",
@@ -3479,9 +3479,7 @@
         "AI 图像处理",
         "AI 开源工具",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://looka.com": {
       "title": "Looka",
@@ -3790,7 +3788,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][567]Unknown Status"
     },
     "https://undermind.ai": {
@@ -4072,8 +4070,8 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN imgcreator.zmo.ai"
+      "needVerify": 2,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND imgcreator.zmo.ai"
     },
     "https://bgeraser.com": {
       "title": "Bg.Eraser",
@@ -6020,9 +6018,7 @@
       "type": [
         "AI 语音生成",
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://dreamtalk-project.github.io": {
       "title": "DreamTalk",
@@ -6965,9 +6961,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -7563,7 +7557,7 @@
         "AI 聊天对话",
         "AI 综合工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatfai.com": {
@@ -7578,7 +7572,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://weiban.qq.com": {
@@ -8577,9 +8571,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.texttovoice.online": {
       "title": "Texttovoice.online",
@@ -8735,9 +8727,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://myvocal.ai": {
       "title": "MyVocal",
@@ -8858,9 +8848,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://y.qq.com/tme_studio/": {
       "title": "TME Studio",
@@ -9752,7 +9740,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.aiyou.art": {
       "title": "艾绘",
@@ -10845,9 +10835,7 @@
       "tags": [
         "CLI",
         "编程"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kimi.com/coding/docs/kimi-cli.html": {
       "title": "Kimi CLI",
