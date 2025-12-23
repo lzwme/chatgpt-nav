@@ -604,7 +604,9 @@
         "代码理解与编写",
         "大厂合集(精选大厂热门AI产品)",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xfyun.cn": {
       "title": "讯飞开放平台",
@@ -2655,9 +2657,7 @@
         "AI 图像处理"
       ],
       "title": "ImgCreator",
-      "desc": "超赞的多合一AI设计工具，超强的背景生成、海报生成能力",
-      "needVerify": 2,
-      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN imgcreator.ai"
+      "desc": "超赞的多合一AI设计工具，超强的背景生成、海报生成能力"
     },
     "https://app.recraft.ai/community": {
       "type": [
@@ -2944,7 +2944,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3291,9 +3293,7 @@
       "type": [
         "AI 图像处理",
         "AI 国外工具"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://vocalremover.org": {
       "title": "Vocal Remover",
@@ -3787,9 +3787,7 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][567]Unknown Status"
+      ]
     },
     "https://undermind.ai": {
       "title": "Undermind.ai",
@@ -4070,7 +4068,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND imgcreator.zmo.ai"
     },
     "https://bgeraser.com": {
@@ -6961,7 +6959,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -7557,7 +7557,7 @@
         "AI 聊天对话",
         "AI 综合工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatfai.com": {
@@ -7572,7 +7572,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://weiban.qq.com": {
@@ -9741,7 +9741,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.aiyou.art": {
