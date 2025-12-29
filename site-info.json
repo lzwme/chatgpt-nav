@@ -240,9 +240,24 @@
         "云服务",
         "API",
         "deepseek",
-        "Claude"
+        "claude"
       ],
       "needVerify": -1
+    },
+    "https://anyrouter.top": {
+      "title": "AnyRouter",
+      "desc": "零门槛、免费使用！Claude Code API 免费共享平台，每日签到送 25 美元额度，免费使用 Cluade Code！",
+      "star": 3,
+      "sort": -95,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "gemini",
+        "API",
+        "claude"
+      ],
+      "lang": "zh"
     },
     "https://www.bigmodel.cn/invite?icode=TY4kHajmj2PV8KLUkl97jP2gad6AKpjZefIo3dVEQyA%3D": {
       "title": "智普AI大模型开放平台",
@@ -10886,18 +10901,19 @@
         "编程"
       ]
     },
-        "https://scribelydesigns.top/tools/story-starter": {
-    "title": "Scribely Story Starter",
-    "desc": "基于AI的视觉小说与故事开头生成器，帮助克服写作障碍。",
-    "star": 3,
-    "type": [
-      "AI 写作辅助"
-    ],
-    "tags": [
-      "AI",
-      "写作",
-      "灵感生成"
-    ],
-    "repo": "oogwaaay/novel-ai-platform"
+    "https://scribelydesigns.top/tools/story-starter": {
+      "title": "Scribely Story Starter",
+      "desc": "基于AI的视觉小说与故事开头生成器，帮助克服写作障碍。",
+      "star": 3,
+      "type": [
+        "AI 写作辅助"
+      ],
+      "tags": [
+        "AI",
+        "写作",
+        "灵感生成"
+      ],
+      "repo": "oogwaaay/novel-ai-platform"
+    }
   }
 }
