@@ -919,9 +919,7 @@
       "desc": "阿里达摩院提供的一个不断进化的AI大模型",
       "icon": "https://img.alicdn.com/imgextra/i4/O1CN01FOwagl1XBpyVA2QVy_!!6000000002886-2-tps-512-512.png",
       "star": 3,
-      "sort": -88,
-      "needVerify": 1,
-      "errmsg": "[error][200]{\"success\":true,\"error_code\":\"null\",\"failed\":\"false\",\"data\":\"error\"}"
+      "sort": -88
     },
     "https://tingwu.aliyun.com": {
       "type": [
@@ -1449,9 +1447,7 @@
         "AI 写作助手"
       ],
       "title": "悉语",
-      "desc": "悉语智能是阿里妈妈创意中心出品的一款一键生成商品营销文案的工具。",
-      "needVerify": 1,
-      "errmsg": "[error][200]{\"success\":true,\"error_code\":\"null\",\"failed\":\"false\",\"data\":\"error\"}"
+      "desc": "悉语智能是阿里妈妈创意中心出品的一款一键生成商品营销文案的工具。"
     },
     "https://www.mypitaya.com": {
       "type": [
@@ -1749,9 +1745,7 @@
         "AI 网站生成"
       ],
       "title": "Tilda",
-      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。",
-      "needVerify": 3,
-      "errmsg": "[error][-1]aborted"
+      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。"
     },
     "https://learningprompt.wiki": {
       "type": [
@@ -1852,8 +1846,8 @@
       ],
       "title": "无限画",
       "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
-      "needVerify": 4,
-      "errmsg": "[error][200]<textarea id=\"renderData\" style=\"display:none\">{\"l1\":\"var arg1='5e7b08048bd5a36ac6c0fc7eb2714a18a9f223bbec61e98cbe';\"}</textarea><!doctype html><html><head><meta charset=\"utf-8\"><meta name"
+      "needVerify": 5,
+      "errmsg": "[error][200]<textarea id=\"renderData\" style=\"display:none\">{\"l1\":\"var arg1='5e75fac3698c24a742aab467c6ba111cc0d543db2fdaf3fde5';\"}</textarea><!doctype html><html><head><meta charset=\"utf-8\"><meta name"
     },
     "https://www.ishencai.com": {
       "type": [
@@ -1892,9 +1886,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][200]{\"success\":true,\"error_code\":\"null\",\"failed\":\"false\",\"data\":\"error\"}"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://arc.tencent.com/zh/ai-demos/faceRestoration": {
       "type": [
@@ -2109,7 +2101,7 @@
       ],
       "title": "Play",
       "desc": "基于人工智能将文本转位逼真的语音",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.notta.ai": {
@@ -2708,7 +2700,7 @@
       ],
       "title": "AI论文帮",
       "desc": "5分钟生成万字优质原创论文！",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.notion.so/product/ai": {
@@ -2760,7 +2752,7 @@
       ],
       "title": "Bearly",
       "desc": "英文阅读写作效率提高10倍",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://miaobi.xinhuaskl.com": {
@@ -2973,7 +2965,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3093,9 +3087,7 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 4,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -4524,7 +4516,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://logomaster.ai": {
       "title": "Logomaster",
@@ -5586,7 +5580,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://longshot.ai": {
@@ -5764,9 +5758,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][404]Not Found"
+      ]
     },
     "https://www.frase.io": {
       "title": "Frase",
@@ -5815,9 +5807,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://free-trial.adcreative.ai/98krjvb7wdoq": {
       "title": "Adcreative.ai",
@@ -6410,9 +6400,7 @@
       "type": [
         "AI 视频生成",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://no-lang.com": {
       "title": "NoLang",
@@ -6997,7 +6985,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -9345,7 +9335,7 @@
         "AI 绘图",
         "AI 行业工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.dreamavatar.com"
     },
     "https://www.kuaijianji.com": {
@@ -9781,8 +9771,9 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://www.aiyou.art": {
       "title": "艾绘",
@@ -10645,9 +10636,7 @@
       "type": [
         "AI 视频生成",
         "AI 开源工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][200]{\"success\":true,\"error_code\":\"null\",\"failed\":\"false\",\"data\":\"error\"}"
+      ]
     },
     "https://qwenlm.github.io/zh/blog/qwq-max-preview/": {
       "title": "Qwen AI",
