@@ -259,6 +259,21 @@
       ],
       "lang": "zh"
     },
+    "https://agentrouter.org": {
+      "title": "AgentRouter",
+      "desc": "面向开发者的大模型公益站！免费提供 Claude 等顶级大模型 API，每日签到送 25 美元额度！",
+      "star": 3,
+      "sort": -96,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "gemini",
+        "API",
+        "claude"
+      ],
+      "lang": "zh"
+    },
     "https://www.bigmodel.cn/invite?icode=TY4kHajmj2PV8KLUkl97jP2gad6AKpjZefIo3dVEQyA%3D": {
       "title": "智普AI大模型开放平台",
       "desc": "几行代码接入大模型，极速构建变革性AI体验。新用户送2000万Tokens，邀请好友再送2000万Tokens。",
@@ -349,7 +364,7 @@
         "AI 综合工具"
       ],
       "star": 3,
-      "desc": "用AI重塑研发范式，让每一位开发者体验沉浸、高效的创作流程。提供免费的大模型 API 调用额度。",
+      "desc": "提供每日 2000 次免费大模型 API 调用额度！用AI重塑研发范式，让每一位开发者体验沉浸、高效的创作流程。",
       "title": "心流AI开放平台",
       "tags": [
         "云服务",
