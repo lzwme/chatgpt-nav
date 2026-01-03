@@ -276,7 +276,9 @@
         "FREEAPI",
         "claude"
       ],
-      "lang": "zh"
+      "lang": "zh",
+      "needVerify": 1,
+      "errmsg": "[error][200]<!doctypehtml><meta charset=\"UTF-8\"><meta name=\"aliyun_waf_aa\"content=\"ff926c7f07e45e2e487a29a6197d3460\"><meta name=\"aliyun_waf_bb\"content=\"eade71455e2ad9c6d08b82bc7d98df8c\"><title></title"
     },
     "https://www.bigmodel.cn/invite?icode=TY4kHajmj2PV8KLUkl97jP2gad6AKpjZefIo3dVEQyA%3D": {
       "title": "智普AI大模型开放平台",
@@ -382,7 +384,6 @@
     },
     "https://www.modelscope.cn/my/myaccesstoken": {
       "type": [
-        "开放平台",
         "AI 综合工具"
       ],
       "star": 3,
@@ -1884,8 +1885,8 @@
       ],
       "title": "无限画",
       "desc": "千库网旗下AI设计工具，可一键生成高品质目标图像。",
-      "needVerify": 5,
-      "errmsg": "[error][200]<textarea id=\"renderData\" style=\"display:none\">{\"l1\":\"var arg1='5e75fac3698c24a742aab467c6ba111cc0d543db2fdaf3fde5';\"}</textarea><!doctype html><html><head><meta charset=\"utf-8\"><meta name"
+      "needVerify": 6,
+      "errmsg": "[error][200]<textarea id=\"renderData\" style=\"display:none\">{\"l1\":\"var arg1='5e74a55b040f89c05cf0ca835416202f8ab83c2189000ee218';\"}</textarea><!doctype html><html><head><meta charset=\"utf-8\"><meta name"
     },
     "https://www.ishencai.com": {
       "type": [
@@ -2139,7 +2140,7 @@
       ],
       "title": "Play",
       "desc": "基于人工智能将文本转位逼真的语音",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.notta.ai": {
@@ -2738,7 +2739,7 @@
       ],
       "title": "AI论文帮",
       "desc": "5分钟生成万字优质原创论文！",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.notion.so/product/ai": {
@@ -2789,9 +2790,7 @@
         "AI 写作助手"
       ],
       "title": "Bearly",
-      "desc": "英文阅读写作效率提高10倍",
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "英文阅读写作效率提高10倍"
     },
     "https://miaobi.xinhuaskl.com": {
       "type": [
@@ -3003,9 +3002,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -4555,7 +4552,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://logomaster.ai": {
@@ -5287,7 +5284,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xiaomengai.com": {
       "title": "彩云小梦尝鲜版",
@@ -5618,7 +5617,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://longshot.ai": {
@@ -6946,7 +6945,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.canva.cn": {
       "title": "Canva 可画",
@@ -7024,7 +7025,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
@@ -9373,7 +9374,7 @@
         "AI 绘图",
         "AI 行业工具"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.dreamavatar.com"
     },
     "https://www.kuaijianji.com": {
