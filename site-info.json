@@ -826,14 +826,6 @@
         "AI 思维导图"
       ]
     },
-    "http://new.cutim.top": {
-      "star": 2,
-      "source": "recommend",
-      "title": "ChatGPT Web--免费的国内ChatGPT",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
     "https://aitools.run": {
       "urls": [
         "https://aibang.run"
@@ -1308,16 +1300,6 @@
       ],
       "title": "Wanderlog",
       "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！"
-    },
-    "https://www.tipranks.com": {
-      "type": [
-        "AI 行业工具"
-      ],
-      "title": "Tipranks",
-      "desc": "【金融】",
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
     },
     "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
       "type": [
@@ -2365,10 +2347,8 @@
         "AI 绘图"
       ],
       "title": "AISEO ART",
-      "desc": "AISEO Art 的AI算法按照分类进行过细致的训练",
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "desc": "create stunning images from text prompts using artificial intelligence. AISEO provides the best Ai art generator to bring your visual game to the next level.",
+      "needVerify": -1
     },
     "https://apps.apple.com/us/app/opencat/id6445999201": {
       "type": [
@@ -2600,16 +2580,6 @@
       ],
       "title": "InsightFaceSwap",
       "desc": "比Midjourney更丝滑的AI换脸工具"
-    },
-    "https://creatie.ai": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "Creatie.ai",
-      "desc": "一键即出UI作品，绝美界面惊艳全场",
-      "needVerify": 7,
-      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander\"}</script></head></html>",
-      "hide": 1
     },
     "https://www.usegalileo.ai": {
       "type": [
@@ -4962,9 +4932,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.scholarcy.com": {
       "title": "Scholarcy",
@@ -5108,9 +5076,7 @@
       "type": [
         "AI 搜索引擎"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      "needVerify": -1
     },
     "https://copyleaks.com": {
       "title": "Copyleaks",
@@ -10930,6 +10896,19 @@
         "编程"
       ]
     },
+    "https://antigravity.google": {
+      "title": "Google Antigravity",
+      "desc": "突破性的AI驱动IDE工具，通过 Gemini 3 Pro AI 智能体自主规划、执行和验证代码，更快地构建应用程序。",
+      "star": 3,
+      "needVPN": 1,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "IDE",
+        "编程"
+      ]
+    },
     "https://sora2watermarkremover.net": {
       "title": "Sora2 Watermark Remover",
       "desc": "一款基于先进深度学习技术和计算机视觉模型的 AI 驱动 Web 应用，专为无缝去除 Sora 生成视频中的水印而设计。提供专业级的水印去除效果和直观的用户界面。",
@@ -10968,6 +10947,33 @@
         "灵感生成"
       ],
       "repo": "oogwaaay/novel-ai-platform"
+    },
+    "https://build.nvidia.com/": {
+      "title": "NVIDIA Build",
+      "desc": "英伟达(NVIDIA) MIM AIPs 提供免费的顶级开源模型推理接口调用，包括 GLM-4.7、MiniMax 2.1 等",
+      "star": 3,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "AI开放平台",
+        "deepseek",
+        "API",
+        "FREEAPI"
+      ]
+    },
+    "https://platform.xiaomimimo.com": {
+      "title": "Xiaomi Mimo开放平台",
+      "desc": "小米Mimo大模型开放平台。当前为公测阶段，提供免费无限制的模型调用服务。",
+      "star": 3,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "AI开放平台",
+        "API",
+        "FREEAPI"
+      ]
     }
   }
 }
