@@ -10805,6 +10805,21 @@
         "编程"
       ]
     },
+    "https://opencode.ai": {
+      "title": "Open Code",
+      "desc": "Open Code 是一款开源免费的只能编程工具，支持 CLI 和 桌面 APP等形式使用。并提供了一些顶级开原模型免费使用。",
+      "intro": "The open source AI coding agent",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI",
+        "IDE",
+        "Claude",
+        "编程"
+      ]
+    },
     "https://openai.com/index/openai-codex": {
       "title": "OpenAI Codex",
       "desc": "OpenAI 推出的基于终端的编程工具，支持 GPT5 模型，后端语言编程能力强。",
@@ -10983,6 +10998,21 @@
         "deepseek",
         "API",
         "FREEAPI"
+      ]
+    },
+    "https://www.anygen.io/home": {
+      "title": "AnyGen",
+      "desc": "AnyGen 是字节全新推出的多功能 AI 协作平台，强调自然语言交互产出可交付的工作成果。",
+      "star": 3,
+      "sort": -96,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "AI",
+        "AI办公",
+        "agent",
+        "工具"
       ]
     }
   }
