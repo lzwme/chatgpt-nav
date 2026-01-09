@@ -277,8 +277,9 @@
         "claude"
       ],
       "lang": "zh",
-      "needVerify": 6,
-      "errmsg": "[error][200]<!doctypehtml><meta charset=\"UTF-8\"><meta name=\"aliyun_waf_aa\"content=\"ff926c7f07e45e2e487a29a6197d3460\"><meta name=\"aliyun_waf_bb\"content=\"eade71455e2ad9c6d08b82bc7d98df8c\"><title></title"
+      "needVerify": 7,
+      "errmsg": "[error][200]<!doctypehtml><meta charset=\"UTF-8\"><meta name=\"aliyun_waf_aa\"content=\"ff926c7f07e45e2e487a29a6197d3460\"><meta name=\"aliyun_waf_bb\"content=\"eade71455e2ad9c6d08b82bc7d98df8c\"><title></title",
+      "hide": 1
     },
     "https://www.bigmodel.cn/invite?icode=TY4kHajmj2PV8KLUkl97jP2gad6AKpjZefIo3dVEQyA%3D": {
       "title": "智普AI大模型开放平台",
@@ -1610,7 +1611,9 @@
         "AI 思维导图"
       ],
       "title": "GitMind思乎",
-      "desc": "GitMind是一款全平台在线思维导图脑图架构图制作软件工具，支持手机手机思维导图，Windows/Mac多平台操作及内容同步。"
+      "desc": "GitMind是一款全平台在线思维导图脑图架构图制作软件工具，支持手机手机思维导图，Windows/Mac多平台操作及内容同步。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.deepl.com/translator": {
       "type": [
@@ -2120,7 +2123,7 @@
       ],
       "title": "Play",
       "desc": "基于人工智能将文本转位逼真的语音",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.notta.ai": {
@@ -2446,7 +2449,9 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词"
+      "desc": "有趣ChatGPT提示词",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://catjourney.life": {
       "type": [
@@ -2682,7 +2687,7 @@
       ],
       "title": "ImgCreator",
       "desc": "超赞的多合一AI设计工具，超强的背景生成、海报生成能力",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://app.recraft.ai/community": {
@@ -2884,7 +2889,9 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理"
+      "desc": "AI生成3D无缝贴图纹理",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -2973,7 +2980,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3451,7 +3460,9 @@
       "type": [
         "AI 提示词",
         "AI 国外工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://contentatscale.ai/ai-prompt-library": {
       "title": "Content at scale",
@@ -3971,9 +3982,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -4042,7 +4051,9 @@
         "AI 图像处理",
         "AI 电商工具",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.picwish.com": {
       "title": "PicWish",
@@ -6392,7 +6403,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://fancy.tech": {
@@ -10109,7 +10120,9 @@
       "desc": "IMYAI，是图欧学习资源库、图欧学习资源导航站、皮卡搜索站长、学习资源船舱船长以及B站UP主图欧君带领图欧科技团队开发的一款AI工具，于2023年5月15日上线，专为学生党、上班族以及自由职业工作者设计，支持智能问答、语音交互、绘画作图、联网搜索、实时翻译、办公编程等多种功能，是一款包括GPT、Claude、Midjourney、Gemini、Llama、Suno、Luma、可灵、文心、千问、星火、智谱、混元等在内的100+款国内外大模型，集AI文本、绘画、音乐、视频等创作服务于一体的多功能AIGC平台。",
       "type": [
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://xiaowenpaper.com": {
       "title": "小文AI论文",
