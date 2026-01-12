@@ -6,7 +6,14 @@
         "聊天对话",
         "chat"
       ],
-      "sort": 0
+      "sort": -50
+    },
+    "AI 智能体": {
+      "keywords": [
+        "agent",
+        "Research"
+      ],
+      "sort": -100
     },
     "AI 绘图": {
       "keywords": [
@@ -16,7 +23,7 @@
         "图片模型",
         "绘图"
       ],
-      "sort": 0
+      "sort": -90
     },
     "AI 图像处理": {
       "keywords": [
@@ -92,7 +99,7 @@
         "PDF",
         "办公"
       ],
-      "sort": 0
+      "sort": -40
     },
     "AI 思维导图": {
       "keywords": [
@@ -112,7 +119,7 @@
         "编程",
         "代码生成"
       ],
-      "sort": 0
+      "sort": -10
     },
     "AI 网站生成": {
       "keywords": [
@@ -8140,10 +8147,11 @@
       ]
     },
     "https://www.coze.com": {
-      "title": "Coze",
+      "title": "Coze国际版",
       "intro": "AI聊天机器人构建平台",
       "desc": "Coze是一款下一代AI聊天机器人构建平台，能够快速创建、调试和优化AI聊天机器人应用程序。用户可以在不编写代码的情况下快速创建机器人，并将其发布到各种平台上。Coze还提供了丰富的插件，可以扩展机器人的能力，让机器人与数据互动，将想法转化为机器人技能，装备机器人长期记忆，并允许机器人启动对话。",
       "lang": "en",
+      "star": 3,
       "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
       "tags": [
         "聊天机器人",
@@ -8152,6 +8160,35 @@
       ],
       "type": [
         "AI 聊天对话"
+      ]
+    },
+    "https://space.coze.cn": {
+      "title": "扣子空间",
+      "desc": "扣子空间是强大的AI办公助手，基于Agent技术，集成了AI写作、AI PPT生成、AI表格处理、AI设计、AI播客、AI生图与AI视频等全功能。扣子空间助力财经分析、市场营销等多场景办公任务自动化，全面提升工作效率。",
+      "star": 3,
+      "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
+      "tags": [
+        "agent",
+        "办公"
+      ],
+      "type": [
+        "AI 智能体",
+        "AI 文档办公"
+      ]
+    },
+    "https://code.coze.cn": {
+      "title": "扣子编程",
+      "desc": "AI赋能的一站式云端Vibe Coding开发平台。通过对话即可快速构建智能体、工作流、网页与移动应用，并依托Vibe Infra基础设施实现开箱即用的云端环境和一键部署服务。无论你是零基础小白还是资深开发者，扣子编程都能帮你实现从想法到产品上线的丝滑体验，告别部署烦恼。",
+      "star": 3,
+      "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
+      "tags": [
+        "agent",
+        "办公"
+      ],
+      "type": [
+        "AI 智能体",
+        "AI 网站生成",
+        "AI 文档办公"
       ]
     },
     "https://www.yeschat.ai": {
@@ -10644,21 +10681,15 @@
       ]
     },
     "https://chat.qwen.ai": {
-      "title": "Wan",
-      "intro": "Wan是阿里巴巴通义实验室开发的先进视觉生成模型，可基于文本、图像等生成视频。",
-      "desc": "Wan是阿里巴巴通义实验室开发的先进视觉生成模型，具备强大的视频生成能力。它能够根据文本、图像及其他控制信号生成视频。Wan2.1系列模型现已完全开源。其主要优点包括卓越的复杂运动生成能力，能够生成逼真的视频，涵盖广泛的身体动作、复杂旋转、动态场景转换和流畅的镜头运动；精准的物理模拟，生成符合真实物理规律的视频；电影质感的画面，提供丰富的纹理和多样化的风格化效果；可控的编辑功能，支持使用图像或视频参考进行精确编辑。该模型的开源为视频生成领域带来了新的可能性，降低了使用门槛，推动了相关技术的发展。",
-      "lang": "en",
+      "title": "Qwen Chat",
+      "desc": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
       "tags": [
-        "视频生成",
-        "开源模型",
-        "创意工具",
-        "视觉效果",
-        "视频",
-        "模型"
+        "AI 综合工具",
+        "agent"
       ],
       "type": [
         "AI 视频生成",
-        "AI 开源工具"
+        "AI 智能体"
       ]
     },
     "https://qwenlm.github.io/zh/blog/qwq-max-preview/": {
@@ -11008,19 +11039,46 @@
         "FREEAPI"
       ]
     },
+    "https://monkeycode-ai.com": {
+      "title": "MonkeyCode",
+      "desc": "MonkeyCode 不是 AI 编程工具，是对传统研发模式的变革，是全新的 AI 编程体验，让你的研发团队效率 Max。",
+      "star": 3,
+      "type": [
+        "AI 智能体",
+        "AI 编程开发"
+      ],
+      "tags": [
+        "在线编程",
+        "agent",
+        "工具"
+      ]
+    },
     "https://www.anygen.io/home": {
       "title": "AnyGen",
       "desc": "AnyGen 是字节全新推出的多功能 AI 协作平台，强调自然语言交互产出可交付的工作成果。",
       "star": 3,
       "sort": -96,
       "type": [
+        "AI 智能体",
         "AI 综合工具"
       ],
       "tags": [
-        "AI",
         "AI办公",
         "agent",
         "工具"
+      ]
+    },
+    "https://manus.im": {
+      "title": "Manus",
+      "desc": "Manus 是一个行动引擎，它超越了答案的范畴，可以执行任务、自动化工作流程，并扩展您的能力。",
+      "star": 3,
+      "type": [
+        "AI 智能体",
+        "AI 综合工具"
+      ],
+      "tags": [
+        "AI办公",
+        "agent"
       ]
     },
     "https://dr.miromind.ai": {
@@ -11029,13 +11087,14 @@
       "star": 3,
       "sort": -96,
       "type": [
+        "AI 智能体",
         "AI 综合工具"
       ],
       "tags": [
         "AI",
         "AI办公",
         "agent",
-        "工具"
+        "research"
       ]
     }
   }
