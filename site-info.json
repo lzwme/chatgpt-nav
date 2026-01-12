@@ -11022,6 +11022,21 @@
         "agent",
         "工具"
       ]
+    },
+    "https://dr.miromind.ai": {
+      "title": "MiroThinker",
+      "desc": "深入研究。揭开未来！不要只是闲聊。使用基于科学的人工智能进行预测、验证和发现。MiroMindAI 打造的最强预测型模型，非常强大！",
+      "star": 3,
+      "sort": -96,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "AI",
+        "AI办公",
+        "agent",
+        "工具"
+      ]
     }
   }
 }
