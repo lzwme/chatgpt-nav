@@ -10848,6 +10848,19 @@
         "编程"
       ]
     },
+    "https://ampcode.com": {
+      "title": "AmpCode",
+      "desc": "来自 Sourcegraph 的 AI 编程智能体，支持终端和编辑器使用。前沿编程智能体：你不是在用`一个模型`，而是在用`最适合的模型组合`",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI",
+        "IDE",
+        "编程"
+      ]
+    },
     "https://openai.com/index/openai-codex": {
       "title": "OpenAI Codex",
       "desc": "OpenAI 推出的基于终端的编程工具，支持 GPT5 模型，后端语言编程能力强。",
@@ -11000,6 +11013,18 @@
         "灵感生成"
       ],
       "repo": "oogwaaay/novel-ai-platform"
+    },
+    "https://platform.minimaxi.com": {
+      "title": "MiniMax 开放平台",
+      "desc": "MiniMax 模型体系涵盖文本、语音、视频、图像与音乐五大方向。旗舰模型性能领先，助力开发者高效构建智能应用。无免费额度，提供了多种类型的开发者计划订阅套餐。",
+      "star": 3,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "AI开放平台",
+        "API"
+      ]
     },
     "https://platform.xiaomimimo.com": {
       "title": "Xiaomi Mimo开放平台",
