@@ -2948,9 +2948,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3070,9 +3068,7 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3794,7 +3790,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][567]Unknown Status"
     },
     "https://undermind.ai": {
@@ -4921,7 +4917,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND baoyueai.com"
     },
     "https://app.grammarly.com": {
@@ -5579,7 +5575,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://deepl.com": {
       "title": "DeepL",
@@ -6339,7 +6337,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://www.beautiful.ai": {
       "title": "Beautiful.ai",
@@ -6737,7 +6737,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.canva.cn": {
       "title": "Canva 可画",
@@ -6814,9 +6816,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -9492,7 +9492,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.aiyou.art": {
       "title": "艾绘",
@@ -10572,7 +10574,9 @@
       "tags": [
         "CLI",
         "编程"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kimi.com/coding/docs/kimi-cli.html": {
       "title": "Kimi CLI",
