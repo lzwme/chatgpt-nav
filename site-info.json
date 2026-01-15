@@ -284,9 +284,7 @@
         "claude"
       ],
       "lang": "zh",
-      "needVerify": 7,
-      "errmsg": "[error][200]<!doctypehtml><meta charset=\"UTF-8\"><meta name=\"aliyun_waf_aa\"content=\"ff926c7f07e45e2e487a29a6197d3460\"><meta name=\"aliyun_waf_bb\"content=\"eade71455e2ad9c6d08b82bc7d98df8c\"><title></title",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.bigmodel.cn/invite?icode=TY4kHajmj2PV8KLUkl97jP2gad6AKpjZefIo3dVEQyA%3D": {
       "title": "智普AI大模型开放平台",
@@ -2120,18 +2118,6 @@
       "title": "Mubert",
       "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。"
     },
-    "https://play.ht": {
-      "type": [
-        "AI 语音生成",
-        "AI 国外工具",
-        "AI 视频生成"
-      ],
-      "title": "Play",
-      "desc": "基于人工智能将文本转位逼真的语音",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
     "https://www.notta.ai": {
       "type": [
         "AI 会议助手"
@@ -2684,17 +2670,6 @@
       "title": "AIcolors",
       "desc": "根据文本生成调色板，提供配色案例参考"
     },
-    "https://imgcreator.ai": {
-      "type": [
-        "AI 绘图",
-        "AI 图像处理"
-      ],
-      "title": "ImgCreator",
-      "desc": "超赞的多合一AI设计工具，超强的背景生成、海报生成能力",
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
-    },
     "https://app.recraft.ai/community": {
       "type": [
         "AI 绘图",
@@ -2712,16 +2687,6 @@
       ],
       "title": "Flair AI",
       "desc": "你的私人AI设计师！一键生成精美产品照片"
-    },
-    "https://lunwenbang.cc": {
-      "type": [
-        "AI 写作助手"
-      ],
-      "title": "AI论文帮",
-      "desc": "5分钟生成万字优质原创论文！",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
     },
     "https://www.notion.so/product/ai": {
       "type": [
@@ -4094,26 +4059,19 @@
         "AI 图像处理"
       ]
     },
-    "https://imgcreator.zmo.ai/background-changer": {
+    "https://www.creati.studio": {
       "title": "AI Backdrop",
-      "intro": "背景生成器和去除器| 背景人工智能",
-      "desc": "ZMO.AI是一款AI图像处理工具，提供多种功能，包括背景更换、背景去除、图像变换等，可用于社交媒体、电商、市场营销等场景。用户可以免费试用，付费用户可以享受更多高级功能。",
+      "desc": "Viral AI Video Generator For Url, Image Or Text To Video",
       "lang": "en",
       "tags": [
-        "图像处理",
-        "背景更换",
-        "背景去除",
-        "图像变换",
-        "魔法橡皮擦",
-        "图像"
+        "视频生成",
+        "图生视频",
+        "文生图"
       ],
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND imgcreator.zmo.ai",
-      "hide": 1
+      ]
     },
     "https://bgeraser.com": {
       "title": "Bg.Eraser",
@@ -4523,25 +4481,6 @@
       "type": [
         "AI 图像处理"
       ]
-    },
-    "https://turbologo.com/logo-maker/templates/artificial-intelligence": {
-      "title": "Artificial Intelligence Logo Maker",
-      "intro": "免费在线制作人工智能logo",
-      "desc": "Artificial Intelligence Logo Maker提供了许多新的想法，帮助您在线创建logo设计。选择可定制的模板，释放您的灵感，开发符合您需求的人工智能logo设计。借助人工智能logo制作工具，您可以更轻松地享受永久的质量和设计功能。该工具提供了多种人工智能logo模板，您可以根据自己的需求进行定制。制作完成后，您可以下载自定义的人工智能矢量logo图像，并更新所有资产以使用新的logo。",
-      "lang": "en",
-      "tags": [
-        "logo设计",
-        "在线制作",
-        "艺术灵感",
-        "Ai图标生成",
-        "设计"
-      ],
-      "type": [
-        "AI 图像处理"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
     },
     "https://logomaster.ai": {
       "title": "Logomaster",
@@ -5142,24 +5081,6 @@
         "AI 写作助手"
       ]
     },
-    "https://crossplag.com": {
-      "title": "Crossplag",
-      "intro": "跨语言查重工具",
-      "desc": "Crossplag 是专注于查重的综合工具，提供超过 100 种语言的单语言和翻译查重功能。用户可以全面控制数据，确保原创性并保护数据隐私。",
-      "lang": "zh",
-      "tags": [
-        "查重工具",
-        "原创性",
-        "教育工具",
-        "教育"
-      ],
-      "type": [
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
     "http://gptzero.me": {
       "title": "GPTZero",
       "intro": "AI侦测 | 用于ChatGPT、GPT-4等AI模型的可靠侦测工具",
@@ -5286,24 +5207,6 @@
         "AI 写作助手"
       ]
     },
-    "https://www.story.com": {
-      "title": "Story.com",
-      "intro": "用AI技术创建出60秒左右的微电影短视频",
-      "desc": "Story.com是一个利用人工智能生成短视的网站。它能够根据用户输入的故事情节,自动生成60秒左右长度的微电影短视频。具有以下优势:1)生成速度快,能实时生成。2)赋予用户充分的创作控制权,可以重写情节、修改人物、调整场景等。3)注重故事性,模拟剧情发展曲线。4)针对不同用户群体有不同的使用模式,如动画师、影视从业者、影响力创作者、普通故事创作者等。目前暂无公开的付费信息。",
-      "lang": "en",
-      "tags": [
-        "短视频",
-        "微电影",
-        "故事创作",
-        "视频"
-      ],
-      "type": [
-        "AI 视频生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
-    },
     "https://midreal.ai": {
       "title": "MidReal",
       "intro": "AI驱动的互动文字冒险游戏",
@@ -5392,27 +5295,6 @@
         "AI 写作助手",
         "AI 行业工具"
       ]
-    },
-    "https://aiseo.ai": {
-      "title": "AISEO",
-      "intro": "AI写作助手，AI文案生成工具",
-      "desc": "AISEO是一款AI写作助手，可以帮助用户快速生成优化的SEO内容。它提供了市场上最先进的改写工具，让您在几分钟内生成优化的内容。AISEO还支持根据品牌声音自动生成文案，帮助您在行业中占据领先地位。除此之外，AISEO还提供其他功能，如文档的改写、阅读可读性改进等。定价方案灵活多样，适合不同的用户需求。",
-      "lang": "en",
-      "tags": [
-        "AI写作助手",
-        "文案生成",
-        "SEO优化",
-        "改写工具",
-        "品牌声音",
-        "写作",
-        "国外精选"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
     },
     "https://www.surferseo.com": {
       "title": "Surfer",
@@ -5587,24 +5469,6 @@
         "AI 行业工具"
       ]
     },
-    "https://rytr.me": {
-      "title": "Rytr",
-      "intro": "AI 写作助手，高质量内容创作",
-      "desc": "Rytr 是一款人工智能写作助手，帮助您以更快的速度、更低的成本创作高质量内容！它提供免费的基础功能，同时还提供升级套餐以满足您的不同需求。拥有超过 7,000,000 + 的用户，通过使用 Rytr 已经节省了 25,000,000 + 小时和 500 百万 + 美元的内容创作成本。Rytr 支持 40 + 种用例和模板，覆盖您的各种写作需求，并可选择 30 + 种语言进行创作。您可以根据不同的情感选择 20 + 种语调，生成出与众不同的内容。通过使用科学的文案撰写公式，如 AIDA 和 PAS，Rytr 提供了最佳质量的输出，几乎不需要编辑。使用强大的富文本编辑器，您可以在短短 15 分钟内将原始想法打磨成精美的作品。Rytr 还提供卓越的团队协作和项目管理功能，使您能够轻松管理多个项目。它还具有浏览器扩展，可随时随地帮助您创作令人惊叹的内容。无论您是在写电子邮件、社交媒体帖子还是博客文章，Rytr 都能为您节省时间并确保内容始终达到要求。",
-      "lang": "en",
-      "tags": [
-        "写作助手",
-        "内容创作",
-        "国外精选",
-        "写作"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
-    },
     "https://longshot.ai": {
       "title": "LongShot AI",
       "intro": "使用可靠数据源和全面事实核实的生成性人工智能，为您的机构或企业创建准确和可靠的内容。",
@@ -5701,25 +5565,6 @@
         "AI 文档办公",
         "AI 行业工具"
       ]
-    },
-    "https://www.sybill.ai": {
-      "title": "Sybill",
-      "intro": "销售团队的AI个人助理",
-      "desc": "Sybill是一款AI助理，可以自动更新CRM、撰写跟进邮件，并从客户互动中提供无与伦比的洞察力。帮助销售团队发挥出全部潜力。",
-      "lang": "",
-      "tags": [
-        "销售",
-        "CRM",
-        "跟进邮件",
-        "洞察力",
-        "商业"
-      ],
-      "type": [
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
     },
     "https://pipl.ai": {
       "title": "Pipl.ai",
@@ -5923,26 +5768,6 @@
       "type": [
         "AI 视频生成"
       ]
-    },
-    "https://www.lensgo.ai": {
-      "title": "LensGo",
-      "intro": "定制化视频制作工具",
-      "desc": "LensGo 是一个免费的 AI 驱动的图像和视频制作工具，最适合定制化视频制作。它能帮助用户制作个性化的 AI 视频。",
-      "lang": "en",
-      "tags": [
-        "图像",
-        "视频",
-        "定制化",
-        "视频创作",
-        "视频生成"
-      ],
-      "type": [
-        "AI 视频生成",
-        "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.lensgo.ai",
-      "hide": 1
     },
     "https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary": {
       "title": "Motionshop",
@@ -6394,24 +6219,6 @@
         "AI 写作助手"
       ]
     },
-    "https://finalframe.net/dev3/": {
-      "title": "Finalframe",
-      "intro": "AI视频剪辑工具,支持文本转视频功能",
-      "desc": "Finalframe是一个基于AI的视频剪辑工具。它支持将文本转化为视频,用户只需要输入文字描述,Finalframe就可以自动生成视频素材。该工具还提供了一个非常直观方便的剪辑界面,用户可以通过拖拽、添加、删除等操作,快速剪辑生成想要的视频作品。Finalframe可以大大简化视频制作流程,使用户无需学习专业编辑软件就可以轻松获得高质量的创意视频。",
-      "lang": "zh",
-      "tags": [
-        "视频生成",
-        "文本转视频",
-        "视频剪辑",
-        "视频"
-      ],
-      "type": [
-        "AI 视频生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
     "https://fancy.tech": {
       "title": "Fancy Tech",
       "intro": "让人工智能重新定义时尚",
@@ -6520,7 +6327,7 @@
         "AI 文档办公"
       ]
     },
-    "https://pptx.ai/signup": {
+    "https://pptx.ai": {
       "title": "PPTX",
       "intro": "使用AI自动生成PPT演示文稿",
       "desc": "AI演示文稿生成器可以通过语音或文字描述自动生成演示文稿,无需PPT设计和排版经验,支持多种演示文稿模板和主题,输出标准PPT文件,可直接用于商业演示、课堂教学、学术会议等场景。",
@@ -6532,10 +6339,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
+      ]
     },
     "https://www.beautiful.ai": {
       "title": "Beautiful.ai",
@@ -7596,38 +7400,6 @@
         "AI 聊天对话"
       ]
     },
-    "https://www.kupid.ai/explore": {
-      "title": "Kupid Ai",
-      "intro": "AI聊天助手",
-      "desc": "Kupid Ai是一款AI聊天助手，可以与用户进行自然语言对话。它具有智能回复、语义理解、情感分析等功能。Kupid Ai的优势在于能够实现流畅的对话交互，提供准确的回答和建议。该产品定价灵活，可根据用户需求选择不同的套餐。Kupid Ai的定位是为用户提供智能、便捷的聊天解决方案。",
-      "lang": "en",
-      "tags": [
-        "智能助手"
-      ],
-      "type": [
-        "AI 聊天对话",
-        "AI 综合工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
-    },
-    "https://chatfai.com": {
-      "title": "ChatFAI",
-      "intro": "与您最喜爱的角色聊天",
-      "desc": "与您最喜爱的角色聊天",
-      "lang": "en",
-      "tags": [
-        "趣味",
-        "国外精选"
-      ],
-      "type": [
-        "AI 聊天对话"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
-    },
     "https://weiban.qq.com": {
       "title": "未伴",
       "intro": "完美AI伴侣,只为你而存在",
@@ -7644,25 +7416,6 @@
         "AI 聊天对话"
       ]
     },
-    "https://ai-beings.com/aiu/": {
-      "title": "AiU",
-      "intro": "Ai由你创造，Ai为你存在，Ai伴你同行。",
-      "desc": "AiU是一个人工智能技术平台,旨在让用户能够创造和使用人工智能产品。它强调人与人工智能的互动,将人工智能技术与用户需求相结合。该平台提供了一系列工具和资源,让用户能够根据自己的需求定制和开发人工智能应用。AiU的核心理念是将人工智能的力量回馈给普通用户,并为用户提供无限可能。",
-      "lang": "zh",
-      "tags": [
-        "低代码开发",
-        "教育",
-        "创新",
-        "APP"
-      ],
-      "type": [
-        "AI 聊天对话",
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
-    },
     "https://zhumengdao.com": {
       "title": "筑梦岛",
       "intro": "体验智能 AI 聊天互动乐趣",
@@ -7676,25 +7429,6 @@
       "type": [
         "AI 聊天对话"
       ]
-    },
-    "https://maopaoya.com": {
-      "title": "冒泡鸭AI",
-      "intro": "冒泡鸭AI是由阶跃星辰开发的面向个人用户的AI互动平台",
-      "desc": "冒泡鸭AI是基于自研多模态大模型开发的AI互动平台，提供拟人、工具、内容、游戏、娱乐等多个领域的海量智能体。平台具有超长的上下文记忆能力和实时联网搜索能力，能够深度理解用户意图，并提供即时、准确、个性化的回复和选择。用户还可以定制个性化的AI智能体，以满足个性化的需求和偏好。",
-      "lang": "zh",
-      "tags": [
-        "AI互动平台",
-        "多模态模型",
-        "个性化定制",
-        "智能对话",
-        "编辑推荐"
-      ],
-      "type": [
-        "AI 聊天对话"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND maopaoya.com",
-      "hide": 1
     },
     "https://apps.apple.com/cn/app/%E8%AF%9D%E7%82%89/id6475000292": {
       "title": "话炉",
@@ -8459,10 +8193,9 @@
         "AI 编程开发"
       ]
     },
-    "https://codefuse.alipay.com": {
-      "title": "codeFuse",
-      "intro": "让研发变得更简单",
-      "desc": "网上销售获客，用AI 创造你的网站，满意就上线",
+    "https://codefuse.ai": {
+      "title": "codeFuse蚂蚁百灵研发助手",
+      "desc": "让研发变得更简单",
       "lang": "zh",
       "tags": [
         "开发工具",
@@ -8474,10 +8207,7 @@
       ],
       "type": [
         "AI 网站生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
+      ]
     },
     "https://sky-code.singularity-ai.com": {
       "title": "天工智码 SkyCode",
@@ -8546,15 +8276,13 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\"",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.tabnine.com": {
       "title": "Tabnine",
       "intro": "AI代码助手，加速开发，保障代码安全",
       "desc": "Tabnine是一款AI代码助手，支持所有编程语言和集成开发环境（IDE）。它提供智能代码补全、自动代码生成、错误检查和代码导航等功能，大大提高开发效率。Tabnine的优势在于其强大的机器学习模型和海量代码数据库，可以为开发人员提供准确和有用的代码建议。定价灵活多样，适应个人开发者和企业团队的需求。Tabnine定位于成为开发者的好帮手，让开发工作更高效、更快速。",
-      "lang": "zh",
+      "lang": "en",
       "tags": [
         "IDE",
         "代码助手",
@@ -8566,28 +8294,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
-    },
-    "https://text2audio.cc": {
-      "title": "Text2Audio",
-      "intro": "将文本转化为自然语音的在线工具",
-      "desc": "Text2Audio是一个免费的在线TTS工具，能够轻松将文本转化为自然、逼真的语音。无论是用于什么目的，都能轻松创建清晰、生动的语音。",
-      "lang": "en",
-      "tags": [
-        "TTS工具",
-        "文本转语音",
-        "在线工具",
-        "音乐"
-      ],
-      "type": [
-        "AI 语音生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND text2audio.cc",
-      "hide": 1
+      ]
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
       "title": "Whisper Speech",
@@ -8982,23 +8689,6 @@
         "AI 行业工具"
       ]
     },
-    "https://www.aigallery.top": {
-      "title": "Ai 画廊",
-      "intro": "Ai 关键词生成器",
-      "desc": "Ai 画廊是一款提供 Ai 关键词生成器的网站，展示人工智能作品和生成关键词描述，帮助用户更好地了解和分享 Ai 作品。用户可以浏览不同风格的 Ai 作品，获取灵感和创意。",
-      "lang": "zh",
-      "tags": [
-        "Ai 关键词生成器",
-        "Ai 作品展示",
-        "图像"
-      ],
-      "type": [
-        "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
-    },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
       "intro": "开源工具集，用于测试和实验",
@@ -9369,30 +9059,6 @@
         "AI 数字人",
         "AI 视频生成"
       ]
-    },
-    "https://www.dreamavatar.com": {
-      "title": "DreamAvatar",
-      "intro": "基于AI驱动的数字人生成平台",
-      "desc": "DreamAvatar是一个基于人工智能技术的数字人生成平台,能够通过简单的文本描述或素材上传快速生成高质量的数字人形象,还支持自定义调整数字人的各种特征。该平台具有操作简单、生成效果逼真的优势,可以广泛应用于数字营销、虚拟主播、直播电商、游戏、动画等领域,为客户提供精准的数字人服务。",
-      "lang": "zh",
-      "tags": [
-        "视频创作",
-        "数字人",
-        "Ai动画制作",
-        "智能营销",
-        "图像",
-        "视频",
-        "其他"
-      ],
-      "type": [
-        "AI 视频生成",
-        "AI 数字人",
-        "AI 绘图",
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.dreamavatar.com",
-      "hide": 1
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -9826,10 +9492,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      ]
     },
     "https://www.aiyou.art": {
       "title": "艾绘",
@@ -9978,28 +9641,6 @@
         "AI 语音生成",
         "AI 角色生成"
       ]
-    },
-    "https://revvinvest.com": {
-      "title": "Revv",
-      "intro": "投资人工智能、太空和其他前沿股票的神奇方式",
-      "desc": "Revv是一个专注于股票信息搜索的在线平台，它允许用户快速获取和理解股票相关的信息。这个平台以其简洁的界面和高效的搜索功能，为用户提供了一个快速了解股票市场的途径。Revv的主要优点在于它的便捷性和高效性，用户可以迅速找到所需的股票信息，而无需花费大量时间进行研究。此外，Revv还提供了一个趋势板块，让用户能够紧跟市场动态。产品背景信息显示，Revv由Revv Finance Inc.提供，旨在为用户提供一个全新的股票搜索体验。",
-      "lang": "en",
-      "tags": [
-        "股票",
-        "搜索",
-        "市场分析",
-        "投资",
-        "金融",
-        "商业",
-        "国外精选"
-      ],
-      "type": [
-        "AI 搜索引擎",
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
     },
     "https://openai.com/index/early-access-for-safety-testing/": {
       "title": "OpenAI o3",
@@ -10640,9 +10281,7 @@
       "type": [
         "AI 搜索引擎"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][429]Too Many Requests",
-      "hide": 1
+      "needVerify": -1
     },
     "https://zapier.com/agents": {
       "title": "Zapier Agents",
@@ -10806,16 +10445,6 @@
       ],
       "needVPN": 1,
       "needVerify": -1
-    },
-    "https://beatbot.fm": {
-      "title": "BeatBot",
-      "desc": "Splash的AI音乐生成器",
-      "type": [
-        "AI 视频生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
     },
     "https://remove-watermark.org": {
       "type": [
