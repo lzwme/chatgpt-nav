@@ -2514,7 +2514,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2948,7 +2950,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3790,8 +3794,9 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][567]Unknown Status"
+      "needVerify": 7,
+      "errmsg": "[error][567]Unknown Status",
+      "hide": 1
     },
     "https://undermind.ai": {
       "title": "Undermind.ai",
@@ -4917,7 +4922,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND baoyueai.com"
     },
     "https://app.grammarly.com": {
@@ -5575,9 +5580,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://deepl.com": {
       "title": "DeepL",
@@ -6144,7 +6147,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -6338,7 +6343,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://www.beautiful.ai": {
@@ -6737,9 +6742,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.canva.cn": {
       "title": "Canva 可画",
@@ -6816,7 +6819,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -8718,7 +8723,9 @@
       ],
       "type": [
         "AI 提示词"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
@@ -9493,7 +9500,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.aiyou.art": {
@@ -10425,7 +10432,9 @@
       "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
       "type": [
         "AI 搜索引擎"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.studywithgpt.com/zh-cn": {
       "title": "Study with GPT",
@@ -10574,9 +10583,7 @@
       "tags": [
         "CLI",
         "编程"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kimi.com/coding/docs/kimi-cli.html": {
       "title": "Kimi CLI",
