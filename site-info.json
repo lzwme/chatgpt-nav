@@ -999,9 +999,7 @@
       ],
       "title": "华为盘古",
       "desc": "华为盘古大模型，重塑千行百业",
-      "star": 3,
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "star": 3
     },
     "https://www.anthropic.com": {
       "type": [
@@ -4920,7 +4918,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND baoyueai.com"
     },
     "https://app.grammarly.com": {
@@ -6339,7 +6337,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://www.beautiful.ai": {
@@ -8293,9 +8291,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
       "title": "Whisper Speech",
@@ -9494,7 +9490,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.aiyou.art": {
