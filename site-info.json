@@ -10749,6 +10749,36 @@
         "agent",
         "research"
       ]
+    },
+    "https://notebooklm.google": {
+      "title": "NotebookLM",
+      "desc": "Google 推出的通用在线 AI 智能体，可以执行各种复杂任务。",
+      "star": 3,
+      "needVPN": 1,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "AI",
+        "AI办公",
+        "agent",
+        "research"
+      ]
+    },
+    "https://autoglm.zhipuai.cn": {
+      "title": "AutoGLM",
+      "desc": "不止是聊天，让每一次调研都深度且高效！一句话生成多种多模态内容，达到行业SOTA性能，支持AI PPT生成、视频生成、播客创作、网页搭建、数字人等场景。无论是分析师写报告、内容创作者做自媒体，还是学生与研究者高效学习，AutoGLM都是你的全能助手。",
+      "star": 3,
+      "sort": -90,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "AI",
+        "AI办公",
+        "agent",
+        "research"
+      ]
     }
   }
 }
