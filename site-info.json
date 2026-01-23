@@ -10792,6 +10792,25 @@
         "agent",
         "research"
       ]
+    },
+    "https://lmarena.ai": {
+      "title": "LMArena",
+      "desc": "LMArena 权威的大模型试炼场，几乎所有顶级模型发布前都会在这里匿名密码测试。在这里你可以免费的方式在线体验当前所有类型的顶级模型。",
+      "star": 3,
+      "needVerify": -1,
+      "needVPN": 1,
+      "type": [
+        "AI 综合工具",
+        "AI 聊天对话"
+      ]
+    },
+    "https://ying.baichuan-ai.com/chat": {
+      "title": "百小应",
+      "desc": "在线体验国产医药大模型。查指南、找文献、搜药品，每一条医学建议都有据可依！",
+      "star": 3,
+      "type": [
+        "AI 聊天对话"
+      ]
     }
   }
 }
