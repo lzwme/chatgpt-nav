@@ -10610,7 +10610,7 @@
     },
     "https://antigravity.google": {
       "title": "Google Antigravity",
-      "desc": "突破性的AI驱动IDE工具，通过 Gemini 3 Pro AI 智能体自主规划、执行和验证代码，更快地构建应用程序。",
+      "desc": "Google 推出的 AI 编程智能体，突破性的AI驱动IDE工具，通过 Gemini 3 Pro AI 智能体自主规划、执行和验证代码，更快地构建应用程序。",
       "star": 3,
       "needVPN": 1,
       "type": [
@@ -10619,18 +10619,6 @@
       "tags": [
         "IDE",
         "编程"
-      ]
-    },
-    "https://sora2watermarkremover.net": {
-      "title": "Sora2 Watermark Remover",
-      "desc": "一款基于先进深度学习技术和计算机视觉模型的 AI 驱动 Web 应用，专为无缝去除 Sora 生成视频中的水印而设计。提供专业级的水印去除效果和直观的用户界面。",
-      "type": [
-        "AI 图像处理"
-      ],
-      "tags": [
-        "AI",
-        "图像处理",
-        "水印去除"
       ]
     },
     "https://aider.chat": {
@@ -10644,6 +10632,112 @@
         "CLI",
         "开源",
         "编程"
+      ]
+    },
+    "https://block.github.io/goose/": {
+      "title": "Goose",
+      "desc": "一款开源的 AI Agent 工具，支持在本地或桌面环境运行，也提供 CLI 形式。它支持多种模型接入，结合 MCP 协议连接外部工具与 API，自动化执行工程任务，如代码生成、调试、测试与部署。",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI",
+        "开源",
+        "编程"
+      ]
+    },
+    "https://github.com/charmbracelet/crush": {
+      "title": "Crush",
+      "desc": "Crush 是一个基于 Go 的开源 CLI 应用程序，通过 TUI 将 AI 辅助引入终端。Crush 支持多种模型接入，能够在命令行环境下完成代码生成、调试、对话、文件操作与多任务处理等工作。Charm 收购 Opencode后更名 Crush，并变更了开源协议，然而开源社区很快又出现了新的 OpenCode 项目。",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI",
+        "开源",
+        "编程"
+      ]
+    },
+    "https://docs.factory.ai": {
+      "title": "Factory Droid",
+      "desc": "一款企业级 AI 编码代理，它运行在你的终端中，负责端到端的软件开发工作流。If it can be done on a computer, it can be done with a Droid.",
+      "intro": "If it can be done on a computer, it can be done with a Droid.",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI",
+        "开源",
+        "编程"
+      ]
+    },
+    "https://kilo.ai/docs/zh-CN/": {
+      "title": "Kilo Code",
+      "desc": "Kilo Code 通过 AI 驱动的代码生成和任务自动化加速开发。这个开源扩展直接集成到 VS Code 中。Kilo Code 最初是 Roo Code 的一个分支，核心理念是成为一个\"超集\"工具，即包含Cline和Roo Code的所有功能，并在此基础上持续添加新特性。",
+      "intro": "Move at Kilo Speed",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI",
+        "开源",
+        "编程"
+      ]
+    },
+    "https://www.augmentcode.com": {
+      "title": "Augment Code",
+      "desc": "支持 VSCode 插件、CLI 命令行形式安装。使用能够理解整个代码库的AI代理构建软件，从IDE到CLI再到代码审查，Augment在您工作的地方工作。",
+      "intro": "The Software Agent Company",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI",
+        "开源",
+        "编程"
+      ]
+    },
+    "https://bito.ai": {
+      "title": "Bito AI",
+      "desc": "让AI编码代理系统级地理解你的代码库，这样他们就可以推断影响，而不仅仅是生成代码。由 Bito 的 AI 架构师提供技术支持。",
+      "intro": "Codebase context engineering for coding agents",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI",
+        "编程"
+      ]
+    },
+    "https://joycode.jd.com": {
+      "title": "JoyCode",
+      "desc": "京东云推出的 IDE 智能编程助手工具。专为应对企业级复杂任务而设计的智能编码工具。",
+      "intro": "代码洪流 一念即成。",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI",
+        "编程"
+      ]
+    },
+    "https://sora2watermarkremover.net": {
+      "title": "Sora2 Watermark Remover",
+      "desc": "一款基于先进深度学习技术和计算机视觉模型的 AI 驱动 Web 应用，专为无缝去除 Sora 生成视频中的水印而设计。提供专业级的水印去除效果和直观的用户界面。",
+      "type": [
+        "AI 图像处理"
+      ],
+      "tags": [
+        "AI",
+        "图像处理",
+        "水印去除"
       ]
     },
     "https://scribelydesigns.top/tools/story-starter": {
