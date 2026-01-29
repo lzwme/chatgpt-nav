@@ -2057,9 +2057,7 @@
         "AI 图像处理"
       ],
       "title": "Facecheck ID",
-      "desc": "利用人工智能技术通过照片在线查找人员。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "利用人工智能技术通过照片在线查找人员。"
     },
     "https://www.weshop.com": {
       "type": [
@@ -2950,9 +2948,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3723,7 +3719,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://fleak.ai": {
@@ -6744,7 +6740,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.canva.cn": {
       "title": "Canva 可画",
@@ -6794,9 +6792,7 @@
         "AI 思维导图",
         "AI 文档办公",
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://mymap.ai": {
       "title": "mymap.ai",
@@ -8302,7 +8298,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
@@ -8827,9 +8823,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://taishan.qq.com/brand/": {
       "title": "智绘设计",
@@ -10691,7 +10685,7 @@
         "开源",
         "编程"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.augmentcode.com": {
