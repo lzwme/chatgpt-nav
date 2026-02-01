@@ -1488,9 +1488,7 @@
         "AI 写作助手"
       ],
       "title": "万彩AI",
-      "desc": "万彩AI是一款强大的AI写作工具合集，它为缺乏灵感或对写作感到困难的人提供了AI智能写作支持。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "万彩AI是一款强大的AI写作工具合集，它为缺乏灵感或对写作感到困难的人提供了AI智能写作支持。"
     },
     "https://www.heyfriday.cn/home": {
       "type": [
@@ -1882,7 +1880,7 @@
       ],
       "title": "PromeAI",
       "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.logosc.cn": {
@@ -2952,9 +2950,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3018,7 +3014,7 @@
       "title": "火山翻译",
       "star": 3,
       "desc": "字节旗下支持超过100种语种的免费在线翻译",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://translate.google.com": {
@@ -3077,7 +3073,7 @@
       ],
       "title": "Qodo",
       "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
@@ -3729,8 +3725,9 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://fleak.ai": {
       "title": "Fleak",
@@ -6156,7 +6153,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -8372,7 +8371,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.texttovoice.online": {
       "title": "Texttovoice.online",
@@ -8893,7 +8894,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.framer.com/ai": {
       "title": "Framer AI",
@@ -10691,7 +10694,7 @@
         "开源",
         "编程"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.augmentcode.com": {
