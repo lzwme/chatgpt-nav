@@ -1879,9 +1879,7 @@
         "AI 绘图"
       ],
       "title": "PromeAI",
-      "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。",
-      "needVerify": 3,
-      "errmsg": "[error][404]Not Found"
+      "desc": "神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。"
     },
     "https://www.logosc.cn": {
       "type": [
@@ -3014,7 +3012,7 @@
       "title": "火山翻译",
       "star": 3,
       "desc": "字节旗下支持超过100种语种的免费在线翻译",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][404]Not Found"
     },
     "https://translate.google.com": {
@@ -3072,9 +3070,7 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -4714,7 +4710,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://github.com/levihsu/OOTDiffusion": {
       "title": "OOTDiffusion",
@@ -6153,9 +6151,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -8304,7 +8300,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
       "title": "Whisper Speech",
@@ -8372,7 +8370,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.texttovoice.online": {
@@ -8894,9 +8892,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.framer.com/ai": {
       "title": "Framer AI",
@@ -10680,22 +10676,6 @@
         "开源",
         "编程"
       ]
-    },
-    "https://kilo.ai/docs/zh-CN/": {
-      "title": "Kilo Code",
-      "desc": "Kilo Code 通过 AI 驱动的代码生成和任务自动化加速开发。这个开源扩展直接集成到 VS Code 中。Kilo Code 最初是 Roo Code 的一个分支，核心理念是成为一个\"超集\"工具，即包含Cline和Roo Code的所有功能，并在此基础上持续添加新特性。",
-      "intro": "Move at Kilo Speed",
-      "star": 3,
-      "type": [
-        "AI 编程开发"
-      ],
-      "tags": [
-        "CLI",
-        "开源",
-        "编程"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://www.augmentcode.com": {
       "title": "Augment Code",
