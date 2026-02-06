@@ -812,9 +812,7 @@
       "needLogin": 1,
       "needPay": 1,
       "source": "recommend",
-      "title": "灵沐AI（Immuse AI)",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "灵沐AI（Immuse AI)"
     },
     "https://chattyaid.com": {
       "star": 2,
@@ -1483,9 +1481,7 @@
         "AI 写作助手"
       ],
       "title": "火龙果写作",
-      "desc": "火龙果智能写作软件，是一款基于AI 驱动的写作辅助神器，它提供了文章内容生成续写、智能改写、校对纠错、实时翻等强大功能。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "火龙果智能写作软件，是一款基于AI 驱动的写作辅助神器，它提供了文章内容生成续写、智能改写、校对纠错、实时翻等强大功能。"
     },
     "https://ai.kezhan365.com": {
       "type": [
@@ -1575,9 +1571,7 @@
       ],
       "star": 3,
       "title": "WPS AI",
-      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。"
     },
     "https://smartread.cc": {
       "type": [
@@ -1699,9 +1693,7 @@
       ],
       "tags": [
         "IDE"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://replit.com": {
       "type": [
@@ -2002,9 +1994,7 @@
         "AI 图像处理"
       ],
       "title": "模袋云AI",
-      "desc": "模袋云AI是一款在线别墅设计神器。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "模袋云AI是一款在线别墅设计神器。"
     },
     "https://www.nolibox.com": {
       "type": [
@@ -2019,9 +2009,7 @@
         "AI 绘图"
       ],
       "title": "稿定AI",
-      "desc": "稿定智能设计工具是一款智能化的设计工具，采用先进的人工智能技术，自动分析和生成设计方案。只需稍作调整，即可完成完美的设计。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "稿定智能设计工具是一款智能化的设计工具，采用先进的人工智能技术，自动分析和生成设计方案。只需稍作调整，即可完成完美的设计。"
     },
     "https://www.photoroom.com": {
       "type": [
@@ -2076,9 +2064,7 @@
         "AI 电商工具"
       ],
       "title": "WeShop",
-      "desc": "AI商拍工具，在WeShop再也不会受到模特限制，鼠标就是快门，点击就看成片。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI商拍工具，在WeShop再也不会受到模特限制，鼠标就是快门，点击就看成片。"
     },
     "https://www.suno.ai": {
       "type": [
@@ -2121,9 +2107,7 @@
         "AI 语音生成"
       ],
       "title": "魔音工坊",
-      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。"
     },
     "https://mubert.com": {
       "type": [
@@ -2472,9 +2456,7 @@
         "AI 绘图"
       ],
       "title": "Booltool",
-      "desc": "多合一AI图像处理网站，快速进行编辑修整",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "多合一AI图像处理网站，快速进行编辑修整"
     },
     "https://www.upscayl.org": {
       "type": [
@@ -2967,7 +2949,7 @@
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
@@ -3021,20 +3003,6 @@
       "title": "阿里翻译",
       "desc": "阿里巴巴达摩院推出的多领域多语种的在线机器翻译"
     },
-    "https://translate.volcengine.com": {
-      "type": [
-        "AI 翻译工具",
-        "AI 文档办公"
-      ],
-      "tags": [
-        "字节跳动"
-      ],
-      "title": "火山翻译",
-      "star": 3,
-      "desc": "字节旗下支持超过100种语种的免费在线翻译",
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://translate.google.com": {
       "type": [
         "AI 翻译工具"
@@ -3069,9 +3037,7 @@
       ],
       "icon": "https://dlweb.sogoucdn.com/translate/favicon.ico",
       "title": "搜狗翻译",
-      "desc": "支持中、英、法、日等50多种语言之间的互译功能",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "支持中、英、法、日等50多种语言之间的互译功能"
     },
     "https://windsurf.com": {
       "type": [
@@ -3261,9 +3227,7 @@
       "desc": "「印象笔记」X「印象AI」会创作的第二大脑",
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.edrawsoft.cn/mindmaster": {
       "title": "亿图脑图",
@@ -3979,8 +3943,8 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 2,
+      "errmsg": "[error][-1]aborted"
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -4289,9 +4253,7 @@
       ],
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -4738,9 +4700,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://github.com/levihsu/OOTDiffusion": {
       "title": "OOTDiffusion",
@@ -5224,9 +5184,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.xiaomengai.com": {
       "title": "彩云小梦尝鲜版",
@@ -6181,9 +6139,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -6494,9 +6450,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://audionotes.ai": {
       "title": "AudioNotes.ai",
@@ -6891,9 +6845,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://static.app.yinxiang.com/evermind/product/login": {
       "title": "印象图记",
@@ -6908,9 +6860,7 @@
       ],
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://otterai.sjv.io/c/3697237/1063514/13661": {
       "title": "Otter.ai",
@@ -7472,9 +7422,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://apps.apple.com/cn/app/%E8%AF%9D%E7%82%89/id6475000292": {
       "title": "话炉",
@@ -7504,9 +7452,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://character.sensetime.com/character-wb/home": {
       "title": "商汤商量拟人大模型",
@@ -7524,9 +7470,7 @@
       "type": [
         "AI 角色生成",
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://npc.baichuan-ai.com/index": {
       "title": "百川角色大模型",
@@ -8040,9 +7984,7 @@
       ],
       "type": [
         "AI 综合工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chat.baichuan-ai.com/home": {
       "title": "百川大模型",
@@ -8152,9 +8094,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.deepseek.com": {
       "title": "deepseek",
@@ -8348,7 +8288,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
       "title": "Whisper Speech",
@@ -8416,7 +8358,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.texttovoice.online": {
@@ -8542,9 +8484,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.singduck.cn": {
       "title": "唱鸭",
@@ -8696,9 +8636,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://y.qq.com/tme_studio/": {
       "title": "TME Studio",
@@ -8778,9 +8716,7 @@
       ],
       "type": [
         "AI 提示词"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
@@ -9120,9 +9056,7 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kuaijianji.com": {
       "title": "快剪辑SaaS版",
@@ -9160,9 +9094,7 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -9263,9 +9195,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -9439,9 +9369,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://fintax.golcer.com": {
       "title": "高灯财务 AI 助手",
@@ -9460,9 +9388,7 @@
       "type": [
         "AI 行业工具",
         "AI 综合工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
@@ -9867,9 +9793,7 @@
       "desc": "人人皆导演，让视频创作变得轻松自如",
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://new.imyai.top": {
       "title": "IMYAI智能助手",
@@ -9905,9 +9829,7 @@
       ],
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://x.ai": {
       "title": "Grok 3",
@@ -10651,9 +10573,7 @@
       "tags": [
         "CLI",
         "编程"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.kimi.com/coding/docs/kimi-cli.html": {
       "title": "Kimi CLI",
@@ -10677,9 +10597,7 @@
       "tags": [
         "CLI",
         "编程"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://antigravity.google": {
       "title": "Google Antigravity",
