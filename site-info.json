@@ -664,7 +664,9 @@
         "代码理解与编写",
         "大厂合集",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xfyun.cn": {
       "title": "讯飞开放平台",
@@ -2948,7 +2950,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3095,9 +3099,7 @@
         "网站编辑器",
         "托管服务",
         "图像"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][503]Service Unavailable"
+      ]
     },
     "https://www.warp.dev": {
       "type": [
@@ -3417,7 +3419,7 @@
         "AI 提示词",
         "AI 国外工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://contentatscale.ai/ai-prompt-library": {
@@ -8288,7 +8290,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
       "title": "Whisper Speech",
