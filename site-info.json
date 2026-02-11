@@ -422,6 +422,7 @@
     "https://kimi.moonshot.cn": {
       "type": [
         "AI 聊天对话",
+        "AI 智能体",
         "国产大模型"
       ],
       "star": 3,
@@ -432,6 +433,33 @@
       "tags": [
         "大厂合集",
         "API"
+      ]
+    },
+    "https://www.stepfun.com": {
+      "type": [
+        "AI 聊天对话",
+        "国产大模型"
+      ],
+      "star": 3,
+      "needLogin": 1,
+      "desc": "阶跃AI是阶跃星辰推出的一个聪明可靠的个人效率助手，可以帮你获取知识、查询信息、学习语言、创意写作、编写代码，在工作、学习、生活等各种场景下帮你解决问题。带你发现和理解世界",
+      "title": "阶跃AI",
+      "tags": [
+        "大厂合集",
+        "API"
+      ]
+    },
+    "https://agents.baidu.com": {
+      "title": "文心智能体平台",
+      "desc": "百度推出的基于文心大模型的智能体平台，支持广大开发者根据自身行业领域、应用场景，选取不同类型的开发方式，打造大模型时代的产品能力。开发者可以通过prompt编排的方式低成本开发智能体（Agent），同时文心智能体平台还将为智能体（Agent）开发者提供相应的流量分发路径，完成商业闭环。",
+      "star": 3,
+      "tags": [
+        "agent",
+        "办公"
+      ],
+      "type": [
+        "AI 智能体",
+        "AI 文档办公"
       ]
     },
     "https://yiyan.baidu.com": {
@@ -636,7 +664,7 @@
       ]
     },
     "https://chat.baidu.com": {
-      "title": "百度Chat",
+      "title": "百度文心助手",
       "desc": "百度Chat是百度旗下的搜索AI伙伴，在大模型的基础上，集成了全网搜索的能力。",
       "type": [
         "AI 聊天对话"
@@ -683,6 +711,7 @@
     },
     "https://chatglm.cn": {
       "type": [
+        "AI 智能体",
         "AI 聊天对话",
         "国产大模型",
         "AI 写作助手",
@@ -691,7 +720,7 @@
       "star": 3,
       "sort": -86,
       "needLogin": 1,
-      "desc": "清华大学孵化的智谱AI提供的千亿参数对话模型ChatGLM",
+      "desc": "全能 AI 助手，支持精通对话、写作与编程。为你答疑解惑，激发创意，更能理解图片与文档，提升学习与工作效率。",
       "title": "智谱清言",
       "tags": [
         "大厂合集",
@@ -913,11 +942,6 @@
       "type": [
         "AI 思维导图"
       ]
-    },
-    "https://puaai.net": {
-      "title": "Ymiai",
-      "desc": "快捷、高效的人工智能创作平台",
-      "hide": 1
     },
     "https://www.doubao.com/chat/": {
       "type": [
@@ -1264,14 +1288,16 @@
       "type": [
         "AI 聊天对话",
         "AI 搜索引擎",
-        "AI 写作助手",
+        "AI 智能体",
         "AI 绘图"
       ],
+      "tags": ["智能体"],
       "star": 3,
       "sort": -84,
-      "needLogin": 1,
-      "desc": "昆仑万维提供的对标 ChatGPT 的双千亿级大语言模型，也是一个对话式AI助手",
-      "title": "天工AI"
+      "needVerify": -1,
+      "desc": "天工Skywork是一款具备超强DeepResearch能力的全新AI Office智能体，通过3个专家agent和1个通用agent，让AI深度研究，一键生成AI文档、AI PPT、AI表格，高效应对各类办公、学习场景；也支持网页html、图像、视频、有声书、绘本等多种形式的创意内容创作，激发无限灵感。天工Skywork融合先进的多模态理解与深度检索分析技术，一问即得科研级、专业级、咨询级的高质量结果，帮助你摆脱繁琐事务，显著提升效率。无论你是职场白领、科研人员、大学生、研究生，还是自媒体KOL，天工Skywork都将是你值得信赖的智能伙伴，助你专注思考、释放创造力。",
+      "intro": "调用海量工具完成各种任务",
+      "title": "天工Agent版"
     },
     "https://metaso.cn": {
       "type": [
@@ -1308,14 +1334,6 @@
       ],
       "title": "Wanderlog",
       "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！"
-    },
-    "https://crypto.com/product-news/crypto-com-continues-ambitious-product-and-service-rollout-with-new-pioneering-innovation": {
-      "type": [
-        "AI 行业工具"
-      ],
-      "title": "Amy by Crypto",
-      "desc": "【金融】",
-      "hide": 1
     },
     "https://www.notion.so": {
       "type": [
@@ -3659,8 +3677,7 @@
         "AI 综合工具",
         "AI 国外工具"
       ],
-      "needVerify": -1,
-      "hide": 1
+      "needVerify": -1
     },
     "https://youyan.xyz/platform/home/prime": {
       "title": "有言",
@@ -4897,27 +4914,6 @@
         "AI 写作助手"
       ],
       "needVerify": -1
-    },
-    "https://baoyueai.com/home": {
-      "title": "包阅AI文档阅读",
-      "intro": "包阅AI帮你阅读广、理解深、效率高",
-      "desc": "包阅AI阅读助手支持一键总结、AI问答、多语言翻译,涵盖网页、论文文献、法律文档、学术科研、产品手册、市场报告、电子书等多种内容类型。功能包括总结提炼、深度理解、问答解惑、文献检索、文案润色等。定位于帮助用户高效阅读和理解各类文本资料。",
-      "lang": "zh",
-      "tags": [
-        "智能阅读",
-        "AI总结",
-        "问答系统",
-        "文献检索",
-        "文案润色",
-        "智能助手",
-        "中文精选"
-      ],
-      "type": [
-        "AI 综合工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND baoyueai.com",
-      "hide": 1
     },
     "https://app.grammarly.com": {
       "title": "Grammarly",
@@ -6335,9 +6331,8 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][500]Internal Server Error",
-      "hide": 1
+      "needVerify": -1,
+      "hide": 0
     },
     "https://www.beautiful.ai": {
       "title": "Beautiful.ai",
@@ -9711,11 +9706,26 @@
         "AI 绘图"
       ]
     },
+    "https://yuanqi.tencent.com": {
+      "title": "腾讯元器",
+      "desc": "腾讯推出的零代码智能体开发与分发平台，深度集成腾讯特色生态能力，提供低门槛的开发能力以及免费的模型支持，每个人都可以快速开发可自动回复的专属AI聊天机器人，并分发到微信、应用宝等渠道使用。",
+      "intro": "AI 智能体创建与分发平台",
+      "star": 3,
+      "tags": [
+        "agent",
+        "办公"
+      ],
+      "type": [
+        "AI 智能体",
+        "AI 文档办公"
+      ]
+    },
     "https://yuanbao.tencent.com": {
       "title": "腾讯元宝",
       "desc": "腾讯元宝是依托于腾讯混元大模型的AI产品。通过AI能力帮助用户在办公、学习、创作、生活等领域提供效率和生活辅助",
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 智能体"
       ],
       "star": 3,
       "sort": -88
@@ -10554,8 +10564,8 @@
       ]
     },
     "https://cursor.com/cn/cli": {
-      "title": "Kode",
-      "desc": "Cursor 于2025年8月发布的基于终端的AI编程工具，支持使用 GPT5 模型。",
+      "title": "Cursor CLI",
+      "desc": "Cursor 于2025年8月发布的基于终端的AI编程工具。专为帮助你直接在终端完成交付而打造，在任何环境中都能使用同一套命令。",
       "star": 3,
       "type": [
         "AI 编程开发"
@@ -10755,6 +10765,19 @@
       ],
       "tags": [
         "AI开放平台",
+        "API"
+      ]
+    },
+    "https://openrouter.ai": {
+      "title": "OpenRouter",
+      "desc": "全球最大的AI模型聚合平台，核心功能包括多模型聚合、统一API调用、性能基准测试和智能路由优化，支持按需付费与部分模型免费试用模式。其提供了许多免费模型供测试调用，具体为：未充值过的用户每日可调用50次，历史上充值超过10美元的用户每日可免费调用1000次。",
+      "star": 2,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "AI开放平台",
+        "deepseek",
         "API",
         "FREEAPI"
       ]
@@ -10806,6 +10829,7 @@
       "title": "Manus",
       "desc": "Manus 是一个行动引擎，它超越了答案的范畴，可以执行任务、自动化工作流程，并扩展您的能力。",
       "star": 3,
+      "needVPN": 1,
       "type": [
         "AI 智能体",
         "AI 综合工具"
@@ -10836,6 +10860,7 @@
       "desc": "Google 推出的通用在线 AI 智能体，可以执行各种复杂任务。",
       "star": 3,
       "needVPN": 1,
+      "sort": -90,
       "type": [
         "AI 智能体"
       ],
@@ -10865,6 +10890,7 @@
       "title": "LMArena",
       "desc": "LMArena 权威的大模型试炼场，几乎所有顶级模型发布前都会在这里匿名密码测试。在这里你可以免费的方式在线体验当前所有类型的顶级模型。",
       "star": 3,
+      "sort": -80,
       "needVerify": -1,
       "needVPN": 1,
       "type": [
@@ -10877,7 +10903,8 @@
       "desc": "在线体验国产医药大模型。查指南、找文献、搜药品，每一条医学建议都有据可依！",
       "star": 3,
       "type": [
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 行业工具"
       ]
     }
   }
