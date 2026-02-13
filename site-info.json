@@ -268,14 +268,14 @@
         "claude"
       ],
       "lang": "zh",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": -1,
+      "needVPN": 1
     },
     "https://agentrouter.org": {
       "title": "AgentRouter",
       "desc": "面向开发者的大模型公益站！免费提供 Claude 等顶级大模型 API，每日签到送 25 美元额度！",
       "star": 3,
-      "sort": -96,
+      "sort": -80,
       "type": [
         "AI 综合工具"
       ],
@@ -1043,20 +1043,23 @@
       "lang": "en",
       "needVerify": -1
     },
-    "https://bard.google.com": {
+    "https://aistudio.google.com": {
       "type": [
         "AI 聊天对话",
-        "AI 国外工具"
+        "AI 国外工具",
+        "AI 智能体"
       ],
-      "title": "Google Bard",
-      "desc": "Google推出的聊天机器人。",
+      "title": "Google AI tudio",
+      "desc": "Google 推出的 AI 应用开发平台。在这里可以快速、直观地访问和实验 Google 最先进的生成式 AI 模型（例如 Gemini、Nano Banana 系列），用户能免费体验和测试 Google 最新的 AI 模型，无需任何费用。",
+      "intro": "The fastest path from prompt to production with Gemini",
       "needVPN": true,
       "lang": "en",
       "star": 3
     },
-    "https://deepmind.google/technologies/gemini": {
-      "desc": "Gemini(双子座)是Google最新的大型语言模型，在一系列多模式基准测试中超越了最先进GPT4。在各种自然语言任务中表现良好，例如摘要、指令跟踪、内容生成、情感分析、实体提取、分类等。",
-      "title": "Google Gemini",
+    "https://deepmind.google": {
+      "title": "Google DeepMind",
+      "intro": "Build AI responsibly to benefit humanity",
+      "desc": "Artificial intelligence could be one of humanity’s most useful inventions. We research and build safe artificial intelligence systems.",
       "star": 3,
       "lang": "en",
       "type": [
@@ -1066,9 +1069,10 @@
     "https://gemini.google.com": {
       "title": "Gemini",
       "intro": "轻松对话，获取创意灵感",
-      "desc": "Gemini是Google AI黑科技，可帮助你处理写作、规划、学习等事务。它可以与你轻松对话，提供创意灵感，帮助提升工作效率。Gemini还可以帮助你进行写作、规划、学习等任务，并提供相关的建议和指导。Gemini是一个强大的工具，适用于个人和团队使用。",
+      "desc": "认识 Gemini：Google 旗下的 AI 助理。在写作、规划和开展头脑风暴等方面获得帮助。体验生成式 AI 的强大功能。在这里可以在线体验谷歌最先进的 Gemini3、Nano Banana 等顶级模型。",
       "lang": "en",
       "star": 3,
+      "sort": -88,
       "needVPN": 1,
       "tags": [
         "创意灵感",
@@ -1076,11 +1080,13 @@
         "规划",
         "学习",
         "全球热门",
+        "agent",
         "API"
       ],
       "type": [
         "AI 写作助手",
-        "AI 聊天对话"
+        "AI 聊天对话",
+        "AI 智能体"
       ]
     },
     "https://cloud.google.com/products/gemini/code-assist": {
@@ -1104,24 +1110,6 @@
       "type": [
         "AI 编程开发",
         "AI 行业工具"
-      ]
-    },
-    "https://play.google.com/store/apps/details": {
-      "title": "Text To Audio—TTS & MP3_WAV",
-      "intro": "一键转换文本为音频文件",
-      "desc": "Text2Audio是一款免费的文本转语音应用，通过一键操作将文本转换为音频文件。用户可以选择多个智能声音演员，还可以根据需要调整语速和音调，创建男声、女声、叙述等不同类型的声音。适用于制作短视频解说的评论，如TikTok、YouTube、Instgram等。",
-      "lang": "en",
-      "needVPN": 1,
-      "star": 3,
-      "tags": [
-        "文本转音频",
-        "声音演员",
-        "语速调整",
-        "音调调整",
-        "音乐与音频"
-      ],
-      "type": [
-        "AI 语音生成"
       ]
     },
     "https://poe.com": {
@@ -10677,6 +10665,20 @@
       "title": "Factory Droid",
       "desc": "一款企业级 AI 编码代理，它运行在你的终端中，负责端到端的软件开发工作流。If it can be done on a computer, it can be done with a Droid.",
       "intro": "If it can be done on a computer, it can be done with a Droid.",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI",
+        "开源",
+        "编程"
+      ]
+    },
+    "https://kilo.ai": {
+      "title": "Kilo Code",
+      "desc": "Kilo Code 通过 AI 驱动的代码生成和任务自动化加速开发。这个开源扩展直接集成到 VS Code 中。Kilo Code 最初是 Roo Code 的一个分支，核心理念是成为一个\"超集\"工具，即包含Cline和Roo Code的所有功能，并在此基础上持续添加新特性。",
+      "intro": "Move at Kilo Speed",
       "star": 3,
       "type": [
         "AI 编程开发"
