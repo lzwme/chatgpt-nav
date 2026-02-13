@@ -2263,7 +2263,7 @@
       ],
       "title": "一帧秒创",
       "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.animiz.cn/microvideo": {
@@ -2960,9 +2960,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3070,9 +3068,7 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3431,8 +3427,9 @@
         "AI 提示词",
         "AI 国外工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][500]Internal Server Error"
+      "needVerify": 7,
+      "errmsg": "[error][500]Internal Server Error",
+      "hide": 1
     },
     "https://contentatscale.ai/ai-prompt-library": {
       "title": "Content at scale",
@@ -5176,9 +5173,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.xiaomengai.com": {
       "title": "彩云小梦尝鲜版",
@@ -6987,7 +6982,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://futurecv.cn": {
@@ -8282,9 +8277,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
       "title": "Whisper Speech",
@@ -10819,7 +10812,9 @@
         "在线编程",
         "agent",
         "工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.anygen.io/home": {
       "title": "AnyGen",
