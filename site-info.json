@@ -694,9 +694,7 @@
         "代码理解与编写",
         "大厂合集",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.xfyun.cn": {
       "title": "讯飞开放平台",
@@ -1744,7 +1742,7 @@
       ],
       "title": "ZelinAI",
       "desc": "ZelinAI零代码构建你的AI应用，ZelinAI目前接入了微软合规的GPT3.5、GPT4大智能体以及文心一言、星火等国内知名的大智能体",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.dora.run": {
@@ -1786,7 +1784,9 @@
         "AI 网站生成"
       ],
       "title": "Tilda",
-      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。"
+      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://learningprompt.wiki": {
       "type": [
@@ -2267,8 +2267,9 @@
       ],
       "title": "一帧秒创",
       "desc": "一帧秒创是基于秒创AIGC引擎的智能视频创作平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具。",
-      "needVerify": 6,
-      "errmsg": "[error][502]Bad Gateway"
+      "needVerify": 7,
+      "errmsg": "[error][502]Bad Gateway",
+      "hide": 1
     },
     "https://www.animiz.cn/microvideo": {
       "type": [
@@ -2530,7 +2531,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.hama.app/zh": {
       "type": [
@@ -2638,9 +2641,7 @@
         "AI 图像处理"
       ],
       "title": "Visily",
-      "desc": "实用！AI轻松将手绘线框转换为高保真度",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "实用！AI轻松将手绘线框转换为高保真度"
     },
     "https://hp.package-ai.jp": {
       "type": [
@@ -2967,7 +2968,7 @@
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
@@ -6136,7 +6137,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://haiper.ai": {
       "title": "Haiper",
@@ -6990,8 +6993,9 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": 7,
+      "errmsg": "[error][403]Forbidden",
+      "hide": 1
     },
     "https://futurecv.cn": {
       "title": "未来简历",
@@ -7516,9 +7520,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://answerly.io": {
       "title": "Answerly",
@@ -8288,7 +8290,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
@@ -8484,9 +8486,7 @@
       ],
       "type": [
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.singduck.cn": {
       "title": "唱鸭",
@@ -9197,7 +9197,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
