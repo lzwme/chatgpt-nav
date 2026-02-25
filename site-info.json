@@ -694,7 +694,9 @@
         "代码理解与编写",
         "大厂合集",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xfyun.cn": {
       "title": "讯飞开放平台",
@@ -844,7 +846,7 @@
       "needPay": 1,
       "source": "recommend",
       "title": "灵沐AI（Immuse AI)",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://chattyaid.com": {
@@ -1787,9 +1789,7 @@
         "AI 网站生成"
       ],
       "title": "Tilda",
-      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。",
-      "needVerify": 2,
-      "errmsg": "[error][-1]aborted"
+      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。"
     },
     "https://learningprompt.wiki": {
       "type": [
@@ -2461,7 +2461,9 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词"
+      "desc": "有趣ChatGPT提示词",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://catjourney.life": {
       "type": [
@@ -2714,9 +2716,7 @@
       ],
       "title": "Notion AI",
       "desc": "AI写作神器！比你想得更多！写得更快",
-      "star": 3,
-      "needVerify": 1,
-      "errmsg": "[error][429]Too Many Requests"
+      "star": 3
     },
     "https://www.xiezuocat.com": {
       "type": [
@@ -2970,9 +2970,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 3,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3080,9 +3078,7 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -4743,7 +4739,9 @@
       "type": [
         "AI 绘图",
         "AI 开源工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]socket hang up"
     },
     "https://pixble.com/app/faceswapper": {
       "title": "Pixble Face Swapper",
@@ -9163,7 +9161,7 @@
       "type": [
         "AI 数字人"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.chanjing.cc": {
@@ -9814,7 +9812,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://new.imyai.top": {
@@ -10111,7 +10109,7 @@
         "AI 写作助手",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://botsheets.com": {
