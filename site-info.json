@@ -440,6 +440,7 @@
     "https://www.stepfun.com": {
       "type": [
         "AI 聊天对话",
+        "AI 智能体",
         "国产大模型"
       ],
       "star": 3,
@@ -448,6 +449,7 @@
       "title": "阶跃AI",
       "tags": [
         "大厂合集",
+        "智能体",
         "API"
       ]
     },
@@ -685,6 +687,7 @@
       "needLogin": 1,
       "desc": "讯飞星火大模型",
       "title": "讯飞星火",
+      "needVerify": -1,
       "tags": [
         "大模型",
         "语言理解",
@@ -707,6 +710,29 @@
       ],
       "type": [
         "AI 综合工具"
+      ]
+    },
+    "https://agent.xfyun.cn":  {
+      "title": "讯飞星辰Agent平台",
+      "intro": "企业级 AGENTIC WORKFLOW 平台，主力新一代生产级智能体开发",
+      "desc": "新一代智能体Agent开发平台，支持通过提示词Prompt、工作流Workflow灵活创建专业智能体。平台已整合丰富的模型、插件、MCP Server，支持一站式效果测评，助力开发者快速搭建生产级智能体。创建后可发布到讯飞星火App、微信公众号，或发布成API、MCP Server。",
+      "tags": [
+        "agent",
+        "智能体"
+      ],
+      "type": [
+        "AI 智能体"
+      ]
+    },
+    "https://typemovie.art":  {
+      "title": "讯飞绘镜",
+      "intro": "描述即创作，短视频轻松生成",
+      "desc": "一款AI视频创作平台。输入创意，即可生成脚本和分镜图片，并将静态分镜化为动态视频。支持快速生成图片与视频，帮助创作者高效捕捉灵感，轻松实现创意表达。",
+      "tags": [
+        "短视频"
+      ],
+      "type": [
+        "AI 视频生成"
       ]
     },
     "https://chatglm.cn": {
@@ -960,13 +986,60 @@
     "https://www.coze.cn": {
       "type": [
         "AI 聊天对话",
-        "国产大模型"
+        "AI 智能体"
       ],
       "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
       "title": "扣子",
-      "desc": "Coze中文版，字节旗下一款用来开发新一代 AI ChatBot的应用编辑平台",
+      "intro": "扣子，你的 AI 办公助手",
+      "desc": "扣子是强大的AI办公助手，基于Agent技术，集成了AI写作、AI PPT生成、AI表格处理、AI设计、AI播客、AI生图与AI视频等全功能。扣子助力财经分析、市场营销等多场景办公任务自动化，全面提升工作效率。",
       "star": 3,
       "sort": -87
+    },
+    "https://space.coze.cn": {
+      "title": "扣子空间",
+      "desc": "扣子空间是强大的AI办公助手，基于Agent技术，集成了AI写作、AI PPT生成、AI表格处理、AI设计、AI播客、AI生图与AI视频等全功能。扣子空间助力财经分析、市场营销等多场景办公任务自动化，全面提升工作效率。",
+      "star": 3,
+      "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
+      "tags": [
+        "agent",
+        "办公"
+      ],
+      "type": [
+        "AI 智能体",
+        "AI 文档办公"
+      ]
+    },
+    "https://www.coze.com": {
+      "title": "Coze国际版",
+      "intro": "AI聊天机器人构建平台",
+      "desc": "Coze是一款下一代AI聊天机器人构建平台，能够快速创建、调试和优化AI聊天机器人应用程序。用户可以在不编写代码的情况下快速创建机器人，并将其发布到各种平台上。Coze还提供了丰富的插件，可以扩展机器人的能力，让机器人与数据互动，将想法转化为机器人技能，装备机器人长期记忆，并允许机器人启动对话。",
+      "lang": "en",
+      "star": 3,
+      "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
+      "tags": [
+        "聊天机器人",
+        "构建平台",
+        "全球热门"
+      ],
+      "type": [
+        "AI 聊天对话",
+        "AI 智能体"
+      ]
+    },
+    "https://code.coze.cn": {
+      "title": "扣子编程",
+      "desc": "AI赋能的一站式云端Vibe Coding开发平台。通过对话即可快速构建智能体、工作流、网页与移动应用，并依托Vibe Infra基础设施实现开箱即用的云端环境和一键部署服务。无论你是零基础小白还是资深开发者，扣子编程都能帮你实现从想法到产品上线的丝滑体验，告别部署烦恼。",
+      "star": 3,
+      "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
+      "tags": [
+        "agent",
+        "办公"
+      ],
+      "type": [
+        "AI 智能体",
+        "AI 网站生成",
+        "AI 文档办公"
+      ]
     },
     "https://www.tongyi.com": {
       "type": [
@@ -7873,51 +7946,6 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
-    },
-    "https://www.coze.com": {
-      "title": "Coze国际版",
-      "intro": "AI聊天机器人构建平台",
-      "desc": "Coze是一款下一代AI聊天机器人构建平台，能够快速创建、调试和优化AI聊天机器人应用程序。用户可以在不编写代码的情况下快速创建机器人，并将其发布到各种平台上。Coze还提供了丰富的插件，可以扩展机器人的能力，让机器人与数据互动，将想法转化为机器人技能，装备机器人长期记忆，并允许机器人启动对话。",
-      "lang": "en",
-      "star": 3,
-      "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
-      "tags": [
-        "聊天机器人",
-        "构建平台",
-        "全球热门"
-      ],
-      "type": [
-        "AI 聊天对话"
-      ]
-    },
-    "https://space.coze.cn": {
-      "title": "扣子空间",
-      "desc": "扣子空间是强大的AI办公助手，基于Agent技术，集成了AI写作、AI PPT生成、AI表格处理、AI设计、AI播客、AI生图与AI视频等全功能。扣子空间助力财经分析、市场营销等多场景办公任务自动化，全面提升工作效率。",
-      "star": 3,
-      "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
-      "tags": [
-        "agent",
-        "办公"
-      ],
-      "type": [
-        "AI 智能体",
-        "AI 文档办公"
-      ]
-    },
-    "https://code.coze.cn": {
-      "title": "扣子编程",
-      "desc": "AI赋能的一站式云端Vibe Coding开发平台。通过对话即可快速构建智能体、工作流、网页与移动应用，并依托Vibe Infra基础设施实现开箱即用的云端环境和一键部署服务。无论你是零基础小白还是资深开发者，扣子编程都能帮你实现从想法到产品上线的丝滑体验，告别部署烦恼。",
-      "star": 3,
-      "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png",
-      "tags": [
-        "agent",
-        "办公"
-      ],
-      "type": [
-        "AI 智能体",
-        "AI 网站生成",
-        "AI 文档办公"
       ]
     },
     "https://www.yeschat.ai": {
