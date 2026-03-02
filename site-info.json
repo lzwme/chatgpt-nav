@@ -648,11 +648,12 @@
         "百度"
       ],
       "type": [
-        "AI 行业工具"
+        "AI 行业工具",
+        "AI 数字人"
       ]
     },
     "https://ai.baidu.com/unit/home": {
-      "title": "百度智能对话平台 UNIT",
+      "title": "百度客悦ONE·智能客服",
       "intro": "百度 UNIT 是一款领先的智能对话管理平台，助力企业定制专业、可控、稳定的对话系统。",
       "desc": "百度 UNIT 搭载业界领先的对话理解和对话管理技术，提供灵活运营管理工具和可视化会话流程配置，助力企业智能化升级实现降本增效。",
       "lang": "zh",
@@ -716,6 +717,7 @@
       "title": "讯飞星辰Agent平台",
       "intro": "企业级 AGENTIC WORKFLOW 平台，主力新一代生产级智能体开发",
       "desc": "新一代智能体Agent开发平台，支持通过提示词Prompt、工作流Workflow灵活创建专业智能体。平台已整合丰富的模型、插件、MCP Server，支持一站式效果测评，助力开发者快速搭建生产级智能体。创建后可发布到讯飞星火App、微信公众号，或发布成API、MCP Server。",
+      "star": 3,
       "tags": [
         "agent",
         "智能体"
@@ -10842,6 +10844,19 @@
       "tags": [
         "AI开放平台",
         "deepseek",
+        "API",
+        "FREEAPI"
+      ]
+    },
+    "https://fangzhou.wanjiedata.com/login?inviteCode=rXKwEUAA": {
+      "title": "万界方舟",
+      "desc": "新用户注册送16元额度！一站式聚合 MaaS 平台,聚合全球顶尖大模型 API。一个接口轻松调用多模态 AI 能力。提供 gpt、claude、gemini等国内外顶级模型的API调用",
+      "star": 3,
+      "sort": -10,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
         "API",
         "FREEAPI"
       ]
