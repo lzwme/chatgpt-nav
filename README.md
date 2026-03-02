@@ -456,6 +456,7 @@
 1. [[⭐] https://prompt.noonshot.com](https://prompt.noonshot.com) **MJ Prompt Tool。** MJ提示词创造助手
 1. [[⭐] https://promptalot.com](https://promptalot.com) **Promptalot。** 超好用的MJ提示词辅助插件
 1. [[⭐] https://promptbase.com](https://promptbase.com) **PromptBase。** AI提示词交易网站
+1. [[⭐] https://aiimagelab.art](https://aiimagelab.art) **AI Image Lab。** 免费AI图片生成器，提供8大分类的精选提示词库，支持4K高质量输出
 1. [[⭐] https://promptknit.com](https://promptknit.com) **Knit。** Knit是一个专业的AI提示编辑和管理平台,提供强大的编辑器、项目协作、模型支持等功能,可高效管理优化AI提示,适用于各种AI应用场景。主要优势包括全功能提示编辑器、多模型支持、API参数控制、代码生成导出等。提供免费和付费版本,针对提示开发者和AI应用团队等群体。
 1. [[⭐] https://promptomania.com](https://promptomania.com) **PromptoMania。** MJ和SD提示词生成器
 1. [[⭐] https://publicprompts.art](https://publicprompts.art) **PublicPrompts。** AI绘画模型+风格参考
