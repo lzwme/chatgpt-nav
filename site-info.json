@@ -451,9 +451,7 @@
         "大厂合集",
         "智能体",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1134:18)\n    at internalConnectMultiple (node:net:1210:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1742:"
+      ]
     },
     "https://agents.baidu.com": {
       "title": "文心智能体平台",
@@ -713,7 +711,9 @@
       ],
       "type": [
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://agent.xfyun.cn": {
       "title": "讯飞星辰Agent平台",
@@ -2004,9 +2004,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1134:18)\n    at internalConnectMultiple (node:net:1210:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1742:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://arc.tencent.com/zh/ai-demos/faceRestoration": {
       "type": [
@@ -2031,9 +2029,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1134:18)\n    at internalConnectMultiple (node:net:1210:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1742:"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://tusiart.com": {
       "type": [
@@ -2541,7 +2537,9 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词"
+      "desc": "有趣ChatGPT提示词",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://catjourney.life": {
       "type": [
@@ -2590,9 +2588,7 @@
       "lang": "zh",
       "icon": "https://ai.meitu.com/favicon.png",
       "title": "美图AI开放平台",
-      "desc": "美图推出的AI人脸图像处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1134:18)\n    at internalConnectMultiple (node:net:1210:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1742:"
+      "desc": "美图推出的AI人脸图像处理平台"
     },
     "https://magicstudio.com/zh": {
       "type": [
@@ -2961,7 +2957,9 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理"
+      "desc": "AI生成3D无缝贴图纹理",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.sloyd.ai": {
       "type": [
@@ -3051,7 +3049,7 @@
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
@@ -3160,7 +3158,9 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3751,9 +3751,7 @@
       "type": [
         "AI 综合工具",
         "AI 国外工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://topai.tools": {
       "title": "Topai",
@@ -5267,7 +5265,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xiaomengai.com": {
       "title": "彩云小梦尝鲜版",
@@ -6189,9 +6189,7 @@
       "type": [
         "AI 视频生成",
         "国产大模型"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://kling.kuaishou.com": {
       "title": "可灵大模型",
@@ -7448,7 +7446,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://replika.com": {
@@ -7710,7 +7708,7 @@
         "AI 语音生成",
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1134:18)\n    at internalConnectMultiple (node:net:1210:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1742:"
     },
     "https://github.com/lrhh123/ChatGPT-On-CS": {
@@ -8061,9 +8059,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1134:18)\n    at internalConnectMultiple (node:net:1210:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1742:"
+      ]
     },
     "https://xiake.pro": {
       "title": "虾壳ChatAi",
@@ -8335,7 +8331,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
       "title": "Whisper Speech",
@@ -8926,9 +8924,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.framer.com/ai": {
       "title": "Framer AI",
@@ -9838,9 +9834,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1134:18)\n    at internalConnectMultiple (node:net:1210:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1742:"
+      ]
     },
     "https://www.designkit.com": {
       "title": "美图设计室",
@@ -9862,7 +9856,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://new.imyai.top": {
@@ -10159,7 +10153,7 @@
         "AI 写作助手",
         "AI 绘图"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://botsheets.com": {
