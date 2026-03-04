@@ -10986,6 +10986,117 @@
         "API",
         "FREEAPI"
       ]
+    },
+    "https://openclaw.ai": {
+      "title": "OpenClaw 小龙虾",
+      "desc": "2026开年最火的开源 AI 个人助理，适用于任何操作系统的 AI 智能体。通过链接到社交APP发送消息，随时随地获取智能体响应。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "智能体"
+      ]
+    },
+    "https://picoclaw.io": {
+      "title": "PicoCaw",
+      "desc": "PicoClaw 是一个用 Go 语言开发的超轻量级个人 AI 助手，灵感来自 nanobot 项目。它拥有极低的资源占用（内存不到 10MB），支持多架构部署，并集成了多个通讯平台。核心代码 95% 由 AI 代理自动生成，通过人类在环方式持续优化。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "智能体"
+      ]
+    },
+    "https://lobsterai.youdao.com": {
+      "title": "LobsterAI 有道龙虾",
+      "desc": "网易有道开源的个人 AI 助理应用。一个7×24小时帮你干活的全场景个人助理 Agent。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "智能体"
+      ]
+    },
+    "https://claude.com/download": {
+      "title": "Claude Cowork",
+      "desc": "让 Claude 真正变成你电脑里的 AI 同事！Claude Cowork 是 Anthropic 推出的自治 AI 代理 (Autonomous AI Agent)，无需编写代码，即可在 macOS 上自主管理文件、处理数据并生成报告。",
+      "intro": " Bring Claude to your desktop",
+      "needVPN": 1,
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "智能体"
+      ]
+    },
+    "https://skywork.ai/desktop": {
+      "title": "Skywork Desktop",
+      "desc": "将文件和文件夹转化为 AI 的持久内容窗口 — 基于本地工作空间创建文档、演示文稿、表格、深度研究、播客和网页。如果你能想象，Skywork 就能实现。",
+      "intro": " 为您提供全方位的 AI 工作助手体验",
+      "needVPN": 1,
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "智能体"
+      ]
+    },
+    "https://www.stepfun.com/download": {
+      "title": "阶跃AI Desktop",
+      "desc": "阶跃AI是一个聪明可靠的个人效率助手。在你操作系统上的Agent，发现并主动完成任务。支持网页和文件的浏览、填写、修改与创建等多类操作，帮你用语言操控电脑",
+      "intro": "时刻相随的桌面伙伴",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "智能体"
+      ]
+    },
+    "https://qoder.com/qoderwork": {
+      "title": "QoderWork 桌面应用",
+      "desc": "阿里推出的桌面级通用智能体助手。专为日常工作打造，将 Qoder 的 Agent 能力从代码领域扩展到日常工作场景，描述需求，自动执行，直接交付结果。",
+      "intro": "开源虚拟同事",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "智能体"
+      ]
+    },
+    "https://openco.work": {
+      "title": "Open Cowork",
+      "desc": "开源版 Claude Cowork，基于 OpenCode 的桌面版个人 AI 助手，强调“像人一样在电脑上干活”。",
+      "intro": "开源虚拟同事",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "智能体"
+      ]
     }
   }
 }
