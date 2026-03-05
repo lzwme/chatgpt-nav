@@ -2108,9 +2108,7 @@
         "AI 图像处理"
       ],
       "title": "PhotoRoom",
-      "desc": "在几秒钟内创建高品质的图像。只需轻点一下，即可去除背景并合成一个能展示产品或模特的图像。PhotoRoom赋予每个人设计超能力，因为你编辑的是物体而不是像素。PhotoRoom是一款图像编辑应用程序，让您通过编辑物体来捕捉、编辑和混合图像。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "在几秒钟内创建高品质的图像。只需轻点一下，即可去除背景并合成一个能展示产品或模特的图像。PhotoRoom赋予每个人设计超能力，因为你编辑的是物体而不是像素。PhotoRoom是一款图像编辑应用程序，让您通过编辑物体来捕捉、编辑和混合图像。"
     },
     "https://picwish.com": {
       "type": [
@@ -2963,9 +2961,7 @@
         "AI 图像处理"
       ],
       "title": "Sloyd",
-      "desc": "快速生成3D游戏资产",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "快速生成3D游戏资产"
     },
     "https://cascadeur.com": {
       "type": [
@@ -3046,7 +3042,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
       "type": [
@@ -3296,9 +3294,7 @@
       "star": 2,
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://gamma.app": {
       "title": "Gamma",
@@ -4653,9 +4649,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      ]
     },
     "https://www.brandroot.com": {
       "title": "Business Names and Logos",
@@ -5586,9 +5580,7 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chandler.bet": {
       "title": "Chandler",
@@ -5748,9 +5740,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://free-trial.adcreative.ai/98krjvb7wdoq": {
       "title": "Adcreative.ai",
@@ -6088,9 +6078,7 @@
       "type": [
         "AI 视频生成",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.morphstudio.com": {
       "title": "Morph Studio",
@@ -7415,9 +7403,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      ]
     },
     "https://www.rewind.ai": {
       "title": "Rewind AI",
@@ -8331,7 +8317,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
       "title": "Whisper Speech",
@@ -9848,15 +9836,6 @@
         "AI 语音生成"
       ]
     },
-    "https://video.luchentech.com/zh-CN": {
-      "title": "VIDEO OCEAN",
-      "desc": "人人皆导演，让视频创作变得轻松自如",
-      "type": [
-        "AI 视频生成"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://new.imyai.top": {
       "title": "IMYAI智能助手",
       "desc": "IMYAI，是图欧学习资源库、图欧学习资源导航站、皮卡搜索站长、学习资源船舱船长以及B站UP主图欧君带领图欧科技团队开发的一款AI工具，于2023年5月15日上线，专为学生党、上班族以及自由职业工作者设计，支持智能问答、语音交互、绘画作图、联网搜索、实时翻译、办公编程等多种功能，是一款包括GPT、Claude、Midjourney、Gemini、Llama、Suno、Luma、可灵、文心、千问、星火、智谱、混元等在内的100+款国内外大模型，集AI文本、绘画、音乐、视频等创作服务于一体的多功能AIGC平台。",
@@ -10132,27 +10111,6 @@
         "AI 视频生成",
         "AI 写作助手"
       ]
-    },
-    "https://video-ocean.com/en": {
-      "title": "Video Ocean",
-      "intro": "Video Ocean，让每个人都能轻松制作高质量视频。",
-      "desc": "Video Ocean是一个基于人工智能模型技术的视频制作平台，提供文本生成、图像生成、音视频生成等功能。用户可以输入描述性文本、图片、音频和视频，获得定制化的AI生成文本、图片、音频和视频。该平台致力于简化视频生成的复杂性，通过提供先进的工具和详细的资源，使高质量的视频制作变得易于访问和不费力。Video Ocean的主要优点包括开放源代码、易于使用、高效生产和创新性。它通过提供100个免费币来吸引用户试用，推动内容创作的民主化，鼓励创新、创造力和包容性。",
-      "lang": "en",
-      "tags": [
-        "AI视频制作",
-        "内容创作",
-        "图像生成",
-        "视频编辑",
-        "社交媒体",
-        "视频"
-      ],
-      "type": [
-        "AI 视频生成",
-        "AI 写作助手",
-        "AI 绘图"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://botsheets.com": {
       "title": "Botsheets AI Writer",
