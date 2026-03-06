@@ -2169,7 +2169,9 @@
         "AI 语音生成"
       ],
       "title": "Songtell",
-      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。"
+      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。",
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://speechify.com": {
       "type": [
@@ -3043,7 +3045,7 @@
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
@@ -4038,7 +4040,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -7435,7 +7439,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://replika.com": {
       "title": "Replika",
@@ -8318,7 +8324,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
