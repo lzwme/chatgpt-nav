@@ -796,7 +796,9 @@
       "sort": -80,
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
-      "title": "C知道"
+      "title": "C知道",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai-maas.wair.ac.cn": {
       "type": [
@@ -2169,9 +2171,7 @@
         "AI 语音生成"
       ],
       "title": "Songtell",
-      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。",
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。"
     },
     "https://speechify.com": {
       "type": [
@@ -3044,9 +3044,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -4040,9 +4038,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -6873,7 +6869,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://www.ayoa.com/ultimate/": {
       "title": "Ayoa Ultimate",
@@ -7440,7 +7438,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://replika.com": {
@@ -8324,7 +8322,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
