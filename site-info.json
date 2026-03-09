@@ -2002,9 +2002,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://arc.tencent.com/zh/ai-demos/faceRestoration": {
       "type": [
@@ -2029,9 +2027,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://tusiart.com": {
       "type": [
@@ -2180,7 +2176,9 @@
         "AI 语音生成"
       ],
       "title": "Speechify",
-      "desc": "拥有数百万次在Chrome、iOS和Android上的下载量的领先文本到语音应用，可以在任何设备上听取互联网内容。"
+      "desc": "拥有数百万次在Chrome、iOS和Android上的下载量的领先文本到语音应用，可以在任何设备上听取互联网内容。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://elevenlabs.io": {
       "type": [
@@ -2588,9 +2586,7 @@
       "lang": "zh",
       "icon": "https://ai.meitu.com/favicon.png",
       "title": "美图AI开放平台",
-      "desc": "美图推出的AI人脸图像处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "美图推出的AI人脸图像处理平台"
     },
     "https://magicstudio.com/zh": {
       "type": [
@@ -3041,18 +3037,14 @@
         "AI 文档办公"
       ],
       "title": "Taskade",
-      "desc": "高颜值AI大纲和思维导图生成，统一您的工作流程",
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      "desc": "高颜值AI大纲和思维导图生成，统一您的工作流程"
     },
     "https://rossum.ai": {
       "type": [
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3160,7 +3152,9 @@
         "IDE"
       ],
       "title": "Qodo",
-      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。"
+      "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -6878,7 +6872,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.ayoa.com/ultimate/": {
@@ -7446,7 +7440,7 @@
       "type": [
         "AI 聊天对话"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://replika.com": {
@@ -7708,7 +7702,7 @@
         "AI 语音生成",
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
     },
     "https://github.com/lrhh123/ChatGPT-On-CS": {
@@ -8331,9 +8325,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 4,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
       "title": "Whisper Speech",
@@ -9834,9 +9826,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      ]
     },
     "https://www.designkit.com": {
       "title": "美图设计室",
@@ -10847,9 +10837,7 @@
         "在线编程",
         "agent",
         "工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.anygen.io/home": {
       "title": "AnyGen",
@@ -11042,7 +11030,9 @@
         "agent",
         "cowork",
         "智能体"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
     },
     "https://qoder.com/qoderwork": {
       "title": "QoderWork 桌面应用",
