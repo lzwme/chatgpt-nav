@@ -2169,7 +2169,9 @@
         "AI 语音生成"
       ],
       "title": "Songtell",
-      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。"
+      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。",
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://speechify.com": {
       "type": [
@@ -2263,9 +2265,7 @@
         "AI 数字人"
       ],
       "title": "小冰",
-      "desc": "小冰基于全球领先的完备人工智能小冰框架，推出了数字专家和数字员工等完整产品线。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "小冰基于全球领先的完备人工智能小冰框架，推出了数字专家和数字员工等完整产品线。"
     },
     "https://virbo.wondershare.cn": {
       "type": [
@@ -2429,7 +2429,9 @@
         "AI 绘图"
       ],
       "title": "Visualelectric",
-      "desc": "更适合设计创作的AI绘画工具"
+      "desc": "更适合设计创作的AI绘画工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND visualelectric.com"
     },
     "https://art.aiseo.ai": {
       "type": [
@@ -6870,7 +6872,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.ayoa.com/ultimate/": {
@@ -7437,9 +7439,7 @@
       ],
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 5,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://replika.com": {
       "title": "Replika",
@@ -7699,7 +7699,9 @@
       "type": [
         "AI 语音生成",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
     },
     "https://github.com/lrhh123/ChatGPT-On-CS": {
       "title": "ChatGPT-On-CS",
@@ -8321,7 +8323,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
       "title": "Whisper Speech",
@@ -11026,7 +11030,9 @@
         "agent",
         "cowork",
         "智能体"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
     },
     "https://qoder.com/qoderwork": {
       "title": "QoderWork 桌面应用",
