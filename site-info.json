@@ -1132,7 +1132,7 @@
       "title": "Google AI tudio",
       "desc": "Google 推出的 AI 应用开发平台。在这里可以快速、直观地访问和实验 Google 最先进的生成式 AI 模型（例如 Gemini、Nano Banana 系列），用户能免费体验和测试 Google 最新的 AI 模型，无需任何费用。",
       "intro": "The fastest path from prompt to production with Gemini",
-      "needVPN": true,
+      "needVPN": 1,
       "lang": "en",
       "star": 3
     },
@@ -2376,7 +2376,7 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "needVPN": true,
+      "needVPN": 1,
       "start": 3,
       "title": "DALL·E2",
       "desc": "OpenAI出品的绘画工具"
@@ -2863,7 +2863,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVPN": true,
+      "needVPN": 1,
       "star": 3,
       "title": "Sora",
       "desc": "碾压级更新！颠覆性的文生视频大模型"
@@ -3111,7 +3111,7 @@
       "type": [
         "AI 翻译工具"
       ],
-      "needVPN": true,
+      "needVPN": 1,
       "title": "Google翻译",
       "desc": "Google免费提供上100种语言智能即时翻译工具"
     },
@@ -10857,9 +10857,9 @@
     },
     "https://www.anygen.io/home": {
       "title": "AnyGen",
-      "desc": "AnyGen 是字节全新推出的多功能 AI 协作平台，强调自然语言交互产出可交付的工作成果。",
+      "desc": "AnyGen 是字节面向国际区域全新推出的多功能 AI 协作平台，强调自然语言交互产出可交付的工作成果。",
       "star": 3,
-      "sort": -96,
+      "needVPN": 1,
       "type": [
         "AI 智能体",
         "AI 综合工具"
@@ -10967,7 +10967,7 @@
     },
     "https://openclaw.ai": {
       "title": "OpenClaw 小龙虾",
-      "desc": "2026开年最火的开源 AI 个人助理，适用于任何操作系统的 AI 智能体。通过链接到社交APP发送消息，随时随地获取智能体响应。",
+      "desc": "2026 开年最火的开源 AI 个人助理，适用于任何操作系统的 AI 智能体。通过链接到社交 APP 发送消息，随时随地获取智能体响应。",
       "star": 3,
       "type": [
         "AI 智能体"
@@ -10975,12 +10975,14 @@
       "tags": [
         "agent",
         "cowork",
+        "openclaw",
         "智能体"
-      ]
+      ],
+      "repo": "https://github.com/agents-radar/openclaw"
     },
     "https://picoclaw.io": {
       "title": "PicoCaw",
-      "desc": "PicoClaw 是一个用 Go 语言开发的超轻量级个人 AI 助手，灵感来自 nanobot 项目。它拥有极低的资源占用（内存不到 10MB），支持多架构部署，并集成了多个通讯平台。核心代码 95% 由 AI 代理自动生成，通过人类在环方式持续优化。",
+      "desc": "Sipeed 推出的超轻量级 AI Agent 助手，Go 语言编写，内存占用<10MB，1秒启动，专为低成本硬件和边缘设备设计。",
       "star": 3,
       "type": [
         "AI 智能体"
@@ -10988,12 +10990,30 @@
       "tags": [
         "agent",
         "cowork",
+        "openclaw",
         "智能体"
-      ]
+      ],
+      "repo": "https://github.com/sipeed/picoclaw"
+    },
+    "https://copilot.tencent.com/work/": {
+      "title": "WorkBuddy腾讯版龙虾",
+      "desc": "WorkBuddy 是 AI 原生的桌面智能体工作台，可在手机主流 IM 下指令，AI 自动干活交付",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "repo": "https://github.com/sipeed/picoclaw"
     },
     "https://lobsterai.youdao.com": {
       "title": "LobsterAI 有道龙虾",
-      "desc": "网易有道开源的个人 AI 助理应用。一个7×24小时帮你干活的全场景个人助理 Agent。",
+     "desc": "网易有道出品的极致性能 AI 助手，esbuild 单文件打包架构，启动速度从 180s 优化至 15s，专注桌面端体验。",
+     "repo": "https://github.com/netease-youdao/LobsterAI",
       "star": 3,
       "type": [
         "AI 智能体"
@@ -11001,8 +11021,159 @@
       "tags": [
         "agent",
         "cowork",
+        "openclaw",
         "智能体"
       ]
+    },
+    "https://nanobot.ai": {
+      "title": "NanoBot",
+      "desc": "超轻量级个人 AI 助手，基于 Python 开发，仅需约 4000 行代码实现 OpenClaw 核心功能，99% 更少代码量，闪电般启动速度。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "repo": "https://github.com/HKUDS/nanobot"
+    },
+    "https://zeroclawlabs.ai": {
+      "title": "ZeroClaw",
+      "desc": "基于 Rust 构建的快速、小型、完全自主的 AI 助手基础设施，支持任意部署、任意替换组件，安全优先设计。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "repo": "https://github.com/zeroclaw-labs/zeroclaw"
+    },
+    "https://nanoclaw.dev": {
+      "title": "NanoClaw",
+      "desc": "专注 Token 成本优化的轻量级 AI 助手框架，提供上下文压缩、响应长度控制等系统性优化方案。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "repo": "https://github.com/qwibitai/nanoclaw"
+    },
+    "https://nullclaw.org": {
+      "title": "NullClaw",
+      "desc": "基于 Zig 语言的企业级多 Agent 协作框架，原生支持 A2A 协议，专注钉钉/飞书等企业 IM 深度集成。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "repo": "https://github.com/nullclaw/nullclaw"
+    },
+    "https://ironclaw.com": {
+      "title": "IronClaw",
+      "desc": "面向金融/医疗等强监管行业的 AI 框架，Rust+WASM 沙箱架构，支持程序化工具调用 (PTC) 和企业合规审计。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "repo": "https://github.com/nearai/ironclaw"
+    },
+    "https://github.com/TinyAGI/tinyclaw": {
+      "title": "TinyClaw",
+      "desc": "开发者友好的 CLI 体验优先 AI 助手，支持流式响应默认化、交互式澄清工具，专注工程师和研究者工作流。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "repo": "https://github.com/TinyAGI/tinyclaw"
+    },
+    "https://moltis.org": {
+      "title": "Moltis",
+      "desc": "本地 LLM 优先的隐私安全 AI 框架，Apple Container + Docker 双沙箱设计，支持 Vulkan GGUF 加速离线推理。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "repo": "https://github.com/moltis-org/moltis"
+    },
+    "https://copaw.agentscope.io": {
+      "title": "CoPaw",
+      "desc": "百度 AgentScope 团队出品的低代码智能体构建平台，内置 Tool Guard 安全层，支持多工作区/多智能体架构。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "repo": "https://github.com/agentscope-ai/CoPaw"
+    },
+    "https://zeptoclaw.com": {
+      "title": "ZeptoClaw",
+      "desc": "极致打磨开发者体验的 CLI AI 助手，默认流式响应、交互式澄清工具、深度研究技能，专注代码修复与研究任务。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "repo": "https://github.com/qhkm/zeptoclaw"
+    },
+    "https://easyclaw.com": {
+      "title": "EasyClaw",
+      "desc": "macOS 体验专项优化的个人 AI 助手，专注安装体验与原生界面一致性，适合追求简洁稳定的个人用户。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "repo": "https://github.com/gaoyangz77/easyclaw"
     },
     "https://claude.com/download": {
       "title": "Claude Cowork",

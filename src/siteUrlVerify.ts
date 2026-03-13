@@ -4,7 +4,7 @@ import { logger } from './utils';
 import { getTypes } from './getTypes';
 
 export function siteUrlVerify() {
-  const knownUrlKeyWords = ['apps.apple.com', 'baidu.com', 'qq.com', 'tencent.com', 'aliyun.com'];
+  const knownUrlKeyWords = ['apps.apple.com', 'baidu.com', 'qq.com', 'tencent.com', 'aliyun.com', 'github.com', 'google.com'];
   const needVPNKeywords = ['vercel.app', 'openai.com', 'bing.com'];
   const isGitHubCi = (process.env.GITHUB_CI || process.env.SYNC) != null;
 
@@ -30,8 +30,9 @@ export function siteUrlVerify() {
     });
 
     if (r.code) {
-      // 30x 为正常
-      if (r.redirected || String(r.code).startsWith('30')) r.code = 0;
+      const codestr = String(r.code);
+      // 30x 为正常，忽略 429
+      if (r.redirected || ['30', '429'].some(k => codestr.startsWith(k))) r.code = 0;
 
       // ignore TSL error
       if (r.errmsg.includes('network socket disconnected before secure TLS connection')) {
@@ -75,7 +76,8 @@ export function siteUrlVerify() {
         if (item.needVerify && item.needVerify > 0) delete item.needVerify;
       }
 
-      ['errmsg', 'invalid'].forEach(k => item[k] && delete item[k]);
+      delete item.errmsg;
+      delete item.invalid;
 
       if (!item.title && r.body) {
         const title = r.body.match(/<title>(.*)<\/title>/)?.[1];
