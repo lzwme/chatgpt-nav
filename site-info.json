@@ -1948,9 +1948,7 @@
       ],
       "title": "6pen",
       "icon": "https://www.6pen.pro/logo.svg",
-      "desc": "6pen是一个为大多数人打造的AI绘画创作社区",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "6pen是一个为大多数人打造的AI绘画创作社区"
     },
     "https://playgroundai.com": {
       "type": [
@@ -2150,9 +2148,7 @@
         "AI 图像处理"
       ],
       "title": "Facecheck ID",
-      "desc": "利用人工智能技术通过照片在线查找人员。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "利用人工智能技术通过照片在线查找人员。"
     },
     "https://www.weshop.com": {
       "type": [
@@ -2211,9 +2207,7 @@
         "AI 视频生成"
       ],
       "title": "Mubert",
-      "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。"
     },
     "https://www.notta.ai": {
       "type": [
@@ -3037,9 +3031,7 @@
         "AI 文档办公"
       ],
       "title": "Timely",
-      "desc": "一款AI时间管理工具！可以帮助你更有效地管理时间",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "一款AI时间管理工具！可以帮助你更有效地管理时间"
     },
     "https://www.taskade.com": {
       "type": [
@@ -4183,9 +4175,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      ]
     },
     "https://www.piccopilot.com": {
       "title": "Pic Copilot",
@@ -5011,7 +5001,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://wordvice.ai/cn": {
       "title": "Wordvice AI",
@@ -5105,7 +5097,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://originality.ai": {
@@ -6686,9 +6678,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][402]Payment Required"
+      ]
     },
     "https://numerous.ai": {
       "title": "numerous",
@@ -7699,9 +7689,7 @@
       "type": [
         "AI 语音生成",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      ]
     },
     "https://github.com/lrhh123/ChatGPT-On-CS": {
       "title": "ChatGPT-On-CS",
@@ -8323,9 +8311,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
       "title": "Whisper Speech",
@@ -8584,7 +8570,7 @@
         "AI 翻译工具",
         "AI 语音生成"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][404]Not Found"
     },
     "https://github.com/myshell-ai/OpenVoice": {
@@ -9629,7 +9615,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.ysdaima.com": {
       "title": "颜色代码表",
@@ -10491,9 +10479,7 @@
       "star": 2,
       "desc": "几秒钟内获得干净、专业的图片。轻松移除水印——无需 Photoshop 技能",
       "title": "iPurix - 轻松去除任何水印",
-      "needPay": 1,
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "needPay": 1
     },
     "https://docs.anthropic.com/zh-CN/docs/claude-code/overview": {
       "title": "Claude Code",
