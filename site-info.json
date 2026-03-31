@@ -2539,7 +2539,7 @@
       ],
       "title": "Ordinary Prompts",
       "desc": "有趣ChatGPT提示词",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://catjourney.life": {
@@ -2743,7 +2743,9 @@
         "AI 图像处理"
       ],
       "title": "Daft Art",
-      "desc": "AI专辑封面图片生成器"
+      "desc": "AI专辑封面图片生成器",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://palette.tone-row.com": {
       "type": [
@@ -2943,9 +2945,7 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "免费的在线文本转语音神器"
     },
     "https://zh.rask.ai": {
       "type": [
@@ -2961,7 +2961,7 @@
       ],
       "title": "Ponzu",
       "desc": "AI生成3D无缝贴图纹理",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.sloyd.ai": {
@@ -3052,7 +3052,7 @@
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://otter.ai": {
@@ -3162,7 +3162,7 @@
       ],
       "title": "Qodo",
       "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
@@ -3993,7 +3993,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://remini.ai": {
       "title": "ReminiAI",
@@ -5172,7 +5174,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://undetectable.ai": {
       "title": "Undetectable.ai",
@@ -5467,9 +5471,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://botsmart.net": {
       "title": "博特妙笔",
@@ -5816,9 +5818,7 @@
       "type": [
         "AI 视频生成",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://github.com/williamyang1991/FRESCO": {
       "title": "FRESCO",
@@ -6360,7 +6360,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "http://bigesj.com/ai-ppt/": {
       "title": "比格PPT",
@@ -7160,7 +7162,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.kickresume.com": {
       "title": "Kickresume",
@@ -7309,7 +7313,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://mem.ai": {
       "title": "Mem.ai",
@@ -8653,9 +8659,7 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      ]
     },
     "https://y.qq.com/tme_studio/": {
       "title": "TME Studio",
@@ -8704,7 +8708,9 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://prompttools.readthedocs.io": {
       "title": "PromptTools",
@@ -8735,9 +8741,7 @@
       ],
       "type": [
         "AI 提示词"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
@@ -9613,7 +9617,7 @@
         "AI 写作助手",
         "AI 行业工具"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.ysdaima.com": {
@@ -10504,7 +10508,9 @@
         "IDE",
         "Claude",
         "编程"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ampcode.com": {
       "title": "AmpCode",
@@ -11138,7 +11144,9 @@
         "openclaw",
         "智能体"
       ],
-      "repo": "https://github.com/qhkm/zeptoclaw"
+      "repo": "https://github.com/qhkm/zeptoclaw",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://easyclaw.com": {
       "title": "EasyClaw",
