@@ -1802,9 +1802,7 @@
         "AI 编程开发"
       ],
       "title": "百度飞桨",
-      "desc": "飞桨致力于让深度学习技术的创新与应用更简单。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "飞桨致力于让深度学习技术的创新与应用更简单。"
     },
     "https://iflycode.xfyun.cn": {
       "type": [
@@ -2209,7 +2207,9 @@
         "AI 视频生成"
       ],
       "title": "Mubert",
-      "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。"
+      "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.notta.ai": {
       "type": [
@@ -3047,9 +3047,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://otter.ai": {
       "type": [
@@ -3158,7 +3156,7 @@
       ],
       "title": "Qodo",
       "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][403]Forbidden"
     },
     "https://jam.dev/jamgpt": {
@@ -3529,9 +3527,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.127.214.161:1775334058.217\"></meta></head></html>"
+      ]
     },
     "https://waifulabs.com": {
       "title": "WaifuLabs",
@@ -5812,9 +5808,7 @@
       "type": [
         "AI 视频生成",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://github.com/williamyang1991/FRESCO": {
       "title": "FRESCO",
@@ -6564,7 +6558,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://coda.io/product/ai-alpha": {
@@ -6800,7 +6794,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.canva.cn": {
       "title": "Canva 可画",
@@ -7700,9 +7696,7 @@
       "type": [
         "AI 语音生成",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      ]
     },
     "https://github.com/lrhh123/ChatGPT-On-CS": {
       "title": "ChatGPT-On-CS",
@@ -8325,7 +8319,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][403]Forbidden"
     },
     "https://replicate.com/lucataco/whisperspeech-small": {
@@ -8900,7 +8894,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.framer.com/ai": {
@@ -9323,7 +9317,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][410]Gone"
     },
     "https://www.elmo.chat": {
@@ -11200,9 +11194,7 @@
         "agent",
         "cowork",
         "智能体"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      ]
     },
     "https://qoder.com/qoderwork": {
       "title": "QoderWork 桌面应用",
