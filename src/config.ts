@@ -118,10 +118,13 @@ export function initConfig(argv: Record<string, unknown>) {
 }
 
 export function saveConfig() {
+  const siteInfo: typeof config.siteInfo = {};
+  Object.keys(config.siteInfo).sort().forEach(url => siteInfo[url] = config.siteInfo[url]);
+  
   const info = {
     repoBlockList: [...config.repoBlockMap].filter(d => !config.siteInfo[d[1]]?.hide).map(d => d[0]),
     categoryInfo: config.categoryInfo,
-    siteInfo: config.siteInfo,
+    siteInfo,
   };
   writeFileSync(config.siteInfoFile, JSON.stringify(info, null, 2), 'utf8');
 }

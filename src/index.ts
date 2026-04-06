@@ -16,7 +16,7 @@ function formatSiteList() {
   const list = Object.entries(config.siteInfo)
     .filter(([_url, info]) => {
       Object.entries(info).forEach(([key, value]) => {
-        if (value === 0 || value === false) delete info[key];
+        if (value === 0 || value === false) delete info[key as keyof typeof info];
       });
       return !info.hide;
     })
@@ -85,10 +85,8 @@ export async function start() {
 
   const total = await updateReadme();
 
-  if (!argv.onlyUpdate) {
-    saveConfig();
-    if (config.ci || argv.ci || argv.commit) gitCommit();
-  }
+  saveConfig();
+  if (config.ci || argv.ci || argv.commit) gitCommit();
 
   return total;
 }
