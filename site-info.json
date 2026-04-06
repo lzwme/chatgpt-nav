@@ -288,21 +288,6 @@
       "lang": "zh",
       "needVerify": -1
     },
-    "https://www.bigmodel.cn/invite?icode=TY4kHajmj2PV8KLUkl97jP2gad6AKpjZefIo3dVEQyA%3D": {
-      "title": "智普AI大模型开放平台",
-      "desc": "几行代码接入大模型，极速构建变革性AI体验。新用户送2000万Tokens，邀请好友再送2000万Tokens。",
-      "star": 3,
-      "sort": -96,
-      "type": [
-        "AI 综合工具"
-      ],
-      "tags": [
-        "AI开放平台",
-        "deepseek",
-        "API"
-      ],
-      "lang": "zh"
-    },
     "https://yourapi.cn": {
       "title": "YOURAPI",
       "desc": "基于new-api的OpenAI接口聚合服务，价格便宜，支持调用 Claude4 等顶级模型API调用！",
@@ -379,14 +364,12 @@
         "AI 聊天对话",
         "AI 综合工具"
       ],
-      "star": 3,
-      "desc": "提供每日 2000 次免费大模型 API 调用额度！用AI重塑研发范式，让每一位开发者体验沉浸、高效的创作流程。",
+      "star": 1,
+      "desc": "已下线！提供每日 2000 次免费大模型 API 调用额度！用AI重塑研发范式，让每一位开发者体验沉浸、高效的创作流程。",
       "title": "心流AI开放平台",
       "tags": [
         "云服务",
-        "API",
-        "FREEAPI",
-        "大厂合集"
+        "API"
       ],
       "needVerify": -1
     },
@@ -3156,8 +3139,7 @@
       ],
       "title": "Qodo",
       "desc": "面向多语言和多IDE的AI智能编程助手平台，支持代码编写、测试、审查与质量提升。",
-      "needVerify": 4,
-      "errmsg": "[error][403]Forbidden"
+      "needVerify": -1
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3883,10 +3865,7 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][567]Unknown Status",
-      "hide": 1
+      ]
     },
     "https://undermind.ai": {
       "title": "Undermind.ai",
@@ -10195,8 +10174,8 @@
     "https://aicnn.cn/loginPage?aff=4MvsDBGxfZ": {
       "title": "AICNN",
       "desc": "提供稳定的GPT超级大模型服务，包括AI绘画、AI语音生成和人工智能对话，支持文本解析、文件解析和OCR",
-      "star": 3,
-      "sort": -87,
+      "star": 1,
+      "sort": 0,
       "type": [
         "AI 综合工具",
         "AI 聊天对话"
@@ -10337,12 +10316,17 @@
     "https://chat.qwen.ai": {
       "title": "Qwen Chat",
       "desc": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+      "star": 3,
+      "sort": -90,
+      "needVerify": -1,
       "tags": [
         "AI 综合工具",
+        "国产大模型",
         "agent"
       ],
       "type": [
         "AI 视频生成",
+        "AI 聊天对话",
         "AI 智能体"
       ]
     },
@@ -10768,10 +10752,12 @@
       "desc": "MiniMax 模型体系涵盖文本、语音、视频、图像与音乐五大方向。旗舰模型性能领先，助力开发者高效构建智能应用。无免费额度，提供了多种类型的开发者计划订阅套餐。",
       "star": 3,
       "type": [
+        "国产大模型",
         "AI 综合工具"
       ],
       "tags": [
         "AI开放平台",
+        "coding-plan",
         "API"
       ]
     },
@@ -10780,6 +10766,7 @@
       "desc": "小米Mimo大模型开放平台。当前为公测阶段，提供免费无限制的模型调用服务。",
       "star": 3,
       "type": [
+        "国产大模型",
         "AI 综合工具"
       ],
       "tags": [
@@ -10790,15 +10777,92 @@
     "https://openrouter.ai": {
       "title": "OpenRouter",
       "desc": "全球最大的AI模型聚合平台，核心功能包括多模型聚合、统一API调用、性能基准测试和智能路由优化，支持按需付费与部分模型免费试用模式。其提供了许多免费模型供测试调用，具体为：未充值过的用户每日可调用50次，历史上充值超过10美元的用户每日可免费调用1000次。",
-      "star": 2,
+      "star": 3,
+      "needVerify": -1,
+      "type": ["AI 综合工具"],
+      "tags": ["AI开放平台", "deepseek", "API", "FREEAPI"]
+    },
+    "https://bailian.console.aliyun.com": {
+      "title": "阿里云百炼大模型服务平台",
+      "desc": "新用户送100万免费额度！提供 qwen3.6-plus 最新模型 API！阿里云一站式大模型开发与应用平台，集成通义千问及主流第三方模型，提供兼容OpenAI的API及全链路模型服务，支持智能体、工作流、知识库等应用构建，具备代码生成与理解能力。",
+      "star": 3,
+      "needVerify": -1,
       "type": [
         "AI 综合工具"
       ],
       "tags": [
-        "AI开放平台",
-        "deepseek",
+        "API开放平台",
+        "coding-plan",
+        "FREEAPI",
+        "API"
+      ]
+    },
+    "https://longcat.chat": {
+      "title": "美团LongCat API开放平台",
+      "desc": "公测期间提供最大每日5500万免费调用额度！美团自研 LongCat 系列大模型API服务平台，基于MoE架构，兼容OpenAI和Anthropic API格式。支持深度思考、联网搜索、图像生成等能力。",
+      "star": 3,
+      "type": [
+        "AI 综合工具",
+        "国产大模型",
+        "AI 聊天对话"
+      ],
+      "tags": [
+        "API开放平台",
+        "FREEAPI",
+        "API"
+      ]
+    },
+    "https://cloud.baidu.com/doc/qianfan/index.html": {
+      "title": "百度千帆大模型服务及Agent开发平台",
+      "desc": "百度智能云以Agent为核心的一站式大模型服务平台，提供文心一言等模型服务及应用开发能力。支持Coding Plan AI编码订阅服务，兼容主流编程工具，覆盖代码编写、理解与优化等场景。",
+      "star": 3,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "API开放平台",
+        "coding-plan",
+        "API"
+      ]
+    },
+    "https://cloud.tencent.com/product/tclm": {
+      "title": "腾讯混元大模型开放平台",
+      "desc": "新用户专享100万Tokens免费额度，一年有效！腾讯全链路自研的通用与多模态大模型家族，覆盖文本、图像、视频、3D等模态。支持混元生文、生图、生视频、生3D等多种能力，具备代码生成辅助功能。",
+      "star": 3,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "API开放平台",
         "API",
         "FREEAPI"
+      ]
+    },
+    "https://www.volcengine.com/product/doubao": {
+      "title": "火山引擎豆包大模型平台",
+      "desc": "字节跳动自研大模型服务平台，提供文本、视觉、语音、视频等多模态能力。发布豆包编程模型（Doubao-Seed-Code），专为Agentic编程任务优化，支持视觉理解生成代码，定价低于行业平均水平。",
+      "star": 3,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "API开放平台",
+        "coding-plan",
+        "API"
+      ]
+    },
+    "https://www.bigmodel.cn/invite?icode=TY4kHajmj2PV8KLUkl97jP2gad6AKpjZefIo3dVEQyA%3D": {
+      "title": "智普AI大模型开放平台",
+      "desc": "智谱华章推出的大模型开放平台，提供GLM系列模型API服务。推出GLM Coding Plan专属订阅套餐，支持Claude Code等20+主流编程工具，专注代码生成、调试、文档补全及智能体开发场景。",
+      "star": 3,
+      "sort": -80,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "API开放平台",
+        "coding-plan",
+        "API"
       ]
     },
     "https://build.nvidia.com": {
@@ -10919,8 +10983,9 @@
     },
     "https://ying.baichuan-ai.com/chat": {
       "title": "百小应",
-      "desc": "在线体验国产医药大模型。查指南、找文献、搜药品，每一条医学建议都有据可依！",
+      "desc": "在线体验国产医药大模型。查指南、找文献、搜药品，每一条医学医疗建议都有据可依！",
       "star": 3,
+      "sort": -80,
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
