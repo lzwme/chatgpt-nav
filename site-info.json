@@ -447,7 +447,9 @@
       "lang": "zh",
       "icon": "https://ai.meitu.com/favicon.png",
       "title": "美图AI开放平台",
-      "desc": "美图推出的AI人脸图像处理平台"
+      "desc": "美图推出的AI人脸图像处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
     },
     "https://ai.nero.com/enhance": {
       "title": "Nero AI Image Upscaler",
@@ -1022,7 +1024,9 @@
         "AI 写作助手"
       ],
       "title": "Bearly",
-      "desc": "英文阅读写作效率提高10倍"
+      "desc": "英文阅读写作效率提高10倍",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://beta.character.ai": {
       "type": [
@@ -1599,7 +1603,7 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatexcel.com": {
@@ -2093,7 +2097,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://cp.baidu.com": {
       "title": "橙篇",
@@ -2174,7 +2180,9 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -2880,7 +2888,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][410]Gone"
     },
     "https://getluminal.com": {
@@ -2897,9 +2905,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://gezhe.com": {
       "title": "歌者PPT",
@@ -3898,7 +3904,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
     },
     "https://kastro.chat": {
       "title": "Kastro",
@@ -4585,7 +4593,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][405]Not Allowed"
     },
     "https://mokker.ai": {
       "title": "Mokker AI",
@@ -5937,7 +5947,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://rows.com": {
       "title": "Rows",
@@ -7188,7 +7200,9 @@
       "type": [
         "AI 语音生成",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
     },
     "https://www.aiionly.com/login/2536924186": {
       "title": "唯一AI",
@@ -8032,9 +8046,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.feishu.cn/product/ai_companion": {
       "title": "飞书智能伙伴",
@@ -9137,7 +9149,9 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词"
+      "desc": "有趣ChatGPT提示词",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.overleaf.com": {
       "title": "Overleaf",
@@ -9874,7 +9888,7 @@
       "type": [
         "AI 编程开发"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][403]Forbidden"
     },
     "https://www.tanka.ai": {
@@ -10195,7 +10209,9 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
