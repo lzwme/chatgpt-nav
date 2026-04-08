@@ -1599,8 +1599,9 @@
         "AI 文档办公",
         "AI 聊天对话"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]connect ECONNREFUSED 65.109.84.182:443"
+      "needVerify": 7,
+      "errmsg": "[error][-1]connect ECONNREFUSED 65.109.84.182:443",
+      "hide": 1
     },
     "https://chatexcel.com": {
       "title": "酷表ChatExcel",
@@ -2094,7 +2095,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://cp.baidu.com": {
@@ -2619,9 +2620,7 @@
       "desc": "多语言AI搜索引擎，为发现和理解世界知识而优化。利用ChatGPT和AI引擎的强大功能，轻松打破语言障碍，获取全球信息",
       "type": [
         "AI 搜索引擎"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://filmora.wondershare.com": {
       "type": [
@@ -5211,7 +5210,9 @@
         "AI 语音生成"
       ],
       "title": "讯飞智作",
-      "desc": "讯飞智作是一站式配音平台，可以提供AI文字转语音、语音合成、智能配音、AI虚拟主播等工具。"
+      "desc": "讯飞智作是一站式配音平台，可以提供AI文字转语音、语音合成、智能配音、AI虚拟主播等工具。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://photo.baidu.com/photasy/home": {
       "title": "超能画布",
@@ -5940,9 +5941,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://rows.com": {
       "title": "Rows",
@@ -6385,7 +6384,9 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -7049,9 +7050,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -9307,9 +9306,7 @@
         "AI 图像处理"
       ],
       "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI生成3D无缝贴图纹理"
     },
     "https://www.powerfulai.tools": {
       "title": "Powerfulai",
@@ -9730,7 +9727,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.squibler.io": {
       "title": "Squibler",
