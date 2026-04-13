@@ -462,7 +462,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai.wps.cn": {
       "type": [
@@ -4301,7 +4303,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][404]Not Found"
     },
     "https://looka.com": {
@@ -6385,7 +6387,9 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -7273,7 +7277,9 @@
       ],
       "type": [
         "AI 提示词"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://www.aiva.ai": {
       "title": "Aiva",
@@ -10086,7 +10092,9 @@
         "AI 图像处理"
       ],
       "title": "Visily",
-      "desc": "实用！AI轻松将手绘线框转换为高保真度"
+      "desc": "实用！AI轻松将手绘线框转换为高保真度",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.voicefy.com.br": {
       "title": "Voicefy",
@@ -10374,7 +10382,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.yinziai.com": {
       "title": "音子 AI",
