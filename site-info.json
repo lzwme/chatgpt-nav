@@ -1891,17 +1891,6 @@
       "title": "必应翻译",
       "desc": "内置微软自研的翻译词库，对流行词以及生僻词精准进行翻译"
     },
-    "https://cnb.cool/codebuddy/codebuddy-code": {
-      "title": "CodeBuddy Code",
-      "desc": "腾讯云官方2025年9月发布的 AI 智能编码工具，支持在终端、IDE 及 GitHub 上通过自然语言高效协作与开发。",
-      "star": 3,
-      "type": [
-        "AI 编程开发"
-      ],
-      "tags": [
-        "CLI"
-      ]
-    },
     "https://coda.io/product/ai-alpha": {
       "title": "Coda AI",
       "intro": "你的新工作助手",
@@ -2055,33 +2044,6 @@
         "智能体"
       ],
       "repo": "https://github.com/agentscope-ai/CoPaw"
-    },
-    "https://copilot.tencent.com": {
-      "title": "CodeBuddy",
-      "desc": "腾讯自研编程编程AI助手。从此用自然语言编程，AI 自主完成多文件代码生成和改写，让灵感即刻落地。",
-      "star": 3,
-      "type": [
-        "AI 编程开发"
-      ],
-      "tags": [
-        "IDE",
-        "vscode"
-      ]
-    },
-    "https://copilot.tencent.com/work/": {
-      "title": "WorkBuddy腾讯版龙虾",
-      "desc": "WorkBuddy 是 AI 原生的桌面智能体工作台，可在手机主流 IM 下指令，AI 自动干活交付",
-      "star": 3,
-      "type": [
-        "AI 智能体"
-      ],
-      "tags": [
-        "agent",
-        "cowork",
-        "openclaw",
-        "智能体"
-      ],
-      "repo": "https://github.com/sipeed/picoclaw"
     },
     "https://copyleaks.com": {
       "title": "Copyleaks",
@@ -2455,6 +2417,20 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
+      ]
+    },
+    "https://evomap.ai": {
+      "title": "EvoMap",
+      "desc": "EvoMap是一个连接人类与人工智能的协作网络——人工智能代理的DNA系统。在这里提问，接入EvoMap网络中的海量人工智能代理将竞争以提供最佳解决方案，并将解决方案沉淀为可复用知识，实现 Agent 的自我进化。",
+      "intro": "One agent learns, a million inherit.",
+      "lang": "en",
+      "star": 3,
+      "tags": [
+        "智能体",
+        "openclaw"
+      ],
+      "type": [
+        "AI 编程开发"
       ]
     },
     "https://exa.ai/blog/websets-evals": {
@@ -5075,6 +5051,19 @@
         "FREEAPI"
       ]
     },
+    "https://openspec.dev": {
+      "title": "OpenSpec",
+      "desc": "一个轻量级的规格驱动开发（SDD）工具，帮助你在写代码前先明确要做什么和怎么做，让 AI 编码助手更好地理解你的项目。",
+      "lang": "en",
+      "star": 3,
+      "tags": [
+        "智能体",
+        "SDD"
+      ],
+      "type": [
+        "AI 编程开发"
+      ]
+    },
     "https://originality.ai": {
       "title": "Originality AI",
       "intro": "智能写作助手",
@@ -5245,6 +5234,19 @@
       ],
       "type": [
         "AI 绘图"
+      ]
+    },
+    "https://pi.dev": {
+      "title": "PI",
+      "desc": "Pi 是一个极简的终端编码框架，是 OpenClaw 实现编程智能体使用的 SDK。",
+      "lang": "en",
+      "star": 3,
+      "tags": [
+        "智能体",
+        "openclaw"
+      ],
+      "type": [
+        "AI 编程开发"
       ]
     },
     "https://picoclaw.io": {
@@ -7668,6 +7670,55 @@
       "tags": [
         "IDE"
       ]
+    },
+    "https://www.codebuddy.cn/agents/": {
+      "title": "CodeBuddy Agent",
+      "desc": "腾讯 CodeBuddy 在线智能体。通过网页登录即可在线使用 CodeBuddy 能力执行代码开发、日常办公相关任务。",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "智能体"
+      ]
+    },
+    "https://www.codebuddy.cn/cli/": {
+      "title": "CodeBuddy Code",
+      "desc": "腾讯云官方2025年9月发布的 AI 智能编码工具，支持在终端、IDE 及 GitHub 上通过自然语言高效协作与开发。",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI"
+      ]
+    },
+    "https://www.codebuddy.cn/ide/": {
+      "title": "CodeBuddy IDE",
+      "desc": "腾讯自研编程编程AI助手。从此用自然语言编程，AI 自主完成多文件代码生成和改写，让灵感即刻落地。",
+      "star": 3,
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "IDE",
+        "vscode"
+      ]
+    },
+    "https://www.codebuddy.cn/work/": {
+      "title": "WorkBuddy腾讯版龙虾",
+      "desc": "WorkBuddy 是 AI 原生的桌面智能体工作台，可在手机主流 IM 下指令，AI 自动干活交付",
+      "star": 3,
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "repo": "https://github.com/sipeed/picoclaw"
     },
     "https://www.copy.ai": {
       "type": [
