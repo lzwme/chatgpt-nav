@@ -2026,9 +2026,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:135.232.224.82:1776285548.462\"></meta></head></html>"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -4265,23 +4263,6 @@
         "API"
       ]
     },
-    "https://longshot.ai": {
-      "title": "LongShot AI",
-      "intro": "使用可靠数据源和全面事实核实的生成性人工智能，为您的机构或企业创建准确和可靠的内容。",
-      "desc": "LongShot AI 是一款旨在满足您内容需求的高效可靠的生成性人工智能工具。利用可靠的数据源和全面的事实核实，我们的人工智能驱动平台为您提供最准确可靠的信息，确保您的内容毫无疑虑。不再担心数据的可靠性和过时的信息，LongShot AI 不断更新知识库，确保您的内容始终相关和最新。我们的先进算法对事实进行仔细的交叉核实，消除了任何错误的可能性。LongShot AI 简化了事实核实的过程，为您节省宝贵的时间，让您专注于业务的其他方面。LongShot AI 提供灵活、定制的解决方案，以满足您机构或企业的独特需求。",
-      "lang": "en",
-      "tags": [
-        "生成性人工智能",
-        "内容创作",
-        "事实核实",
-        "写作"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://looka.com": {
       "title": "Looka",
       "desc": "AI辅助logo和品牌设计",
@@ -5946,7 +5927,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://rows.com": {
       "title": "Rows",
@@ -6389,9 +6372,7 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][567]Unknown Status"
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -6474,9 +6455,7 @@
         "AI 网站生成"
       ],
       "title": "Tilda",
-      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "Tilda能快速创建一个令人印象深刻的网站，特别适用于商业和媒体领域。"
     },
     "https://timelyapp.com": {
       "type": [
@@ -7079,9 +7058,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      ]
     },
     "https://www.6pen.pro": {
       "type": [
@@ -8057,7 +8034,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.erase.bg": {
@@ -9620,7 +9597,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.rezi.ai/ai-resume-builder": {
       "title": "Rezi",
@@ -9676,7 +9655,9 @@
       "desc": "国内团队开发的图片模型分享社区。",
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.semrush.com": {
       "title": "Semrush",
@@ -10547,9 +10528,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      ]
     },
     "https://x.ai": {
       "title": "Grok 3",
