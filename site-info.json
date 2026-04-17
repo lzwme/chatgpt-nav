@@ -302,7 +302,9 @@
       "sort": -84,
       "needLogin": 1,
       "desc": "中科院自动化所和武汉人工智能研究院联合推出的新一代大模型，从三模态走向全模态，支持多轮问答、文本创作、图像生成、3D理解、信号分析等全面问答任务，拥有更强的认知、理解、创作能力，带来全新互动体验。",
-      "title": "紫东太初"
+      "title": "紫东太初",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai-nav.lzw.me": {
       "type": [
@@ -5928,7 +5930,7 @@
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://rows.com": {
@@ -8034,7 +8036,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.erase.bg": {
@@ -9597,9 +9599,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.rezi.ai/ai-resume-builder": {
       "title": "Rezi",
@@ -9655,9 +9655,7 @@
       "desc": "国内团队开发的图片模型分享社区。",
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.semrush.com": {
       "title": "Semrush",
