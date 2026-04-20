@@ -303,7 +303,7 @@
       "needLogin": 1,
       "desc": "中科院自动化所和武汉人工智能研究院联合推出的新一代大模型，从三模态走向全模态，支持多轮问答、文本创作、图像生成、3D理解、信号分析等全面问答任务，拥有更强的认知、理解、创作能力，带来全新互动体验。",
       "title": "紫东太初",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://ai-nav.lzw.me": {
@@ -2028,7 +2028,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -3270,9 +3272,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://hailuoai.com": {
       "title": "海螺AI",
@@ -5931,9 +5931,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://rows.com": {
       "title": "Rows",
@@ -6189,7 +6187,7 @@
       ],
       "title": "SlidesGo",
       "desc": "Slidesgo最新推出了AI演示制作工具，它能在几次点击之内，为你制作出符合你需求的精美幻灯片。而且，它完全免费！",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][403]Forbidden"
     },
     "https://smartread.cc": {
@@ -8023,25 +8021,6 @@
       "type": [
         "AI 文档办公"
       ]
-    },
-    "https://www.elmo.chat": {
-      "title": "Elmo",
-      "intro": "Elmo是一款Chrome扩展，用于创建摘要、洞见和扩展知识",
-      "desc": "Elmo是一款AI网络副驾驶，作为Chrome扩展程序，能够将网页内容即时压缩成简洁的摘要，提供具体问题的答案，从网页中获取相关信息，并与PDF和YouTube视频进行互动，以增强用户的生产力和理解。",
-      "lang": "en",
-      "tags": [
-        "AI副驾驶",
-        "Chrome扩展",
-        "内容摘要",
-        "信息检索",
-        "优质新品",
-        "插件"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
