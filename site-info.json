@@ -451,9 +451,7 @@
       "lang": "zh",
       "icon": "https://ai.meitu.com/favicon.png",
       "title": "美图AI开放平台",
-      "desc": "美图推出的AI人脸图像处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "美图推出的AI人脸图像处理平台"
     },
     "https://ai.nero.com/enhance": {
       "title": "Nero AI Image Upscaler",
@@ -1962,16 +1960,14 @@
     },
     "https://codegeex.cn": {
       "title": "CodeGeeX",
-      "desc": "CodeGeeX是一个基于AI大模型的编程辅助工具，可以实现自动代码生成、代码翻译、自动编写注释等功能，支持20多种编程语言。",
+      "desc": "CodeGeeX是智谱推出的一个基于AI大模型的编程辅助工具，可以实现自动代码生成、代码翻译、自动编写注释等功能，支持20多种编程语言。",
       "tags": [
         "IDE",
         "vscode"
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      ]
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -2148,9 +2144,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -2935,6 +2929,19 @@
         "AI 绘图"
       ]
     },
+    "https://github.com/LostRuins/koboldcpp": {
+      "title": "koboldCpp",
+      "desc": "KoboldCPP 是一款快速、轻量且安全的 AI 软件，支持在本地、离线和私密地运行运行大型语言模型（LLM）。它基于llama.cpp项目，尤其在AI文本生成和角色扮演方面非常受欢迎。",
+      "star": 3,
+      "tags": [
+        "本地部署",
+        "私有化"
+      ],
+      "type": [
+        "AI 综合工具",
+        "AI 开源工具"
+      ]
+    },
     "https://github.com/Picsart-AI-Research/StreamingT2V": {
       "title": "StreamingT2V",
       "intro": "StreamingT2V: 一致、动态、可扩展的长视频文本生成",
@@ -3042,6 +3049,20 @@
         "IDE"
       ]
     },
+    "https://github.com/ggml-org/llama.cpp": {
+      "title": "llama.cpp",
+      "intro": "LLM inference in C/C++",
+      "desc": "llama.cpp 是一个用 C/C++ 编写的大语言模型推理框架，目标是在消费级硬件上高效运行 LLM。它支持 macOS、Linux、Windows 以及各种 GPU 加速后端，是目前最流行的本地 AI 推理工具。",
+      "star": 3,
+      "tags": [
+        "本地部署",
+        "私有化"
+      ],
+      "type": [
+        "AI 综合工具",
+        "AI 开源工具"
+      ]
+    },
     "https://github.com/levihsu/OOTDiffusion": {
       "title": "OOTDiffusion",
       "intro": "OOTDiffusion是一个高度可控的虚拟服装试穿开源工具",
@@ -3089,6 +3110,19 @@
       ],
       "type": [
         "AI 聊天对话"
+      ]
+    },
+    "https://github.com/mostlygeek/llama-swap": {
+      "title": "Llama-Swap",
+      "desc": "llama-swap是一个用于本地多模型管理的开源工具，本质上是一个轻量级的透明代理服务器，用于为 llama.cpp 的服务器实现自动模型切换。 它用 Go 语言编写，易于安装。支持按需加载、热插拔和超时卸载模型。",
+      "star": 3,
+      "tags": [
+        "本地部署",
+        "私有化"
+      ],
+      "type": [
+        "AI 综合工具",
+        "AI 开源工具"
       ]
     },
     "https://github.com/myshell-ai/OpenVoice": {
@@ -3407,16 +3441,11 @@
     },
     "https://huggingface.co": {
       "title": "Hugging Face",
-      "desc": "下载开源的SD模型",
+      "desc": "美国最大的人工智能开源社区与模型托管平台。当前NLP及多模态AI领域最活跃的开源平台之一，集成了模型库、数据集、推理部署工具等全套生态，支持从快速实验到企业级落地。",
+      "star": 3,
       "type": [
         "AI 综合工具",
-        "AI 开源工具",
-        "AI 聊天对话",
-        "AI 编程开发",
-        "AI 视频生成",
-        "AI 语音生成",
-        "AI 绘图",
-        "AI 写作助手"
+        "AI 开源工具"
       ],
       "needVPN": 1
     },
@@ -3887,9 +3916,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      ]
     },
     "https://kastro.chat": {
       "title": "Kastro",
@@ -4149,6 +4176,20 @@
       "type": [
         "AI 综合工具",
         "AI 聊天对话"
+      ]
+    },
+    "https://lmstudio.ai": {
+      "title": "LM Studio",
+      "intro": "Run AI models, locally and privately.",
+      "desc": "LM Studio 是一个本地大语言模型 (LLM) 应用平台，开源、傻瓜、一站式部署本地大模型。帮助你在个人电脑上私密运行如gpt-oss、Llama、Gemma、Qwen和DeepSeek等本地AI模型。",
+      "star": 3,
+      "tags": [
+        "本地部署",
+        "私有化"
+      ],
+      "type": [
+        "AI 综合工具",
+        "AI 开源工具"
       ]
     },
     "https://lobsterai.youdao.com": {
@@ -4539,6 +4580,20 @@
         "AI 聊天对话"
       ]
     },
+    "https://mlx.studio": {
+      "title": "MLX Studio",
+      "intro": "下载 MLX Studio，60 秒内在 Mac 上运行 AI。",
+      "desc": "MLX Studio 是一款免费的 macOS AI 聊天和智能编程应用。精美流式 UI、20 多种 MCP 工具、语音聊天、视觉、推理模块 — 全部在 Apple Silicon 上本地运行。",
+      "star": 3,
+      "tags": [
+        "本地部署",
+        "私有化"
+      ],
+      "type": [
+        "AI 综合工具",
+        "AI 开源工具"
+      ]
+    },
     "https://modao.cc/brand": {
       "type": [
         "AI 思维导图",
@@ -4632,6 +4687,18 @@
       ],
       "type": [
         "AI 提示词"
+      ]
+    },
+    "https://msty.ai": {
+      "title": "Msty Studio",
+      "desc": "Msty Studio 是一个以隐私为先的先进 AI 平台，旨在赋能从个人用户到企业团队构建并执行复杂的 AI 工作流，同时提供无与伦比的数据安全保障。 它通过统一接入数百个本地与在线模型，并直接集成于流畅的网页或原生桌面界面，有效满足了高性能与绝对数据主权的双重关键需求。",
+      "star": 2,
+      "tags": [
+        "本地部署",
+        "私有化"
+      ],
+      "type": [
+        "AI 综合工具"
       ]
     },
     "https://mubert.com": {
@@ -4871,6 +4938,33 @@
       ],
       "type": [
         "AI 图像处理"
+      ]
+    },
+    "https://ollama.ai": {
+      "title": "Ollama",
+      "desc": "Ollama 是一个开源的大型语言模型（LLM）平台，旨在让用户能够轻松地在本地运行、管理和与大型语言模型进行交互。",
+      "star": 3,
+      "tags": [
+        "本地部署",
+        "私有化"
+      ],
+      "type": [
+        "AI 综合工具",
+        "AI 开源工具"
+      ]
+    },
+    "https://omlx.ai": {
+      "title": "oMLX",
+      "intro": "Local AI, no more waiting on your Mac.",
+      "desc": "macOS原生MLX服务器，支持智能缓存。Claude Code、OpenClaw 和 Cursor 的响应时间是 5 秒，而不是 90 秒。",
+      "star": 3,
+      "tags": [
+        "本地部署",
+        "私有化"
+      ],
+      "type": [
+        "AI 综合工具",
+        "AI 开源工具"
       ]
     },
     "https://openai.com/index/early-access-for-safety-testing/": {
@@ -6689,6 +6783,17 @@
         "AI 写作助手"
       ]
     },
+    "https://unsloth.ai": {
+      "title": "unsloth",
+      "desc": "Unsloth 是一个用于运行和训练模型的开源框架，专为大语言模型（LLM）微调和强化学习（RL）设计。Unsloth 是目前在开源大语言模型（LLM）微调领域极具人气、且被广泛应用的高效训练框架。它以“极致的训练速度”和“极低的显存占用”闻名，能够让开发者在普通的消费级显卡甚至免费的 Google Colab 上轻松微调强大的开源大模型。",
+      "tags": [
+        "本地部署",
+        "私有化"
+      ],
+      "type": [
+        "AI 综合工具"
+      ]
+    },
     "https://v0.dev": {
       "type": [
         "AI 网站生成"
@@ -6720,6 +6825,20 @@
       ],
       "title": "Vizard AI",
       "desc": "一款 AI 驱动的视频生成和编辑器，可将一段长视频瞬间转换成10多个剪辑。AI 驱动的在线视频编辑器和屏幕录像机，让您能够创建病毒式视频剪辑。自动字幕生成器。"
+    },
+    "https://vllm.ai": {
+      "title": "vLLM",
+      "intro": "Easy, fast, and cost-efficient LLM serving for everyone.",
+      "desc": "vLLM 是一个快速且易于使用的 LLM 推理和服务库。vLLM 最初由加州大学伯克利分校 Sky Computing Lab 开发，现已成长为最活跃的开源 AI 项目之一，由来自数十个学术机构和公司的 2000 多名贡献者组成的多元化社区共同构建和维护。",
+      "star": 3,
+      "tags": [
+        "本地部署",
+        "私有化"
+      ],
+      "type": [
+        "AI 综合工具",
+        "AI 开源工具"
+      ]
     },
     "https://vocalremover.org": {
       "title": "Vocal Remover",
@@ -7177,26 +7296,6 @@
       "title": "AI Chatting",
       "desc": "创建虚拟角色，并与其进行开放式对话。",
       "needVPN": 1
-    },
-    "https://www.aifuwus.com/solution/index?link=stentor/icservice": {
-      "title": "讯飞A.I.智能客服解决方案",
-      "intro": "基于科大讯飞语音技术，实现智能客服的多渠道解决方案。",
-      "desc": "A.I.智能客服解决方案是科大讯飞基于其先进的语音技术，为企业提供的一套完整的客户服务系统。该系统通过电话、Web、APP、小程序、自助终端等多种渠道，实现智能外呼、智能接听、语音导航、在线文字客服、质检分析、坐席辅助等功能。它通过高识别率的语音识别引擎、自然流畅的语音合成技术、智能打断能力、IVR导航以及客服平台中间件等技术，帮助企业提高客服效率，降低人力成本，同时提升客户服务体验。",
-      "lang": "zh",
-      "tags": [
-        "智能客服",
-        "语音识别",
-        "语音合成",
-        "客户服务",
-        "自动化",
-        "商业"
-      ],
-      "type": [
-        "AI 语音生成",
-        "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
     },
     "https://www.aiionly.com/login/2536924186": {
       "title": "唯一AI",
@@ -8577,6 +8676,19 @@
       ],
       "title": "Ixigo",
       "desc": "【旅游】GPT旅行，在几秒钟内计划您的梦想旅行！"
+    },
+    "https://www.jan.ai": {
+      "title": "Jan",
+      "desc": "Jan 是一个开源的 ChatGPT 替代品，可以 100% 离线运行在你的电脑上。下载并运行大型语言模型，拥有完全的控制权和隐私。",
+      "star": 3,
+      "tags": [
+        "本地部署",
+        "私有化"
+      ],
+      "type": [
+        "AI 综合工具",
+        "AI 开源工具"
+      ]
     },
     "https://www.jasper.ai": {
       "type": [
@@ -10236,9 +10348,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
