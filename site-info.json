@@ -303,8 +303,9 @@
       "needLogin": 1,
       "desc": "中科院自动化所和武汉人工智能研究院联合推出的新一代大模型，从三模态走向全模态，支持多轮问答、文本创作、图像生成、3D理解、信号分析等全面问答任务，拥有更强的认知、理解、创作能力，带来全新互动体验。",
       "title": "紫东太初",
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://ai-nav.lzw.me": {
       "type": [
@@ -3948,7 +3949,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://keyue.cloud.baidu.com": {
       "title": "百度智能云客悦",
@@ -4964,7 +4967,7 @@
         "AI 综合工具",
         "AI 开源工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][403]Forbidden"
     },
     "https://openai.com/index/early-access-for-safety-testing/": {
@@ -6033,9 +6036,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 2,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://rows.com": {
       "title": "Rows",
@@ -6290,9 +6291,7 @@
         "AI 文档办公"
       ],
       "title": "SlidesGo",
-      "desc": "Slidesgo最新推出了AI演示制作工具，它能在几次点击之内，为你制作出符合你需求的精美幻灯片。而且，它完全免费！",
-      "needVerify": 5,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "Slidesgo最新推出了AI演示制作工具，它能在几次点击之内，为你制作出符合你需求的精美幻灯片。而且，它完全免费！"
     },
     "https://smartread.cc": {
       "type": [
@@ -6481,7 +6480,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
