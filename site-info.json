@@ -5813,9 +5813,7 @@
         "AI 国外工具"
       ],
       "title": "QoQo",
-      "desc": "AI快速创建用户旅程地图",
-      "needVerify": 1,
-      "errmsg": "[error][-1]connect ECONNREFUSED 65.109.130.147:443"
+      "desc": "AI快速创建用户旅程地图"
     },
     "https://quillbot.com": {
       "type": [
@@ -6037,9 +6035,7 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][403]Forbidden"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
     },
     "https://rows.com": {
       "title": "Rows",
@@ -6482,7 +6478,9 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -6819,7 +6817,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
@@ -10426,7 +10426,9 @@
         "AI 数字人"
       ],
       "title": "小冰",
-      "desc": "小冰基于全球领先的完备人工智能小冰框架，推出了数字专家和数字员工等完整产品线。"
+      "desc": "小冰基于全球领先的完备人工智能小冰框架，推出了数字专家和数字员工等完整产品线。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xiaomengai.com": {
       "title": "彩云小梦尝鲜版",
