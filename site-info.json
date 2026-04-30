@@ -3915,7 +3915,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://kastro.chat": {
       "title": "Kastro",
@@ -6035,7 +6037,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://rows.com": {
       "title": "Rows",
@@ -6478,9 +6482,7 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][567]Unknown Status"
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -6817,9 +6819,7 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
     },
     "https://vizard.ai": {
       "type": [
@@ -8054,14 +8054,18 @@
         "AI 图像处理"
       ],
       "title": "Dora AI",
-      "desc": "Dora AI可以做到使用自然语言生成、定制和部署网站，所有这些都在Dora强大的无代码编辑器中完成，他能在几秒钟内生成令人惊叹的、完全可编辑的网站，将静态设计转换为3D，自动化您的动画过程。"
+      "desc": "Dora AI可以做到使用自然语言生成、定制和部署网站，所有这些都在Dora强大的无代码编辑器中完成，他能在几秒钟内生成令人惊叹的、完全可编辑的网站，将静态设计转换为3D，自动化您的动画过程。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.dora.run/ai": {
       "type": [
         "AI 图像处理"
       ],
       "title": "Dora AI",
-      "desc": "一句话生成可交互&编辑的网站AI神器"
+      "desc": "一句话生成可交互&编辑的网站AI神器",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.doubao.com/chat/": {
       "type": [
@@ -8072,7 +8076,9 @@
       "desc": "基于字节跳动研发的云雀大语言模型的Chat应用",
       "title": "豆包",
       "star": 3,
-      "sort": -88
+      "sort": -88,
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.dreamup.com": {
       "title": "Dreamup",
@@ -8097,7 +8103,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.editage.cn/paperpal": {
       "type": [
@@ -8556,7 +8564,9 @@
         "AI 语音生成",
         "AI 翻译工具",
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://www.ihuiwa.com": {
       "title": "绘蛙",
@@ -10426,9 +10436,7 @@
         "AI 数字人"
       ],
       "title": "小冰",
-      "desc": "小冰基于全球领先的完备人工智能小冰框架，推出了数字专家和数字员工等完整产品线。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "小冰基于全球领先的完备人工智能小冰框架，推出了数字专家和数字员工等完整产品线。"
     },
     "https://www.xiaomengai.com": {
       "title": "彩云小梦尝鲜版",
