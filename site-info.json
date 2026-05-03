@@ -477,9 +477,7 @@
       ],
       "star": 3,
       "title": "WPS AI",
-      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。"
     },
     "https://ai117.com": {
       "needVPN": 1,
@@ -6480,7 +6478,9 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -8053,7 +8053,7 @@
       ],
       "title": "Dora AI",
       "desc": "Dora AI可以做到使用自然语言生成、定制和部署网站，所有这些都在Dora强大的无代码编辑器中完成，他能在几秒钟内生成令人惊叹的、完全可编辑的网站，将静态设计转换为3D，自动化您的动画过程。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.dora.run/ai": {
@@ -8062,7 +8062,7 @@
       ],
       "title": "Dora AI",
       "desc": "一句话生成可交互&编辑的网站AI神器",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.doubao.com/chat/": {
@@ -8075,7 +8075,7 @@
       "title": "豆包",
       "star": 3,
       "sort": -88,
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.dreamup.com": {
