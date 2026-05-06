@@ -450,9 +450,7 @@
       "lang": "zh",
       "icon": "https://ai.meitu.com/favicon.png",
       "title": "美图AI开放平台",
-      "desc": "美图推出的AI人脸图像处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "美图推出的AI人脸图像处理平台"
     },
     "https://ai.nero.com/enhance": {
       "title": "Nero AI Image Upscaler",
@@ -479,7 +477,9 @@
       ],
       "star": 3,
       "title": "WPS AI",
-      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。"
+      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai117.com": {
       "needVPN": 1,
@@ -1406,7 +1406,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://chat-langchainjs.fly.dev": {
       "needVPN": 1,
@@ -1968,9 +1970,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      ]
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -2147,9 +2147,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -3921,9 +3919,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      ]
     },
     "https://kastro.chat": {
       "title": "Kastro",
@@ -6043,7 +6039,9 @@
         "AI 文档办公"
       ],
       "title": "Rossum.ai",
-      "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
+      "desc": "深受企业信赖，强大易用的AI智能文档处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://rows.com": {
       "title": "Rows",
@@ -6487,7 +6485,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
@@ -6887,7 +6885,9 @@
         "AI 行业工具"
       ],
       "title": "Wanderlog",
-      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！"
+      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！",
+      "needVerify": 1,
+      "errmsg": "[error][403]Forbidden"
     },
     "https://wantalk.baidu.com": {
       "title": "万话",
@@ -7138,9 +7138,7 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://writebot.io": {
       "title": "WriteBot",
@@ -8063,8 +8061,9 @@
       ],
       "title": "Dora AI",
       "desc": "Dora AI可以做到使用自然语言生成、定制和部署网站，所有这些都在Dora强大的无代码编辑器中完成，他能在几秒钟内生成令人惊叹的、完全可编辑的网站，将静态设计转换为3D，自动化您的动画过程。",
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://www.dora.run/ai": {
       "type": [
@@ -8072,8 +8071,9 @@
       ],
       "title": "Dora AI",
       "desc": "一句话生成可交互&编辑的网站AI神器",
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://www.doubao.com/chat/": {
       "type": [
@@ -8085,8 +8085,9 @@
       "title": "豆包",
       "star": 3,
       "sort": -88,
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://www.dreamup.com": {
       "title": "Dreamup",
@@ -8112,7 +8113,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.editage.cn/paperpal": {
@@ -8121,9 +8122,7 @@
         "AI 行业工具"
       ],
       "title": "Paperpal",
-      "desc": "学术写作新世代，面向科研人员的AI写作工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "学术写作新世代，面向科研人员的AI写作工具"
     },
     "https://www.editgpt.app": {
       "type": [
@@ -9946,9 +9945,7 @@
         "agent",
         "cowork",
         "智能体"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      ]
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
@@ -10368,9 +10365,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10887,9 +10882,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1142:49)\n    at internalConnectMultiple (node:net:1218:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1750:"
+      "desc": "商业级AI影像处理工具"
     },
     "https://z.ai": {
       "title": "Z.ai",
