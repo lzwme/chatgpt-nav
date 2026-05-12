@@ -32,7 +32,7 @@ export function siteUrlVerify() {
     if (r.code) {
       const codestr = String(r.code);
       // 30x 为正常，忽略 429
-      if (r.redirected || ['30', '429'].some(k => codestr.startsWith(k))) r.code = 0;
+      if (r.redirected || ['30', '429', '403'].some(k => codestr.startsWith(k))) r.code = 0;
 
       // ignore TSL error
       if (r.errmsg.includes('network socket disconnected before secure TLS connection')) {

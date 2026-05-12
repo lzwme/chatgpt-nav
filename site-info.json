@@ -237,7 +237,6 @@
       "title": "AgentRouter",
       "desc": "面向开发者的大模型公益站！免费提供 Claude 等顶级大模型 API，每日签到送 25 美元额度！",
       "star": 1,
-      "sort": -10,
       "type": [
         "AI 综合工具"
       ],
@@ -292,20 +291,6 @@
       "type": [
         "AI 写作助手"
       ]
-    },
-    "https://ai-maas.wair.ac.cn": {
-      "type": [
-        "AI 聊天对话",
-        "国产大模型"
-      ],
-      "star": 3,
-      "sort": -84,
-      "needLogin": 1,
-      "desc": "中科院自动化所和武汉人工智能研究院联合推出的新一代大模型，从三模态走向全模态，支持多轮问答、文本创作、图像生成、3D理解、信号分析等全面问答任务，拥有更强的认知、理解、创作能力，带来全新互动体验。",
-      "title": "紫东太初",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
     },
     "https://ai-nav.lzw.me": {
       "type": [
@@ -1522,7 +1507,6 @@
       ],
       "title": "商汤商量",
       "star": 3,
-      "sort": -80,
       "desc": "商汤旗下的AI对话助手"
     },
     "https://chat.xiaozeai.com": {
@@ -1584,27 +1568,6 @@
       "type": [
         "AI 文档办公"
       ]
-    },
-    "https://chatdocuments.ai": {
-      "title": "ChatDocuments",
-      "intro": "将您的文档转化为具有人工智能的互动聊天",
-      "desc": "ChatDocuments是一款由人工智能驱动的应用，可以轻松与PDF、PPTX、XLSX和DOCX文件进行聊天互动。支持所有语言。定价：免费试用，免费使用3个文档；付费套餐详见官网。定位：提供便捷的文档交互体验。",
-      "lang": "en",
-      "tags": [
-        "文档交互",
-        "PDF",
-        "PPTX",
-        "XLSX",
-        "DOCX",
-        "文档处理"
-      ],
-      "type": [
-        "AI 文档办公",
-        "AI 聊天对话"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]connect ECONNREFUSED 65.109.84.182:443",
-      "hide": 1
     },
     "https://chatexcel.com": {
       "title": "酷表ChatExcel",
@@ -2061,10 +2024,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      ]
     },
     "https://cp.baidu.com": {
       "title": "橙篇",
@@ -2850,24 +2810,6 @@
       "type": [
         "AI 图像处理"
       ]
-    },
-    "https://getliner.com": {
-      "title": "Liner",
-      "intro": "AI Copilot, 提升工作效率",
-      "desc": "Liner 是由 GPT-4 提供支持，旨在提高您的生产力。通过摘要文章、生成代码和撰写电子邮件，优化工作流程。",
-      "lang": "en",
-      "tags": [
-        "摘要",
-        "写作",
-        "协作",
-        "国外精选"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][410]Gone",
-      "hide": 1
     },
     "https://getluminal.com": {
       "title": "Luminal",
@@ -4966,10 +4908,7 @@
       "type": [
         "AI 综合工具",
         "AI 开源工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      ]
     },
     "https://openai.com/index/early-access-for-safety-testing/": {
       "title": "OpenAI o3",
@@ -5891,10 +5830,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      ]
     },
     "https://remini.ai": {
       "title": "ReminiAI",
@@ -6482,10 +6418,7 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][567]Unknown Status",
-      "hide": 1
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -7308,7 +7241,6 @@
       "title": "唯一AI",
       "desc": "邀请注册即送15元额度！服务稳定的模型聚合服务商，提供国内外热门顶级模型API调用服务。",
       "star": 3,
-      "sort": -95,
       "type": [
         "AI 综合工具"
       ],
@@ -8053,27 +7985,6 @@
         "AI 文档办公"
       ]
     },
-    "https://www.dora.run": {
-      "type": [
-        "AI 网站生成",
-        "AI 图像处理"
-      ],
-      "title": "Dora AI",
-      "desc": "Dora AI可以做到使用自然语言生成、定制和部署网站，所有这些都在Dora强大的无代码编辑器中完成，他能在几秒钟内生成令人惊叹的、完全可编辑的网站，将静态设计转换为3D，自动化您的动画过程。",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
-    "https://www.dora.run/ai": {
-      "type": [
-        "AI 图像处理"
-      ],
-      "title": "Dora AI",
-      "desc": "一句话生成可交互&编辑的网站AI神器",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
     "https://www.doubao.com/chat/": {
       "type": [
         "AI 聊天对话",
@@ -8081,12 +7992,10 @@
         "国产大模型"
       ],
       "desc": "基于字节跳动研发的云雀大语言模型的Chat应用",
-      "title": "豆包",
+      "title": "豆包Chat",
       "star": 3,
       "sort": -88,
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
+      "needVerify": -1
     },
     "https://www.dreamup.com": {
       "title": "Dreamup",
@@ -9797,6 +9706,19 @@
         "AI 写作助手"
       ]
     },
+    "https://www.sensenova.cn/token-plan": {
+      "type": [
+        "国产大模型",
+        "AI 行业工具"
+      ],
+      "tags": [
+        "FREEAPI",
+        "API开放平台"
+      ],
+      "title": "商汤日日新Token Plan",
+      "star": 3,
+      "desc": "商汤SenseNova Token Plan公测阶段免费使用！精选模型与用量方案，支持 Hermes Agent、OpenClaw 与 Cowork-Skills 办公场景。"
+    },
     "https://www.shenyandayi.com": {
       "type": [
         "AI 写作助手"
@@ -10039,10 +9961,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      ]
     },
     "https://www.tanka.ai": {
       "title": "Tanka",
@@ -10996,10 +10915,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][403]Forbidden",
-      "hide": 1
+      ]
     },
     "https://zuojia.baidu.com": {
       "title": "百度作家平台",
