@@ -435,7 +435,9 @@
       "lang": "zh",
       "icon": "https://ai.meitu.com/favicon.png",
       "title": "美图AI开放平台",
-      "desc": "美图推出的AI人脸图像处理平台"
+      "desc": "美图推出的AI人脸图像处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://ai.nero.com/enhance": {
       "title": "Nero AI Image Upscaler",
@@ -1084,7 +1086,9 @@
         "AI 视频生成"
       ],
       "title": "BibiGPT",
-      "desc": "一键总结B站音视频内容"
+      "desc": "一键总结B站音视频内容",
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://bigesj.com/ai-ppt/": {
       "title": "比格PPT",
@@ -1929,7 +1933,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -2103,7 +2109,9 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -3857,7 +3865,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://kastro.chat": {
       "title": "Kastro",
@@ -5813,7 +5823,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND raccoon.sensetime.com"
     },
     "https://randomx.ai/zh-CN": {
@@ -5938,7 +5948,9 @@
       "type": [
         "AI 综合工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://resume.co": {
       "title": "Resume",
@@ -6417,7 +6429,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\""
     },
     "https://synthesys.io/x": {
@@ -8589,7 +8601,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://www.ixigo.com/plan": {
       "type": [
@@ -9848,7 +9862,9 @@
         "大厂合集",
         "智能体",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
@@ -9862,7 +9878,9 @@
         "agent",
         "cowork",
         "智能体"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
@@ -10279,7 +10297,9 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10796,7 +10816,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://z.ai": {
       "title": "Z.ai",
