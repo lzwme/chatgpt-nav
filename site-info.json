@@ -301,8 +301,8 @@
       "star": 3,
       "sort": -88,
       "desc": "收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 2,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://ai-tools.cn/resume": {
       "title": "AI简历",
@@ -1211,9 +1211,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://botsmart.net": {
       "title": "博特妙笔",
@@ -1632,7 +1630,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN chatlify.me"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -2856,9 +2856,7 @@
       "type": [
         "AI 视频生成",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://github.com/Boese0601/MagicDance": {
       "title": "MagicDance",
@@ -3546,7 +3544,7 @@
       ],
       "title": "讯飞iFlyCode",
       "desc": "代码大模型，支持讯飞AI能力，具有业界领先的代码大模型能力。",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://image.hunyuan.tencent.com": {
@@ -4459,7 +4457,7 @@
       ],
       "title": "新华妙笔",
       "desc": "新华社媒体出品！AI公文写作学习平台",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko": {
@@ -5823,8 +5821,9 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND raccoon.sensetime.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND raccoon.sensetime.com",
+      "hide": 1
     },
     "https://randomx.ai/zh-CN": {
       "title": "RandomX.ai",
@@ -8628,9 +8627,7 @@
         "AI 聊天对话"
       ],
       "title": "Jasper AI",
-      "desc": "AI文字内容创作工具。",
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      "desc": "AI文字内容创作工具。"
     },
     "https://www.jenni.ai": {
       "title": "Jenni AI",
@@ -8978,7 +8975,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.midjourney.com": {
       "type": [
@@ -9861,9 +9860,7 @@
         "大厂合集",
         "智能体",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
+      ]
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
@@ -10311,7 +10308,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.wondercv.com": {
       "title": "超级简历",
