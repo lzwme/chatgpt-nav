@@ -301,7 +301,7 @@
       "star": 3,
       "sort": -88,
       "desc": "收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://ai-tools.cn/resume": {
@@ -437,7 +437,9 @@
       "lang": "zh",
       "icon": "https://ai.meitu.com/favicon.png",
       "title": "美图AI开放平台",
-      "desc": "美图推出的AI人脸图像处理平台"
+      "desc": "美图推出的AI人脸图像处理平台",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://ai.nero.com/enhance": {
       "title": "Nero AI Image Upscaler",
@@ -1513,7 +1515,9 @@
     },
     "https://chat.xiaozeai.com": {
       "desc": "为您提供小泽全能模式、小泽应用商店、小泽3.5、小泽4、联网、插件、高级数据分析、绘图等功能和模式",
-      "title": "小泽AI"
+      "title": "小泽AI",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chat.xverse.cn/home/": {
       "title": "元象大模型 XChat",
@@ -1630,9 +1634,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN chatlify.me"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -1933,7 +1935,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -2107,7 +2111,9 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -3544,7 +3550,7 @@
       ],
       "title": "讯飞iFlyCode",
       "desc": "代码大模型，支持讯飞AI能力，具有业界领先的代码大模型能力。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://image.hunyuan.tencent.com": {
@@ -3863,7 +3869,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://kastro.chat": {
       "title": "Kastro",
@@ -4457,7 +4465,7 @@
       ],
       "title": "新华妙笔",
       "desc": "新华社媒体出品！AI公文写作学习平台",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko": {
@@ -8599,7 +8607,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://www.ixigo.com/plan": {
       "type": [
@@ -8975,9 +8985,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.midjourney.com": {
       "type": [
@@ -10291,7 +10299,9 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10308,9 +10318,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://www.wondercv.com": {
       "title": "超级简历",
@@ -10810,7 +10818,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
     "https://z.ai": {
       "title": "Z.ai",
