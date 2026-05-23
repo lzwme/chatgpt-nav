@@ -301,7 +301,7 @@
       "star": 3,
       "sort": -88,
       "desc": "收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://ai-tools.cn/resume": {
@@ -1631,7 +1631,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatmind.tech/editor": {
@@ -2428,7 +2428,9 @@
       ],
       "type": [
         "AI 文档办公"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][402]Payment Required"
     },
     "https://excelly-ai.io": {
       "title": "Excelly-AI",
@@ -3544,8 +3546,8 @@
       ],
       "title": "讯飞iFlyCode",
       "desc": "代码大模型，支持讯飞AI能力，具有业界领先的代码大模型能力。",
-      "needVerify": 5,
-      "errmsg": "[error][502]Bad Gateway"
+      "needVerify": 6,
+      "errmsg": "[error][-1]timeout"
     },
     "https://image.hunyuan.tencent.com": {
       "type": [
@@ -4108,9 +4110,7 @@
         "AI 写作助手"
       ],
       "title": "写作蛙",
-      "desc": "清华智谱旗下的AI写作助手",
-      "needVerify": 1,
-      "errmsg": "[error][-1]write EPROTO 40DDE8B6957F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 80\n"
+      "desc": "清华智谱旗下的AI写作助手"
     },
     "https://lmarena.ai": {
       "title": "LMArena",
@@ -4459,8 +4459,9 @@
       ],
       "title": "新华妙笔",
       "desc": "新华社媒体出品！AI公文写作学习平台",
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko": {
       "title": "AI课代表",
@@ -5762,7 +5763,9 @@
         "AI 国外工具"
       ],
       "title": "QoQo",
-      "desc": "AI快速创建用户旅程地图"
+      "desc": "AI快速创建用户旅程地图",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://quillbot.com": {
       "type": [
@@ -10195,7 +10198,7 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][402]Payment Required"
     },
     "https://www.volcengine.com/experience/ark": {
