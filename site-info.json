@@ -3560,6 +3560,22 @@
       "desc": "腾讯混元生图",
       "title": "混元生图"
     },
+    "https://image3d.io": {
+      "title": "Image3D",
+      "desc": "AI 图片转 3D 模型工具，支持从单张图片生成 3D 资产，并导出 GLB、OBJ、STL、PLY 等格式。",
+      "star": 2,
+      "needVerify": -1,
+      "tags": [
+        "3D",
+        "图片转3D",
+        "3D模型",
+        "国外精选"
+      ],
+      "type": [
+        "AI 绘图",
+        "AI 图像处理"
+      ]
+    },
     "https://imagetopromptai.com": {
       "title": "ImageToPromptAI",
       "intro": "图像转换为文本提示的AI工具",
