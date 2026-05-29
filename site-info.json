@@ -2112,6 +2112,22 @@
       "needVerify": 1,
       "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
+    "https://image3d.io": {
+      "title": "Image3D",
+      "desc": "AI 图片转 3D 模型工具，支持从单张图片生成 3D 资产，并导出 GLB、OBJ、STL、PLY 等格式。",
+      "star": 2,
+      "needVerify": -1,
+      "tags": [
+        "3D",
+        "图片转3D",
+        "3D模型",
+        "国外精选"
+      ],
+      "type": [
+        "AI 绘图",
+        "AI 图像处理"
+      ]
+    },
     "https://dashtoon.com": {
       "title": "Dashtoon",
       "intro": " AI 漫画生成应用",
