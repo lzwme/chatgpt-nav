@@ -301,8 +301,9 @@
       "star": 3,
       "sort": -88,
       "desc": "收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性",
-      "needVerify": 6,
-      "errmsg": "[error][502]Bad Gateway"
+      "needVerify": 7,
+      "errmsg": "[error][502]Bad Gateway",
+      "hide": 1
     },
     "https://ai-tools.cn/resume": {
       "title": "AI简历",
@@ -437,9 +438,7 @@
       "lang": "zh",
       "icon": "https://ai.meitu.com/favicon.png",
       "title": "美图AI开放平台",
-      "desc": "美图推出的AI人脸图像处理平台",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
+      "desc": "美图推出的AI人脸图像处理平台"
     },
     "https://ai.nero.com/enhance": {
       "title": "Nero AI Image Upscaler",
@@ -1632,9 +1631,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -2451,7 +2448,7 @@
       "type": [
         "AI 文档办公"
       ],
-      "needVerify": 2,
+      "needVerify": 6,
       "errmsg": "[error][402]Payment Required"
     },
     "https://excelly-ai.io": {
@@ -2776,9 +2773,7 @@
       ],
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://gamma.ai": {
       "title": "Gamma.ai",
@@ -5791,7 +5786,7 @@
       ],
       "title": "QoQo",
       "desc": "AI快速创建用户旅程地图",
-      "needVerify": 2,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://quillbot.com": {
@@ -10225,8 +10220,9 @@
       "type": [
         "AI 语音生成"
       ],
-      "needVerify": 3,
-      "errmsg": "[error][402]Payment Required"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.voicefy.com.br",
+      "hide": 1
     },
     "https://www.volcengine.com/experience/ark": {
       "type": [
