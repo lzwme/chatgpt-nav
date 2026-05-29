@@ -292,19 +292,6 @@
         "AI 写作助手"
       ]
     },
-    "https://ai-nav.lzw.me": {
-      "type": [
-        "AI 综合工具",
-        "AI 聊天对话"
-      ],
-      "title": "AI网址导航",
-      "star": 3,
-      "sort": -88,
-      "desc": "收集了当前最新的AI人工智能相关的网站网址，定时任务每日更新，检测验证可用性",
-      "needVerify": 7,
-      "errmsg": "[error][502]Bad Gateway",
-      "hide": 1
-    },
     "https://ai-tools.cn/resume": {
       "title": "AI简历",
       "intro": "一键制作高质量简历,狂斩Offer",
@@ -721,7 +708,6 @@
       "title": "AnyRouter",
       "desc": "零门槛、免费使用！Claude Code API 免费共享平台，每日签到送 25 美元额度，免费使用 Cluade Code！",
       "star": 3,
-      "sort": -95,
       "type": [
         "AI 综合工具"
       ],
@@ -2112,22 +2098,6 @@
       "needVerify": 1,
       "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
     },
-    "https://image3d.io": {
-      "title": "Image3D",
-      "desc": "AI 图片转 3D 模型工具，支持从单张图片生成 3D 资产，并导出 GLB、OBJ、STL、PLY 等格式。",
-      "star": 2,
-      "needVerify": -1,
-      "tags": [
-        "3D",
-        "图片转3D",
-        "3D模型",
-        "国外精选"
-      ],
-      "type": [
-        "AI 绘图",
-        "AI 图像处理"
-      ]
-    },
     "https://dashtoon.com": {
       "title": "Dashtoon",
       "intro": " AI 漫画生成应用",
@@ -3331,6 +3301,16 @@
         "AI 绘图"
       ]
     },
+    "https://hermes-agent.lzw.me": {
+      "type": [
+        "AI 综合工具",
+        "AI 智能体"
+      ],
+      "title": "Hermes Agent中文文档",
+      "star": 3,
+      "sort": -80,
+      "desc": "基于 Hermes Agent 英文文档网站同步翻译的在线中文文档网站"
+    },
     "https://hiwaifu.com": {
       "type": [
         "AI 角色生成",
@@ -3556,19 +3536,6 @@
       ],
       "needVerify": -1
     },
-    "https://iflycode.xfyun.cn": {
-      "type": [
-        "AI 编程开发"
-      ],
-      "tags": [
-        "IDE"
-      ],
-      "title": "讯飞iFlyCode",
-      "desc": "代码大模型，支持讯飞AI能力，具有业界领先的代码大模型能力。",
-      "needVerify": 7,
-      "errmsg": "[error][502]Bad Gateway",
-      "hide": 1
-    },
     "https://image.hunyuan.tencent.com": {
       "type": [
         "AI 绘图",
@@ -3579,6 +3546,20 @@
       "needLogin": 1,
       "desc": "腾讯混元生图",
       "title": "混元生图"
+    },
+    "https://image3d.io": {
+      "title": "Image3D",
+      "desc": "AI 图片转 3D 模型工具，支持从单张图片生成 3D 资产，并导出 GLB、OBJ、STL、PLY 等格式。",
+      "star": 2,
+      "tags": [
+        "3D",
+        "图片转3D",
+        "3D模型"
+      ],
+      "type": [
+        "AI 绘图",
+        "AI 图像处理"
+      ]
     },
     "https://imagetopromptai.com": {
       "title": "ImageToPromptAI",
@@ -4481,9 +4462,7 @@
       ],
       "title": "新华妙笔",
       "desc": "新华社媒体出品！AI公文写作学习平台",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
+      "needVerify": -1
     },
     "https://microsoftedge.microsoft.com/addons/detail/hpkbpmbgkhngdlopdpnfjelemchlmdko": {
       "title": "AI课代表",
@@ -5555,11 +5534,10 @@
         "国产大模型"
       ],
       "star": 3,
-      "sort": -89,
       "needLogin": 1,
+      "title": "派欧算力云",
       "intro": "AI 云端一体化解决方案: 模型 API、Serverless、GPU 租赁",
       "desc": "注册即送 50元 DeepSeek Token 代金券！派欧算力云提供全面的 AI 云端平台解决方案,包括模型 API、Serverless 和高性能 GPU 实例等,帮助您节省高达 50% 的成本,并同时加速 AI 产品的构建和业务发展,助力企业实现创新突破,赢得市场竞争优势。",
-      "title": "派欧算力云",
       "tags": [
         "语言模型",
         "云服务",
@@ -6293,7 +6271,6 @@
         "AI 搜索引擎"
       ],
       "star": 3,
-      "sort": -80,
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
       "title": "C知道"
@@ -6452,10 +6429,7 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\"",
-      "hide": 1
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -6766,6 +6740,21 @@
         "私有化"
       ],
       "type": [
+        "AI 综合工具"
+      ]
+    },
+    "https://useai.live/hermes/": {
+      "repo": "https://github.com/fresh-claw/hermes-zh-cn",
+      "title": "小马AI Hermes 中文增强包",
+      "desc": "Hermes Agent 中文补丁与新手教程，一条命令安装，自动识别新旧版本，覆盖启动页、TUI、快捷指令、网关提示和权限审批提示。",
+      "star": 2,
+      "tags": [
+        "智能体",
+        "hermes",
+        "openclaw"
+      ],
+      "type": [
+        "AI 智能体",
         "AI 综合工具"
       ]
     },
@@ -10205,25 +10194,6 @@
       "title": "Visily",
       "desc": "实用！AI轻松将手绘线框转换为高保真度"
     },
-    "https://www.voicefy.com.br": {
-      "title": "Voicefy",
-      "intro": "转化文本为真实语音",
-      "desc": "Voicefy是一款直观的平台，将文本转化为真实的语音，提供多种语言和声音选择，以提高内容的可访问性和互动性。Voicefy可用于创建有声书、自动化广告、医疗指导录音等。价格根据使用情况而定，提供免费试用。",
-      "lang": "en",
-      "tags": [
-        "语音转换",
-        "有声书",
-        "自动化广告",
-        "医疗指导",
-        "语音"
-      ],
-      "type": [
-        "AI 语音生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.voicefy.com.br",
-      "hide": 1
-    },
     "https://www.volcengine.com/experience/ark": {
       "type": [
         "AI 翻译工具",
@@ -10653,7 +10623,6 @@
       "desc": "小艺是华为推出的智能助手，集成了自然语言处理和机器学习技术，能够提供聊天、写作、编程、翻译等多种功能。它基于深度学习模型，能够理解用户的问题并给出准确的回答。小艺的主要优点是功能丰富、响应速度快、智能化程度高。作为华为生态的一部分，小艺致力于为用户提供便捷的智能服务，提升用户体验。",
       "lang": "zh",
       "star": 3,
-      "sort": -80,
       "tags": [
         "智能助手",
         "写作",
@@ -10785,8 +10754,7 @@
     "https://yourapi.cn": {
       "title": "YOURAPI",
       "desc": "基于new-api的OpenAI接口聚合服务，价格便宜，支持调用 Claude4 等顶级模型API调用！",
-      "star": 3,
-      "sort": -94,
+      "star": 1,
       "type": [
         "AI 综合工具",
         "AI 聊天对话"
