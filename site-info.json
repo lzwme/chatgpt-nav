@@ -276,7 +276,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai-detector.info": {
       "title": "AI Detector",
@@ -1981,7 +1983,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:52.161.45.226:1780260612.466\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -3863,9 +3867,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://kastro.chat": {
       "title": "Kastro",
@@ -5432,7 +5434,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][500]Internal Server Error"
     },
     "https://plask.ai": {
@@ -6117,7 +6119,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -6430,8 +6434,8 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 2,
-      "errmsg": "[error][567]Unknown Status"
+      "needVerify": 3,
+      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\""
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -7340,7 +7344,9 @@
       ],
       "type": [
         "AI 提示词"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://www.aiva.ai": {
       "title": "Aiva",
@@ -10806,9 +10812,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "desc": "商业级AI影像处理工具"
     },
     "https://z.ai": {
       "title": "Z.ai",
