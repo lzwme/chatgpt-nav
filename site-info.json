@@ -325,9 +325,7 @@
       "desc": "360旗下的AI聊天助手",
       "type": [
         "AI 聊天对话"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ai.baidu.com/unit/home": {
       "title": "百度客悦ONE·智能客服",
@@ -2466,9 +2464,7 @@
       ],
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://facecheck.id": {
       "type": [
@@ -6117,9 +6113,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -6135,7 +6129,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://shanjian.tv": {
       "title": "闪剪-AI数字人",
@@ -6432,8 +6428,9 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\""
+      "needVerify": 7,
+      "errmsg": "[error][567]Unknown Status",
+      "hide": 1
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -6785,9 +6782,7 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
     },
     "https://vizard.ai": {
       "type": [
@@ -8929,9 +8924,7 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
     },
     "https://www.loom.com": {
       "type": [
@@ -10297,9 +10290,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10723,9 +10714,7 @@
       "desc": "「印象笔记」X「印象AI」会创作的第二大脑",
       "type": [
         "AI 文档办公"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://yiyan.baidu.com": {
       "type": [
