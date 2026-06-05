@@ -101,6 +101,13 @@
       ],
       "sort": -40
     },
+    "AI 学习资源": {
+      "keywords": [
+        "文档",
+        "doc"
+      ],
+      "sort": -45
+    },
     "AI 思维导图": {
       "keywords": [
         "导图"
@@ -259,6 +266,19 @@
       "type": [
         "AI 智能体",
         "AI 文档办公"
+      ]
+    },
+    "https://agnes-ai.com": {
+      "title": "Agnes AI",
+      "desc": "Agnes 文本、图像和视频系列模型 API 免费试用中！Sapiens AI 是新加坡本土模型公司，也是 Agnes AI 的母公司，专注于打造先进的多模态模型，驱动下一代创意与交互应用。",
+      "star": 3,
+      "sort": -80,
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "API",
+        "FREEAPI"
       ]
     },
     "https://ahrefs.com": {
@@ -2263,7 +2283,6 @@
       "title": "MiroThinker",
       "desc": "深入研究。揭开未来！不要只是闲聊。使用基于科学的人工智能进行预测、验证和发现。MiroMindAI 打造的最强预测型模型，非常强大！",
       "star": 3,
-      "sort": -80,
       "type": [
         "AI 智能体",
         "AI 综合工具"
@@ -3300,8 +3319,7 @@
     },
     "https://hermes-agent.lzw.me": {
       "type": [
-        "AI 综合工具",
-        "AI 智能体"
+        "AI 学习资源"
       ],
       "title": "Hermes Agent中文文档",
       "star": 3,
@@ -5808,24 +5826,6 @@
         "AI 开源工具"
       ]
     },
-    "https://raccoon.sensetime.com/office": {
-      "title": "办公小浣熊 Raccoon",
-      "intro": "基于商汤大语言模型的智能办公助手",
-      "desc": "办公小浣熊是基于商汤大语言模型的大模型原生数据分析产品，通过自然语言输入，结合商汤大模型的能力，自动将数据转化为有意义的分析和可视化结果。它支持复杂表格、多表格、多文件的理解，能够完成数据清洗、数据运算、比较分析、趋势分析，预测性分析、可视化等常见数据分析任务，赋能财务分析、商业分析、销售预测、市场分析、宏观分析等多个应用场景。",
-      "lang": "zh",
-      "tags": [
-        "数据分析",
-        "自动化",
-        "可视化",
-        "自然语言处理"
-      ],
-      "type": [
-        "AI 文档办公"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND raccoon.sensetime.com",
-      "hide": 1
-    },
     "https://randomx.ai/zh-CN": {
       "title": "RandomX.ai",
       "intro": "使用AI技术生成地道的中文名字",
@@ -6427,10 +6427,7 @@
         "AI 文档办公",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][567]Unknown Status",
-      "hide": 1
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
