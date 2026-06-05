@@ -265,7 +265,8 @@
       ],
       "type": [
         "AI 智能体",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://agnes-ai.com": {
@@ -326,7 +327,8 @@
         "辅导"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://ai.360.cn": {
@@ -465,6 +467,7 @@
     "https://ai.wps.cn": {
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 语音生成"
       ],
       "tags": [
@@ -652,7 +655,8 @@
         "虚拟助手"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://ali-vilab.github.io/AnyDoor-Page/": {
@@ -1106,7 +1110,8 @@
       ],
       "type": [
         "AI 图像处理",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://bigjpg.com": {
@@ -1217,7 +1222,8 @@
         "CMS"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://botsmart.net": {
@@ -1407,7 +1413,8 @@
     },
     "https://chat-ppt.com": {
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "tags": [
         "PPT"
@@ -1558,7 +1565,8 @@
     },
     "https://chatdoc.com": {
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "chatDOC",
       "desc": "通过与文档对话,以引用来源的方式获得即时答案。",
@@ -1575,7 +1583,8 @@
         "专业问题"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://chatexcel.com": {
@@ -1583,6 +1592,7 @@
       "desc": "酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据。",
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 聊天对话"
       ],
       "tags": [
@@ -1653,12 +1663,14 @@
       ],
       "type": [
         "AI 思维导图",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://chatpdf.com": {
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "chatPDF",
       "desc": "加入数百万学生、研究人员和专业人士的行列，通过 AI 即时回答问题。",
@@ -1893,7 +1905,8 @@
       "type": [
         "AI 智能体",
         "AI 网站生成",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://code.fittentech.com": {
@@ -2234,6 +2247,7 @@
     "https://docs.qq.com/ai/chat/": {
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 写作助手"
       ],
       "star": 3,
@@ -2431,7 +2445,8 @@
         "桌面客户端"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "needVerify": 7,
       "errmsg": "[error][402]Payment Required",
@@ -2448,7 +2463,8 @@
         "表格处理"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://explainthis.ai": {
@@ -2523,7 +2539,8 @@
     "https://fanyi.baidu.com": {
       "type": [
         "AI 翻译工具",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "tags": [
         "百度"
@@ -2535,6 +2552,7 @@
       "type": [
         "AI 翻译工具",
         "AI 文档办公",
+        "AI 学习资源",
         "AI 视频生成"
       ],
       "icon": "https://www.caiyunapp.com/imgs/xiaoyilogo.png",
@@ -2553,6 +2571,7 @@
       "type": [
         "AI 翻译工具",
         "AI 文档办公",
+        "AI 学习资源",
         "AI 语音生成"
       ],
       "icon": "https://fanyi.xfyun.cn/assets/logo.0cb48385.svg",
@@ -2697,7 +2716,8 @@
         "Google Sheets"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://free-trial.adcreative.ai/98krjvb7wdoq": {
@@ -2758,7 +2778,8 @@
         "面试"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://gamma.ai": {
@@ -2790,6 +2811,7 @@
       ],
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 国外工具"
       ]
     },
@@ -2833,7 +2855,8 @@
         "多语言支持"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://gezhe.com": {
@@ -2847,7 +2870,8 @@
         "优质新品"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://gifshift.xyz": {
@@ -3171,7 +3195,8 @@
     },
     "https://glimmerai.tech": {
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "Glimmer Ai",
       "desc": "热门！基于GPT-3和DALL·E2的AI PPT知名工具"
@@ -3201,7 +3226,8 @@
         "数据分析"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://gptzero.me": {
@@ -3469,7 +3495,8 @@
         "AI应用"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://hunyuan.tencent.com": {
@@ -3643,7 +3670,8 @@
     "https://immersivetranslate.com": {
       "type": [
         "AI 翻译工具",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "沉浸式翻译",
       "desc": "沉浸式翻译是一款免费的，好用的，没有废话的，革命性的，饱受赞誉的，AI 驱动的双语网页翻译扩展。",
@@ -3881,7 +3909,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://kastro.chat": {
       "title": "Kastro",
@@ -4418,7 +4448,8 @@
       ],
       "type": [
         "AI 视频生成",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://mem.ai": {
@@ -4786,6 +4817,7 @@
     "https://noty.ai": {
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 国外工具",
         "AI 写作助手"
       ],
@@ -4892,7 +4924,8 @@
         "桌面客户端"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://nv-tlabs.github.io/GET3D": {
@@ -5138,6 +5171,7 @@
     "https://otter.ai": {
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 会议助手"
       ],
       "title": "Otter AI",
@@ -5214,7 +5248,8 @@
         "文档转换"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://pebblely.com/zh/": {
@@ -5287,7 +5322,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://pi.dev": {
       "title": "PI",
@@ -5537,6 +5574,7 @@
       ],
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 行业工具"
       ]
     },
@@ -5565,6 +5603,7 @@
     "https://ppt.isheji.com": {
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 图像处理"
       ],
       "tags": [
@@ -5584,20 +5623,23 @@
         "演示文稿"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "needVerify": -1
     },
     "https://presentory.wondershare.com": {
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "Presentory",
       "desc": "Presentory是万兴科技旗下一款使用AI创建演示文稿的产品。"
     },
     "https://prezi.com": {
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "Prezi",
       "desc": "感动观众的演示，Prezi使用AI能力比以往任何时候都更快地完善、增强和定制您的内容。"
@@ -5961,7 +6003,8 @@
         "职业发展"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://resumeboostai.com": {
@@ -5975,12 +6018,14 @@
         "面试"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://rossum.ai": {
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "Rossum.ai",
       "desc": "深受企业信赖，强大易用的AI智能文档处理平台"
@@ -5996,7 +6041,8 @@
         "表格处理"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://runwayml.com": {
@@ -6130,7 +6176,7 @@
       "type": [
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://shanjian.tv": {
@@ -6160,7 +6206,8 @@
         "桌面客户端"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://shutu.cn": {
@@ -6237,14 +6284,16 @@
     },
     "https://slidesgo.com/ai-presentations": {
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "SlidesGo",
       "desc": "Slidesgo最新推出了AI演示制作工具，它能在几次点击之内，为你制作出符合你需求的精美幻灯片。而且，它完全免费！"
     },
     "https://smartread.cc": {
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "司马阅AI文档",
       "desc": "司马阅(SmartRead)，是一款AI文档阅读分析工具，通过聊天互动形式，精准地从复杂文档提取并分析信息，极大节省文档阅读和检索时间及便捷获取创新灵感，高效应用于工作、学习场景，如读行业市场报告、产品手册、法律文档、论文文献、电子书等。"
@@ -6321,7 +6370,8 @@
       ],
       "type": [
         "AI 智能体",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://speechify.com": {
@@ -6425,9 +6475,12 @@
       "type": [
         "AI 搜索引擎",
         "AI 文档办公",
+        "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -6514,7 +6567,8 @@
     },
     "https://timelyapp.com": {
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "Timely",
       "desc": "一款AI时间管理工具！可以帮助你更有效地管理时间"
@@ -6957,7 +7011,8 @@
       ],
       "type": [
         "AI 写作助手",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://wepik.com/ai": {
@@ -7004,6 +7059,7 @@
       "type": [
         "AI 思维导图",
         "AI 文档办公",
+        "AI 学习资源",
         "AI 图像处理"
       ]
     },
@@ -7036,6 +7092,7 @@
     "https://wordai.com": {
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 写作助手"
       ],
       "title": "WordAi",
@@ -7108,6 +7165,7 @@
       ],
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 写作助手"
       ]
     },
@@ -7152,7 +7210,8 @@
         "求职辅助"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.6pen.pro": {
@@ -7293,7 +7352,8 @@
     },
     "https://www.aippt.cn": {
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "aiPPT",
       "desc": "通过简单的文字自动生成想要的精致PPT",
@@ -7521,6 +7581,7 @@
       ],
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 图像处理"
       ]
     },
@@ -7710,6 +7771,7 @@
         "AI 聊天对话",
         "AI 搜索引擎",
         "AI 文档办公",
+        "AI 学习资源",
         "AI 绘图"
       ]
     },
@@ -8004,7 +8066,8 @@
         "文档处理"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.doubao.com/chat/": {
@@ -8077,7 +8140,8 @@
         "免费"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.erase.bg": {
@@ -8189,7 +8253,8 @@
         "求职工具"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.formx.ai": {
@@ -8204,7 +8269,8 @@
         "结构化数据"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.fotor.com/cn": {
@@ -8500,7 +8566,8 @@
       "type": [
         "AI 语音生成",
         "AI 翻译工具",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.ihuiwa.com": {
@@ -8596,7 +8663,8 @@
       ],
       "type": [
         "AI 图像处理",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.iwencai.com": {
@@ -8730,7 +8798,8 @@
         "工具"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.kimi.com/coding/docs/kimi-cli.html": {
@@ -9014,6 +9083,7 @@
       ],
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 图像处理"
       ]
     },
@@ -9249,7 +9319,8 @@
         "协作"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.paddlepaddle.org.cn": {
@@ -9423,7 +9494,8 @@
         "GPT-4"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.processon.com": {
@@ -9517,7 +9589,8 @@
         "桌面客户端"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.qiniu.com/ai/promotion/invited?cps_key=1h8fh294ny15e": {
@@ -9566,7 +9639,8 @@
         "APP"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.quququ.cn": {
@@ -9652,7 +9726,8 @@
         "就业"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.rezi.ai/ai-resume-builder": {
@@ -9668,7 +9743,8 @@
         "国外精选"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.runwayml.com": {
@@ -10005,7 +10081,8 @@
     },
     "https://www.taskade.com": {
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "Taskade",
       "desc": "高颜值AI大纲和思维导图生成，统一您的工作流程"
@@ -10195,7 +10272,8 @@
     "https://www.volcengine.com/experience/ark": {
       "type": [
         "AI 翻译工具",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "tags": [
         "deepseek",
@@ -10224,6 +10302,7 @@
     "https://www.wanzhi.com": {
       "type": [
         "AI 文档办公",
+        "AI 学习资源",
         "AI 写作助手"
       ],
       "star": 2,
@@ -10319,7 +10398,8 @@
         "模板下载"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.wujieai.com": {
@@ -10342,7 +10422,8 @@
       "type": [
         "AI 图像处理",
         "AI 绘图",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ],
       "title": "美图 AI PPT",
       "desc": "美图设计室是一款由中国互联网公司美图公司开发的图像处理、照片编辑和设计软件。"
@@ -10427,7 +10508,8 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://www.yeschat.ai": {
@@ -10573,7 +10655,8 @@
         "智能表格"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://x.ai": {
@@ -10710,7 +10793,8 @@
       "title": "印象 AI",
       "desc": "「印象笔记」X「印象AI」会创作的第二大脑",
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://yiyan.baidu.com": {
@@ -10793,7 +10877,8 @@
       ],
       "type": [
         "AI 智能体",
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://yunxiu.meitu.com/home": {
@@ -10837,7 +10922,8 @@
       "title": "Zapier AI",
       "desc": "赞！Zapier推出的AI自动化集成功能",
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://zeemo.ai/cn": {
@@ -10889,7 +10975,8 @@
         "创作"
       ],
       "type": [
-        "AI 文档办公"
+        "AI 文档办公",
+        "AI 学习资源"
       ]
     },
     "https://zhumengdao.com": {
