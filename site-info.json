@@ -1647,9 +1647,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -2016,9 +2014,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:52.159.244.81:1781128248.593\"></meta></head></html>"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -4707,7 +4703,9 @@
         "AI 视频生成"
       ],
       "title": "Mubert",
-      "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。"
+      "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://mvsep.com/zh": {
       "title": "MVSEP",
@@ -6477,8 +6475,9 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][567]Unknown Status"
+      "needVerify": 7,
+      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\"",
+      "hide": 1
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -9726,9 +9725,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.rezi.ai/ai-resume-builder": {
       "title": "Rezi",
@@ -10579,9 +10576,7 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.ysdaima.com": {
       "title": "颜色代码表",
