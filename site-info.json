@@ -1421,7 +1421,7 @@
       ],
       "title": "ChatPPT",
       "desc": "必优科技推出的中文AI生成PPT的办公产品",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]connect ECONNREFUSED 36.134.171.175:443"
     },
     "https://chat-simplifier.imzbb.cc": {
@@ -1649,9 +1649,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -3501,7 +3499,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://hunyuan.tencent.com": {
       "type": [
