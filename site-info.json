@@ -1681,7 +1681,9 @@
       "source": "recommend",
       "needLogin": 1,
       "desc": "Best AI Content Writer",
-      "title": "ChattyAid"
+      "title": "ChattyAid",
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://chuangyi.taobao.com/pages/aiCopy": {
       "type": [
@@ -6890,7 +6892,9 @@
         "AI 行业工具"
       ],
       "title": "Wanderlog",
-      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！"
+      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！",
+      "needVerify": 1,
+      "errmsg": "[error][500]Internal Server Error"
     },
     "https://wantalk.baidu.com": {
       "title": "万话",
@@ -9943,9 +9947,7 @@
         "大厂合集",
         "智能体",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
+      ]
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
