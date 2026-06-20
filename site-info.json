@@ -1682,7 +1682,7 @@
       "needLogin": 1,
       "desc": "Best AI Content Writer",
       "title": "ChattyAid",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://chuangyi.taobao.com/pages/aiCopy": {
@@ -2016,7 +2016,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:13.83.162.34:1781989514.032\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2782,7 +2784,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://gamma.ai": {
       "title": "Gamma.ai",
@@ -6892,9 +6896,7 @@
         "AI 行业工具"
       ],
       "title": "Wanderlog",
-      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！",
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      "desc": "【旅游】Wanderlog是一款旅行规划AI助手，使用它来规划下下一场旅行吧！"
     },
     "https://wantalk.baidu.com": {
       "title": "万话",
@@ -10084,7 +10086,9 @@
         "AI 学习资源"
       ],
       "title": "Taskade",
-      "desc": "高颜值AI大纲和思维导图生成，统一您的工作流程"
+      "desc": "高颜值AI大纲和思维导图生成，统一您的工作流程",
+      "needVerify": 1,
+      "errmsg": "[error][504]Gateway Timeout"
     },
     "https://www.tawk.to": {
       "title": "tawk.to",
