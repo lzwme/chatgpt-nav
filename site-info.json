@@ -11023,6 +11023,13 @@
       "type": [
         "AI 写作助手"
       ]
+    },
+    "https://imagineclip.com": {
+      "type": [
+        "AI 视频生成"
+      ],
+      "title": "ImagineClip",
+      "desc": "ImagineClip 是一款 AI 视频生成工具，可从提示词、图片和效果生成头像短片、风格化场景和适合社交平台分享的视频。"
     }
   }
 }
