@@ -1420,7 +1420,9 @@
         "PPT"
       ],
       "title": "ChatPPT",
-      "desc": "必优科技推出的中文AI生成PPT的办公产品"
+      "desc": "必优科技推出的中文AI生成PPT的办公产品",
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 36.134.171.175:443"
     },
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
@@ -1682,7 +1684,7 @@
       "needLogin": 1,
       "desc": "Best AI Content Writer",
       "title": "ChattyAid",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://chuangyi.taobao.com/pages/aiCopy": {
@@ -1953,9 +1955,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
+      ]
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -2129,9 +2129,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 3,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -3915,9 +3913,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
+      ]
     },
     "https://kastro.chat": {
       "title": "Kastro",
@@ -10202,7 +10198,7 @@
       ],
       "title": "TutorEva",
       "desc": "TutorEva是一个AI数学导师，用拍照AI识别来解决数学问题，TutorEva将在几秒钟内解决它们，即使是几何和应用题等难题。虚拟化身和互动教学使数学学习生动而简单。",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.tutoreva.ai"
     },
     "https://www.unscreen.com": {
@@ -10371,9 +10367,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 3,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10894,9 +10888,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 3,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1193:18)\n    at internalConnectMultiple (node:net:1269:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1810:"
+      "desc": "商业级AI影像处理工具"
     },
     "https://z.ai": {
       "title": "Z.ai",
