@@ -1239,7 +1239,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]connect ECONNREFUSED 123.56.127.130:443"
     },
     "https://brandmark.io": {
@@ -1617,7 +1617,9 @@
       "tags": [
         "大厂合集",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chathub.gg": {
       "title": "ChatHub",
@@ -2019,9 +2021,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:52.162.9.242:1782593497.895\"></meta></head></html>"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -3625,7 +3625,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://imagine.meta.com": {
       "title": "Imagine with Meta",
@@ -3934,7 +3936,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND kastro.chat"
     },
     "https://katteb.com/en": {
@@ -6299,7 +6301,9 @@
         "AI 学习资源"
       ],
       "title": "司马阅AI文档",
-      "desc": "司马阅(SmartRead)，是一款AI文档阅读分析工具，通过聊天互动形式，精准地从复杂文档提取并分析信息，极大节省文档阅读和检索时间及便捷获取创新灵感，高效应用于工作、学习场景，如读行业市场报告、产品手册、法律文档、论文文献、电子书等。"
+      "desc": "司马阅(SmartRead)，是一款AI文档阅读分析工具，通过聊天互动形式，精准地从复杂文档提取并分析信息，极大节省文档阅读和检索时间及便捷获取创新灵感，高效应用于工作、学习场景，如读行业市场报告、产品手册、法律文档、论文文献、电子书等。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://smodin.io/zh-cn": {
       "type": [
@@ -6719,7 +6723,9 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器"
+      "desc": "免费的在线文本转语音神器",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
       "type": [
@@ -6837,9 +6843,7 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
     },
     "https://vizard.ai": {
       "type": [
@@ -10205,8 +10209,9 @@
       ],
       "title": "TutorEva",
       "desc": "TutorEva是一个AI数学导师，用拍照AI识别来解决数学问题，TutorEva将在几秒钟内解决它们，即使是几何和应用题等难题。虚拟化身和互动教学使数学学习生动而简单。",
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.tutoreva.ai"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.tutoreva.ai",
+      "hide": 1
     },
     "https://www.unscreen.com": {
       "type": [
