@@ -526,7 +526,9 @@
         "deepseek",
         "API"
       ],
-      "lang": "zh"
+      "lang": "zh",
+      "needVerify": 1,
+      "errmsg": "[error][-1]write EPROTO 407D68B4BB7F0000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n"
     },
     "https://aicolors.co": {
       "type": [
@@ -1239,7 +1241,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]connect ECONNREFUSED 123.56.127.130:443"
     },
     "https://brandmark.io": {
@@ -1617,9 +1619,7 @@
       "tags": [
         "大厂合集",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chathub.gg": {
       "title": "ChatHub",
@@ -2021,7 +2021,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:57.151.138.3:1782767838.376\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -3626,7 +3628,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://imagine.meta.com": {
@@ -3918,7 +3920,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://kastro.chat": {
       "title": "Kastro",
@@ -3936,7 +3940,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND kastro.chat"
     },
     "https://katteb.com/en": {
@@ -6301,9 +6305,7 @@
         "AI 学习资源"
       ],
       "title": "司马阅AI文档",
-      "desc": "司马阅(SmartRead)，是一款AI文档阅读分析工具，通过聊天互动形式，精准地从复杂文档提取并分析信息，极大节省文档阅读和检索时间及便捷获取创新灵感，高效应用于工作、学习场景，如读行业市场报告、产品手册、法律文档、论文文献、电子书等。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "司马阅(SmartRead)，是一款AI文档阅读分析工具，通过聊天互动形式，精准地从复杂文档提取并分析信息，极大节省文档阅读和检索时间及便捷获取创新灵感，高效应用于工作、学习场景，如读行业市场报告、产品手册、法律文档、论文文献、电子书等。"
     },
     "https://smodin.io/zh-cn": {
       "type": [
@@ -6723,9 +6725,7 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "免费的在线文本转语音神器"
     },
     "https://tusiart.com": {
       "type": [
