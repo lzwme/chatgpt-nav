@@ -527,8 +527,8 @@
         "API"
       ],
       "lang": "zh",
-      "needVerify": 2,
-      "errmsg": "[error][-1]write EPROTO 403DE8FBDF7F0000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n"
+      "needVerify": 3,
+      "errmsg": "[error][-1]write EPROTO 400D4F38DB7F0000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n"
     },
     "https://aicolors.co": {
       "type": [
@@ -1241,8 +1241,9 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]connect ECONNREFUSED 123.56.127.130:443"
+      "needVerify": 7,
+      "errmsg": "[error][-1]connect ECONNREFUSED 123.56.127.130:443",
+      "hide": 1
     },
     "https://brandmark.io": {
       "type": [
@@ -1651,9 +1652,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -2023,9 +2022,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.171.20.53:1782854547.088\"></meta></head></html>"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2518,7 +2515,9 @@
         "AI 图像处理"
       ],
       "title": "Facecheck ID",
-      "desc": "利用人工智能技术通过照片在线查找人员。"
+      "desc": "利用人工智能技术通过照片在线查找人员。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fancy.tech": {
       "title": "Fancy Tech",
@@ -3705,9 +3704,7 @@
         "AI 视频生成",
         "AI 写作助手",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://inpaintweb.lxfater.com": {
       "title": "Inpaint-web",
@@ -3922,7 +3919,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://kastro.chat": {
       "title": "Kastro",
@@ -3940,7 +3939,7 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND kastro.chat"
     },
     "https://katteb.com/en": {
@@ -4610,9 +4609,7 @@
         "AI 图像处理"
       ],
       "title": "墨刀AI",
-      "desc": "墨刀AI是国内知名产品设计协作平台「墨刀」最新推出的AI产品原型设计助手，帮助产品设计人高效实现和落地创意，激发无限创造力。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "墨刀AI是国内知名产品设计协作平台「墨刀」最新推出的AI产品原型设计助手，帮助产品设计人高效实现和落地创意，激发无限创造力。"
     },
     "https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary": {
       "title": "Motionshop",
@@ -9034,7 +9031,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://www.marsx.dev": {
       "type": [
@@ -9989,9 +9988,7 @@
       "type": [
         "AI 写作助手",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.studywithgpt.com/zh-cn": {
       "title": "Study with GPT",
@@ -11021,9 +11018,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://zuojia.baidu.com": {
       "title": "百度作家平台",
