@@ -527,8 +527,8 @@
         "API"
       ],
       "lang": "zh",
-      "needVerify": 3,
-      "errmsg": "[error][-1]write EPROTO 400D4F38DB7F0000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n"
+      "needVerify": 4,
+      "errmsg": "[error][-1]write EPROTO 40DDE94C377F0000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n"
     },
     "https://aicolors.co": {
       "type": [
@@ -1425,7 +1425,9 @@
         "PPT"
       ],
       "title": "ChatPPT",
-      "desc": "必优科技推出的中文AI生成PPT的办公产品"
+      "desc": "必优科技推出的中文AI生成PPT的办公产品",
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://chat-simplifier.imzbb.cc": {
       "repo": "zhengbangbo/chat-simplifier",
@@ -2515,9 +2517,7 @@
         "AI 图像处理"
       ],
       "title": "Facecheck ID",
-      "desc": "利用人工智能技术通过照片在线查找人员。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "利用人工智能技术通过照片在线查找人员。"
     },
     "https://fancy.tech": {
       "title": "Fancy Tech",
@@ -3920,7 +3920,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://kastro.chat": {
@@ -3939,8 +3939,9 @@
         "AI 聊天对话",
         "AI 行业工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND kastro.chat"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND kastro.chat",
+      "hide": 1
     },
     "https://katteb.com/en": {
       "title": "Katteb",
@@ -8047,7 +8048,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.designify.com": {
       "title": "Designify",
@@ -9031,9 +9034,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][404]Not Found"
+      ]
     },
     "https://www.marsx.dev": {
       "type": [
