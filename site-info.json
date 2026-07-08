@@ -5928,6 +5928,25 @@
         "AI 绘图"
       ]
     },
+    "https://remio.ai/": {
+      "title": "Remio",
+      "intro": "本地 AI 个人知识库",
+      "desc": "Remio 是一款本地优先的 AI 个人知识库桌面应用，可解析文件、网页、录音、邮件、聊天记录、图片和笔记，并在本地建立索引和向量，帮助用户和 Agent 快速检索个人上下文，减少反复扫描目录或整篇加载文档带来的 token 成本。",
+      "lang": "zh",
+      "tags": [
+        "个人知识库",
+        "文档办公",
+        "本地索引",
+        "AI记忆",
+        "Agent上下文"
+      ],
+      "type": [
+        "AI 文档办公"
+      ],
+      "needLogin": 1,
+      "needPay": 1,
+      "needVerify": 1
+    },
     "https://replicate.com/lucataco/whisperspeech-small": {
       "title": "Whisper Speech",
       "intro": "开源文本转语音系统",
