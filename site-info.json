@@ -312,7 +312,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai-detector.info"
     },
     "https://ai-tools.cn/resume": {
@@ -627,7 +627,7 @@
         "AI 综合工具"
       ],
       "title": "AI帮个忙",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://aivideo.hunyuan.tencent.com": {
@@ -1097,7 +1097,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://bibigpt.co": {
       "type": [
@@ -1214,7 +1216,9 @@
       "tags": [
         "综合工具",
         "大厂合集"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://botsheets.com": {
       "title": "Botsheets AI Writer",
@@ -1964,9 +1968,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      ]
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -2029,7 +2031,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:4.246.117.76:1783802319.011\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2140,9 +2144,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -3433,7 +3435,9 @@
         "AI 图像处理"
       ],
       "title": "PLUG AI",
-      "desc": "AI辅助包装设计！并对包装方案生成分析评估"
+      "desc": "AI辅助包装设计！并对包装方案生成分析评估",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://huemint.com/brand-intersection": {
       "type": [
@@ -4419,7 +4423,9 @@
       "type": [
         "AI 图像处理",
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://meeting.iflyrec.com": {
       "title": "讯飞会议",
@@ -6309,7 +6315,9 @@
       "desc": "360AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。",
       "type": [
         "AI 搜索引擎"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://so.csdn.net/chat": {
       "type": [
@@ -9948,9 +9956,7 @@
         "大厂合集",
         "智能体",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      ]
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
@@ -10371,9 +10377,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10551,9 +10555,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.yinziai.com": {
       "title": "音子 AI",
@@ -10896,9 +10898,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      "desc": "商业级AI影像处理工具"
     },
     "https://z.ai": {
       "title": "Z.ai",
