@@ -299,23 +299,6 @@
         "AI 写作助手"
       ]
     },
-    "https://ai-detector.info": {
-      "title": "AI Detector",
-      "intro": "检测AI生成的内容",
-      "desc": "AI Detector是一个在线工具，使用先进的算法和机器学习来检测文本是否由AI生成。它可以分析写作风格和句子结构，判断内容是否由ChatGPT、GPT 4、Bard、Claude或人类创作。您可以免费使用AI Detector，每次最多检测1000个字，并获得95%的准确率。",
-      "lang": "en",
-      "tags": [
-        "写作",
-        "检测工具",
-        "其他"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND ai-detector.info",
-      "hide": 1
-    },
     "https://ai-tools.cn/resume": {
       "title": "AI简历",
       "intro": "一键制作高质量简历,狂斩Offer",
@@ -515,24 +498,6 @@
       "type": [
         "AI 聊天对话"
       ]
-    },
-    "https://aicnn.cn/loginPage?aff=4MvsDBGxfZ": {
-      "title": "AICNN",
-      "desc": "提供稳定的GPT超级大模型服务，包括AI绘画、AI语音生成和人工智能对话，支持文本解析、文件解析和OCR",
-      "star": 1,
-      "type": [
-        "AI 综合工具",
-        "AI 聊天对话"
-      ],
-      "tags": [
-        "AI开放平台",
-        "deepseek",
-        "API"
-      ],
-      "lang": "zh",
-      "needVerify": 7,
-      "errmsg": "[error][-1]write EPROTO 401D89A0817F0000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n",
-      "hide": 1
     },
     "https://aicolors.co": {
       "type": [
@@ -1222,23 +1187,6 @@
         "AI 学习资源"
       ]
     },
-    "https://botsmart.net": {
-      "title": "博特妙笔",
-      "intro": "AI写作工具，公文写作神器",
-      "desc": "博特妙笔是国内领先的AIGC大模型公文写作平台，集查、写、审、学一体的在线公文写作神器。拥有公文内容权威供给、公文内容决策辅助、公文内容自动生成、公文内容AI审核四项核心能力。通过AI生成、AI润色、AI校对、AI续写、AI灵感的出色能力以及丰富的公文写作素材、公文范文、公文模板数据库，为公职人员公文写作提效降本、知识赋能。",
-      "lang": "zh",
-      "tags": [
-        "AI写作",
-        "公文写作",
-        "效率工具"
-      ],
-      "type": [
-        "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]connect ECONNREFUSED 123.56.127.130:443",
-      "hide": 1
-    },
     "https://brandmark.io": {
       "type": [
         "AI 绘图",
@@ -1682,10 +1630,7 @@
       "source": "recommend",
       "needLogin": 1,
       "desc": "Best AI Content Writer",
-      "title": "ChattyAid",
-      "needVerify": 7,
-      "errmsg": "[error][502]Bad Gateway",
-      "hide": 1
+      "title": "ChattyAid"
     },
     "https://chuangyi.taobao.com/pages/aiCopy": {
       "type": [
@@ -1840,7 +1785,7 @@
       "star": 3,
       "sort": -100,
       "needLogin": 1,
-      "desc": "硅基流动 x 华为云联合推出基于昇腾云的 DeepSeek R1 & V3 推理服务，注册即可体验→",
+      "desc": "注册认证送16元全平台通用代金券。可使用GLM、Deepseek、Minmax等最新开源顶级模型",
       "title": "硅基流动",
       "tags": [
         "语言模型",
@@ -2451,10 +2396,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][402]Payment Required",
-      "hide": 1
+      ]
     },
     "https://excelly-ai.io": {
       "title": "Excelly-AI",
@@ -3899,26 +3841,6 @@
       "type": [
         "AI 图像处理"
       ]
-    },
-    "https://kastro.chat": {
-      "title": "Kastro",
-      "intro": "增强客户体验的AI助手",
-      "desc": "Kastro是一个基于ChatGPT的AI聊天机器人，可用于客户支持。它提供即时响应，降低支持成本，增强客户体验。您可以在几分钟内创建和训练一个ChatGPT-powered AI聊天机器人，它可以快速学习和改进以提供更好的响应。Kastro提供24/7即时支持，通过优化和改进客户支持流程，降低支持运营成本。",
-      "lang": "en",
-      "tags": [
-        "聊天机器人",
-        "客户支持",
-        "智能客服",
-        "24/7即时支持",
-        "智能聊天"
-      ],
-      "type": [
-        "AI 聊天对话",
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND kastro.chat",
-      "hide": 1
     },
     "https://katteb.com/en": {
       "title": "Katteb",
@@ -5806,10 +5728,7 @@
         "AI 国外工具"
       ],
       "title": "QoQo",
-      "desc": "AI快速创建用户旅程地图",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
+      "desc": "AI快速创建用户旅程地图"
     },
     "https://quillbot.com": {
       "type": [
@@ -6468,10 +6387,7 @@
         "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\"",
-      "hide": 1
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -10187,16 +10103,6 @@
       ],
       "title": "Turnitin",
       "desc": "【教育】Turnitin是一款促进学术诚信，简化评分和反馈，防止抄袭，并改善学生的学习成果的产品。"
-    },
-    "https://www.tutoreva.ai": {
-      "type": [
-        "AI 写作助手"
-      ],
-      "title": "TutorEva",
-      "desc": "TutorEva是一个AI数学导师，用拍照AI识别来解决数学问题，TutorEva将在几秒钟内解决它们，即使是几何和应用题等难题。虚拟化身和互动教学使数学学习生动而简单。",
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.tutoreva.ai",
-      "hide": 1
     },
     "https://www.unscreen.com": {
       "type": [
