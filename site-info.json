@@ -461,7 +461,9 @@
       ],
       "star": 3,
       "title": "WPS AI",
-      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。"
+      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://ai117.com": {
       "needVPN": 1,
@@ -644,7 +646,9 @@
       "tags": [
         "CLI",
         "IDE"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
@@ -1035,7 +1039,9 @@
       ],
       "type": [
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://bgsub.cn": {
       "title": "BgSub",
@@ -1051,7 +1057,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://bibigpt.co": {
       "type": [
@@ -1154,7 +1162,9 @@
         "AI 绘图"
       ],
       "title": "Booltool",
-      "desc": "多合一AI图像处理网站，快速进行编辑修整"
+      "desc": "多合一AI图像处理网站，快速进行编辑修整",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://bot.360.com": {
       "type": [
@@ -1327,7 +1337,9 @@
       "type": [
         "AI 角色生成",
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://charisma.ai": {
       "type": [
@@ -1491,7 +1503,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatboxai.app/zh": {
       "title": "Chatbox",
@@ -1898,7 +1912,9 @@
       ],
       "type": [
         "AI 编程开发"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -2072,7 +2088,9 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -2176,7 +2194,9 @@
       ],
       "tags": [
         "CLI"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://docs.factory.ai": {
       "title": "Factory Droid",
@@ -2300,7 +2320,9 @@
         "openclaw",
         "智能体"
       ],
-      "repo": "https://github.com/gaoyangz77/easyclaw"
+      "repo": "https://github.com/gaoyangz77/easyclaw",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://effidit.qq.com": {
       "type": [
@@ -2509,7 +2531,9 @@
       ],
       "icon": "https://dlweb.sogoucdn.com/translate/favicon.ico",
       "title": "搜狗翻译",
-      "desc": "支持中、英、法、日等50多种语言之间的互译功能"
+      "desc": "支持中、英、法、日等50多种语言之间的互译功能",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fanyi.xfyun.cn/console/trans/text": {
       "type": [
@@ -2559,7 +2583,9 @@
       "type": [
         "AI 行业工具",
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://fireflies.ai": {
       "title": "fireflies.ai",
@@ -2644,7 +2670,9 @@
       ],
       "type": [
         "AI 翻译工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://formulabot.com": {
       "title": "Excel Formula Bot",
@@ -3390,7 +3418,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://humanaigc.github.io/animate-anyone/": {
       "title": "Animate Anyone",
@@ -4342,7 +4372,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://meeting.tencent.com/ai/": {
       "title": "腾讯会议·AI小助手",
@@ -4740,7 +4772,7 @@
         "团队协作",
         "桌面客户端"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://novamss.com": {
@@ -5234,7 +5266,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://pi.dev": {
       "title": "PI",
@@ -6066,9 +6100,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -6099,7 +6131,9 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://sheetai.app/�": {
       "title": "SheetAI.app",
@@ -6324,7 +6358,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://stepchat.cn/chats/new": {
       "title": "跃问",
@@ -6339,7 +6375,9 @@
       ],
       "type": [
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://studycorgi.com/free-writing-tools/chat-gpt-detector/": {
       "title": "Chat GPT Detector for Essays",
@@ -6386,8 +6424,8 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 2,
-      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\""
+      "needVerify": 3,
+      "errmsg": "[error][-1]timeout"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -6623,7 +6661,7 @@
       "star": 2,
       "title": "TTSMaker马克配音",
       "desc": "免费的在线文本转语音神器",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
@@ -6950,7 +6988,9 @@
       "type": [
         "AI 数字人",
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://whimsical.com": {
       "title": "Whimsical",
@@ -7305,7 +7345,9 @@
       ],
       "type": [
         "AI 提示词"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.aiva.ai": {
       "title": "Aiva",
@@ -7693,7 +7735,9 @@
       ],
       "tags": [
         "IDE"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.codebuddy.cn/agents/": {
       "title": "CodeBuddy Agent",
@@ -7704,7 +7748,9 @@
       ],
       "tags": [
         "智能体"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.codebuddy.cn/cli/": {
       "title": "CodeBuddy Code",
@@ -7715,7 +7761,9 @@
       ],
       "tags": [
         "CLI"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.codebuddy.cn/ide/": {
       "title": "CodeBuddy IDE",
@@ -7727,7 +7775,9 @@
       "tags": [
         "IDE",
         "vscode"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.codebuddy.cn/work/": {
       "title": "WorkBuddy腾讯版龙虾",
@@ -7742,7 +7792,9 @@
         "openclaw",
         "智能体"
       ],
-      "repo": "https://github.com/sipeed/picoclaw"
+      "repo": "https://github.com/sipeed/picoclaw",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.copy.ai": {
       "type": [
@@ -7947,7 +7999,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.designify.com": {
       "title": "Designify",
@@ -8014,7 +8068,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.editage.cn/paperpal": {
       "type": [
@@ -8223,7 +8279,9 @@
         "AI 绘图"
       ],
       "title": "稿定AI",
-      "desc": "稿定智能设计工具是一款智能化的设计工具，采用先进的人工智能技术，自动分析和生成设计方案。只需稍作调整，即可完成完美的设计。"
+      "desc": "稿定智能设计工具是一款智能化的设计工具，采用先进的人工智能技术，自动分析和生成设计方案。只需稍作调整，即可完成完美的设计。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://www.genmo.ai": {
       "type": [
@@ -8477,7 +8535,9 @@
         "AI 翻译工具",
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://www.ihuiwa.com": {
       "title": "绘蛙",
@@ -8590,7 +8650,9 @@
       ],
       "type": [
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://www.ixigo.com/plan": {
       "type": [
@@ -9016,7 +9078,9 @@
         "AI 图像处理"
       ],
       "title": "模袋云AI",
-      "desc": "模袋云AI是一款在线别墅设计神器。"
+      "desc": "模袋云AI是一款在线别墅设计神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.modelscope.cn/my/myaccesstoken": {
       "type": [
@@ -9081,7 +9145,9 @@
         "AI 语音生成"
       ],
       "title": "魔音工坊",
-      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。"
+      "desc": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.muglife.com": {
       "title": "Mug Life",
@@ -9421,7 +9487,9 @@
       ],
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.productai.photo": {
       "title": "ProductAI",
@@ -9724,7 +9792,9 @@
       ],
       "title": "商汤日日新Token Plan",
       "star": 3,
-      "desc": "商汤SenseNova Token Plan公测阶段免费使用！精选模型与用量方案，支持 Hermes Agent、OpenClaw 与 Cowork-Skills 办公场景。"
+      "desc": "商汤SenseNova Token Plan公测阶段免费使用！精选模型与用量方案，支持 Hermes Agent、OpenClaw 与 Cowork-Skills 办公场景。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.shenyandayi.com": {
       "type": [
@@ -9857,7 +9927,9 @@
         "大厂合集",
         "智能体",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
@@ -9871,7 +9943,9 @@
         "agent",
         "cowork",
         "智能体"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
@@ -10260,7 +10334,9 @@
         "AI 电商工具"
       ],
       "title": "WeShop",
-      "desc": "AI商拍工具，在WeShop再也不会受到模特限制，鼠标就是快门，点击就看成片。"
+      "desc": "AI商拍工具，在WeShop再也不会受到模特限制，鼠标就是快门，点击就看成片。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.whee.com": {
       "type": [
@@ -10268,7 +10344,9 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10384,7 +10462,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.xingyeai.com": {
       "type": [
@@ -10446,7 +10526,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.yinziai.com": {
       "title": "音子 AI",
@@ -10464,7 +10546,9 @@
       "type": [
         "AI 视频生成",
         "AI 语音生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.youchuan.com": {
       "title": "悠船",
@@ -10697,7 +10781,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://yiyan.baidu.com": {
       "type": [
@@ -10789,7 +10875,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://z.ai": {
       "title": "Z.ai",
@@ -10893,7 +10981,9 @@
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://zoomscape.ai": {
       "title": "Zoomscape AI",
