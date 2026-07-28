@@ -645,7 +645,7 @@
         "CLI",
         "IDE"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://answerai.pro": {
@@ -1148,9 +1148,7 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "desc": "多功能的AI图片处理工具箱"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -1599,8 +1597,8 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN chatlify.me"
+      "needVerify": 3,
+      "errmsg": "[error][-1]timeout"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -1968,8 +1966,8 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:128.24.162.176:1785186164.237\"></meta></head></html>"
+      "needVerify": 2,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:172.183.149.64:1785272358.930\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2652,9 +2650,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      ]
     },
     "https://formulabot.com": {
       "title": "Excel Formula Bot",
@@ -3370,7 +3366,9 @@
         "AI 图像处理"
       ],
       "title": "PLUG AI",
-      "desc": "AI辅助包装设计！并对包装方案生成分析评估"
+      "desc": "AI辅助包装设计！并对包装方案生成分析评估",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://huemint.com/brand-intersection": {
       "type": [
@@ -4750,7 +4748,7 @@
         "团队协作",
         "桌面客户端"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][404]Not Found"
     },
     "https://novamss.com": {
@@ -6394,7 +6392,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\""
     },
     "https://synthesys.io/x": {
@@ -6656,7 +6654,9 @@
         "AI 国外工具"
       ],
       "title": "uberduck",
-      "desc": "开源的AI语音生成平台"
+      "desc": "开源的AI语音生成平台",
+      "needVerify": 1,
+      "errmsg": "[error][402]Payment Required"
     },
     "https://uizard.io/autodesigner": {
       "type": [
@@ -6748,9 +6748,7 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
     },
     "https://vizard.ai": {
       "type": [
@@ -7225,9 +7223,7 @@
       "desc": "造字神器！ 仅需8个汉字即可生成一套6K+中文字库",
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://www.aichatting.net": {
       "type": [
@@ -8046,7 +8042,9 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
@@ -8909,9 +8907,7 @@
         "AI 图像处理"
       ],
       "title": "标小智",
-      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。"
     },
     "https://www.loom.com": {
       "type": [
@@ -10801,7 +10797,9 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具"
+      "desc": "商业级AI影像处理工具",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://z.ai": {
       "title": "Z.ai",
