@@ -645,7 +645,7 @@
         "CLI",
         "IDE"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://answerai.pro": {
@@ -1597,7 +1597,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatmind.tech/editor": {
@@ -1966,8 +1966,8 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 2,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:172.183.149.64:1785272358.930\"></meta></head></html>"
+      "needVerify": 3,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.168.119.80:1785357808.139\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2585,7 +2585,9 @@
         "AI 搜索引擎",
         "AI 会议助手",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://firefly.adobe.com": {
       "type": [
@@ -2699,7 +2701,9 @@
         "AI驱动",
         "网站编辑器",
         "托管服务"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -3367,7 +3371,7 @@
       ],
       "title": "PLUG AI",
       "desc": "AI辅助包装设计！并对包装方案生成分析评估",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://huemint.com/brand-intersection": {
@@ -3599,7 +3603,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://imgupscaler.com": {
       "title": "Img Upscaler",
@@ -4748,7 +4754,7 @@
         "团队协作",
         "桌面客户端"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][404]Not Found"
     },
     "https://novamss.com": {
@@ -5861,7 +5867,9 @@
       "type": [
         "AI 语音生成",
         "AI 开源工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://replicate.com/pharmapsychotic/clip-interrogator": {
       "type": [
@@ -6233,7 +6241,9 @@
       "star": 3,
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
-      "title": "C知道"
+      "title": "C知道",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://sora2watermarkremover.net": {
       "title": "Sora2 Watermark Remover",
@@ -6392,8 +6402,9 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\""
+      "needVerify": 7,
+      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\"",
+      "hide": 1
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -6655,7 +6666,7 @@
       ],
       "title": "uberduck",
       "desc": "开源的AI语音生成平台",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][402]Payment Required"
     },
     "https://uizard.io/autodesigner": {
@@ -6708,7 +6719,9 @@
       ],
       "type": [
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://useai.live/hermes/": {
       "repo": "https://github.com/fresh-claw/hermes-zh-cn",
@@ -6723,7 +6736,9 @@
       "type": [
         "AI 智能体",
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://v0.dev": {
       "type": [
@@ -8042,9 +8057,7 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
@@ -9801,7 +9814,9 @@
         "AI 语音生成"
       ],
       "title": "Songtell",
-      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。"
+      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://www.soulgen.net": {
       "type": [
@@ -10797,9 +10812,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "商业级AI影像处理工具"
     },
     "https://z.ai": {
       "title": "Z.ai",
