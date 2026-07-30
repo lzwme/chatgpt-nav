@@ -645,7 +645,7 @@
         "CLI",
         "IDE"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]Parse Error: Header overflow"
     },
     "https://answerai.pro": {
@@ -1597,7 +1597,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://chatmind.tech/editor": {
@@ -1966,8 +1966,8 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 3,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.168.119.80:1785357808.139\"></meta></head></html>"
+      "needVerify": 4,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:135.119.38.48:1785445035.674\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2585,9 +2585,7 @@
         "AI 搜索引擎",
         "AI 会议助手",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      ]
     },
     "https://firefly.adobe.com": {
       "type": [
@@ -2701,9 +2699,7 @@
         "AI驱动",
         "网站编辑器",
         "托管服务"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      ]
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -3370,9 +3366,7 @@
         "AI 图像处理"
       ],
       "title": "PLUG AI",
-      "desc": "AI辅助包装设计！并对包装方案生成分析评估",
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      "desc": "AI辅助包装设计！并对包装方案生成分析评估"
     },
     "https://huemint.com/brand-intersection": {
       "type": [
@@ -3603,9 +3597,7 @@
       ],
       "type": [
         "AI 绘图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      ]
     },
     "https://imgupscaler.com": {
       "title": "Img Upscaler",
@@ -4738,25 +4730,6 @@
         "research"
       ]
     },
-    "https://noty.ai": {
-      "type": [
-        "AI 文档办公",
-        "AI 学习资源",
-        "AI 国外工具",
-        "AI 写作助手"
-      ],
-      "title": "Noty AI",
-      "desc": "ChatGPT驱动的AI会议转录工具",
-      "tags": [
-        "会议转录",
-        "笔记记录",
-        "后续任务",
-        "团队协作",
-        "桌面客户端"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
-    },
     "https://novamss.com": {
       "title": "NovaMSS",
       "intro": "基于AI的新一代音乐源分离工具，一键提取伴奏、人声等。",
@@ -5867,9 +5840,7 @@
       "type": [
         "AI 语音生成",
         "AI 开源工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      ]
     },
     "https://replicate.com/pharmapsychotic/clip-interrogator": {
       "type": [
@@ -6241,9 +6212,7 @@
       "star": 3,
       "needLogin": 1,
       "desc": "由CSDN和外部合作伙伴联合研发的生成式AI产品",
-      "title": "C知道",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "title": "C知道"
     },
     "https://sora2watermarkremover.net": {
       "title": "Sora2 Watermark Remover",
@@ -6666,7 +6635,7 @@
       ],
       "title": "uberduck",
       "desc": "开源的AI语音生成平台",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][402]Payment Required"
     },
     "https://uizard.io/autodesigner": {
@@ -6719,9 +6688,7 @@
       ],
       "type": [
         "AI 综合工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      ]
     },
     "https://useai.live/hermes/": {
       "repo": "https://github.com/fresh-claw/hermes-zh-cn",
@@ -6736,9 +6703,7 @@
       "type": [
         "AI 智能体",
         "AI 综合工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      ]
     },
     "https://v0.dev": {
       "type": [
@@ -9814,9 +9779,7 @@
         "AI 语音生成"
       ],
       "title": "Songtell",
-      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。"
     },
     "https://www.soulgen.net": {
       "type": [
