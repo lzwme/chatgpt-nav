@@ -645,8 +645,9 @@
         "CLI",
         "IDE"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]Parse Error: Header overflow"
+      "needVerify": 7,
+      "errmsg": "[error][-1]Parse Error: Header overflow",
+      "hide": 1
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
@@ -1148,7 +1149,9 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱"
+      "desc": "多功能的AI图片处理工具箱",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -1597,8 +1600,8 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 5,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 6,
+      "errmsg": "[error][-1]getaddrinfo EAI_AGAIN chatlify.me"
     },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
@@ -1966,8 +1969,8 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 4,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:135.119.38.48:1785445035.674\"></meta></head></html>"
+      "needVerify": 5,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:52.160.166.65:1785531234.997\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2730,7 +2733,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://gamma.ai": {
       "title": "Gamma.ai",
@@ -6635,7 +6640,7 @@
       ],
       "title": "uberduck",
       "desc": "开源的AI语音生成平台",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][402]Payment Required"
     },
     "https://uizard.io/autodesigner": {
@@ -6728,7 +6733,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
@@ -8347,7 +8354,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.hanlinmiaobi.com"
     },
     "https://www.heyfriday.cn/home": {
       "type": [
