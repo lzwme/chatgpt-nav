@@ -934,7 +934,9 @@
         "AI 视频生成"
       ],
       "title": "Audo Studio",
-      "desc": "听起来很棒！AI一键清除音频背景杂音"
+      "desc": "听起来很棒！AI一键清除音频背景杂音",
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://autoglm.zhipuai.cn": {
       "title": "AutoGLM",
@@ -1149,7 +1151,9 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱"
+      "desc": "多功能的AI图片处理工具箱",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -1904,9 +1908,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      ]
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -1969,9 +1971,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:135.119.235.85:1785703390.545\"></meta></head></html>"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2082,9 +2082,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -6641,8 +6639,9 @@
       ],
       "title": "uberduck",
       "desc": "开源的AI语音生成平台",
-      "needVerify": 6,
-      "errmsg": "[error][402]Payment Required"
+      "needVerify": 7,
+      "errmsg": "[error][402]Payment Required",
+      "hide": 1
     },
     "https://uizard.io/autodesigner": {
       "type": [
@@ -8028,7 +8027,9 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
@@ -8354,7 +8355,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.hanlinmiaobi.com"
     },
     "https://www.heyfriday.cn/home": {
@@ -8584,9 +8585,7 @@
       ],
       "type": [
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      ]
     },
     "https://www.ixigo.com/plan": {
       "type": [
@@ -9867,7 +9866,9 @@
         "agent",
         "cowork",
         "智能体"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
@@ -10264,9 +10265,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10788,7 +10787,7 @@
       ],
       "title": "美图云修",
       "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://z.ai": {
