@@ -934,9 +934,7 @@
         "AI 视频生成"
       ],
       "title": "Audo Studio",
-      "desc": "听起来很棒！AI一键清除音频背景杂音",
-      "needVerify": 1,
-      "errmsg": "[error][-1]read ECONNRESET"
+      "desc": "听起来很棒！AI一键清除音频背景杂音"
     },
     "https://autoglm.zhipuai.cn": {
       "title": "AutoGLM",
@@ -1151,9 +1149,7 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "多功能的AI图片处理工具箱"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -6868,7 +6864,9 @@
       ],
       "type": [
         "AI 网站生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND webassistants.ai"
     },
     "https://webflow.com": {
       "type": [
@@ -8027,9 +8025,7 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
@@ -8355,7 +8351,7 @@
       "type": [
         "AI 写作助手"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.hanlinmiaobi.com"
     },
     "https://www.heyfriday.cn/home": {
@@ -9867,7 +9863,7 @@
         "cowork",
         "智能体"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
     },
     "https://www.storynest.ai": {
@@ -10265,7 +10261,9 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10443,7 +10441,9 @@
       ],
       "type": [
         "AI 图像处理"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.yinziai.com": {
       "title": "音子 AI",
@@ -10786,9 +10786,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 2,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1194:18)\n    at internalConnectMultiple (node:net:1270:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1811:"
+      "desc": "商业级AI影像处理工具"
     },
     "https://z.ai": {
       "title": "Z.ai",
