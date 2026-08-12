@@ -5787,6 +5787,25 @@
         "AI 行业工具"
       ]
     },
+    "https://raoedits.top": {
+      "title": "Rao Edits",
+      "intro": "AI 图像生成与参考图编辑平台",
+      "desc": "支持文本生成图片和参考图再创作，可用于社交内容、产品图、CapCut 模板和创意工作流。",
+      "lang": "en",
+      "star": 1,
+      "needLogin": 1,
+      "needVerify": 1,
+      "tags": [
+        "AI 绘图",
+        "图像生成",
+        "图片编辑",
+        "国外精选"
+      ],
+      "type": [
+        "AI 绘图",
+        "AI 图像处理"
+      ]
+    },
     "https://remini.ai": {
       "title": "ReminiAI",
       "intro": "将您的老照片变成高清杰作",
