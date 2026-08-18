@@ -7948,7 +7948,7 @@
       "type": [
         "AI 图像处理"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.designify.com": {
@@ -9862,7 +9862,9 @@
         "大厂合集",
         "智能体",
         "API"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1339:18)\n    at internalConnectMultiple (node:net:1415:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1969:"
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
@@ -9876,7 +9878,9 @@
         "agent",
         "cowork",
         "智能体"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1339:18)\n    at internalConnectMultiple (node:net:1415:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1969:"
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
@@ -10884,7 +10888,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1339:18)\n    at internalConnectMultiple (node:net:1415:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1969:"
     },
     "https://zhumengdao.com": {
       "title": "筑梦岛",
