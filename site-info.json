@@ -3040,6 +3040,24 @@
         "AI 聊天对话"
       ]
     },
+    "https://github.com/momochoog/gpt-daichong": {
+      "title": "GPT 国内充值指南",
+      "desc": "开源中文教程，整理 ChatGPT Plus / Pro 套餐选择、Codex 使用场景、ChatGPT 订阅与 API 计费边界、支付前核验、订单查询和账号凭证安全。由 AIXiamo 运营方维护，包含其自有服务入口。",
+      "lang": "zh",
+      "tags": [
+        "ChatGPT",
+        "Plus",
+        "Pro",
+        "Codex",
+        "国内充值",
+        "开源"
+      ],
+      "type": [
+        "AI 学习资源",
+        "AI 开源工具"
+      ],
+      "source": "recommend"
+    },
     "https://github.com/mostlygeek/llama-swap": {
       "title": "Llama-Swap",
       "desc": "llama-swap是一个用于本地多模型管理的开源工具，本质上是一个轻量级的透明代理服务器，用于为 llama.cpp 的服务器实现自动模型切换。 它用 Go 语言编写，易于安装。支持按需加载、热插拔和超时卸载模型。",
