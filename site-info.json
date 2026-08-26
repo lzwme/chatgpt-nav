@@ -5723,7 +5723,7 @@
       ],
       "title": "QoQo",
       "desc": "AI快速创建用户旅程地图",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://quillbot.com": {
@@ -6062,7 +6062,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -8039,7 +8041,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.elegantresume.pro": {
@@ -8907,7 +8909,7 @@
       ],
       "title": "标小智",
       "desc": "标小智是一款智能LOGO在线设计生成器。只需输入品牌名称就能免费在线生成公司logo设计，商标设计，以及配套企业VI助您打造个性品牌。",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.loom.com": {
@@ -9757,7 +9759,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.singduck.cn": {
       "title": "唱鸭",
@@ -10888,9 +10892,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1339:18)\n    at internalConnectMultiple (node:net:1415:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:1969:"
+      ]
     },
     "https://zhumengdao.com": {
       "title": "筑梦岛",
