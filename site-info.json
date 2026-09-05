@@ -1149,7 +1149,9 @@
         "AI 绘图"
       ],
       "title": "Toolkit",
-      "desc": "多功能的AI图片处理工具箱"
+      "desc": "多功能的AI图片处理工具箱",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://booltool.boolv.tech/home": {
       "type": [
@@ -6619,7 +6621,7 @@
       "star": 2,
       "title": "TTSMaker马克配音",
       "desc": "免费的在线文本转语音神器",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
@@ -6741,7 +6743,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
@@ -9294,7 +9298,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.photorestore.io": {
@@ -10456,9 +10460,7 @@
       ],
       "type": [
         "AI 图像处理"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.yinziai.com": {
       "title": "音子 AI",
@@ -10760,7 +10762,9 @@
         "FREEAPI",
         "API"
       ],
-      "lang": "zh"
+      "lang": "zh",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://youyan.xyz/platform/home/prime": {
       "title": "有言",
