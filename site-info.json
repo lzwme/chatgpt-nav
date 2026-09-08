@@ -1968,8 +1968,8 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 2,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:130.131.237.134:1788819853.643\"></meta></head></html>"
+      "needVerify": 3,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:130.131.202.8:1788905505.976\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2732,9 +2732,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://gamma.ai": {
       "title": "Gamma.ai",
@@ -6067,9 +6065,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -6624,9 +6620,7 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器",
-      "needVerify": 4,
-      "errmsg": "[error][-1]timeout"
+      "desc": "免费的在线文本转语音神器"
     },
     "https://tusiart.com": {
       "type": [
