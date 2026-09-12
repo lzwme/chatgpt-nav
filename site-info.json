@@ -297,9 +297,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://ai-tools.cn/resume": {
       "title": "AI简历",
@@ -1537,9 +1535,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      ]
     },
     "https://chatexcel.com": {
       "title": "酷表ChatExcel",
@@ -1908,9 +1904,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      ]
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -1973,9 +1967,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:172.174.157.133:1789164388.719\"></meta></head></html>"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2086,9 +2078,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://dashtoon.com": {
       "title": "Dashtoon",
@@ -4705,7 +4695,9 @@
       "desc": "IMYAI，是图欧学习资源库、图欧学习资源导航站、皮卡搜索站长、学习资源船舱船长以及B站UP主图欧君带领图欧科技团队开发的一款AI工具，于2023年5月15日上线，专为学生党、上班族以及自由职业工作者设计，支持智能问答、语音交互、绘画作图、联网搜索、实时翻译、办公编程等多种功能，是一款包括GPT、Claude、Midjourney、Gemini、Llama、Suno、Luma、可灵、文心、千问、星火、智谱、混元等在内的100+款国内外大模型，集AI文本、绘画、音乐、视频等创作服务于一体的多功能AIGC平台。",
       "type": [
         "AI 综合工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][444]HTTP_444"
     },
     "https://nijijourney.com/zh": {
       "title": "NijiJourney",
@@ -6073,7 +6065,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -6628,7 +6622,9 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器"
+      "desc": "免费的在线文本转语音神器",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
       "type": [
@@ -7887,7 +7883,7 @@
         "AI 视频生成",
         "AI 语音生成"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.d-id.com": {
@@ -9155,9 +9151,7 @@
         "AI 图像处理"
       ],
       "title": "图宇宙",
-      "desc": "图宇宙是计算美学是高品质的智能设计平台，致力于让每个人都能享受好设计。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "图宇宙是计算美学是高品质的智能设计平台，致力于让每个人都能享受好设计。"
     },
     "https://www.notion.so": {
       "type": [
@@ -9880,9 +9874,7 @@
         "大厂合集",
         "智能体",
         "API"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      ]
     },
     "https://www.stepfun.com/download": {
       "title": "阶跃AI Desktop",
@@ -9896,9 +9888,7 @@
         "agent",
         "cowork",
         "智能体"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      ]
     },
     "https://www.storynest.ai": {
       "title": "Storynest.ai",
@@ -10295,9 +10285,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10818,9 +10806,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      "desc": "商业级AI影像处理工具"
     },
     "https://z.ai": {
       "title": "Z.ai",
@@ -10910,9 +10896,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      ]
     },
     "https://zhumengdao.com": {
       "title": "筑梦岛",
