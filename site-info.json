@@ -4696,7 +4696,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][444]HTTP_444"
     },
     "https://nijijourney.com/zh": {
@@ -6065,9 +6065,7 @@
       ],
       "type": [
         "AI 视频生成"
-      ],
-      "needVerify": 2,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://shangchenzhou.com/projects/CodeFormer/": {
       "title": "CodeFormer",
@@ -6623,7 +6621,7 @@
       "star": 2,
       "title": "TTSMaker马克配音",
       "desc": "免费的在线文本转语音神器",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]timeout"
     },
     "https://tusiart.com": {
@@ -7883,7 +7881,7 @@
         "AI 视频生成",
         "AI 语音生成"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.d-id.com": {
@@ -8047,7 +8045,9 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
