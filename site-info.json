@@ -1535,7 +1535,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
     },
     "https://chatexcel.com": {
       "title": "酷表ChatExcel",
@@ -4696,7 +4698,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][444]HTTP_444"
     },
     "https://nijijourney.com/zh": {
@@ -5540,7 +5542,9 @@
         "AI 学习资源"
       ],
       "title": "Presentory",
-      "desc": "Presentory是万兴科技旗下一款使用AI创建演示文稿的产品。"
+      "desc": "Presentory是万兴科技旗下一款使用AI创建演示文稿的产品。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND presentory.wondershare.com"
     },
     "https://prezi.com": {
       "type": [
@@ -6620,9 +6624,7 @@
       ],
       "star": 2,
       "title": "TTSMaker马克配音",
-      "desc": "免费的在线文本转语音神器",
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      "desc": "免费的在线文本转语音神器"
     },
     "https://tusiart.com": {
       "type": [
@@ -6743,7 +6745,9 @@
         "AI 视频生成"
       ],
       "title": "Virbo",
-      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。"
+      "desc": "Virbo是一款万兴科技旗下的数字人营销视频创作神器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]timeout"
     },
     "https://vizard.ai": {
       "type": [
@@ -7428,7 +7432,9 @@
         "AI 编程开发"
       ],
       "title": "AskCodi",
-      "desc": "AskCodi上可以帮助你完成任何编码工作"
+      "desc": "AskCodi上可以帮助你完成任何编码工作",
+      "needVerify": 1,
+      "errmsg": "[error][503]Service Unavailable"
     },
     "https://www.augmentcode.com": {
       "title": "Augment Code",
@@ -7881,8 +7887,9 @@
         "AI 视频生成",
         "AI 语音生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]timeout"
+      "needVerify": 7,
+      "errmsg": "[error][-1]timeout",
+      "hide": 1
     },
     "https://www.d-id.com": {
       "title": "D-ID",
@@ -8046,7 +8053,7 @@
       "type": [
         "AI 思维导图"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][-1]timeout"
     },
     "https://www.elegantresume.pro": {
@@ -10896,7 +10903,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
     },
     "https://zhumengdao.com": {
       "title": "筑梦岛",
