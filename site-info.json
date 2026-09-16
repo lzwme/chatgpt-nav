@@ -540,6 +540,21 @@
       "title": "百度度加创作工具",
       "desc": "百度旗下产品，打造人人可用的AI创作工具"
     },
+    "https://aiimagelab.art": {
+      "title": "AI Image Lab",
+      "desc": "免费 AI 图片生成器，提供 8 大分类的精选提示词库，支持 4K 高质量输出。",
+      "lang": "zh",
+      "tags": [
+        "AI绘图",
+        "提示词库",
+        "4K",
+        "免费"
+      ],
+      "type": [
+        "AI 绘图"
+      ],
+      "star": 2
+    },
     "https://aikiustudio.com/logo": {
       "title": "AI LogoBrainstorm",
       "intro": "AI LogoBrainstorm - 用人工智能为您生成定制化的logo设计",
