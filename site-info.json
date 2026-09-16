@@ -6668,6 +6668,23 @@
         "AI 行业工具"
       ]
     },
+    "https://trygrokai.asia": {
+      "title": "GPTGeminiGrok.AI",
+      "desc": "聚合 Grok / SuperGrok、GPTPlus、GeminiPro、ClaudeProMax 等模型服务与节点入口，并提供 AI 绘图、API 使用、Codex 国内站与自动任务等入口，适合需要集中访问多家大模型服务的用户。",
+      "lang": "zh",
+      "tags": [
+        "Grok",
+        "GPT",
+        "Gemini",
+        "Claude",
+        "模型入口",
+        "API"
+      ],
+      "type": [
+        "AI 综合工具"
+      ],
+      "star": 1
+    },
     "https://ttsmaker.cn": {
       "type": [
         "AI 语音生成",

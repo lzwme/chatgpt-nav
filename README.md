@@ -45,7 +45,7 @@
 ❌ 已失效。会在失效一段时间后移除
 ```
 
-站点列表(830)：
+站点列表(831)：
 
 ### 国产大模型 (24)
 
@@ -717,7 +717,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://work.duiopen.com](https://work.duiopen.com) **麦耳会记。** 麦耳会记是一款集实时语音转写、实时翻译和 AI 辅助写作功能为一体的 AI 办公助手。它可以用于办公会议、学生网课、客户访谈录音等场景。软件支持边录音、边转写，录音结束后，音频、文本实时同步至 PC 端、手机端。采用云端存储资料的方式，无论是办公、地铁，还是旅游途中，都可以随时随地查看文档或音频。麦耳会记还提供实时字幕同传功能，帮助听力受损人士更好地参与会议。
 1. [[⭐] https://www.notta.ai](https://www.notta.ai) **Notta。** Notta可以在在线会议、面对面销售会议等场景中快速转录您的音频或视频文件为文字内容。
 
-### AI 综合工具 (66)
+### AI 综合工具 (67)
 
 1. [[⭐⭐⭐] https://agnes-ai.com](https://agnes-ai.com) **Agnes AI。** Agnes 文本、图像和视频系列模型 API 免费试用中！Sapiens AI 是新加坡本土模型公司，也是 Agnes AI 的母公司，专注于打造先进的多模态模型，驱动下一代创意与交互应用。
 1. [[⭐⭐⭐] https://bailian.console.aliyun.com](https://bailian.console.aliyun.com) **阿里云百炼大模型服务平台。** 新用户送100万免费额度！提供 qwen3.6-plus 最新模型 API！阿里云一站式大模型开发与应用平台，集成通义千问及主流第三方模型，提供兼容OpenAI的API及全链路模型服务，支持智能体、工作流、知识库等应用构建，具备代码生成与理解能力。
@@ -752,7 +752,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐⭐] https://msty.ai](https://msty.ai) **Msty Studio。** Msty Studio 是一个以隐私为先的先进 AI 平台，旨在赋能从个人用户到企业团队构建并执行复杂的 AI 工作流，同时提供无与伦比的数据安全保障。 它通过统一接入数百个本地与在线模型，并直接集成于流畅的网页或原生桌面界面，有效满足了高性能与绝对数据主权的双重关键需求。
 1. [[⭐⭐] https://skillhub.cn](https://skillhub.cn) **唐可创研 TANCO SkillHub。** 面向 AI Agent / 工作流的公开 Skill Hub，将复杂任务拆解为可复用的流程化 Skill（调研核验、项目拆解、链式推进、多 Agent 交接、边界与风险检查等），帮助从一次性提示走向可重复交付的工作流。
 1. [[⭐⭐] https://useai.live/hermes/](https://useai.live/hermes/) **小马AI Hermes 中文增强包。** Hermes Agent 中文补丁与新手教程，一条命令安装，自动识别新旧版本，覆盖启动页、TUI、快捷指令、网关提示和权限审批提示。
-1. [[⭐] https://news.maynorai.asia](https://news.maynorai.asia) **AI 信息差。** MaynorAI 旗下的 AI 产品解读站，聚焦模型横测、AI 图片生成 SaaS、提示词工作流、Cloudflare 上站部署与会员深度文章。
+1. [[⭐] https://trygrokai.asia](https://trygrokai.asia) **GPTGeminiGrok.AI。** 聚合 Grok / SuperGrok、GPTPlus、GeminiPro、ClaudeProMax 等模型服务与节点入口，并提供 AI 绘图、API 使用、Codex 国内站与自动任务等入口，适合需要集中访问多家大模型服务的用户。
 1. [[⭐] https://agentrouter.org](https://agentrouter.org) **AgentRouter。** 面向开发者的大模型公益站！免费提供 Claude 等顶级大模型 API，每日签到送 25 美元额度！
 1. [[⭐] https://aigc.baidu.com](https://aigc.baidu.com) **百度度加创作工具。** 百度旗下产品，打造人人可用的AI创作工具
 1. [[⭐] https://chathub.gg](https://chathub.gg) **ChatHub。** ChatHub是一个浏览器插件，可让您同时使用多个聊天机器人。它支持ChatGPT、Bing、Google Bard、Claude等10+个开源聊天机器人。ChatHub提供免费使用的大部分功能，还有付费的ChatHub Premium套餐，解锁所有高级功能。
@@ -761,6 +761,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://mastergo.com/upcoming-ai/apply](https://mastergo.com/upcoming-ai/apply) **MasterGo AI。** MasterGo AI 是一款基于人工智能技术的智能助手，具有强大的功能和优势。它可以帮助用户高效处理各种任务，并提供个性化的解决方案。MasterGo AI 定价合理，并提供灵活的定位选项，适用于个人用户和企业用户。
 1. [[⭐] https://midreal.ai](https://midreal.ai) **MidReal。** MidReal是一款由AI技术驱动的互动文字冒险游戏。它具有超强的记忆力和写作能力,可以确保您的故事始终连贯一致,带给您身临其境的沉浸式体验。新特性包括多人互动、迷你游戏等,定价灵活,可免费试玩。
 1. [[⭐] https://mistral.ai](https://mistral.ai) **Mistral AI。** Mistral AI 是一家致力于构建全球最佳开源模型的研究实验室。平台让开发者和企业能够构建由 Mistral 开源和商业 LLM 提供支持的新产品和应用程序。
+1. [[⭐] https://news.maynorai.asia](https://news.maynorai.asia) **AI 信息差。** MaynorAI 旗下的 AI 产品解读站，聚焦模型横测、AI 图片生成 SaaS、提示词工作流、Cloudflare 上站部署与会员深度文章。
 1. [[⭐] https://platform.iflow.cn](https://platform.iflow.cn) **心流AI开放平台。** 已下线！提供每日 2000 次免费大模型 API 调用额度！用AI重塑研发范式，让每一位开发者体验沉浸、高效的创作流程。
 1. [[⭐] https://resoomer.com](https://resoomer.com) **Resoomer。** Résoomer 是一款用于文本摘要的软件和在线工具：它允许您通过重要概念来总结和分析您的文章。它提供了一种有效的解决方案，可以节省阅读和理解长文本的时间。 Resoomer 使用人工智能算法从文本中提取主要思想，并以简洁明了的方式呈现它们。该软件供学生、信息专业人员和研究人员用来合成文章、报告和研究论文。
 1. [[⭐] https://saasaitools.com](https://saasaitools.com) **Saasaitools。** 随时了解每日 AI 新闻和工具: Discover your next generative AI tool
