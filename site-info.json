@@ -2082,6 +2082,24 @@
       "title": "阿里堆友",
       "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
+    "https://daoxe.com": {
+      "title": "DaoXE",
+      "desc": "OpenAI 兼容的多模型、多协议 API 网关：一个 base URL + 一个 Key 即可调用 Claude / GPT / Gemini / DeepSeek / Kimi / 通义 / 豆包等，支持 OpenAI Chat Completions、OpenAI Responses 与 Anthropic Messages 原生协议，可直接用于 Cursor / Cline / Claude Code 等工具。需自备 API KEY，为付费网关/中转。",
+      "lang": "zh",
+      "tags": [
+        "API网关",
+        "OpenAI兼容",
+        "Claude",
+        "多模型",
+        "开发者"
+      ],
+      "type": [
+        "AI 编程开发"
+      ],
+      "repo": "seven7763/DaoXE-AI",
+      "star": 2,
+      "needKey": 1
+    },
     "https://dashtoon.com": {
       "title": "Dashtoon",
       "intro": " AI 漫画生成应用",
