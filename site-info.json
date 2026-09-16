@@ -3200,6 +3200,21 @@
         "AI 学习资源"
       ]
     },
+    "https://gptimage2.asia": {
+      "title": "Gptimage2",
+      "desc": "AI 图片生成工具，支持文生图、图片编辑与多种创意 AI 设计场景。",
+      "lang": "zh",
+      "tags": [
+        "AI绘图",
+        "Text to Image",
+        "图片生成",
+        "创意设计"
+      ],
+      "type": [
+        "AI 绘图"
+      ],
+      "star": 1
+    },
     "https://gptzero.me": {
       "title": "GPTZero",
       "intro": "AI侦测 | 用于ChatGPT、GPT-4等AI模型的可靠侦测工具",
