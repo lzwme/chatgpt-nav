@@ -4719,6 +4719,21 @@
       "needVerify": 4,
       "errmsg": "[error][444]HTTP_444"
     },
+    "https://news.maynorai.asia": {
+      "title": "AI 信息差",
+      "desc": "MaynorAI 旗下的 AI 产品解读站，聚焦模型横测、AI 图片生成 SaaS、提示词工作流、Cloudflare 上站部署与会员深度文章。",
+      "lang": "zh",
+      "tags": [
+        "AI资讯",
+        "模型横测",
+        "提示词",
+        "AI绘图"
+      ],
+      "type": [
+        "AI 综合工具"
+      ],
+      "star": 1
+    },
     "https://nijijourney.com/zh": {
       "title": "NijiJourney",
       "desc": "MJ出品！面向二次元风格，内容细致拿捏专业到位",
