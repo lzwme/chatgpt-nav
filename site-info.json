@@ -3563,6 +3563,22 @@
       ],
       "needVerify": -1
     },
+    "https://image-prompt-generator.com": {
+      "title": "Image Prompt Generator",
+      "desc": "免费的 AI 图像提示词生成器与提示词库，支持按 GPT Image、Seedream、Seedance、Grok Imagine、Gemini、Nano Banana Pro 等模型筛选，生成可直接复制使用的图片提示词，并提供热门提示词示例与一键复制。",
+      "lang": "zh",
+      "tags": [
+        "提示词",
+        "prompt",
+        "AI绘图",
+        "提示词库"
+      ],
+      "type": [
+        "AI 提示词"
+      ],
+      "repo": "xianyu110/image-prompt-generator",
+      "star": 2
+    },
     "https://image.hunyuan.tencent.com": {
       "type": [
         "AI 绘图",
