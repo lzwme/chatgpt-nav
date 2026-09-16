@@ -45,7 +45,7 @@
 ❌ 已失效。会在失效一段时间后移除
 ```
 
-站点列表(833)：
+站点列表(834)：
 
 ### 国产大模型 (24)
 
@@ -718,7 +718,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://work.duiopen.com](https://work.duiopen.com) **麦耳会记。** 麦耳会记是一款集实时语音转写、实时翻译和 AI 辅助写作功能为一体的 AI 办公助手。它可以用于办公会议、学生网课、客户访谈录音等场景。软件支持边录音、边转写，录音结束后，音频、文本实时同步至 PC 端、手机端。采用云端存储资料的方式，无论是办公、地铁，还是旅游途中，都可以随时随地查看文档或音频。麦耳会记还提供实时字幕同传功能，帮助听力受损人士更好地参与会议。
 1. [[⭐] https://www.notta.ai](https://www.notta.ai) **Notta。** Notta可以在在线会议、面对面销售会议等场景中快速转录您的音频或视频文件为文字内容。
 
-### AI 综合工具 (67)
+### AI 综合工具 (68)
 
 1. [[⭐⭐⭐] https://agnes-ai.com](https://agnes-ai.com) **Agnes AI。** Agnes 文本、图像和视频系列模型 API 免费试用中！Sapiens AI 是新加坡本土模型公司，也是 Agnes AI 的母公司，专注于打造先进的多模态模型，驱动下一代创意与交互应用。
 1. [[⭐⭐⭐] https://bailian.console.aliyun.com](https://bailian.console.aliyun.com) **阿里云百炼大模型服务平台。** 新用户送100万免费额度！提供 qwen3.6-plus 最新模型 API！阿里云一站式大模型开发与应用平台，集成通义千问及主流第三方模型，提供兼容OpenAI的API及全链路模型服务，支持智能体、工作流、知识库等应用构建，具备代码生成与理解能力。
@@ -753,6 +753,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐⭐] https://msty.ai](https://msty.ai) **Msty Studio。** Msty Studio 是一个以隐私为先的先进 AI 平台，旨在赋能从个人用户到企业团队构建并执行复杂的 AI 工作流，同时提供无与伦比的数据安全保障。 它通过统一接入数百个本地与在线模型，并直接集成于流畅的网页或原生桌面界面，有效满足了高性能与绝对数据主权的双重关键需求。
 1. [[⭐⭐] https://skillhub.cn](https://skillhub.cn) **唐可创研 TANCO SkillHub。** 面向 AI Agent / 工作流的公开 Skill Hub，将复杂任务拆解为可复用的流程化 Skill（调研核验、项目拆解、链式推进、多 Agent 交接、边界与风险检查等），帮助从一次性提示走向可重复交付的工作流。
 1. [[⭐⭐] https://useai.live/hermes/](https://useai.live/hermes/) **小马AI Hermes 中文增强包。** Hermes Agent 中文补丁与新手教程，一条命令安装，自动识别新旧版本，覆盖启动页、TUI、快捷指令、网关提示和权限审批提示。
+1. [[⭐] https://trygroktask.asia](https://trygroktask.asia) **GrokTask。** 基于 Grok AI 的智能任务自动化平台，支持用自然语言创建任务、Cron 定时执行、信息收集与分析、社媒监控、内容生成与数据分析，并提供任务模板库与执行历史管理。
 1. [[⭐] https://agentrouter.org](https://agentrouter.org) **AgentRouter。** 面向开发者的大模型公益站！免费提供 Claude 等顶级大模型 API，每日签到送 25 美元额度！
 1. [[⭐] https://aigc.baidu.com](https://aigc.baidu.com) **百度度加创作工具。** 百度旗下产品，打造人人可用的AI创作工具
 1. [[⭐] https://chathub.gg](https://chathub.gg) **ChatHub。** ChatHub是一个浏览器插件，可让您同时使用多个聊天机器人。它支持ChatGPT、Bing、Google Bard、Claude等10+个开源聊天机器人。ChatHub提供免费使用的大部分功能，还有付费的ChatHub Premium套餐，解锁所有高级功能。

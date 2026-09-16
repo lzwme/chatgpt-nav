@@ -6716,6 +6716,22 @@
       ],
       "star": 1
     },
+    "https://trygroktask.asia": {
+      "title": "GrokTask",
+      "desc": "基于 Grok AI 的智能任务自动化平台，支持用自然语言创建任务、Cron 定时执行、信息收集与分析、社媒监控、内容生成与数据分析，并提供任务模板库与执行历史管理。",
+      "lang": "zh",
+      "tags": [
+        "Grok",
+        "自动化",
+        "定时任务",
+        "内容生成",
+        "数据分析"
+      ],
+      "type": [
+        "AI 综合工具"
+      ],
+      "star": 1
+    },
     "https://ttsmaker.cn": {
       "type": [
         "AI 语音生成",
