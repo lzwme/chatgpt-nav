@@ -660,9 +660,7 @@
         "CLI",
         "IDE"
       ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]Parse Error: Header overflow",
-      "hide": 1
+      "needVerify": -1
     },
     "https://answerai.pro": {
       "title": "AnswerAI.pro",
@@ -1598,25 +1596,6 @@
         "AI 综合工具"
       ]
     },
-    "https://chatlify.me": {
-      "title": "Chatlify",
-      "intro": "AI智能客服助手，24/7为您服务",
-      "desc": "Chatlify是一款AI智能客服助手，可为企业提供销售、支持和成功方面的帮助。它能够处理用户的查询和问题，提供个性化推荐，自动生成工单，计算价格，提供实时价格详情，进行高级故障排除，并提供多语言支持和分析。Chatlify可以帮助企业简化客户互动过程，并提高销售业绩。",
-      "lang": "en",
-      "tags": [
-        "智能客服",
-        "销售",
-        "支持",
-        "多语言",
-        "商业"
-      ],
-      "type": [
-        "AI 行业工具"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
-    },
     "https://chatmind.tech/editor": {
       "title": "Chatmind AI",
       "intro": "AI 原生思维导图在线工具",
@@ -1818,15 +1797,14 @@
     },
     "https://cloud.tencent.com/product/tclm": {
       "title": "腾讯混元大模型开放平台",
-      "desc": "新用户专享100万Tokens免费额度，一年有效！腾讯全链路自研的通用与多模态大模型家族，覆盖文本、图像、视频、3D等模态。支持混元生文、生图、生视频、生3D等多种能力，具备代码生成辅助功能。",
+      "desc": "腾讯全链路自研的通用与多模态大模型家族，覆盖文本、图像、视频、3D等模态。支持混元生文、生图、生视频、生3D等多种能力，具备代码生成辅助功能。",
       "star": 3,
       "type": [
         "AI 综合工具"
       ],
       "tags": [
         "API开放平台",
-        "API",
-        "FREEAPI"
+        "API"
       ]
     },
     "https://cn.bing.com/create": {
@@ -4308,7 +4286,7 @@
     },
     "https://longcat.chat": {
       "title": "美团LongCat API开放平台",
-      "desc": "公测期间提供最大每日5500万免费调用额度！美团自研 LongCat 系列大模型API服务平台，基于MoE架构，兼容OpenAI和Anthropic API格式。支持深度思考、联网搜索、图像生成等能力。",
+      "desc": "美团自研 LongCat 系列大模型API服务平台，基于MoE架构，兼容OpenAI和Anthropic API格式。支持深度思考、联网搜索、图像生成等能力。",
       "star": 3,
       "type": [
         "AI 综合工具",
@@ -4318,7 +4296,6 @@
       "tags": [
         "HOT",
         "API开放平台",
-        "FREEAPI",
         "API"
       ]
     },
@@ -5829,10 +5806,7 @@
         "AI 国外工具"
       ],
       "title": "QoQo",
-      "desc": "AI快速创建用户旅程地图",
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
+      "desc": "AI快速创建用户旅程地图"
     },
     "https://quillbot.com": {
       "type": [
@@ -6524,10 +6498,7 @@
         "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][200]<script>function a(a){function n(){for(var a={wQzOV:_0x649a(\"0x4\"),iTyzs:function(a,n){return a+n}},n=a[_0x649a(\"0x5\")][_0x649a(\"0x6\")](\"|\"),e=0;;){switch(n[e++]){case\"0\":t+=\"EO_Bot_Ssid=\"",
-      "hide": 1
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -6821,10 +6792,7 @@
         "AI 国外工具"
       ],
       "title": "uberduck",
-      "desc": "开源的AI语音生成平台",
-      "needVerify": 7,
-      "errmsg": "[error][402]Payment Required",
-      "hide": 1
+      "desc": "开源的AI语音生成平台"
     },
     "https://uizard.io/autodesigner": {
       "type": [
@@ -7036,25 +7004,6 @@
         "AI 绘图",
         "AI 图像处理"
       ]
-    },
-    "https://webassistants.ai": {
-      "title": "WebAssistants.ai",
-      "intro": "AI助手，提升网站交互体验。",
-      "desc": "WebAssistants.ai是一个提供AI助手服务的平台，旨在通过人工智能技术增强网站和仪表板的交互体验。它通过简单的集成方式，让网站能够快速响应用户查询，提供个性化建议，并持续学习以改善服务。平台支持多语言，易于定制，且无需处理旧代码即可添加到现有应用程序中。",
-      "lang": "en",
-      "tags": [
-        "网站增强",
-        "多语言支持",
-        "个性化推荐",
-        "持续学习",
-        "国外精选"
-      ],
-      "type": [
-        "AI 网站生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND webassistants.ai",
-      "hide": 1
     },
     "https://webflow.com": {
       "type": [
@@ -7403,25 +7352,6 @@
       "title": "AI Chatting",
       "desc": "创建虚拟角色，并与其进行开放式对话。",
       "needVPN": 1
-    },
-    "https://www.aiionly.com/login/2536924186": {
-      "title": "唯一AI",
-      "desc": "邀请注册即送15元额度！服务稳定的模型聚合服务商，提供国内外热门顶级模型API调用服务。",
-      "star": 3,
-      "type": [
-        "AI 综合工具"
-      ],
-      "tags": [
-        "AI开放平台",
-        "deepseek",
-        "Claude",
-        "FREEAPI",
-        "API"
-      ],
-      "lang": "zh",
-      "needVerify": 7,
-      "errmsg": "[error][-1]connect ECONNREFUSED 150.109.7.7:443",
-      "hide": 1
     },
     "https://www.aimix.pro": {
       "title": "AIMIX智剪",
@@ -8039,26 +7969,6 @@
       "type": [
         "AI 图像处理"
       ]
-    },
-    "https://www.cyrinn.cn": {
-      "title": "赛灵力",
-      "intro": "赛灵力虚拟数字人工厂提供 AI 虚拟人视频创作服务，让数字人拥有真人般交互能力。",
-      "desc": "赛灵力虚拟数字人工厂致力于 2D 虚拟人、3D 虚拟人、声音克隆等 AI 技术探索和产业应用，为企业、政府、个人提供虚拟数字人 AI 视频创作、个人形象定制、声音定制、智能语音合成等服务。",
-      "lang": "zh",
-      "tags": [
-        "视频制作",
-        "AI 技术",
-        "虚拟人",
-        "声音合成",
-        "智能语音"
-      ],
-      "type": [
-        "AI 视频生成",
-        "AI 语音生成"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
     },
     "https://www.d-id.com": {
       "title": "D-ID",
@@ -9445,22 +9355,6 @@
       "title": "Phind",
       "desc": "为开发人员而生的AI搜索引擎。中国区不可用",
       "needVPN": 1
-    },
-    "https://www.photomagic.cn": {
-      "title": "PhotoMagic",
-      "intro": "快速创建商业图片的 AI 工具",
-      "desc": "快速创建商业图片的 AI 工具",
-      "lang": "zh",
-      "tags": [
-        "设计"
-      ],
-      "type": [
-        "AI 图像处理",
-        "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]timeout",
-      "hide": 1
     },
     "https://www.photorestore.io": {
       "title": "PhotoRestore.io",
