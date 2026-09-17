@@ -1897,9 +1897,7 @@
       ],
       "type": [
         "AI 编程开发"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      ]
     },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
@@ -2073,9 +2071,7 @@
       ],
       "star": 2,
       "title": "阿里堆友",
-      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      "desc": "堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。"
     },
     "https://daoxe.com": {
       "title": "DaoXE",
@@ -3288,9 +3284,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://hailuoai.com": {
       "title": "海螺AI",
@@ -4761,7 +4755,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][444]HTTP_444"
     },
     "https://news.maynorai.asia": {
@@ -5621,7 +5615,7 @@
       ],
       "title": "Presentory",
       "desc": "Presentory是万兴科技旗下一款使用AI创建演示文稿的产品。",
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND presentory.wondershare.com"
     },
     "https://prezi.com": {
@@ -6498,7 +6492,9 @@
         "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -7531,9 +7527,7 @@
         "AI 编程开发"
       ],
       "title": "AskCodi",
-      "desc": "AskCodi上可以帮助你完成任何编码工作",
-      "needVerify": 2,
-      "errmsg": "[error][503]Service Unavailable"
+      "desc": "AskCodi上可以帮助你完成任何编码工作"
     },
     "https://www.augmentcode.com": {
       "title": "Augment Code",
@@ -8131,9 +8125,7 @@
       "desc": "万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。",
       "type": [
         "AI 思维导图"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][-1]timeout"
+      ]
     },
     "https://www.elegantresume.pro": {
       "title": "优雅简历",
@@ -9293,9 +9285,7 @@
         "AI 提示词"
       ],
       "title": "Ordinary Prompts",
-      "desc": "有趣ChatGPT提示词",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "有趣ChatGPT提示词"
     },
     "https://www.overleaf.com": {
       "title": "Overleaf",
@@ -10337,9 +10327,7 @@
         "AI 图像处理"
       ],
       "title": "美图WHEE",
-      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      "desc": "WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。"
     },
     "https://www.wix.com/logo/maker": {
       "title": "Wix Logo Maker",
@@ -10593,9 +10581,7 @@
         "AI 编程开发"
       ],
       "title": "ZelinAI",
-      "desc": "ZelinAI零代码构建你的AI应用，ZelinAI目前接入了微软合规的GPT3.5、GPT4大智能体以及文心一言、星火等国内知名的大智能体",
-      "needVerify": 1,
-      "errmsg": "[error][-1]timeout"
+      "desc": "ZelinAI零代码构建你的AI应用，ZelinAI目前接入了微软合规的GPT3.5、GPT4大智能体以及文心一言、星火等国内知名的大智能体"
     },
     "https://www.zeroclawlabs.ai": {
       "title": "ZeroClaw",
@@ -10862,9 +10848,7 @@
         "AI 绘图"
       ],
       "title": "美图云修",
-      "desc": "商业级AI影像处理工具",
-      "needVerify": 1,
-      "errmsg": "[error][-1]AggregateError [ETIMEDOUT]: \n    at internalConnectMultiple (node:net:1426:18)\n    at internalConnectMultiple (node:net:1502:5)\n    at Timeout.internalConnectMultipleTimeout (node:net:2122:"
+      "desc": "商业级AI影像处理工具"
     },
     "https://z.ai": {
       "title": "Z.ai",
