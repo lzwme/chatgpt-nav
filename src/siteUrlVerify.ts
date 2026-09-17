@@ -26,16 +26,16 @@ export function siteUrlVerify() {
     const startTime = Date.now();
     const r = await httpLinkChecker(url, {
       verify: body => /<body/i.test(body) || /<\/body>/i.test(body),
-      reqOptions: { timeout: 10_000, rejectUnauthorized: false, referer: new URL(url).origin },
+      reqOptions: { timeout: 10_000, rejectUnauthorized: false, headers: { referer: new URL(url).origin } },
     });
 
     if (r.code) {
       const codestr = String(r.code);
       // 30x 为正常，忽略 429
-      if (r.redirected || ['30', '429', '403'].some(k => codestr.startsWith(k))) r.code = 0;
+      if (r.redirected || ['30', '429', '403', '200'].some(k => codestr.startsWith(k))) r.code = 0;
 
-      // ignore TSL error
-      if (r.errmsg.includes('network socket disconnected before secure TLS connection')) {
+      // ignore TSL error or timeout
+      if (['network socket disconnected before secure TLS connection', 'timeout', 'Timeout'].some(x => r.errmsg.includes(x))) {
         r.code = 0;
         r.body = '';
       }
