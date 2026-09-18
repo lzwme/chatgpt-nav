@@ -4755,8 +4755,9 @@
       "type": [
         "AI 综合工具"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][444]HTTP_444"
+      "needVerify": 7,
+      "errmsg": "[error][444]HTTP_444",
+      "hide": 1
     },
     "https://news.maynorai.asia": {
       "title": "AI 信息差",
@@ -5615,7 +5616,7 @@
       ],
       "title": "Presentory",
       "desc": "Presentory是万兴科技旗下一款使用AI创建演示文稿的产品。",
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND presentory.wondershare.com"
     },
     "https://prezi.com": {
@@ -6493,7 +6494,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
