@@ -553,7 +553,9 @@
       "type": [
         "AI 绘图"
       ],
-      "star": 2
+      "star": 2,
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://aikiustudio.com/logo": {
       "title": "AI LogoBrainstorm",
@@ -3628,7 +3630,9 @@
       "type": [
         "AI 图像处理",
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND imagetopromptai.com"
     },
     "https://imagine.meta.com": {
       "title": "Imagine with Meta",
@@ -5616,8 +5620,9 @@
       ],
       "title": "Presentory",
       "desc": "Presentory是万兴科技旗下一款使用AI创建演示文稿的产品。",
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND presentory.wondershare.com"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND presentory.wondershare.com",
+      "hide": 1
     },
     "https://prezi.com": {
       "type": [
