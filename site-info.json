@@ -554,7 +554,7 @@
         "AI 绘图"
       ],
       "star": 2,
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][502]Bad Gateway"
     },
     "https://aikiustudio.com/logo": {
@@ -2850,9 +2850,7 @@
       "type": [
         "AI 视频生成",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]Internal Server Error"
+      ]
     },
     "https://github.com/Boese0601/MagicDance": {
       "title": "MagicDance",
@@ -3633,7 +3631,7 @@
         "AI 图像处理",
         "AI 绘图"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND imagetopromptai.com"
     },
     "https://imagine.meta.com": {
@@ -6081,9 +6079,7 @@
       ],
       "type": [
         "AI 翻译工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][503]Service Unavailable"
+      ]
     },
     "https://scalenut.com": {
       "title": "Scalenut",
@@ -6503,7 +6499,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
@@ -8819,7 +8815,7 @@
       "type": [
         "AI 行业工具"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][404]Not Found"
     },
     "https://www.krea.ai/home": {
