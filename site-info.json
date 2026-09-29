@@ -6500,7 +6500,9 @@
         "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -8905,7 +8907,9 @@
         "AI 聊天对话"
       ],
       "title": "零一万物",
-      "desc": "零一万物是由李开复老师创办的，致力于成为一家由技术愿景驱动、拥有卓越中国工程底蕴的创新企业，推动以基座大模型为突破的AI 2.0掀起技术、平台到应用多个层面的革命。"
+      "desc": "零一万物是由李开复老师创办的，致力于成为一家由技术愿景驱动、拥有卓越中国工程底蕴的创新企业，推动以基座大模型为突破的AI 2.0掀起技术、平台到应用多个层面的革命。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://www.logoai.com": {
       "title": "LogoAI",
