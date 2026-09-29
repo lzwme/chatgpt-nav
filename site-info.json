@@ -1963,9 +1963,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:4.242.27.81:1790548939.332\"></meta></head></html>"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -8801,24 +8799,6 @@
       "tags": [
         "CLI"
       ]
-    },
-    "https://www.kraftful.com": {
-      "title": "Kraftful",
-      "intro": "深度AI分析用户反馈，优化产品开发生命周期",
-      "desc": "Kraftful为产品建设者提供深度AI分析用户反馈的能力，帮助他们了解用户的需求，以及如何让产品更加令人愉悦。我们的产品经理工具能够综合客户情感，提供有价值的见解，优化产品开发生命周期。",
-      "lang": "en",
-      "tags": [
-        "用户反馈",
-        "AI分析",
-        "产品开发",
-        "产品经理",
-        "用户需求"
-      ],
-      "type": [
-        "AI 行业工具"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://www.krea.ai/home": {
       "title": "Krea.ai",
