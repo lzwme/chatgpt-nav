@@ -1963,8 +1963,8 @@
         "AI 国外工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.64.206.178:1791673579.843\"></meta></head></html>"
+      "needVerify": 2,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.49.14.177:1791760762.003\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
