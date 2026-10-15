@@ -6463,7 +6463,9 @@
         "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -7189,7 +7191,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -7212,9 +7216,7 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][500]RuntimeError"
+      ]
     },
     "https://www.6pen.pro": {
       "type": [
