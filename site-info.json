@@ -8549,6 +8549,20 @@
       "title": "illostration",
       "desc": "几秒内创建不同风格插图"
     },
+    "https://www.imagineyourbook.com": {
+      "title": "ImagineYourBook",
+      "desc": "ImagineYourBook 是一款 AI 写书工具，可根据创意规划整本书的结构并逐章起草小说或非虚构作品，支持系列故事设定（story bible）保持多卷连贯，也可改写已有书稿，并导出 Word、EPUB 和 Markdown。初稿仍需作者审阅修改。付费订阅，提供 7 天试用。",
+      "lang": "en",
+      "needLogin": 1,
+      "tags": [
+        "写作",
+        "小说写作辅助",
+        "AI写书"
+      ],
+      "type": [
+        "AI 写作助手"
+      ]
+    },
     "https://www.imiprompt.com": {
       "title": "imiprompt",
       "intro": "Midjourney v5 艺术生成器",
