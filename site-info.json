@@ -5712,6 +5712,17 @@
       "title": "PublicPrompts",
       "desc": "AI绘画模型+风格参考"
     },
+    "https://pulsecorp.co": {
+      "type": [
+        "AI 行业工具"
+      ],
+      "source": "recommend",
+      "star": 1,
+      "needLogin": 1,
+      "needPay": 1,
+      "title": "Pulse",
+      "desc": "AI 主持的市场调研平台，可大规模开展客户访谈。"
+    },
     "https://qidian.qq.com/module/service.html": {
       "title": "腾讯企点客服",
       "intro": "提供全面覆盖客户触点的智能在线客服系统，支持多通路融合沟通，提升企业客户服务效率。",
