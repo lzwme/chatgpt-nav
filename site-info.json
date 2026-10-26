@@ -2712,7 +2712,9 @@
         "AI驱动",
         "网站编辑器",
         "托管服务"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -6463,7 +6465,9 @@
         "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -7196,7 +7200,9 @@
         "AI 写作助手"
       ],
       "title": "5118 SEO优化精灵",
-      "desc": "一键式生成高质量SEO文章"
+      "desc": "一键式生成高质量SEO文章",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.5118.com"
     },
     "https://www.52cv.com": {
       "title": "职徒简历",
