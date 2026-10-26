@@ -6884,7 +6884,7 @@
     "https://vostride.com": {
       "title": "agent-qa",
       "intro": "具有持久记忆与经验证自我改进能力的 AI 测试 Agent。",
-      "desc": "通过 CLI、MCP 和 Skills 测试 Web、Android 与 iOS 应用，复用经过验证的测试经验。需要 Node.js 24+ 和模型访问权限；本地包免费，模型服务费用另计。",
+      "desc": "通过 CLI、MCP 和 Skills 测试 Web、Android 与 iOS 应用，以持久记忆与经验证的自我改进复用测试经验。需要 Node.js 24+ 和模型访问权限；本地包免费，模型服务费用另计。",
       "source": "recommend",
       "repo": "vostride/agent-qa",
       "type": [
