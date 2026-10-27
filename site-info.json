@@ -6661,6 +6661,14 @@
         "AI 国外工具"
       ]
     },
+    "https://respawnstack.com": {
+      "title": "RespawnStack",
+      "desc": "面向游戏开发者的 AI 工具目录: Curated AI tools directory for game developers",
+      "type": [
+        "AI 综合工具",
+        "AI 国外工具"
+      ]
+    },
     "https://topai.tools": {
       "title": "Topai",
       "desc": "发现最好的新型 AI 工具: Find the perfect AI tool for every task",
