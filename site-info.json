@@ -2712,9 +2712,7 @@
         "AI驱动",
         "网站编辑器",
         "托管服务"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]aborted"
+      ]
     },
     "https://fullpeace.cn": {
       "title": "风平智能",
@@ -3348,7 +3346,9 @@
       "title": "Hermes Agent中文文档",
       "star": 3,
       "sort": -80,
-      "desc": "基于 Hermes Agent 英文文档网站同步翻译的在线中文文档网站"
+      "desc": "基于 Hermes Agent 英文文档网站同步翻译的在线中文文档网站",
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 103.242.13.60:443"
     },
     "https://hiwaifu.com": {
       "type": [
@@ -4097,7 +4097,9 @@
       "tags": [
         "艺术",
         "风格库"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][530]<none>"
     },
     "https://ling.jd.com": {
       "title": "京东羚珑",
@@ -6466,7 +6468,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
@@ -7200,9 +7202,7 @@
         "AI 写作助手"
       ],
       "title": "5118 SEO优化精灵",
-      "desc": "一键式生成高质量SEO文章",
-      "needVerify": 1,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.5118.com"
+      "desc": "一键式生成高质量SEO文章"
     },
     "https://www.52cv.com": {
       "title": "职徒简历",
