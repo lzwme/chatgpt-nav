@@ -3346,9 +3346,7 @@
       "title": "Hermes Agent中文文档",
       "star": 3,
       "sort": -80,
-      "desc": "基于 Hermes Agent 英文文档网站同步翻译的在线中文文档网站",
-      "needVerify": 1,
-      "errmsg": "[error][-1]connect ECONNREFUSED 103.242.13.60:443"
+      "desc": "基于 Hermes Agent 英文文档网站同步翻译的在线中文文档网站"
     },
     "https://hiwaifu.com": {
       "type": [
@@ -4098,7 +4096,7 @@
         "艺术",
         "风格库"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][530]<none>"
     },
     "https://ling.jd.com": {
@@ -5292,7 +5290,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]aborted"
     },
     "https://pi.dev": {
       "title": "PI",
@@ -5969,6 +5969,14 @@
         "AI 写作助手"
       ]
     },
+    "https://respawnstack.com": {
+      "title": "RespawnStack",
+      "desc": "面向游戏开发者的 AI 工具目录: Curated AI tools directory for game developers",
+      "type": [
+        "AI 综合工具",
+        "AI 国外工具"
+      ]
+    },
     "https://resume.co": {
       "title": "Resume",
       "intro": "免费在线简历生成器",
@@ -6479,7 +6487,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
@@ -6656,14 +6664,6 @@
     "https://toolscout.ai": {
       "title": "Toolscout",
       "desc": "每天更新，最快最新的人工智能工具",
-      "type": [
-        "AI 综合工具",
-        "AI 国外工具"
-      ]
-    },
-    "https://respawnstack.com": {
-      "title": "RespawnStack",
-      "desc": "面向游戏开发者的 AI 工具目录: Curated AI tools directory for game developers",
       "type": [
         "AI 综合工具",
         "AI 国外工具"
