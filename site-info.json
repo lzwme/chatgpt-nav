@@ -10994,6 +10994,25 @@
       "type": [
         "AI 写作助手"
       ]
+    },
+    "https://disconfirmai.com/zh": {
+      "type": [
+        "AI 行业工具",
+        "AI 智能体"
+      ],
+      "title": "DisconfirmAI / 证伪AI",
+      "intro": "投资研究证伪优先平台",
+      "desc": "面向投资研究的证伪优先阅读与研究平台，先找可能推翻观点的反面证据，再建立确信。提供公开信源阅读、财报与数据研究、条件雷达、个人投资框架，以及 AI 100 与行业图谱。不做自动下单。",
+      "star": 2,
+      "needLogin": 1,
+      "needVerify": -1,
+      "source": "recommend",
+      "tags": [
+        "投资研究",
+        "证伪",
+        "金融科技",
+        "阅读"
+      ]
     }
   }
 }
