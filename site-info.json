@@ -6922,6 +6922,17 @@
         "持久记忆"
       ]
     },
+    "https://voxsail.com/zh/": {
+      "title": "声之帆 VoxSail",
+      "desc": "在线音视频翻译、AI配音与字幕审校工作台；需登录，提供付费订阅和积分加购，新用户有一次性体验积分。",
+      "type": [
+        "AI 翻译工具"
+      ],
+      "source": "recommend",
+      "needLogin": 1,
+      "needPay": 1,
+      "needVerify": 1
+    },
     "https://waifu2x.udp.jp": {
       "title": "Waifu2x",
       "intro": "动漫风格图像超分辨率增强",
