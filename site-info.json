@@ -1962,9 +1962,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]socket hang up"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -4098,7 +4096,7 @@
         "艺术",
         "风格库"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][530]<none>"
     },
     "https://ling.jd.com": {
@@ -6486,9 +6484,7 @@
         "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 6,
-      "errmsg": "[error][567]Unknown Status"
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -7232,9 +7228,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
