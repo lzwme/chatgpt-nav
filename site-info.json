@@ -3346,6 +3346,7 @@
       "title": "Hermes Agent中文文档",
       "star": 3,
       "sort": -80,
+      "needVerify": -1,
       "desc": "基于 Hermes Agent 英文文档网站同步翻译的在线中文文档网站"
     },
     "https://hiwaifu.com": {
@@ -3614,26 +3615,6 @@
         "AI 绘图",
         "AI 图像处理"
       ]
-    },
-    "https://imagetopromptai.com": {
-      "title": "ImageToPromptAI",
-      "intro": "图像转换为文本提示的AI工具",
-      "desc": "ImageToPromptAI是一个AI工具，可以将图像转换为文本提示。用户可以上传图像并创建一系列文本提示，AI会根据图像生成相应的文本描述。该工具可以用于稳定扩散，生成可比较的图像/绘画变化。用户可以根据自己的需求选择不同的套餐，无需订阅。",
-      "lang": "en",
-      "tags": [
-        "AI工具",
-        "图像转换",
-        "文本提示",
-        "图像处理",
-        "图像分析"
-      ],
-      "type": [
-        "AI 图像处理",
-        "AI 绘图"
-      ],
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND imagetopromptai.com",
-      "hide": 1
     },
     "https://imagine.meta.com": {
       "title": "Imagine with Meta",
@@ -4275,7 +4256,7 @@
     },
     "https://longcat.chat": {
       "title": "美团LongCat API开放平台",
-      "desc": "旗舰模型免费试用中！邀请新用户完成实名各得1000万Tokens！美团自研 LongCat 系列大模型API服务平台，基于MoE架构，兼容OpenAI和Anthropic API格式。支持深度思考、联网搜索、图像生成等能力。",
+      "desc": "LongCat-2.5发布！新用户送10M Tokens，老用户送 5M Tokens，缓存命中不消耗额度！美团自研 LongCat 系列大模型API服务平台，基于MoE架构，兼容OpenAI和Anthropic API格式。支持深度思考、联网搜索、图像生成等能力。",
       "star": 3,
       "type": [
         "AI 综合工具",
@@ -5747,7 +5728,7 @@
       "desc": "在线修复！国产的 AI 图像处理工具"
     },
     "https://qoder.com": {
-      "title": "Qoder",
+      "title": "Qoder国际版",
       "desc": "阿里出品面向国际版的 AI Coding IDE",
       "star": 3,
       "type": [
@@ -9437,17 +9418,6 @@
         "AI 图像处理",
         "AI 编程开发"
       ]
-    },
-    "https://www.ponzu.gg": {
-      "type": [
-        "AI 绘图",
-        "AI 图像处理"
-      ],
-      "title": "Ponzu",
-      "desc": "AI生成3D无缝贴图纹理",
-      "needVerify": 7,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.ponzu.gg",
-      "hide": 1
     },
     "https://www.powerfulai.tools": {
       "title": "Powerfulai",
