@@ -1962,7 +1962,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:20.55.126.243:1793670928.044\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2172,6 +2174,25 @@
       ],
       "type": [
         "AI 绘图"
+      ]
+    },
+    "https://disconfirmai.com/zh": {
+      "type": [
+        "AI 行业工具",
+        "AI 智能体"
+      ],
+      "title": "DisconfirmAI / 证伪AI",
+      "intro": "投资研究证伪优先平台",
+      "desc": "面向投资研究的证伪优先阅读与研究平台，先找可能推翻观点的反面证据，再建立确信。提供公开信源阅读、财报与数据研究、条件雷达、个人投资框架，以及 AI 100 与行业图谱。不做自动下单。",
+      "star": 2,
+      "needLogin": 1,
+      "needVerify": -1,
+      "source": "recommend",
+      "tags": [
+        "投资研究",
+        "证伪",
+        "金融科技",
+        "阅读"
       ]
     },
     "https://docs.anthropic.com/zh-CN/docs/claude-code/overview": {
@@ -4077,8 +4098,9 @@
         "艺术",
         "风格库"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][530]<none>"
+      "needVerify": 7,
+      "errmsg": "[error][530]<none>",
+      "hide": 1
     },
     "https://ling.jd.com": {
       "title": "京东羚珑",
@@ -6465,7 +6487,9 @@
         "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -6909,8 +6933,7 @@
       ],
       "source": "recommend",
       "needLogin": 1,
-      "needPay": 1,
-      "needVerify": 1
+      "needPay": 1
     },
     "https://waifu2x.udp.jp": {
       "title": "Waifu2x",
@@ -10970,25 +10993,6 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
-    },
-    "https://disconfirmai.com/zh": {
-      "type": [
-        "AI 行业工具",
-        "AI 智能体"
-      ],
-      "title": "DisconfirmAI / 证伪AI",
-      "intro": "投资研究证伪优先平台",
-      "desc": "面向投资研究的证伪优先阅读与研究平台，先找可能推翻观点的反面证据，再建立确信。提供公开信源阅读、财报与数据研究、条件雷达、个人投资框架，以及 AI 100 与行业图谱。不做自动下单。",
-      "star": 2,
-      "needLogin": 1,
-      "needVerify": -1,
-      "source": "recommend",
-      "tags": [
-        "投资研究",
-        "证伪",
-        "金融科技",
-        "阅读"
       ]
     }
   }
