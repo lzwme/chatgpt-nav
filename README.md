@@ -45,7 +45,7 @@
 ❌ 已失效。会在失效一段时间后移除
 ```
 
-站点列表(841)：
+站点列表(847)：
 
 ### 国产大模型 (24)
 
@@ -420,7 +420,7 @@
 1. [[🚀] https://janitorai.com](https://janitorai.com) **JanitorAI。** Janitor AI是由janitorai.com开发的一个平台，允许用户创建具有不同个性的虚拟聊天机器人角色。该平台由大型语言模型驱动，包括OpenAI的GPT模型。
 1. [[🚀] https://www.aichatting.net](https://www.aichatting.net) **AI Chatting。** 创建虚拟角色，并与其进行开放式对话。
 
-### AI 提示词 (19)
+### AI 提示词 (20)
 
 1. [[⭐⭐] https://image-prompt-generator.com](https://image-prompt-generator.com) **Image Prompt Generator。** 免费的 AI 图像提示词生成器与提示词库，支持按 GPT Image、Seedream、Seedance、Grok Imagine、Gemini、Nano Banana Pro 等模型筛选，生成可直接复制使用的图片提示词，并提供热门提示词示例与一键复制。
 1. [[⭐] https://catjourney.life](https://catjourney.life) **Catjourney。** 超多实用的 MJ Style Tuner风格库
@@ -428,6 +428,7 @@
 1. [[⭐] https://learningprompt.wiki](https://learningprompt.wiki) **Learning Prompt。** 提供免费的Prompt Engineering教程，包含ChatGPT和Midjourney的教程。
 1. [[⭐] https://midlibrary.io](https://midlibrary.io) **Midlibrary。** 风格多样！实用超2000+MJ提示词资源
 1. [[⭐] https://moonvy.com/apps/ops/](https://moonvy.com/apps/ops/) **OPS 提示词工作室。** OPS 提示词工作室是一款可视化编辑工具，支持一键翻译 AIGC 提示词，提供 Midjourney 提示词库，让用户轻松管理和使用提示词，助力提升生产力。该工具还提供简洁清晰的界面，方便用户快速复制、导出和翻译提示词。
+1. [[⭐] https://nanoprompts.org](https://nanoprompts.org) **NanoPrompts。** NanoPrompts 是免费 AI 图片提示词、示例与教程资源库，按创作场景提供可复制的 prompt，并说明构图、光线、画幅和常见失败的修正方法，适合设计师、内容创作者与 AI 初学者通过实例学习视觉提示词。英文主站，另设中文、日文、韩文和西班牙文页面；不提供在线生图与模型 API，实际生成需在外部服务中进行。
 1. [[⭐] https://prompt.noonshot.com](https://prompt.noonshot.com) **MJ Prompt Tool。** MJ提示词创造助手
 1. [[⭐] https://promptalot.com](https://promptalot.com) **Promptalot。** 超好用的MJ提示词辅助插件
 1. [[⭐] https://promptbase.com](https://promptbase.com) **PromptBase。** AI提示词交易网站
@@ -538,7 +539,7 @@
 1. [[⭐⭐🚀] https://cloud.google.com/products/gemini/code-assist](https://cloud.google.com/products/gemini/code-assist) **Gemini Code Assist。** Gemini Code Assist 是 Google Cloud 提供的一款 AI 编码助理，它通过生成式 AI 协助、企业安全和隐私保护机制，帮助提升软件开发和交付速度。该产品利用数十亿行开源代码、安全数据以及 Google Cloud 文档和示例代码进行微调，为开发者在其 IDE 和 Google Cloud 服务中提供代码补全、代码生成、自然语言聊天等功能。它支持多种编程语言，并集成了 Google Cloud 的多种服务，如 Firebase、Colab Enterprise、Databases、BigQuery、Apigee 和 Application Integration。
 1. [[🚀] https://www.copy.ai](https://www.copy.ai) **Copy AI。** 人工智能营销文案和内容创作工具，帮助各行各业的撰稿人、营销人员和企业快速高效地创建高质量的内容。
 
-### AI 写作助手 (104)
+### AI 写作助手 (105)
 
 1. [[⭐⭐⭐🧑‍💻] https://chatglm.cn](https://chatglm.cn) **智谱清言。** 全能 AI 助手，支持精通对话、写作与编程。为你答疑解惑，激发创意，更能理解图片与文档，提升学习与工作效率。
 1. [[⭐⭐⭐] https://docs.qq.com/ai/chat/](https://docs.qq.com/ai/chat/) **腾讯文档智能助手。** 腾讯文档推出的 AI 文档助手，支持全品类内容生成、数据处理、版式美化等高效创作。AIPPT、AI阅读、AI思维导图、AI流程图一键生成
@@ -638,6 +639,7 @@
 1. [[⭐] https://www.yanbiai.com](https://www.yanbiai.com) **言笔AI。** 言笔AI是一款基于AI大模型驱动的智能写作工具，支持多种写作场景，如文章创作、论文写作、PPT制作及公文撰写等。它通过提供免费的AI写作服务，帮助用户快速生成高质量的内容，避免重复内容，提升文案效果。言笔AI已为10,000+创作者提供服务，成功生成288,736,788字文案，具有高用户评价，值得信赖。
 1. [[⭐] https://xiezuocat.com](https://xiezuocat.com) **秘塔写作猫。** 写作猫是新一代交互式中英文写作辅助平台，集智能文本纠错、改写润色、自动续写、智能配图为一体。
 1. [[⭐] https://zuojia.baidu.com](https://zuojia.baidu.com) **百度作家平台。** 百度作家平台是一个AI智能创作工具，提供多种功能，包括AI助手、对话有问必答、AI续写等。用户可以使用该平台进行写作创作，包括小说设定、润色、角色起名等。平台还提供作品管理、收益分析等功能。百度作家平台适用于想要提升写作效率和创作质量的作者。
+1. [[💰🧑‍💻] https://kdpbook.io](https://kdpbook.io) **kdpbook.io。** kdpbook.io 是面向亚马逊 KDP 的 AI 图书工作室，在对话中描述一本书（或导入自己的书稿），即可自动写作、配图（角色保持一致）并排版，导出内页 PDF、全包封面 PDF、Kindle EPUB 和上架信息表。注册赠送 2000 积分；免费额度导出的文件带预览水印，付费方案可无水印导出并含商用授权。为独立产品，与亚马逊无关联。
 1. [[⭐⭐⭐🚀] https://gemini.google.com](https://gemini.google.com) **Gemini。** 认识 Gemini：Google 旗下的 AI 助理。在写作、规划和开展头脑风暴等方面获得帮助。体验生成式 AI 的强大功能。在这里可以在线体验谷歌最先进的 Gemini3、Nano Banana 等顶级模型。
 1. [[🚀] https://monica.im](https://monica.im) **Moncia。** Monica是由ChatGPT API提供支持的Chrome扩展程序，旨在成为您的个人AI助手，实现轻松聊天和文案编写。
 1. [[🚀] https://novelai.net](https://novelai.net) **NovelAI。** 基于人工智能，轻松构建独特的、惊险的、引入入胜的故事。
@@ -723,7 +725,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://work.duiopen.com](https://work.duiopen.com) **麦耳会记。** 麦耳会记是一款集实时语音转写、实时翻译和 AI 辅助写作功能为一体的 AI 办公助手。它可以用于办公会议、学生网课、客户访谈录音等场景。软件支持边录音、边转写，录音结束后，音频、文本实时同步至 PC 端、手机端。采用云端存储资料的方式，无论是办公、地铁，还是旅游途中，都可以随时随地查看文档或音频。麦耳会记还提供实时字幕同传功能，帮助听力受损人士更好地参与会议。
 1. [[⭐] https://www.notta.ai](https://www.notta.ai) **Notta。** Notta可以在在线会议、面对面销售会议等场景中快速转录您的音频或视频文件为文字内容。
 
-### AI 综合工具 (69)
+### AI 综合工具 (72)
 
 1. [[⭐⭐⭐] https://agnes-ai.com](https://agnes-ai.com) **Agnes AI。** Agnes 文本、图像和视频系列模型 API 免费试用中！Sapiens AI 是新加坡本土模型公司，也是 Agnes AI 的母公司，专注于打造先进的多模态模型，驱动下一代创意与交互应用。
 1. [[⭐⭐⭐] https://bailian.console.aliyun.com](https://bailian.console.aliyun.com) **阿里云百炼大模型服务平台。** 新用户送100万免费额度！提供 qwen3.6-plus 最新模型 API！阿里云一站式大模型开发与应用平台，集成通义千问及主流第三方模型，提供兼容OpenAI的API及全链路模型服务，支持智能体、工作流、知识库等应用构建，具备代码生成与理解能力。
@@ -763,6 +765,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://chathub.gg](https://chathub.gg) **ChatHub。** ChatHub是一个浏览器插件，可让您同时使用多个聊天机器人。它支持ChatGPT、Bing、Google Bard、Claude等10+个开源聊天机器人。ChatHub提供免费使用的大部分功能，还有付费的ChatHub Premium套餐，解锁所有高级功能。
 1. [[⭐] https://coda.io/product/ai-alpha](https://coda.io/product/ai-alpha) **Coda AI。** Coda AI是你的新工作助手。委派重复任务，重新思考内容创作，并更快地获取洞察。使用基于AI的模板开始。
 1. [[⭐] https://fintax.golcer.com](https://fintax.golcer.com) **高灯财务 AI 助手。** 高灯财务 AI 助手是一款专注于财税领域的专业工具，它通过对话式智能输出、多模态数据抽取、文本推理等技术，为用户提供财务报告分析、文件解读、智能提取、智能思维导图、办税指南等服务。这款产品利用海量财税领域训练数据，结合垂直知识进行分析和推理，生成专业报告内容，帮助用户轻松掌握文件要点，提升工作效率。
+1. [[⭐] https://jvlangai.com/models](https://jvlangai.com/models) **巨浪 AI。** 巨浪 AI 提供大模型公开 API 报价、分组和计费单位查询，保留来源链接，并提供接入指南。查询页面无需注册、登录或 API Key，免费使用；将公开报价采集与调用实测分开，旧报价和更新失败有状态提示，不承诺全部模型可用。
 1. [[⭐] https://mastergo.com/upcoming-ai/apply](https://mastergo.com/upcoming-ai/apply) **MasterGo AI。** MasterGo AI 是一款基于人工智能技术的智能助手，具有强大的功能和优势。它可以帮助用户高效处理各种任务，并提供个性化的解决方案。MasterGo AI 定价合理，并提供灵活的定位选项，适用于个人用户和企业用户。
 1. [[⭐] https://midreal.ai](https://midreal.ai) **MidReal。** MidReal是一款由AI技术驱动的互动文字冒险游戏。它具有超强的记忆力和写作能力,可以确保您的故事始终连贯一致,带给您身临其境的沉浸式体验。新特性包括多人互动、迷你游戏等,定价灵活,可免费试玩。
 1. [[⭐] https://mistral.ai](https://mistral.ai) **Mistral AI。** Mistral AI 是一家致力于构建全球最佳开源模型的研究实验室。平台让开发者和企业能够构建由 Mistral 开源和商业 LLM 提供支持的新产品和应用程序。
@@ -786,6 +789,8 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐] https://www.powerfulai.tools](https://www.powerfulai.tools) **Powerfulai。** 全球最大的人工智能工具目录: DISCOVER POWERFUL AI TOOLS. World's Largest AI Tool Directory, Updated Daily. `存在人机验证`
 1. [[⭐] https://www.xfyun.cn](https://www.xfyun.cn) **讯飞开放平台。** 科大讯飞推出的移动互联网智能交互平台，为开发者免费提供：涵盖语音能力增强型SDK，一站式人机智能语音交互解决方案，专业全面的移动应用分析。
 1. [[⭐] https://yourapi.cn](https://yourapi.cn) **YOURAPI。** 基于new-api的OpenAI接口聚合服务，价格便宜，支持调用 Claude4 等顶级模型API调用！
+1. [[💰🔑🧑‍💻] https://big-model.smart-agi.com](https://big-model.smart-agi.com) **闪耀模型。** 闪耀模型（Twinkle Model）是 AI API 源头中转服务，支持 GPT、Claude 及 GLM、DeepSeek、Kimi 等国产模型，提供 OpenAI 兼容接口，支付宝充值即可使用，可开发票。
+1. [[💰🔑🧑‍💻] https://y-api.bestvirtualgoods.com](https://y-api.bestvirtualgoods.com) **Y-API。** Y-API 是 OpenAI 兼容的大模型 API 服务，以 GLM、Kimi、Qwen、MiniMax 等国产模型为主，改两行 base_url 即可迁移；充 1 美元得 10 美元额度，部分模型免费调用，无最低消费，Cline、Roo Code、Continue、LibreChat 等客户端实测可用，兼容性矩阵公开可查。需注册、按量付费、需 Key。
 1. [[⭐⭐🔐🧑‍💻] https://www.chatallais.com](https://www.chatallais.com) **星界AI|一站式AIGC平台。** 一站式AIGC平台，集成Chatgpt、Claude、ChatGLM、Midjourney、DALL-E、Flux.1、Suno等全网顶级AI大模型，实现文本创作、图片生成、音乐创作一站式生成。
 1. [[⭐⭐⭐🚀] https://anyrouter.top](https://anyrouter.top) **AnyRouter。** 零门槛、免费使用！Claude Code API 免费共享平台，每日签到送 25 美元额度，免费使用 Cluade Code！
 1. [[⭐⭐⭐🚀] https://huggingface.co](https://huggingface.co) **Hugging Face。** 美国最大的人工智能开源社区与模型托管平台。当前NLP及多模态AI领域最活跃的开源平台之一，集成了模型库、数据集、推理部署工具等全套生态，支持从快速实验到企业级落地。
@@ -1392,7 +1397,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[🚀] https://www.soulgen.net](https://www.soulgen.net) **SoulGen。** SoulGen 是一款 AI 魔法工具，可根据文本或提示创建令人惊叹的真实女孩艺术。立即免费试用并创建定制的 AI 角色。
 1. [[🚀] https://yodayo.com/text-to-image](https://yodayo.com/text-to-image) **Yodayo。** 探索人工智能生成的动漫艺术，找到最佳提示，使用我们的免费人工智能艺术生成器创建美丽的图像，并与其他动漫迷分享！
 
-### AI 智能体 (45)
+### AI 智能体 (46)
 
 1. [[⭐⭐⭐] https://agent.xfyun.cn](https://agent.xfyun.cn) **讯飞星辰Agent平台。** 新一代智能体Agent开发平台，支持通过提示词Prompt、工作流Workflow灵活创建专业智能体。平台已整合丰富的模型、插件、MCP Server，支持一站式效果测评，助力开发者快速搭建生产级智能体。创建后可发布到讯飞星火App、微信公众号，或发布成API、MCP Server。
 1. [[⭐⭐⭐] https://agents.baidu.com](https://agents.baidu.com) **文心智能体平台。** 百度推出的基于文心大模型的智能体平台，支持广大开发者根据自身行业领域、应用场景，选取不同类型的开发方式，打造大模型时代的产品能力。开发者可以通过prompt编排的方式低成本开发智能体（Agent），同时文心智能体平台还将为智能体（Agent）开发者提供相应的流量分发路径，完成商业闭环。
@@ -1432,6 +1437,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐⭐] https://skillhub.cn](https://skillhub.cn) **唐可创研 TANCO SkillHub。** 面向 AI Agent / 工作流的公开 Skill Hub，将复杂任务拆解为可复用的流程化 Skill（调研核验、项目拆解、链式推进、多 Agent 交接、边界与风险检查等），帮助从一次性提示走向可重复交付的工作流。
 1. [[⭐⭐] https://useai.live/hermes/](https://useai.live/hermes/) **小马AI Hermes 中文增强包。** Hermes Agent 中文补丁与新手教程，一条命令安装，自动识别新旧版本，覆盖启动页、TUI、快捷指令、网关提示和权限审批提示。
 1. [[⭐] https://vostride.com](https://vostride.com) **agent-qa。** 通过 CLI、MCP 和 Skills 测试 Web、Android 与 iOS 应用，以持久记忆与经验证的自我改进复用测试经验。需要 Node.js 24+ 和模型访问权限；本地包免费，模型服务费用另计。
+1. [[⭐] https://www.bluedoai.com/tools/](https://www.bluedoai.com/tools/) **小蓝助手 Blue。** 小蓝助手 Blue（BlueDoAI）是 Windows 桌面智能体：用户给出任务目标和资料位置并授予操作权限后，可处理本地文档与图片、编写并运行脚本，继续执行跨应用的多步骤任务，交付文件或处理结果。工具本体免费，可配置自有 API 或兼容的本地模型服务；使用 BlueDoAI 托管模型时按实际用量计费。
 1. [[⭐⭐⭐🚀] https://aistudio.google.com](https://aistudio.google.com) **Google AI tudio。** Google 推出的 AI 应用开发平台。在这里可以快速、直观地访问和实验 Google 最先进的生成式 AI 模型（例如 Gemini、Nano Banana 系列），用户能免费体验和测试 Google 最新的 AI 模型，无需任何费用。
 1. [[⭐⭐⭐🚀] https://claude.com/download](https://claude.com/download) **Claude Cowork。** 让 Claude 真正变成你电脑里的 AI 同事！Claude Cowork 是 Anthropic 推出的自治 AI 代理 (Autonomous AI Agent)，无需编写代码，即可在 macOS 上自主管理文件、处理数据并生成报告。
 1. [[⭐⭐⭐🚀] https://gemini.google.com](https://gemini.google.com) **Gemini。** 认识 Gemini：Google 旗下的 AI 助理。在写作、规划和开展头脑风暴等方面获得帮助。体验生成式 AI 的强大功能。在这里可以在线体验谷歌最先进的 Gemini3、Nano Banana 等顶级模型。

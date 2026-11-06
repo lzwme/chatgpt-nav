@@ -1078,6 +1078,23 @@
       "title": "BibiGPT",
       "desc": "一键总结B站音视频内容"
     },
+    "https://big-model.smart-agi.com": {
+      "type": [
+        "AI 综合工具"
+      ],
+      "title": "闪耀模型",
+      "intro": "低价、稳定、高质量的 AI API 中转站",
+      "desc": "闪耀模型（Twinkle Model）是 AI API 源头中转服务，支持 GPT、Claude 及 GLM、DeepSeek、Kimi 等国产模型，提供 OpenAI 兼容接口，支付宝充值即可使用，可开发票。",
+      "needLogin": 1,
+      "needPay": 1,
+      "needKey": 1,
+      "tags": [
+        "API",
+        "中转",
+        "OpenAI兼容",
+        "按量付费"
+      ]
+    },
     "https://bigesj.com/ai-ppt/": {
       "title": "比格PPT",
       "intro": "AI赋能PPT在线智能设计工具",
@@ -3918,6 +3935,20 @@
         "AI 图像处理"
       ]
     },
+    "https://jvlangai.com/models": {
+      "type": [
+        "AI 综合工具"
+      ],
+      "title": "巨浪 AI",
+      "intro": "模型公开报价查询与接入指南",
+      "desc": "巨浪 AI 提供大模型公开 API 报价、分组和计费单位查询，保留来源链接，并提供接入指南。查询页面无需注册、登录或 API Key，免费使用；将公开报价采集与调用实测分开，旧报价和更新失败有状态提示，不承诺全部模型可用。",
+      "tags": [
+        "模型报价",
+        "比价",
+        "API",
+        "接入指南"
+      ]
+    },
     "https://katteb.com/en": {
       "title": "Katteb",
       "intro": "不要盲目相信AI生成的内容，请先用Katteb进行事实核查",
@@ -3933,6 +3964,23 @@
       ],
       "type": [
         "AI 写作助手"
+      ]
+    },
+    "https://kdpbook.io": {
+      "type": [
+        "AI 写作助手"
+      ],
+      "title": "kdpbook.io",
+      "intro": "AI 图书工作室，对话生成亚马逊 KDP 可上传的图书文件",
+      "desc": "kdpbook.io 是面向亚马逊 KDP 的 AI 图书工作室，在对话中描述一本书（或导入自己的书稿），即可自动写作、配图（角色保持一致）并排版，导出内页 PDF、全包封面 PDF、Kindle EPUB 和上架信息表。注册赠送 2000 积分；免费额度导出的文件带预览水印，付费方案可无水印导出并含商用授权。为独立产品，与亚马逊无关联。",
+      "needLogin": 1,
+      "needPay": 1,
+      "tags": [
+        "AI写作",
+        "电子书",
+        "KDP",
+        "排版",
+        "出版"
       ]
     },
     "https://keyue.cloud.baidu.com": {
@@ -4744,6 +4792,20 @@
         "智能体"
       ],
       "repo": "https://github.com/qwibitai/nanoclaw"
+    },
+    "https://nanoprompts.org": {
+      "type": [
+        "AI 提示词"
+      ],
+      "title": "NanoPrompts",
+      "intro": "免费 AI 图片提示词、示例与教程资源库",
+      "desc": "NanoPrompts 是免费 AI 图片提示词、示例与教程资源库，按创作场景提供可复制的 prompt，并说明构图、光线、画幅和常见失败的修正方法，适合设计师、内容创作者与 AI 初学者通过实例学习视觉提示词。英文主站，另设中文、日文、韩文和西班牙文页面；不提供在线生图与模型 API，实际生成需在外部服务中进行。",
+      "tags": [
+        "提示词",
+        "AI绘画",
+        "教程",
+        "图像生成"
+      ]
     },
     "https://news.maynorai.asia": {
       "title": "AI 信息差",
@@ -7682,6 +7744,20 @@
       ],
       "type": [
         "AI 翻译工具"
+      ]
+    },
+    "https://www.bluedoai.com/tools/": {
+      "type": [
+        "AI 智能体"
+      ],
+      "title": "小蓝助手 Blue",
+      "intro": "Windows 桌面 AI 智能体，可跨应用执行多步骤任务",
+      "desc": "小蓝助手 Blue（BlueDoAI）是 Windows 桌面智能体：用户给出任务目标和资料位置并授予操作权限后，可处理本地文档与图片、编写并运行脚本，继续执行跨应用的多步骤任务，交付文件或处理结果。工具本体免费，可配置自有 API 或兼容的本地模型服务；使用 BlueDoAI 托管模型时按实际用量计费。",
+      "tags": [
+        "Windows",
+        "桌面客户端",
+        "智能体",
+        "文档处理"
       ]
     },
     "https://www.boardmix.com": {
@@ -10722,6 +10798,23 @@
       "desc": "Xmind Copilot 思维导图 AI 助手",
       "type": [
         "AI 思维导图"
+      ]
+    },
+    "https://y-api.bestvirtualgoods.com": {
+      "type": [
+        "AI 综合工具"
+      ],
+      "title": "Y-API",
+      "intro": "低成本、OpenAI 兼容的大模型 API",
+      "desc": "Y-API 是 OpenAI 兼容的大模型 API 服务，以 GLM、Kimi、Qwen、MiniMax 等国产模型为主，改两行 base_url 即可迁移；充 1 美元得 10 美元额度，部分模型免费调用，无最低消费，Cline、Roo Code、Continue、LibreChat 等客户端实测可用，兼容性矩阵公开可查。需注册、按量付费、需 Key。",
+      "needLogin": 1,
+      "needPay": 1,
+      "needKey": 1,
+      "tags": [
+        "API",
+        "OpenAI兼容",
+        "国产大模型",
+        "按量付费"
       ]
     },
     "https://y.qq.com/tme_studio/": {
