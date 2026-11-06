@@ -466,6 +466,17 @@
       "needVPN": 1,
       "title": "AI Chat"
     },
+    "https://aibenchy.com/zh/": {
+      "title": "AI BENCHY 排行榜",
+      "desc": "AI 基准排行榜，帮你看清哪些模型得分最高、在多次运行中更稳定，以及哪些模型最值得花这笔钱。",
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "网站排名"
+      ],
+      "star": 3
+    },
     "https://aic.oceanengine.com": {
       "title": "抖音即创",
       "intro": "抖音一站式智能创意生产与管理平台",
@@ -600,6 +611,14 @@
       "needVPN": 1,
       "lang": "en",
       "star": 3
+    },
+    "https://aitools.run": {
+      "title": "AI帮个忙",
+      "desc": "AI帮个忙是打工人的多功能小帮手，有多个AI写作和图片工具，可以用AI生成小红书文案，文章，PPT大纲等，支持改写，润色,续写,扩写",
+      "type": [
+        "AI 综合工具"
+      ],
+      "needVerify": 6
     },
     "https://aivideo.hunyuan.tencent.com": {
       "title": "腾讯混元文生视频",
@@ -928,6 +947,19 @@
       "desc": "create stunning images from text prompts using artificial intelligence. AISEO provides the best Ai art generator to bring your visual game to the next level.",
       "needVerify": -1
     },
+    "https://atomcode.atomgit.com": {
+      "title": "AtomCode",
+      "desc": "PRO会员限免领取中！AtomCode — Claude Code 的开源平替。连接任意大模型，自主多步执行，30 秒上手。",
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "编程助手",
+        "CLI"
+      ],
+      "star": 3,
+      "sort": -10
+    },
     "https://audionotes.ai": {
       "title": "AudioNotes.ai",
       "intro": "将您的口述文字转化为有序文本摘要",
@@ -996,6 +1028,16 @@
         "FREEAPI",
         "API"
       ]
+    },
+    "https://bard.google.com": {
+      "title": "Google Bard",
+      "desc": "Google推出的聊天机器人。",
+      "type": [
+        "AI 聊天对话",
+        "AI 国外工具"
+      ],
+      "star": 3,
+      "needVPN": true
     },
     "https://bearly.ai": {
       "type": [
@@ -1918,6 +1960,17 @@
         "AI 编程开发"
       ]
     },
+    "https://codewhale.net": {
+      "title": "CodeWhale",
+      "desc": "为 DeepSeek V4 而生的终端编程智能体：用一部成文的规则集和实时的工具反馈把模型包起来，让它能在长时间的工具调用任务里不漂移地走完整轮。MIT 开源。",
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI"
+      ],
+      "star": 3
+    },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
       "intro": "AI 视频生成器，快速简单生成 AI 视频",
@@ -2126,6 +2179,21 @@
         "AI 绘图"
       ]
     },
+    "https://datamind.swguancha.com?utm_source=lzwme": {
+      "title": "CraftAI",
+      "desc": "数据分析师——不仅会算表，帮你找数据、做判断、出方案",
+      "intro": "你的 AI 商业分析师",
+      "type": [
+        "AI 行业工具"
+      ],
+      "tags": [
+        "智能应用",
+        "办公",
+        "AI办公",
+        "智慧办公"
+      ],
+      "star": 3
+    },
     "https://deepl.com": {
       "title": "DeepL",
       "intro": "世界上最准确的翻译工具",
@@ -2150,6 +2218,14 @@
       "type": [
         "AI 综合工具"
       ]
+    },
+    "https://deepmind.google/technologies/gemini": {
+      "title": "Google Gemini",
+      "desc": "Gemini(双子座)是Google最新的大型语言模型，在一系列多模式基准测试中超越了最先进GPT4。在各种自然语言任务中表现良好，例如摘要、指令跟踪、内容生成、情感分析、实体提取、分类等。",
+      "type": [
+        "AI 综合工具"
+      ],
+      "star": 3
     },
     "https://democreator.wondershare.com": {
       "type": [
@@ -2177,6 +2253,20 @@
       ],
       "title": "Designs AI",
       "desc": "免费AI设计。使用生成型 AI 创建图像、视频等。利用人工智能的力量提升您的社交媒体营销水平。"
+    },
+    "https://developer.amd.com.cn/radeon/tokenfactory": {
+      "title": "AMD Radeon Cloud",
+      "desc": "AMD 官方免费大模型 API，DeepSeek-V4.1-Flash、Qwen3.8-Flash 可直接免费调用",
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "FREEAPI",
+        "API",
+        "API开放平台"
+      ],
+      "star": 3,
+      "sort": -90
     },
     "https://dewatermark.ai": {
       "title": "DeWatermark",
@@ -2209,6 +2299,20 @@
         "金融科技",
         "阅读"
       ]
+    },
+    "https://discovery.intern-ai.org.cn/chat": {
+      "title": "书生端砚科研模型",
+      "desc": "免费提供每七天约2.5亿dsv4 flash的API用量！端到端全链路 AI 科研工作台！",
+      "type": [
+        "国产大模型",
+        "AI 聊天对话"
+      ],
+      "tags": [
+        "FREEAPI",
+        "API开放平台"
+      ],
+      "star": 3,
+      "sort": -90
     },
     "https://docs.anthropic.com/zh-CN/docs/claude-code/overview": {
       "title": "Claude Code",
@@ -2735,6 +2839,18 @@
         "AI 图像处理"
       ]
     },
+    "https://freebuff.ai": {
+      "title": "Freebuff",
+      "desc": "Freebuff is the free coding agent: a free CLI coding agent and Freebuff Web, the free way to build full-stack apps. No subscription, no setup, no lock-in. The free alternative to Claude Code, Cursor, Codex, Lovable, Replit, Bolt, Windsurf, and Devin.",
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "IDE",
+        "CLI"
+      ],
+      "star": 3
+    },
     "https://fronty.com": {
       "type": [
         "AI 编程开发",
@@ -2887,6 +3003,18 @@
         "AI 视频生成",
         "AI 写作助手"
       ]
+    },
+    "https://gitcode.com/openharmony-sig/deveco-code": {
+      "title": "DevEco Code",
+      "desc": "华为推出的面向 HarmonyOS 开发场景的 AI Agent，基于opencode开发，内置GLM5.1等模型并提供免费使用",
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI"
+      ],
+      "star": 3,
+      "sort": -80
     },
     "https://github.com/Boese0601/MagicDance": {
       "title": "MagicDance",
@@ -3611,6 +3739,20 @@
       ],
       "needVerify": -1
     },
+    "https://ima.qq.com": {
+      "title": "ima.copilot-腾讯AI工作台",
+      "desc": "ima.copilot（简称ima）是一款以知识库为核心的AI工作台产品，已接入腾讯混元大模型和DeepSeek R1模型满血版。ima是搜、读、写一体的效率工具，旨在帮助有较强知识获取、信息处理、内容输出需求的用户，提升学习、办公效率。",
+      "type": [
+        "AI 智能体",
+        "AI 文档办公"
+      ],
+      "tags": [
+        "办公",
+        "知识库",
+        "知识管理"
+      ],
+      "star": 3
+    },
     "https://image-prompt-generator.com": {
       "title": "Image Prompt Generator",
       "desc": "免费的 AI 图像提示词生成器与提示词库，支持按 GPT Image、Seedream、Seedance、Grok Imagine、Gemini、Nano Banana Pro 等模型筛选，生成可直接复制使用的图片提示词，并提供热门提示词示例与一键复制。",
@@ -3772,6 +3914,10 @@
         "智能体"
       ],
       "repo": "https://github.com/nearai/ironclaw"
+    },
+    "https://itecheasy.com.cn": {
+      "title": "ChatGpt-智能Ai",
+      "needVPN": true
     },
     "https://jam.dev/jamgpt": {
       "type": [
@@ -3949,6 +4095,21 @@
         "接入指南"
       ]
     },
+    "https://kaipai.meitu.com": {
+      "title": "开拍AI",
+      "desc": "开拍是一款集合了多种AI辅助创意功能的应用软件，包括AI帮你写文案、AI脚本、AI提词器、AI人像美颜、AI眼神矫正、AI主播、AI帮你剪视频等功能。用户可以快速地生成口播文案、拍摄高质量视频、美化人像、自动剪辑视频等，节省创作时间，提高创作效率。",
+      "intro": "AI帮你创作，全方位的创意工具",
+      "type": [
+        "AI 视频生成"
+      ],
+      "tags": [
+        "AI创意",
+        "视频编辑",
+        "文案创作",
+        "APP"
+      ],
+      "needVerify": 6
+    },
     "https://katteb.com/en": {
       "title": "Katteb",
       "intro": "不要盲目相信AI生成的内容，请先用Katteb进行事实核查",
@@ -4014,6 +4175,18 @@
         "CLI",
         "开源"
       ]
+    },
+    "https://kilo.org.cn/gateway": {
+      "title": "Kilo Gateway",
+      "desc": "提供了一些 free 模型供免费使用。面向 AI 推理的通用网关，将 LLM 请求路由至全球任何提供商。",
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "FREEAPI",
+        "API开放平台"
+      ],
+      "star": 3
     },
     "https://kimi.moonshot.cn": {
       "type": [
@@ -4337,6 +4510,21 @@
         "API"
       ]
     },
+    "https://longshot.ai": {
+      "title": "LongShot AI",
+      "desc": "LongShot AI 是一款旨在满足您内容需求的高效可靠的生成性人工智能工具。利用可靠的数据源和全面的事实核实，我们的人工智能驱动平台为您提供最准确可靠的信息，确保您的内容毫无疑虑。不再担心数据的可靠性和过时的信息，LongShot AI 不断更新知识库，确保您的内容始终相关和最新。我们的先进算法对事实进行仔细的交叉核实，消除了任何错误的可能性。LongShot AI 简化了事实核实的过程，为您节省宝贵的时间，让您专注于业务的其他方面。LongShot AI 提供灵活、定制的解决方案，以满足您机构或企业的独特需求。",
+      "intro": "使用可靠数据源和全面事实核实的生成性人工智能，为您的机构或企业创建准确和可靠的内容。",
+      "type": [
+        "AI 写作助手"
+      ],
+      "tags": [
+        "生成性人工智能",
+        "内容创作",
+        "事实核实",
+        "写作"
+      ],
+      "needVerify": 6
+    },
     "https://looka.com": {
       "title": "Looka",
       "desc": "AI辅助logo和品牌设计",
@@ -4353,6 +4541,19 @@
         "教育",
         "国外精选"
       ]
+    },
+    "https://loomy.xunfei.cn": {
+      "title": "Loomy-让工作更轻松",
+      "desc": "Loomy是讯飞推出的的桌面级AI智能助理，兼容Openclaw技能，安装即用，适用于自媒体运营、远程办公、日程管理、文件整理、电商运营等场景，让你工作更轻松。",
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "AI 助手",
+        "AI Agent",
+        "智能体"
+      ],
+      "star": 3
     },
     "https://ltx.studio": {
       "title": "LTX Studio",
@@ -4388,6 +4589,56 @@
         "AI 视频生成",
         "AI 绘图"
       ]
+    },
+    "https://lzw.me/docs/agents-radar/": {
+      "title": "agents-radar | AI 工具生态日报",
+      "desc": "agents-radar 每日追踪 AI 开源生态动态：AI CLI 工具对比（Claude Code/Codex/Gemini CLI）、AI Agents 生态、GitHub Trending、HN 社区、ArXiv 论文、HF 热门模型。中英双语日报，覆盖 OpenAI/Anthropic 官网动态。",
+      "intro": "最前沿的 CLI/Agent/Trending 每日追踪",
+      "type": [
+        "AI 学习资源"
+      ],
+      "tags": [
+        "文档",
+        "学习"
+      ],
+      "star": 3,
+      "sort": -90,
+      "icon": "https://lzw.me/docs/agents-radar/logo.svg"
+    },
+    "https://lzw.me/docs/opencodedocs/": {
+      "title": "OpenCodeDocs",
+      "desc": "顶级AI开源项目源码教程合集 - 从代码触出发，每步可验证",
+      "type": [
+        "AI 学习资源"
+      ],
+      "tags": [
+        "文档"
+      ],
+      "star": 3
+    },
+    "https://lzw.me/docs/openspec/zh-CN/": {
+      "title": "OpenSpec中文文档",
+      "desc": "基于 OpenSpec 官方仓库英文文档翻译的多语言文档",
+      "type": [
+        "AI 学习资源"
+      ],
+      "tags": [
+        "文档"
+      ],
+      "star": 3
+    },
+    "https://maas.unisound.com": {
+      "title": "云知声 Token Hub",
+      "desc": "U PLAN 免费档每周送2500积分！云知声 Token Hub 提供文本、语音、视觉等多模态 AI 大模型 API 服务，支持语音识别、语音合成与声音克隆能力。开发者可快速接入生成式 AI 能力，构建智能应用、AI Agent 与企业级 AI 产品。",
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "FREEAPI",
+        "API开放平台",
+        "API网关"
+      ],
+      "star": 3
     },
     "https://magickpen.com": {
       "title": "MagicPen",
@@ -4579,6 +4830,32 @@
         "AI 综合工具"
       ]
     },
+    "https://mimo.xiaomi.com/zh/mimocode": {
+      "title": "MiMo Code",
+      "desc": "小米推出的面向开发者的新一代 AI 编程助手，支持无限上下文，帮助你更高效地理解、构建与协作。",
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI"
+      ],
+      "star": 3
+    },
+    "https://mineru.net": {
+      "title": "MinerU",
+      "desc": "MinerU 是面向 Agent、RAG 和 LLM 的智能文档解析平台，支持 PDF、Word、PPT、Excel、图片和网页 URL 解析，可转换为 Markdown、JSON、LaTeX 等结构化结果。",
+      "intro": "面向 Agent 和 RAG 的智能文档解析平台",
+      "type": [
+        "AI 文档办公"
+      ],
+      "tags": [
+        "PDF",
+        "DOCX",
+        "Excel"
+      ],
+      "star": 3,
+      "sort": 10
+    },
     "https://miro.com/ai": {
       "title": "Miro AI",
       "intro": "解锁创造力、协作和效率的新工具",
@@ -4698,6 +4975,17 @@
         "工具"
       ]
     },
+    "https://moonshotai.github.io/kimi-cli/zh/": {
+      "title": "Kimi Code CLI",
+      "desc": "Moonshot AI 自研的命令行通用智能体工具，支持 macOS 和 Linux 系统，要求使用 uv 包管理器安装。",
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI"
+      ],
+      "star": 3
+    },
     "https://moonvy.com/apps/ops/": {
       "title": "OPS 提示词工作室",
       "intro": "可视化编辑提示词工具",
@@ -4711,6 +4999,26 @@
       "type": [
         "AI 提示词"
       ]
+    },
+    "https://mote.openi.cn": {
+      "title": "AI 模特",
+      "desc": "AI 模特是一款专为电商卖家打造的 AI 商拍工具。我们以 AI 模特为核心，提供一站式 AI 商拍解决方案，帮助电商卖家解决传统商拍成本高、效率低的问题。通过智能商拍、服装模特图、商品场景图、商品抠图等功能，让电商卖家能够轻松、高效地拍摄和处理商品图片。AI 模特提供定制模特功能，可以训练出企业品牌特性的专属模特模型，为电商卖家打造个性化的商拍体验。",
+      "intro": "一站式 AI 商拍工具",
+      "type": [
+        "AI 电商工具",
+        "AI 绘图"
+      ],
+      "tags": [
+        "AI 商拍",
+        "电商卖家",
+        "商品图片",
+        "商拍工具",
+        "模特图",
+        "电商图片制作",
+        "图像",
+        "中文精选"
+      ],
+      "needVerify": 6
     },
     "https://msty.ai": {
       "title": "Msty Studio",
@@ -4861,6 +5169,24 @@
         "agent",
         "research"
       ]
+    },
+    "https://noty.ai": {
+      "title": "Noty AI",
+      "desc": "ChatGPT驱动的AI会议转录工具",
+      "type": [
+        "AI 文档办公",
+        "AI 学习资源",
+        "AI 国外工具",
+        "AI 写作助手"
+      ],
+      "tags": [
+        "会议转录",
+        "笔记记录",
+        "后续任务",
+        "团队协作",
+        "桌面客户端"
+      ],
+      "needVerify": 6
     },
     "https://novamss.com": {
       "title": "NovaMSS",
@@ -5552,6 +5878,20 @@
         "API"
       ]
     },
+    "https://platform.stepfun.com": {
+      "title": "阶跃星辰开放平台",
+      "desc": "海量 Token 限时放送！新用户注册即享 15 天 Step Plan 免费体验, 登录即得 15 天，完成首次调用再得 15 天. 每邀请 1 位好友注册，再获 15 天，累计最高 45 天，总福利可达 75 天！Step API 稳定 · 高性能 · 易集成，领先的模型和工具，加速你的下一个 AI 应用落地",
+      "type": [
+        "AI 综合工具",
+        "国产大模型"
+      ],
+      "tags": [
+        "FREEAPI",
+        "API开放平台"
+      ],
+      "star": 3,
+      "sort": -10
+    },
     "https://platform.xiaomimimo.com": {
       "title": "Xiaomi Mimo开放平台",
       "desc": "小米Mimo大模型开放平台。当前为公测阶段，提供免费无限制的模型调用服务。",
@@ -5573,6 +5913,23 @@
         "AI 国外工具"
       ],
       "needVerify": -1
+    },
+    "https://play.google.com/store/apps/details": {
+      "title": "Text To Audio—TTS & MP3_WAV",
+      "desc": "Text2Audio是一款免费的文本转语音应用，通过一键操作将文本转换为音频文件。用户可以选择多个智能声音演员，还可以根据需要调整语速和音调，创建男声、女声、叙述等不同类型的声音。适用于制作短视频解说的评论，如TikTok、YouTube、Instgram等。",
+      "intro": "一键转换文本为音频文件",
+      "type": [
+        "AI 语音生成"
+      ],
+      "tags": [
+        "文本转音频",
+        "声音演员",
+        "语速调整",
+        "音调调整",
+        "音乐与音频"
+      ],
+      "star": 3,
+      "needVPN": true
     },
     "https://playgroundai.com": {
       "type": [
@@ -5808,6 +6165,19 @@
       ],
       "title": "清图",
       "desc": "在线修复！国产的 AI 图像处理工具"
+    },
+    "https://qoder.cn": {
+      "title": "Qoder CN 研发编程助手",
+      "desc": "Qwen3.8-Flash 限时免费使用！Qoder CN 是新一代 AI 编程平台，提供智能代码补全、AI 对话编程、自动代码生成等功能，支持 VS Code、JetBrains 等主流 IDE。免费下载体验。",
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI",
+        "IDE"
+      ],
+      "star": 3,
+      "sort": -99
     },
     "https://qoder.com": {
       "title": "Qoder国际版",
@@ -6689,6 +7059,32 @@
         "AI 写作助手"
       ]
     },
+    "https://todayai.cn": {
+      "title": "Today AI",
+      "desc": "新用户注册送3亿Token和三个月pro会员！懂你所想，为你先行的个人 AI 助理",
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "智能体"
+      ],
+      "star": 3,
+      "sort": -96
+    },
+    "https://tokenrhythm.studio": {
+      "title": "基元律动",
+      "desc": "注册送68元额度！统一接入多家 AI 模型，支持 OpenAI 与 Anthropic 协议，并提供模型发现、用量统计和调用体验。",
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "FREEAPI",
+        "API开放平台",
+        "API"
+      ],
+      "star": 3
+    },
     "https://tongyi.aliyun.com/wanxiang/": {
       "title": "通义万相",
       "intro": "刻削生千变，丹青图 “万相”",
@@ -6754,6 +7150,19 @@
       "title": "Google翻译",
       "desc": "Google免费提供上100种语言智能即时翻译工具"
     },
+    "https://translate.volcengine.com": {
+      "title": "火山翻译",
+      "desc": "字节旗下支持超过100种语种的免费在线翻译",
+      "type": [
+        "AI 翻译工具",
+        "AI 文档办公"
+      ],
+      "tags": [
+        "字节跳动"
+      ],
+      "star": 3,
+      "needVerify": 3
+    },
     "https://transmart.qq.com/zh-CN/index": {
       "type": [
         "AI 翻译工具"
@@ -6818,6 +7227,23 @@
       "star": 2,
       "title": "TTSMaker马克配音",
       "desc": "免费的在线文本转语音神器"
+    },
+    "https://tuan.weilaigpt.cn": {
+      "title": "站长团购AI PPT系统",
+      "desc": "站长团购AI PPT系统是一款支持一键生成和海量模板的在线建站工具，采用SaaS模式，允许无限多开。该系统基于thinkphp 6.1 + mysql 5.7 + vue3 + vite5技术栈开发，完全开源，支持定制二次开发，适用于需要快速搭建个性化网站的用户。产品原价2888元，提供详细的安装部署文档和参数配置文档，以及使用过程中的免费指导服务。",
+      "intro": "一键生成海量模板，支持SaaS多开的全开源系统",
+      "type": [
+        "AI 文档办公",
+        "AI 开源工具"
+      ],
+      "tags": [
+        "PPT",
+        "效率助手",
+        "SaaS",
+        "开源",
+        "定制开发",
+        "中文精选"
+      ]
     },
     "https://tusiart.com": {
       "type": [
@@ -6886,6 +7312,22 @@
         "AI 写作助手"
       ]
     },
+    "https://unify.light-ai.top": {
+      "title": "SenseNova Studio",
+      "desc": "SenseNova U1 正式版发布，融合 Agent 能力，支持信息图高效生成。发送一句需求，将生成信息图，并展示思考过程与最终结果。",
+      "type": [
+        "AI 图像处理",
+        "AI 绘图"
+      ],
+      "tags": [
+        "摘要",
+        "写作",
+        "协作",
+        "国外精选"
+      ],
+      "star": 3,
+      "needVerify": 7
+    },
     "https://unsloth.ai": {
       "title": "unsloth",
       "desc": "Unsloth 是一个用于运行和训练模型的开源框架，专为大语言模型（LLM）微调和强化学习（RL）设计。Unsloth 是目前在开源大语言模型（LLM）微调领域极具人气、且被广泛应用的高效训练框架。它以“极致的训练速度”和“极低的显存占用”闻名，能够让开发者在普通的消费级显卡甚至免费的 Google Colab 上轻松微调强大的开源大模型。",
@@ -6929,6 +7371,33 @@
       "title": "Vectorize",
       "desc": "Vectorizer可以使用AI快速轻松地将JPEG和PNG位图转换为SVG矢量图。"
     },
+    "https://video-ocean.com/en": {
+      "title": "Video Ocean",
+      "desc": "Video Ocean是一个基于人工智能模型技术的视频制作平台，提供文本生成、图像生成、音视频生成等功能。用户可以输入描述性文本、图片、音频和视频，获得定制化的AI生成文本、图片、音频和视频。该平台致力于简化视频生成的复杂性，通过提供先进的工具和详细的资源，使高质量的视频制作变得易于访问和不费力。Video Ocean的主要优点包括开放源代码、易于使用、高效生产和创新性。它通过提供100个免费币来吸引用户试用，推动内容创作的民主化，鼓励创新、创造力和包容性。",
+      "intro": "Video Ocean，让每个人都能轻松制作高质量视频。",
+      "type": [
+        "AI 视频生成",
+        "AI 写作助手",
+        "AI 绘图"
+      ],
+      "tags": [
+        "AI视频制作",
+        "内容创作",
+        "图像生成",
+        "视频编辑",
+        "社交媒体",
+        "视频"
+      ],
+      "needVerify": 6
+    },
+    "https://video.luchentech.com/zh-CN": {
+      "title": "VIDEO OCEAN",
+      "desc": "人人皆导演，让视频创作变得轻松自如",
+      "type": [
+        "AI 视频生成"
+      ],
+      "needVerify": 6
+    },
     "https://virbo.wondershare.cn": {
       "type": [
         "AI 数字人",
@@ -6957,6 +7426,20 @@
         "AI 综合工具",
         "AI 开源工具"
       ]
+    },
+    "https://vmlx.net": {
+      "title": "vMLX",
+      "desc": "Mac 上最完整的本地 AI 引擎 — 在 100K 上下文中比 LM Studio 快 224 倍。唯一支持 VL 模型与完整 5 层缓存堆栈配合使用的 MLX 引擎。投机解码、Mamba/SSM 支持、50+ 自动检测架构、14 个工具解析器、4 个推理解析器、20+ 智能体工具、语音、视觉。无与伦比。",
+      "intro": "Fastest Local AI for Mac | Best LM Studio Alternative with Agentic Coding Tools",
+      "type": [
+        "AI 开源工具",
+        "AI 综合工具"
+      ],
+      "tags": [
+        "本地部署",
+        "私有化"
+      ],
+      "star": 3
     },
     "https://vocalremover.org": {
       "title": "Vocal Remover",
@@ -7432,6 +7915,24 @@
       "desc": "创建虚拟角色，并与其进行开放式对话。",
       "needVPN": 1
     },
+    "https://www.aifuwus.com/solution/index?link=stentor/icservice": {
+      "title": "讯飞A.I.智能客服解决方案",
+      "desc": "A.I.智能客服解决方案是科大讯飞基于其先进的语音技术，为企业提供的一套完整的客户服务系统。该系统通过电话、Web、APP、小程序、自助终端等多种渠道，实现智能外呼、智能接听、语音导航、在线文字客服、质检分析、坐席辅助等功能。它通过高识别率的语音识别引擎、自然流畅的语音合成技术、智能打断能力、IVR导航以及客服平台中间件等技术，帮助企业提高客服效率，降低人力成本，同时提升客户服务体验。",
+      "intro": "基于科大讯飞语音技术，实现智能客服的多渠道解决方案。",
+      "type": [
+        "AI 语音生成",
+        "AI 行业工具"
+      ],
+      "tags": [
+        "智能客服",
+        "语音识别",
+        "语音合成",
+        "客户服务",
+        "自动化",
+        "商业"
+      ],
+      "needVerify": 1
+    },
     "https://www.aimix.pro": {
       "title": "AIMIX智剪",
       "intro": "AIMIX智剪,一站式短视频内容生产工具。",
@@ -7550,6 +8051,21 @@
       ],
       "title": "万彩微影",
       "desc": "万彩微影，一款全能的AI智能短视频制作软件合集，专门制作热门的手绘动画视频，文字动画视频，还能一键把图文/文章/PPT转换为视频。"
+    },
+    "https://www.ant-ling.com": {
+      "title": "蚂蚁百灵大模型",
+      "desc": "蚂蚁百灵是蚂蚁集团自研的大模型。高效，智能，安全。",
+      "type": [
+        "AI 聊天对话",
+        "AI 综合工具",
+        "国产大模型"
+      ],
+      "tags": [
+        "FREEAPI",
+        "API开放平台"
+      ],
+      "star": 3,
+      "needVerify": 7
     },
     "https://www.anthropic.com": {
       "type": [
@@ -8116,6 +8632,15 @@
       ],
       "needVerify": -1
     },
+    "https://www.deepseek.com/download/": {
+      "title": "DeepSeek Harness",
+      "desc": "下载 DeepSeek App 与 DeepSeek Harness 桌面端，体验 Supper Agent超级智能体能力！",
+      "type": [
+        "AI 智能体"
+      ],
+      "star": 3,
+      "sort": -102
+    },
     "https://www.designhill.com/tools/logo-maker": {
       "title": "Designhill Logo Maker",
       "intro": "使用Designhill的AI动力标志创建专业的标志。",
@@ -8238,6 +8763,23 @@
         "AI 文档办公",
         "AI 学习资源"
       ]
+    },
+    "https://www.elmo.chat": {
+      "title": "Elmo",
+      "desc": "Elmo是一款AI网络副驾驶，作为Chrome扩展程序，能够将网页内容即时压缩成简洁的摘要，提供具体问题的答案，从网页中获取相关信息，并与PDF和YouTube视频进行互动，以增强用户的生产力和理解。",
+      "intro": "Elmo是一款Chrome扩展，用于创建摘要、洞见和扩展知识",
+      "type": [
+        "AI 写作助手"
+      ],
+      "tags": [
+        "AI副驾驶",
+        "Chrome扩展",
+        "内容摘要",
+        "信息检索",
+        "优质新品",
+        "插件"
+      ],
+      "needVerify": 6
     },
     "https://www.erase.bg": {
       "title": "Erase.bg",
@@ -8905,6 +9447,31 @@
         "CLI"
       ]
     },
+    "https://www.kimi.com/zh-cn/products/kimi-work": {
+      "title": "Kimi Work",
+      "desc": "Kimi Work 是全面覆盖金融投研、科研学术与白领办公的桌面端 AI 工作台。内置 300 Agent 全天候替你整理文件、操作网页、自动化任务、生成精美 Office 产物，重塑 PC 端 AI 办公体验。",
+      "type": [
+        "AI 智能体",
+        "AI 文档办公"
+      ],
+      "star": 3
+    },
+    "https://www.kraftful.com": {
+      "title": "Kraftful",
+      "desc": "Kraftful为产品建设者提供深度AI分析用户反馈的能力，帮助他们了解用户的需求，以及如何让产品更加令人愉悦。我们的产品经理工具能够综合客户情感，提供有价值的见解，优化产品开发生命周期。",
+      "intro": "深度AI分析用户反馈，优化产品开发生命周期",
+      "type": [
+        "AI 行业工具"
+      ],
+      "tags": [
+        "用户反馈",
+        "AI分析",
+        "产品开发",
+        "产品经理",
+        "用户需求"
+      ],
+      "needVerify": 6
+    },
     "https://www.krea.ai/home": {
       "title": "Krea.ai",
       "intro": "随你所想进行设计",
@@ -9502,6 +10069,24 @@
         "AI 绘图"
       ]
     },
+    "https://www.pipio.ai/video-dubbing": {
+      "title": "Pipio | Video Dubbing",
+      "desc": "该产品通过AI技术实现视频语音的自动配音和口型同步,可以轻松实现视频的多语种翻译,并保留原始音色。主要特点包括:1)33%以上的同步精度,媲美人工口型同步;2)无损视频分辨率;3)高保真语音翻译。面向的群体包括:企业培训部门、销售人员、营销团队和内容创作者。提供免费入门版和付费专业版,欢迎体验。",
+      "intro": "轻松翻译视频,我们的AI可以完美匹配说话者的嘴型",
+      "type": [
+        "AI 视频生成",
+        "AI 翻译工具",
+        "AI 语音生成"
+      ],
+      "tags": [
+        "视频翻译",
+        "语音合成",
+        "口型同步",
+        "视频",
+        "国外精选"
+      ],
+      "needVerify": 6
+    },
     "https://www.pixcakeai.com": {
       "type": [
         "AI 绘图"
@@ -9525,6 +10110,14 @@
       "type": [
         "AI 图像处理",
         "AI 编程开发"
+      ]
+    },
+    "https://www.ponzu.gg": {
+      "title": "Ponzu",
+      "desc": "AI生成3D无缝贴图纹理",
+      "type": [
+        "AI 绘图",
+        "AI 图像处理"
       ]
     },
     "https://www.powerfulai.tools": {
@@ -9941,6 +10534,19 @@
       "title": "Songtell",
       "desc": "通过Songtell，利用AI的力量，深入探讨您最喜欢的歌曲，揭示歌词背后引人入胜的故事和内涵。"
     },
+    "https://www.sophnet.com": {
+      "title": "SophNet | 云算力平台",
+      "desc": "SophNet - 几行代码，接入全球最顶尖的AI大模型。自研算力加持，更快！更稳！更省！注册即送千万Tokens！SophNet（网址：sophnet.com）致力于打造更快、更稳、更省的一站式模型推理API服务平台，用户可以创建符合他们应用需求的各种工作流拓扑，从简单的API服务到复杂的 Agent 智能体，都能实现。现已上线DeepSeek R1 满血版、阿里通以千问QwQ-32B、DeepSeek V3 0324模型！",
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "FREEAPI",
+        "API开放平台",
+        "API"
+      ],
+      "star": 3
+    },
     "https://www.soulgen.net": {
       "type": [
         "AI 绘图"
@@ -10101,6 +10707,20 @@
         "AI 视频生成"
       ]
     },
+    "https://www.tabbit.ai": {
+      "title": "Tabbit",
+      "desc": "工作交给Tabbit,时间留给自己！美团旗下光年之外团队面向国际版推出的AI浏览器，支持多种顶级模型免费使用！",
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "智能体"
+      ],
+      "star": 3,
+      "sort": -90,
+      "needVPN": true
+    },
     "https://www.tabnine.com": {
       "title": "Tabnine",
       "intro": "AI代码助手，加速开发，保障代码安全",
@@ -10158,6 +10778,19 @@
         "AI 行业工具"
       ]
     },
+    "https://www.tbox.cn": {
+      "title": "蚂蚁百宝箱",
+      "desc": "百宝箱平台是一款可以提供一站式 AI 原生应用的开发平台，您无需具有任何代码基础，只需通过自然语言即可三步完成应用的创建与发布。百宝箱平台不仅可以帮助您轻松创建各类智能体，一键发布到支付宝小程序，释放无限可能，快来登录百宝箱平台开启您的 AI 应用创作之旅吧！",
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "openclaw",
+        "智能体"
+      ],
+      "star": 3
+    },
     "https://www.texttovoice.online": {
       "title": "Texttovoice.online",
       "intro": "免费在线文本转语音",
@@ -10186,6 +10819,20 @@
       "desc": "天工Skywork是一款具备超强DeepResearch能力的全新AI Office智能体，通过3个专家agent和1个通用agent，让AI深度研究，一键生成AI文档、AI PPT、AI表格，高效应对各类办公、学习场景；也支持网页html、图像、视频、有声书、绘本等多种形式的创意内容创作，激发无限灵感。天工Skywork融合先进的多模态理解与深度检索分析技术，一问即得科研级、专业级、咨询级的高质量结果，帮助你摆脱繁琐事务，显著提升效率。无论你是职场白领、科研人员、大学生、研究生，还是自媒体KOL，天工Skywork都将是你值得信赖的智能伙伴，助你专注思考、释放创造力。",
       "intro": "调用海量工具完成各种任务",
       "title": "天工Agent版"
+    },
+    "https://www.tokenrouter.com": {
+      "title": "TokenRouter",
+      "desc": "目前提供glm5..3模型免费调用",
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "FREEAPI",
+        "API开放平台",
+        "API"
+      ],
+      "star": 3,
+      "sort": -50
     },
     "https://www.tongyi.com": {
       "type": [
@@ -10449,6 +11096,20 @@
         "AI 文档办公",
         "AI 学习资源"
       ]
+    },
+    "https://www.workbuddy.ai": {
+      "title": "WorkBuddy国际版",
+      "desc": "免费开始 · 无限可能！for Mac or Windows and start free — describe a task in one sentence and get back finished reports, decks, and spreadsheets, built from your own files.",
+      "type": [
+        "AI 智能体",
+        "AI 编程开发"
+      ],
+      "tags": [
+        "智能体",
+        "编程助手"
+      ],
+      "star": 3,
+      "sort": -89
     },
     "https://www.wujieai.com": {
       "type": [
@@ -10728,6 +11389,19 @@
         "AI 聊天对话"
       ]
     },
+    "https://x2v.light-ai.top": {
+      "title": "LightX2V",
+      "desc": "LightX2V：轻量、快速的AI数字人视频生成平台。在线体验、示例视频与使用说明。",
+      "type": [
+        "AI 视频生成",
+        "AI 数字人"
+      ],
+      "tags": [
+        "国产大模型"
+      ],
+      "star": 3,
+      "needVerify": 7
+    },
     "https://xiake.pro": {
       "title": "虾壳ChatAi",
       "intro": "虾壳是一款功能强大、交互自然的智能聊天机器人",
@@ -10991,6 +11665,21 @@
         "AI 学习资源"
       ]
     },
+    "https://zcode.z.ai/cn": {
+      "title": "ZCode | GLM-5.3 官方 Harness",
+      "desc": "ZCode 将 GLM-5.3 与领先的 AI 编程 Agent 和你的现有工具链结合，帮助你顺畅完成规划、编码、评审与上线。",
+      "intro": "简单、迅捷、氛围十足",
+      "type": [
+        "AI 智能体",
+        "AI 编程开发"
+      ],
+      "tags": [
+        "cowork",
+        "智能体"
+      ],
+      "star": 3,
+      "sort": -90
+    },
     "https://zeemo.ai/cn": {
       "type": [
         "AI 视频生成"
@@ -11020,6 +11709,21 @@
         "智能体"
       ],
       "repo": "https://github.com/qhkm/zeptoclaw"
+    },
+    "https://zh.accio.com": {
+      "title": "Accio Work",
+      "desc": "Accio Work 相当于一支帮您打理业务的 AI 助手团队。它不止能对话，更能依托内置能力与系统连接，替您完成各类真实场景的业务任务。",
+      "intro": "您的本地桌面 AI 助手，帮助您把创意转化为收益",
+      "type": [
+        "AI 智能体",
+        "AI 电商工具"
+      ],
+      "tags": [
+        "智能应用",
+        "电商卖家",
+        "电商"
+      ],
+      "star": 3
     },
     "https://zh.rask.ai": {
       "type": [
