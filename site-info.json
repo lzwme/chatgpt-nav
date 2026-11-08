@@ -1323,7 +1323,9 @@
         "AI 提示词"
       ],
       "title": "Catjourney",
-      "desc": "超多实用的 MJ Style Tuner风格库"
+      "desc": "超多实用的 MJ Style Tuner风格库",
+      "needVerify": 1,
+      "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander?oref=https%3A%2F%2Fcatjourney.life\"}</script></head></html>"
     },
     "https://catpaw.meituan.com": {
       "title": "Meituan CatPaw",
@@ -3006,9 +3008,7 @@
         "CLI"
       ],
       "star": 3,
-      "sort": -80,
-      "needVerify": 1,
-      "errmsg": "[error][418]HTTP_418"
+      "sort": -80
     },
     "https://github.com/Boese0601/MagicDance": {
       "title": "MagicDance",
@@ -6877,7 +6877,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
@@ -7030,7 +7030,7 @@
       ],
       "star": 3,
       "sort": -96,
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][400]Bad Request"
     },
     "https://tokenrhythm.studio": {
@@ -7123,7 +7123,7 @@
         "字节跳动"
       ],
       "star": 3,
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][404]Not Found"
     },
     "https://transmart.qq.com/zh-CN/index": {
@@ -10072,7 +10072,7 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.ponzu.gg"
     },
     "https://www.powerfulai.tools": {
