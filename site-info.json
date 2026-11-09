@@ -2614,6 +2614,20 @@
       "title": "Facecheck ID",
       "desc": "利用人工智能技术通过照片在线查找人员。"
     },
+    "https://faceswap.free": {
+      "title": "FaceSwap.Free",
+      "intro": "免费在线 AI 换脸，支持照片和短 GIF，无需注册",
+      "desc": "在浏览器里给照片和短 GIF 换脸，提供 4 种 AI 模型，可用同一组图片对比不同模型的效果。免费，无需注册或登录，不限换脸次数（仅有防滥用的每分钟频率限制）。结果图带有小型半透明标记；网页版不支持视频换脸。",
+      "type": [
+        "AI 图像处理"
+      ],
+      "source": "recommend",
+      "tags": [
+        "换脸",
+        "GIF",
+        "图片处理"
+      ]
+    },
     "https://fancy.tech": {
       "title": "Fancy Tech",
       "intro": "让人工智能重新定义时尚",
