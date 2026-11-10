@@ -3818,6 +3818,26 @@
         "AI 图像处理"
       ]
     },
+    "https://imagera.ai": {
+      "title": "Imagera",
+      "intro": "在一个工作台里用多款主流模型生成和编辑图片、视频、配音和音乐",
+      "desc": "Imagera 是一个 AI 创作工作台：在 Sandbox 里并排使用多款主流图片和视频模型，生成前显示积分价格，所有结果保存在作品库；Character ID 让同一张脸或同一个产品在每个镜头里保持一致，还提供配音、声音克隆和音乐生成。需登录，按积分或订阅付费。",
+      "type": [
+        "AI 视频生成",
+        "AI 图像处理",
+        "AI 国外工具"
+      ],
+      "source": "recommend",
+      "needLogin": 1,
+      "needPay": 1,
+      "tags": [
+        "文生图",
+        "文生视频",
+        "图生视频",
+        "AI配音",
+        "角色一致性"
+      ]
+    },
     "https://imagine.meta.com": {
       "title": "Imagine with Meta",
       "desc": "Meta 推出的免费AI绘画工具",
