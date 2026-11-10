@@ -460,7 +460,9 @@
       ],
       "star": 3,
       "title": "WPS AI",
-      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。"
+      "desc": "AI 设计助手，一键生成 PPT！WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]read ECONNRESET"
     },
     "https://ai117.com": {
       "needVPN": 1,
@@ -611,14 +613,6 @@
       "needVPN": 1,
       "lang": "en",
       "star": 3
-    },
-    "https://aitools.run": {
-      "title": "AI帮个忙",
-      "desc": "AI帮个忙是打工人的多功能小帮手，有多个AI写作和图片工具，可以用AI生成小红书文案，文章，PPT大纲等，支持改写，润色,续写,扩写",
-      "type": [
-        "AI 综合工具"
-      ],
-      "needVerify": 6
     },
     "https://aivideo.hunyuan.tencent.com": {
       "title": "腾讯混元文生视频",
@@ -1332,7 +1326,7 @@
       ],
       "title": "Catjourney",
       "desc": "超多实用的 MJ Style Tuner风格库",
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander?oref=https%3A%2F%2Fcatjourney.life\"}</script></head></html>"
     },
     "https://catpaw.meituan.com": {
@@ -4098,21 +4092,6 @@
         "接入指南"
       ]
     },
-    "https://kaipai.meitu.com": {
-      "title": "开拍AI",
-      "desc": "开拍是一款集合了多种AI辅助创意功能的应用软件，包括AI帮你写文案、AI脚本、AI提词器、AI人像美颜、AI眼神矫正、AI主播、AI帮你剪视频等功能。用户可以快速地生成口播文案、拍摄高质量视频、美化人像、自动剪辑视频等，节省创作时间，提高创作效率。",
-      "intro": "AI帮你创作，全方位的创意工具",
-      "type": [
-        "AI 视频生成"
-      ],
-      "tags": [
-        "AI创意",
-        "视频编辑",
-        "文案创作",
-        "APP"
-      ],
-      "needVerify": 6
-    },
     "https://katteb.com/en": {
       "title": "Katteb",
       "intro": "不要盲目相信AI生成的内容，请先用Katteb进行事实核查",
@@ -5003,26 +4982,6 @@
         "AI 提示词"
       ]
     },
-    "https://mote.openi.cn": {
-      "title": "AI 模特",
-      "desc": "AI 模特是一款专为电商卖家打造的 AI 商拍工具。我们以 AI 模特为核心，提供一站式 AI 商拍解决方案，帮助电商卖家解决传统商拍成本高、效率低的问题。通过智能商拍、服装模特图、商品场景图、商品抠图等功能，让电商卖家能够轻松、高效地拍摄和处理商品图片。AI 模特提供定制模特功能，可以训练出企业品牌特性的专属模特模型，为电商卖家打造个性化的商拍体验。",
-      "intro": "一站式 AI 商拍工具",
-      "type": [
-        "AI 电商工具",
-        "AI 绘图"
-      ],
-      "tags": [
-        "AI 商拍",
-        "电商卖家",
-        "商品图片",
-        "商拍工具",
-        "模特图",
-        "电商图片制作",
-        "图像",
-        "中文精选"
-      ],
-      "needVerify": 6
-    },
     "https://msty.ai": {
       "title": "Msty Studio",
       "desc": "Msty Studio 是一个以隐私为先的先进 AI 平台，旨在赋能从个人用户到企业团队构建并执行复杂的 AI 工作流，同时提供无与伦比的数据安全保障。 它通过统一接入数百个本地与在线模型，并直接集成于流畅的网页或原生桌面界面，有效满足了高性能与绝对数据主权的双重关键需求。",
@@ -5309,7 +5268,6 @@
       "source": "recommend",
       "needLogin": 1,
       "needPay": 1,
-      "needVerify": 1,
       "tags": [
         "3D",
         "3D打印",
@@ -6939,9 +6897,7 @@
         "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 5,
-      "errmsg": "[error][567]Unknown Status"
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -7093,7 +7049,7 @@
       ],
       "star": 3,
       "sort": -96,
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][400]Bad Request"
     },
     "https://tokenrhythm.studio": {
@@ -7173,21 +7129,6 @@
       "needVPN": 1,
       "title": "Google翻译",
       "desc": "Google免费提供上100种语言智能即时翻译工具"
-    },
-    "https://translate.volcengine.com": {
-      "title": "火山翻译",
-      "desc": "字节旗下支持超过100种语种的免费在线翻译",
-      "type": [
-        "AI 翻译工具",
-        "AI 文档办公",
-        "AI 学习资源"
-      ],
-      "tags": [
-        "字节跳动"
-      ],
-      "star": 3,
-      "needVerify": 6,
-      "errmsg": "[error][404]Not Found"
     },
     "https://transmart.qq.com/zh-CN/index": {
       "type": [
@@ -8792,23 +8733,6 @@
         "AI 学习资源"
       ]
     },
-    "https://www.elmo.chat": {
-      "title": "Elmo",
-      "desc": "Elmo是一款AI网络副驾驶，作为Chrome扩展程序，能够将网页内容即时压缩成简洁的摘要，提供具体问题的答案，从网页中获取相关信息，并与PDF和YouTube视频进行互动，以增强用户的生产力和理解。",
-      "intro": "Elmo是一款Chrome扩展，用于创建摘要、洞见和扩展知识",
-      "type": [
-        "AI 写作助手"
-      ],
-      "tags": [
-        "AI副驾驶",
-        "Chrome扩展",
-        "内容摘要",
-        "信息检索",
-        "优质新品",
-        "插件"
-      ],
-      "needVerify": 6
-    },
     "https://www.erase.bg": {
       "title": "Erase.bg",
       "intro": "免费在线去除图片背景",
@@ -10152,7 +10076,7 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.ponzu.gg"
     },
     "https://www.powerfulai.tools": {
