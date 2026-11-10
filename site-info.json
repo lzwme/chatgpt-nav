@@ -220,9 +220,9 @@
       ]
     },
     "https://agent.xfyun.cn": {
-      "title": "讯飞星辰Agent平台",
+      "title": "AStudio 官网",
       "intro": "企业级 AGENTIC WORKFLOW 平台，主力新一代生产级智能体开发",
-      "desc": "新一代智能体Agent开发平台，支持通过提示词Prompt、工作流Workflow灵活创建专业智能体。平台已整合丰富的模型、插件、MCP Server，支持一站式效果测评，助力开发者快速搭建生产级智能体。创建后可发布到讯飞星火App、微信公众号，或发布成API、MCP Server。",
+      "desc": "新用户送1000积分！AStudio 是科大讯飞推出的新一代全场景 AI 生产力工作台，支持 AI 规划并执行任务，交付文档、表格、网页与代码。",
       "star": 3,
       "tags": [
         "agent",
@@ -1930,6 +1930,22 @@
       ],
       "needVerify": -1
     },
+    "https://codearts.huaweicloud.com": {
+      "title": "CodeArts Editor",
+      "desc": "华为云码道CodeArts代码智能体是华为云打造的智能编码产品，深度融合开发工具链，支持代码自主开发与研发办公，实现全流程研发提效，立即免费体验。",
+      "type": [
+        "AI 智能体",
+        "AI 聊天对话",
+        "AI 编程开发"
+      ],
+      "tags": [
+        "FREEAPI",
+        "智能应用",
+        "编程助手"
+      ],
+      "star": 3,
+      "sort": -100
+    },
     "https://codefuse.ai": {
       "title": "codeFuse蚂蚁百灵研发助手",
       "desc": "让研发变得更简单",
@@ -2665,6 +2681,18 @@
       "icon": "https://dlweb.sogoucdn.com/translate/favicon.ico",
       "title": "搜狗翻译",
       "desc": "支持中、英、法、日等50多种语言之间的互译功能"
+    },
+    "https://fanyi.toutiao.com": {
+      "title": "火山翻译",
+      "desc": "字节旗下支持超过100种语种的免费在线翻译",
+      "type": [
+        "AI 翻译工具",
+        "AI 文档办公"
+      ],
+      "tags": [
+        "字节跳动"
+      ],
+      "star": 3
     },
     "https://fanyi.xfyun.cn/console/trans/text": {
       "type": [
@@ -3740,8 +3768,7 @@
       "desc": "ima.copilot（简称ima）是一款以知识库为核心的AI工作台产品，已接入腾讯混元大模型和DeepSeek R1模型满血版。ima是搜、读、写一体的效率工具，旨在帮助有较强知识获取、信息处理、内容输出需求的用户，提升学习、办公效率。",
       "type": [
         "AI 智能体",
-        "AI 文档办公",
-        "AI 学习资源"
+        "AI 文档办公"
       ],
       "tags": [
         "办公",
@@ -4479,7 +4506,7 @@
     },
     "https://longcat.chat": {
       "title": "美团LongCat API开放平台",
-      "desc": "LongCat-2.5发布！新用户送10M Tokens，老用户送 5M Tokens，缓存命中不消耗额度！美团自研 LongCat 系列大模型API服务平台，基于MoE架构，兼容OpenAI和Anthropic API格式。支持深度思考、联网搜索、图像生成等能力。",
+      "desc": "旗舰模型免费试用中！邀请新用户完成实名各得1000万Tokens！美团自研 LongCat 系列大模型API服务平台，基于MoE架构，兼容OpenAI和Anthropic API格式。支持深度思考、联网搜索、图像生成等能力。",
       "star": 3,
       "type": [
         "AI 综合工具",
@@ -4827,8 +4854,7 @@
       "desc": "MinerU 是面向 Agent、RAG 和 LLM 的智能文档解析平台，支持 PDF、Word、PPT、Excel、图片和网页 URL 解析，可转换为 Markdown、JSON、LaTeX 等结构化结果。",
       "intro": "面向 Agent 和 RAG 的智能文档解析平台",
       "type": [
-        "AI 文档办公",
-        "AI 学习资源"
+        "AI 文档办公"
       ],
       "tags": [
         "PDF",
@@ -7201,7 +7227,6 @@
       "intro": "一键生成海量模板，支持SaaS多开的全开源系统",
       "type": [
         "AI 文档办公",
-        "AI 学习资源",
         "AI 开源工具"
       ],
       "tags": [
@@ -8418,7 +8443,7 @@
       ]
     },
     "https://www.codebuddy.cn/work/": {
-      "title": "WorkBuddy腾讯版龙虾",
+      "title": "WorkBuddy",
       "desc": "WorkBuddy 是 AI 原生的桌面智能体工作台，可在手机主流 IM 下指令，AI 自动干活交付",
       "star": 3,
       "type": [
@@ -9056,22 +9081,6 @@
         "AI 行业工具"
       ]
     },
-    "https://www.huaweicloud.com/product/codeartside/snap.html": {
-      "title": "CodeArts Snap",
-      "intro": "基于盘古研发大模型的智能开发助手",
-      "desc": "CodeArts Snap是华为云自研的基于盘古研发大模型的智能开发助手。它通过强大的软硬件算力底座、深厚的软件分析与安全可信基座、以及坚实的研发数据积淀,为开发者提供代码生成、知识问答、代码检查等多种智能化研发服务,大幅提高软件研发效率,释放研发生产力。",
-      "lang": "zh",
-      "tags": [
-        "IDE",
-        "研发效率",
-        "智能生成",
-        "大模型",
-        "插件"
-      ],
-      "type": [
-        "AI 编程开发"
-      ]
-    },
     "https://www.hubspot.com/campaign-assistant": {
       "title": "HubSpot Campaign Assistant",
       "intro": "AI营销资产生成器",
@@ -9404,8 +9413,7 @@
       "desc": "Kimi Work 是全面覆盖金融投研、科研学术与白领办公的桌面端 AI 工作台。内置 300 Agent 全天候替你整理文件、操作网页、自动化任务、生成精美 Office 产物，重塑 PC 端 AI 办公体验。",
       "type": [
         "AI 智能体",
-        "AI 文档办公",
-        "AI 学习资源"
+        "AI 文档办公"
       ],
       "star": 3
     },
@@ -9713,7 +9721,7 @@
       ],
       "star": 3,
       "desc": "提供每日 2000 次免费大模型 API 调用额度！魔塔社区，中国最大的AI大模型开源社区。",
-      "title": "魔塔社区",
+      "title": "魔搭社区",
       "tags": [
         "云服务",
         "API",
@@ -11375,6 +11383,21 @@
       "type": [
         "AI 聊天对话"
       ]
+    },
+    "https://xiaohuanxiong.com": {
+      "title": "商汤小浣熊",
+      "desc": "完成新人任务最高可领12000 积分！由商汤科技出品，面向真实工作场景，实现从需求出发，稳定交付可编辑、可协作、可复用的办公成果。",
+      "type": [
+        "AI 综合工具",
+        "AI 智能体"
+      ],
+      "tags": [
+        "智能应用",
+        "agent",
+        "智能体"
+      ],
+      "star": 3,
+      "sort": -100
     },
     "https://xiaoyi.huawei.com/chat/": {
       "title": "小艺",
