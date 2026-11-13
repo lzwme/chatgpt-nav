@@ -1324,7 +1324,7 @@
       ],
       "title": "Catjourney",
       "desc": "超多实用的 MJ Style Tuner风格库",
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander?oref=https%3A%2F%2Fcatjourney.life\"}</script></head></html>"
     },
     "https://catpaw.meituan.com": {
@@ -3037,7 +3037,9 @@
         "CLI"
       ],
       "star": 3,
-      "sort": -80
+      "sort": -80,
+      "needVerify": 1,
+      "errmsg": "[error][418]HTTP_418"
     },
     "https://github.com/Boese0601/MagicDance": {
       "title": "MagicDance",
@@ -6925,7 +6927,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
@@ -7078,8 +7080,9 @@
       ],
       "star": 3,
       "sort": -96,
-      "needVerify": 6,
-      "errmsg": "[error][400]Bad Request"
+      "needVerify": 7,
+      "errmsg": "[error][400]Bad Request",
+      "hide": 1
     },
     "https://tokenrhythm.studio": {
       "title": "基元律动",
@@ -7786,9 +7789,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -9764,7 +9765,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][503]Service Unavailable"
     },
     "https://www.morphstudio.com": {
@@ -10093,8 +10094,9 @@
         "AI 绘图",
         "AI 图像处理"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.ponzu.gg"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.ponzu.gg",
+      "hide": 1
     },
     "https://www.powerfulai.tools": {
       "title": "Powerfulai",
