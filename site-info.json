@@ -6972,6 +6972,23 @@
         "AI 视频生成"
       ]
     },
+    "https://teapotrouter.com": {
+      "type": [
+        "AI 综合工具"
+      ],
+      "title": "Teapot Router",
+      "intro": "Claude Code 直连网关，逐笔计费可对账",
+      "desc": "Teapot Router 是面向 Claude Code 等编程客户端的 API 网关，Anthropic 与 OpenAI 双协议兼容，改 base_url 即可接入。每笔请求的模型、tokens、缓存命中与实收金额均有逐笔日志，价格表机读公开，可自行对账；余额永不过期，没用完可退。需注册、按量付费、需 Key。",
+      "needLogin": 1,
+      "needPay": 1,
+      "needKey": 1,
+      "tags": [
+        "API",
+        "Claude Code",
+        "计费透明",
+        "按量付费"
+      ]
+    },
     "https://theb.ai": {
       "type": [
         "AI 聊天对话"
