@@ -1324,7 +1324,7 @@
       ],
       "title": "Catjourney",
       "desc": "超多实用的 MJ Style Tuner风格库",
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][200]<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href=\"/lander?oref=https%3A%2F%2Fcatjourney.life\"}</script></head></html>"
     },
     "https://catpaw.meituan.com": {
@@ -3037,9 +3037,7 @@
         "CLI"
       ],
       "star": 3,
-      "sort": -80,
-      "needVerify": 1,
-      "errmsg": "[error][418]HTTP_418"
+      "sort": -80
     },
     "https://github.com/Boese0601/MagicDance": {
       "title": "MagicDance",
@@ -6926,9 +6924,7 @@
         "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][567]Unknown Status"
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -9765,7 +9761,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][503]Service Unavailable"
     },
     "https://www.morphstudio.com": {
