@@ -2997,6 +2997,23 @@
         "AI 学习资源"
       ]
     },
+    "https://getyoutubetranscript.com": {
+      "title": "GetYouTubeTranscript",
+      "intro": "YouTube 视频字幕提取、翻译与 AI 总结",
+      "desc": "粘贴 YouTube 视频链接（支持普通视频、Shorts 和直播），即可获取带时间戳的完整字幕稿，可复制或下载为 TXT、SRT、VTT 等格式，支持翻译成多种语言，并可用 AI 总结视频、针对视频内容提问。另提供 REST API、MCP 服务器和 Chrome 扩展。未登录每天可免费提取少量字幕；注册赠送 100 积分（一次性），付费套餐每月 5 美元起。",
+      "type": [
+        "AI 行业工具",
+        "AI 国外工具"
+      ],
+      "source": "recommend",
+      "needPay": 1,
+      "tags": [
+        "YouTube",
+        "字幕",
+        "视频转文字",
+        "视频总结"
+      ]
+    },
     "https://gezhe.com": {
       "title": "歌者PPT",
       "intro": "输入标题，让 AI 帮你写出高质量 PPT",
