@@ -2043,9 +2043,7 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:172.177.209.209:1794699083.127\"></meta></head></html>"
+      ]
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -3071,7 +3069,9 @@
         "CLI"
       ],
       "star": 3,
-      "sort": -80
+      "sort": -80,
+      "needVerify": 1,
+      "errmsg": "[error][418]HTTP_418"
     },
     "https://github.com/Boese0601/MagicDance": {
       "title": "MagicDance",
@@ -6601,7 +6601,9 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][-1]write EPROTO 40FE7CEC687D0000:error:02000086:rsa routines:ossl_rsa_verify_PKCS1_PSS_mgf1:last octet invalid:../deps/openssl/openssl/crypto/rsa/rsa_pss.c:103:\n"
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -7836,9 +7838,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -8423,7 +8423,9 @@
       "needLogin": 1,
       "desc": "一站式AIGC平台，集成Chatgpt、Claude、ChatGLM、Midjourney、DALL-E、Flux.1、Suno等全网顶级AI大模型，实现文本创作、图片生成、音乐创作一站式生成。",
       "title": "星界AI|一站式AIGC平台",
-      "needPwd": 1
+      "needPwd": 1,
+      "needVerify": 1,
+      "errmsg": "[error][402]Payment Required"
     },
     "https://www.chatbase.co": {
       "type": [
@@ -9814,7 +9816,7 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 5,
+      "needVerify": 6,
       "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.moki.cn"
     },
     "https://www.morphstudio.com": {
@@ -10677,7 +10679,9 @@
       ],
       "tags": [
         "AI 教程"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][521]<none>"
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
