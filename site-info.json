@@ -179,6 +179,23 @@
     }
   },
   "siteInfo": {
+    "https://sammiai.app/": {
+      "title": "Sammi AI Girlfriend",
+      "intro": "Android 虚构 AI 角色文字与语音聊天应用",
+      "desc": "Joy Fun 发布的 Android 应用，支持自定义虚构 AI 角色、文字聊天、语音聊天和创意角色扮演。Google Play 免费下载，包含可选应用内购买；未核实固定免费额度或订阅价格。官网提供产品信息和 Google Play 下载入口。",
+      "lang": "en",
+      "type": [
+        "AI 聊天对话"
+      ],
+      "source": "recommend",
+      "needVerify": 1,
+      "tags": [
+        "Android",
+        "AI角色聊天",
+        "语音聊天",
+        "角色扮演"
+      ]
+    },
     "https://302.ai": {
       "title": "302.AI",
       "intro": "全球顶级AI品牌汇集，按需付费，无月费。",
