@@ -179,23 +179,6 @@
     }
   },
   "siteInfo": {
-    "https://sammiai.app/": {
-      "title": "Sammi AI Girlfriend",
-      "intro": "Android 虚构 AI 角色文字与语音聊天应用",
-      "desc": "Joy Fun 发布的 Android 应用，支持自定义虚构 AI 角色、文字聊天、语音聊天和创意角色扮演。Google Play 免费下载，包含可选应用内购买；未核实固定免费额度或订阅价格。官网提供产品信息和 Google Play 下载入口。",
-      "lang": "en",
-      "type": [
-        "AI 聊天对话"
-      ],
-      "source": "recommend",
-      "needVerify": 1,
-      "tags": [
-        "Android",
-        "AI角色聊天",
-        "语音聊天",
-        "角色扮演"
-      ]
-    },
     "https://302.ai": {
       "title": "302.AI",
       "intro": "全球顶级AI品牌汇集，按需付费，无月费。",
@@ -3087,7 +3070,7 @@
       ],
       "star": 3,
       "sort": -80,
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][418]HTTP_418"
     },
     "https://github.com/Boese0601/MagicDance": {
@@ -6551,6 +6534,22 @@
         "AI 翻译工具"
       ]
     },
+    "https://sammiai.app": {
+      "title": "Sammi AI Girlfriend",
+      "intro": "Android 虚构 AI 角色文字与语音聊天应用",
+      "desc": "Joy Fun 发布的 Android 应用，支持自定义虚构 AI 角色、文字聊天、语音聊天和创意角色扮演。Google Play 免费下载，包含可选应用内购买；未核实固定免费额度或订阅价格。官网提供产品信息和 Google Play 下载入口。",
+      "lang": "en",
+      "type": [
+        "AI 聊天对话"
+      ],
+      "source": "recommend",
+      "tags": [
+        "Android",
+        "AI角色聊天",
+        "语音聊天",
+        "角色扮演"
+      ]
+    },
     "https://scalenut.com": {
       "title": "Scalenut",
       "intro": "AI驱动的SEO和内容营销平台",
@@ -6618,9 +6617,7 @@
       "type": [
         "AI 聊天对话",
         "AI 行业工具"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][-1]write EPROTO 40FE7CEC687D0000:error:02000086:rsa routines:ossl_rsa_verify_PKCS1_PSS_mgf1:last octet invalid:../deps/openssl/openssl/crypto/rsa/rsa_pss.c:103:\n"
+      ]
     },
     "https://senseavatar.sensetime.com": {
       "title": "商汤如影",
@@ -8440,9 +8437,7 @@
       "needLogin": 1,
       "desc": "一站式AIGC平台，集成Chatgpt、Claude、ChatGLM、Midjourney、DALL-E、Flux.1、Suno等全网顶级AI大模型，实现文本创作、图片生成、音乐创作一站式生成。",
       "title": "星界AI|一站式AIGC平台",
-      "needPwd": 1,
-      "needVerify": 1,
-      "errmsg": "[error][402]Payment Required"
+      "needPwd": 1
     },
     "https://www.chatbase.co": {
       "type": [
@@ -9833,8 +9828,9 @@
       "type": [
         "AI 视频生成"
       ],
-      "needVerify": 6,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.moki.cn"
+      "needVerify": 7,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND www.moki.cn",
+      "hide": 1
     },
     "https://www.morphstudio.com": {
       "title": "Morph Studio",
@@ -10696,9 +10692,7 @@
       ],
       "tags": [
         "AI 教程"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][521]<none>"
+      ]
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
