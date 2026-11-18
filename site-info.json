@@ -3070,7 +3070,7 @@
       ],
       "star": 3,
       "sort": -80,
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][418]HTTP_418"
     },
     "https://github.com/Boese0601/MagicDance": {
@@ -4338,7 +4338,9 @@
       ],
       "type": [
         "AI 绘图"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][503]Service Unavailable"
     },
     "https://lexica.art": {
       "title": "Lexica",
@@ -7852,7 +7854,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
