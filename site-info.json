@@ -3070,8 +3070,9 @@
       ],
       "star": 3,
       "sort": -80,
-      "needVerify": 6,
-      "errmsg": "[error][418]HTTP_418"
+      "needVerify": 7,
+      "errmsg": "[error][418]HTTP_418",
+      "hide": 1
     },
     "https://github.com/Boese0601/MagicDance": {
       "title": "MagicDance",
@@ -10692,7 +10693,9 @@
       ],
       "tags": [
         "AI 教程"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][521]<none>"
     },
     "https://www.sudowrite.com": {
       "title": "Sudowrite",
