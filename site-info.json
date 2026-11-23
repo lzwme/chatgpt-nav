@@ -6932,6 +6932,21 @@
         "AI 综合工具"
       ]
     },
+    "https://studyarena.com": {
+      "title": "StudyArena",
+      "intro": "并排比较三种 AI 对同一道学习问题的解答",
+      "desc": "先隐藏模型名，并排比较三种 AI 对同一道学习问题的解答，投票后揭晓模型。免费方案需注册。",
+      "lang": "en",
+      "type": [
+        "AI 聊天对话"
+      ],
+      "source": "recommend",
+      "needLogin": 1,
+      "tags": [
+        "学习",
+        "多模型比较"
+      ]
+    },
     "https://studycorgi.com/free-writing-tools/chat-gpt-detector/": {
       "title": "Chat GPT Detector for Essays",
       "intro": "检查论文或研究论文是否由 ChatGPT 生成的在线工具。",
