@@ -3875,7 +3875,9 @@
         "AI 图像处理"
       ],
       "title": "AI改图神器",
-      "desc": "AI万能图片编辑器，在线修改图片颜色尺寸；智能抠图去水印；AI/EPS/PSD/SVG全格式支持的在线图片编辑器。"
+      "desc": "AI万能图片编辑器，在线修改图片颜色尺寸；智能抠图去水印；AI/EPS/PSD/SVG全格式支持的在线图片编辑器。",
+      "needVerify": 1,
+      "errmsg": "[error][-1]getaddrinfo ENOTFOUND img.logosc.cn"
     },
     "https://imglarger.com": {
       "title": "Imglarger",
@@ -4646,7 +4648,9 @@
       ],
       "star": 3,
       "sort": -90,
-      "icon": "https://lzw.me/docs/agents-radar/logo.svg"
+      "icon": "https://lzw.me/docs/agents-radar/logo.svg",
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 103.242.13.60:443"
     },
     "https://lzw.me/docs/opencodedocs/": {
       "title": "OpenCodeDocs",
@@ -4657,7 +4661,9 @@
       "tags": [
         "文档"
       ],
-      "star": 3
+      "star": 3,
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 103.242.13.60:443"
     },
     "https://lzw.me/docs/openspec/zh-CN/": {
       "title": "OpenSpec中文文档",
@@ -4668,7 +4674,9 @@
       "tags": [
         "文档"
       ],
-      "star": 3
+      "star": 3,
+      "needVerify": 1,
+      "errmsg": "[error][-1]connect ECONNREFUSED 103.242.13.60:443"
     },
     "https://maas.unisound.com": {
       "title": "云知声 Token Hub",
@@ -6975,7 +6983,9 @@
         "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -10694,7 +10704,7 @@
       "tags": [
         "AI 教程"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][521]<none>"
     },
     "https://www.sudowrite.com": {
