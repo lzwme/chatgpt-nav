@@ -455,7 +455,6 @@
 1. [[⭐⭐⭐🧑‍💻] https://so.csdn.net/chat](https://so.csdn.net/chat) **C知道。** 由CSDN和外部合作伙伴联合研发的生成式AI产品
 1. [[⭐⭐⭐] https://www.tiangong.cn](https://www.tiangong.cn) **天工Agent版。** 天工Skywork是一款具备超强DeepResearch能力的全新AI Office智能体，通过3个专家agent和1个通用agent，让AI深度研究，一键生成AI文档、AI PPT、AI表格，高效应对各类办公、学习场景；也支持网页html、图像、视频、有声书、绘本等多种形式的创意内容创作，激发无限灵感。天工Skywork融合先进的多模态理解与深度检索分析技术，一问即得科研级、专业级、咨询级的高质量结果，帮助你摆脱繁琐事务，显著提升效率。无论你是职场白领、科研人员、大学生、研究生，还是自媒体KOL，天工Skywork都将是你值得信赖的智能伙伴，助你专注思考、释放创造力。
 1. [[⭐⭐] https://www.n.cn](https://www.n.cn) **纳米AI搜索。** 纳米AI搜索是由360集团推出的一款基于大模型的新一代答案引擎应用。该产品旨在为用户提供更直接、更直观的问题答案，不再只是一个普通的搜索工具，而是能够理解和处理复杂搜索查询的智能AI助手。
-1. [[⭐⭐] https://www.studywithgpt.com/zh-cn](https://www.studywithgpt.com/zh-cn) **Study with GPT。** GPT时代，你还在到处找教程资源学习？无论是学习Java、php、golang、python、前端、后端、运维、微服务等等任意方向的技术栈，AI全栈导师为你量身打造教程，有问题也不用跪求大神，AI全栈导师24小时为你解答。 `[error][521]<none>`
 1. [[⭐] https://bing.com/create](https://bing.com/create) **Bing Image Creator。** Bing影像建立工具是一款由Microsoft Bing提供的智能搜索工具，可以帮助用户快速找到想要的图像信息，并获得奖励。
 1. [[⭐] https://consensus.app](https://consensus.app) **Consensus。** Consensus是一个使用人工智能来搜索研究论文并找到洞见的搜索引擎。它具有广泛的覆盖范围，可搜索超过2亿篇科学论文。所有的结果都来源于实际研究，我们引用我们的来源，绝不会显示广告。它还具有即时分析功能，利用GPT4和其他LLM来为您总结结果。Consensus旨在帮助您进行有效的研究。
 1. [[⭐] https://exa.ai/blog/websets-evals](https://exa.ai/blog/websets-evals) **Websets。** Exa Websets 是一种创新的搜索引擎，专注于复杂查询的精准搜索。它通过自定义嵌入式搜索算法，能够检索出符合多条件的精确结果。该产品的核心技术在于其强大的多代理搜索架构，能够处理复杂的多标准查询，适用于需要精准数据检索的场景。Exa Websets 的主要优势在于其高精度和高召回率，尤其在复杂查询方面表现卓越。产品目前处于早期阶段，主要面向开发者和企业用户，价格根据使用量和计算资源需求而定。
@@ -475,6 +474,7 @@
 1. [[⭐⭐⭐🚀] https://www.perplexity.ai](https://www.perplexity.ai) **Perplexity AI。** Perplexity AI通过信息发现和共享解锁知识的力量。
 1. [[🚀] https://www.phind.com](https://www.phind.com) **Phind。** 为开发人员而生的AI搜索引擎。中国区不可用
 1. [[🚀] https://you.com](https://you.com) **YOU。** You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。
+1. [[❓⭐⭐] https://www.studywithgpt.com/zh-cn](https://www.studywithgpt.com/zh-cn) **Study with GPT。** GPT时代，你还在到处找教程资源学习？无论是学习Java、php、golang、python、前端、后端、运维、微服务等等任意方向的技术栈，AI全栈导师为你量身打造教程，有问题也不用跪求大神，AI全栈导师24小时为你解答。 `[error][521]<none>`
 
 ### AI 行业工具 (71)
 
@@ -824,9 +824,9 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐⭐⭐🚀] https://huggingface.co](https://huggingface.co) **Hugging Face。** 美国最大的人工智能开源社区与模型托管平台。当前NLP及多模态AI领域最活跃的开源平台之一，集成了模型库、数据集、推理部署工具等全套生态，支持从快速实验到企业级落地。
 1. [[⭐⭐⭐🚀] https://manus.im](https://manus.im) **Manus。** Manus 是一个行动引擎，它超越了答案的范畴，可以执行任务、自动化工作流程，并扩展您的能力。
 1. [[⭐⭐⭐🚀] https://www.anygen.io/home](https://www.anygen.io/home) **AnyGen。** AnyGen 是字节面向国际区域全新推出的多功能 AI 协作平台，强调自然语言交互产出可交付的工作成果。
+1. [[⭐⭐⭐🚀] https://x.ai](https://x.ai) **Grok 3。** Grok 3是由Elon Musk的AI公司xAI开发的最新旗舰AI模型。它在计算能力和数据集规模上显著提升，能够处理复杂的数学、科学问题，并支持多模态输入。其主要优点是推理能力强大，能够提供更准确的答案，并且在某些基准测试中超越了现有的顶尖模型。Grok 3的推出标志着xAI在AI领域的进一步发展，旨在为用户提供更智能、更高效的AI服务。该模型目前主要通过Grok APP和X平台提供服务，未来还将推出语音模式和企业API接口。其定位是高端AI解决方案，主要面向需要深度推理和多模态交互的用户。
 1. [[⭐⭐⭐🚀] https://lmarena.ai](https://lmarena.ai) **LMArena。** LMArena 权威的大模型试炼场，几乎所有顶级模型发布前都会在这里匿名密码测试。在这里你可以免费的方式在线体验当前所有类型的顶级模型。
 1. [[🚀] https://www.meta.ai](https://www.meta.ai) **MetaAI。** 使用 Meta AI 助手完成任务、创建免费 AI 生成图像和获取任何问题的答案
-1. [[⭐⭐⭐🚀] https://x.ai](https://x.ai) **Grok 3。** Grok 3是由Elon Musk的AI公司xAI开发的最新旗舰AI模型。它在计算能力和数据集规模上显著提升，能够处理复杂的数学、科学问题，并支持多模态输入。其主要优点是推理能力强大，能够提供更准确的答案，并且在某些基准测试中超越了现有的顶尖模型。Grok 3的推出标志着xAI在AI领域的进一步发展，旨在为用户提供更智能、更高效的AI服务。该模型目前主要通过Grok APP和X平台提供服务，未来还将推出语音模式和企业API接口。其定位是高端AI解决方案，主要面向需要深度推理和多模态交互的用户。
 
 ### AI 开源工具 (24)
 
@@ -1097,9 +1097,9 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐⭐⭐] https://hermes-agent.lzw.me](https://hermes-agent.lzw.me) **Hermes Agent中文文档。** 基于 Hermes Agent 英文文档网站同步翻译的在线中文文档网站
 1. [[⭐⭐⭐] https://ima.qq.com](https://ima.qq.com) **ima.copilot-腾讯AI工作台。** ima.copilot（简称ima）是一款以知识库为核心的AI工作台产品，已接入腾讯混元大模型和DeepSeek R1模型满血版。ima是搜、读、写一体的效率工具，旨在帮助有较强知识获取、信息处理、内容输出需求的用户，提升学习、办公效率。
 1. [[⭐⭐⭐] https://immersivetranslate.com](https://immersivetranslate.com) **沉浸式翻译。** 沉浸式翻译是一款免费的，好用的，没有废话的，革命性的，饱受赞誉的，AI 驱动的双语网页翻译扩展。
-1. [[⭐⭐⭐] https://lzw.me/docs/agents-radar/](https://lzw.me/docs/agents-radar/) **agents-radar | AI 工具生态日报。** agents-radar 每日追踪 AI 开源生态动态：AI CLI 工具对比（Claude Code/Codex/Gemini CLI）、AI Agents 生态、GitHub Trending、HN 社区、ArXiv 论文、HF 热门模型。中英双语日报，覆盖 OpenAI/Anthropic 官网动态。 `[error][-1]connect ECONNREFUSED 103.242.13.60:443`
-1. [[⭐⭐⭐] https://lzw.me/docs/opencodedocs/](https://lzw.me/docs/opencodedocs/) **OpenCodeDocs。** 顶级AI开源项目源码教程合集 - 从代码触出发，每步可验证 `[error][-1]connect ECONNREFUSED 103.242.13.60:443`
-1. [[⭐⭐⭐] https://lzw.me/docs/openspec/zh-CN/](https://lzw.me/docs/openspec/zh-CN/) **OpenSpec中文文档。** 基于 OpenSpec 官方仓库英文文档翻译的多语言文档 `[error][-1]connect ECONNREFUSED 103.242.13.60:443`
+1. [[⭐⭐⭐] https://lzw.me/docs/agents-radar/](https://lzw.me/docs/agents-radar/) **agents-radar | AI 工具生态日报。** agents-radar 每日追踪 AI 开源生态动态：AI CLI 工具对比（Claude Code/Codex/Gemini CLI）、AI Agents 生态、GitHub Trending、HN 社区、ArXiv 论文、HF 热门模型。中英双语日报，覆盖 OpenAI/Anthropic 官网动态。
+1. [[⭐⭐⭐] https://lzw.me/docs/opencodedocs/](https://lzw.me/docs/opencodedocs/) **OpenCodeDocs。** 顶级AI开源项目源码教程合集 - 从代码触出发，每步可验证
+1. [[⭐⭐⭐] https://lzw.me/docs/openspec/zh-CN/](https://lzw.me/docs/openspec/zh-CN/) **OpenSpec中文文档。** 基于 OpenSpec 官方仓库英文文档翻译的多语言文档
 1. [[⭐⭐⭐] https://mineru.net](https://mineru.net) **MinerU。** MinerU 是面向 Agent、RAG 和 LLM 的智能文档解析平台，支持 PDF、Word、PPT、Excel、图片和网页 URL 解析，可转换为 Markdown、JSON、LaTeX 等结构化结果。
 1. [[⭐⭐⭐] https://space.coze.cn](https://space.coze.cn) **扣子空间。** 扣子空间是强大的AI办公助手，基于Agent技术，集成了AI写作、AI PPT生成、AI表格处理、AI设计、AI播客、AI生图与AI视频等全功能。扣子空间助力财经分析、市场营销等多场景办公任务自动化，全面提升工作效率。
 1. [[⭐⭐⭐] https://www.aippt.cn](https://www.aippt.cn) **aiPPT。** 通过简单的文字自动生成想要的精致PPT
@@ -1273,6 +1273,7 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[⭐⭐⭐🚀] https://gemini.google.com](https://gemini.google.com) **Gemini。** 认识 Gemini：Google 旗下的 AI 助理。在写作、规划和开展头脑风暴等方面获得帮助。体验生成式 AI 的强大功能。在这里可以在线体验谷歌最先进的 Gemini3、Nano Banana 等顶级模型。
 1. [[⭐⭐⭐🚀] https://www.anthropic.com](https://www.anthropic.com) **Anthropic。** Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。
 1. [[⭐⭐⭐🚀] https://www.perplexity.ai](https://www.perplexity.ai) **Perplexity AI。** Perplexity AI通过信息发现和共享解锁知识的力量。
+1. [[⭐⭐⭐🚀] https://x.ai](https://x.ai) **Grok 3。** Grok 3是由Elon Musk的AI公司xAI开发的最新旗舰AI模型。它在计算能力和数据集规模上显著提升，能够处理复杂的数学、科学问题，并支持多模态输入。其主要优点是推理能力强大，能够提供更准确的答案，并且在某些基准测试中超越了现有的顶尖模型。Grok 3的推出标志着xAI在AI领域的进一步发展，旨在为用户提供更智能、更高效的AI服务。该模型目前主要通过Grok APP和X平台提供服务，未来还将推出语音模式和企业API接口。其定位是高端AI解决方案，主要面向需要深度推理和多模态交互的用户。
 1. [[🚀] https://agentgpt.reworkd.ai](https://agentgpt.reworkd.ai) **AgentGPT。** AgentGPT是一个革命性的基于浏览器的自主AI平台。
 1. [[🚀] https://app.myshell.ai](https://app.myshell.ai) **Myshell。** MyShell是一个创新的聊天机器人平台，你可以在这里遇到各种拥有独特个性和声音的虚拟角色存在。作为创建者，你可以赋予你的聊天机器人一个非常生动的声音，并整合任何知识，超越现有的基于LLM的系统。
 1. [[⭐⭐⭐🚀] https://bard.google.com](https://bard.google.com) **Google Bard。** Google推出的聊天机器人。
@@ -1284,7 +1285,6 @@ Memkey的定价信息请查阅官方网站。该产品定位于提升团队的�
 1. [[🚀] https://monica.im](https://monica.im) **Moncia。** Monica是由ChatGPT API提供支持的Chrome扩展程序，旨在成为您的个人AI助手，实现轻松聊天和文案编写。
 1. [[🚀] https://poe.com](https://poe.com) **Poe。** 问答社区Quora建立的一个平台，集成了多个流行的聊天机器人。
 1. [[🚀] https://theb.ai](https://theb.ai) **TheB.AI。** TheB.AI是一款全能的人工智能平台。可以访问一系列创新的模型，涵盖先进的语言模型、强大的图像模型等等。
-1. [[⭐⭐⭐🚀] https://x.ai](https://x.ai) **Grok 3。** Grok 3是由Elon Musk的AI公司xAI开发的最新旗舰AI模型。它在计算能力和数据集规模上显著提升，能够处理复杂的数学、科学问题，并支持多模态输入。其主要优点是推理能力强大，能够提供更准确的答案，并且在某些基准测试中超越了现有的顶尖模型。Grok 3的推出标志着xAI在AI领域的进一步发展，旨在为用户提供更智能、更高效的AI服务。该模型目前主要通过Grok APP和X平台提供服务，未来还将推出语音模式和企业API接口。其定位是高端AI解决方案，主要面向需要深度推理和多模态交互的用户。
 1. [[🚀] https://you.com](https://you.com) **YOU。** You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。
 1. [[⭐⭐⭐🔑🚀] https://beta.openai.com](https://beta.openai.com) **OpenAI ChatGPT。** ChatGPT(beta) 官方入口
 
