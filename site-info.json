@@ -2579,7 +2579,9 @@
       "type": [
         "AI 文档办公",
         "AI 学习资源"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][404]Not Found"
     },
     "https://explainthis.ai": {
       "title": "ExplainThis",
@@ -3446,7 +3448,9 @@
       "type": [
         "AI 绘图"
       ],
-      "star": 1
+      "star": 1,
+      "needVerify": 1,
+      "errmsg": "[error][402]Payment Required"
     },
     "https://gptzero.me": {
       "title": "GPTZero",
@@ -3875,9 +3879,7 @@
         "AI 图像处理"
       ],
       "title": "AI改图神器",
-      "desc": "AI万能图片编辑器，在线修改图片颜色尺寸；智能抠图去水印；AI/EPS/PSD/SVG全格式支持的在线图片编辑器。",
-      "needVerify": 2,
-      "errmsg": "[error][-1]getaddrinfo ENOTFOUND img.logosc.cn"
+      "desc": "AI万能图片编辑器，在线修改图片颜色尺寸；智能抠图去水印；AI/EPS/PSD/SVG全格式支持的在线图片编辑器。"
     },
     "https://imglarger.com": {
       "title": "Imglarger",
@@ -6978,7 +6980,7 @@
         "AI 翻译工具",
         "AI 写作助手"
       ],
-      "needVerify": 2,
+      "needVerify": 3,
       "errmsg": "[error][567]Unknown Status"
     },
     "https://synthesys.io/x": {
@@ -7284,7 +7286,9 @@
       "type": [
         "AI 综合工具"
       ],
-      "star": 1
+      "star": 1,
+      "needVerify": 1,
+      "errmsg": "[error][402]Payment Required"
     },
     "https://ttsmaker.cn": {
       "type": [
@@ -7857,7 +7861,9 @@
       ],
       "type": [
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][502]Bad Gateway"
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -10698,7 +10704,7 @@
       "tags": [
         "AI 教程"
       ],
-      "needVerify": 3,
+      "needVerify": 4,
       "errmsg": "[error][521]<none>"
     },
     "https://www.sudowrite.com": {
