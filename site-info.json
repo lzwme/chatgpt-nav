@@ -10344,6 +10344,16 @@
         "AI 学习资源"
       ]
     },
+    "https://www.questionpunk.com": {
+      "type": [
+        "AI 行业工具"
+      ],
+      "source": "recommend",
+      "star": 1,
+      "needLogin": 1,
+      "title": "QuestionPunk",
+      "desc": "可创建问卷，也可让 AI 通过语音或文字访谈，根据受访者的回答继续追问。支持查看调查报告和交叉表。"
+    },
     "https://www.quququ.cn": {
       "title": "水印一键去去去",
       "intro": "一键免费在线去水印精灵，智能 AI 图像处理网站",
