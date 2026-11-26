@@ -2043,7 +2043,9 @@
         "AI 提示词",
         "AI 国外工具",
         "AI 写作助手"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][202]<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fai-prompt-library&y=ipr:3.42.157.124:1795660371.488\"></meta></head></html>"
     },
     "https://copaw.agentscope.io": {
       "title": "CoPaw",
@@ -2580,7 +2582,7 @@
         "AI 文档办公",
         "AI 学习资源"
       ],
-      "needVerify": 1,
+      "needVerify": 2,
       "errmsg": "[error][404]Not Found"
     },
     "https://explainthis.ai": {
@@ -3448,9 +3450,7 @@
       "type": [
         "AI 绘图"
       ],
-      "star": 1,
-      "needVerify": 1,
-      "errmsg": "[error][402]Payment Required"
+      "star": 1
     },
     "https://gptzero.me": {
       "title": "GPTZero",
@@ -6979,9 +6979,7 @@
         "AI 学习资源",
         "AI 翻译工具",
         "AI 写作助手"
-      ],
-      "needVerify": 3,
-      "errmsg": "[error][567]Unknown Status"
+      ]
     },
     "https://synthesys.io/x": {
       "title": "Synthesys X",
@@ -7286,9 +7284,7 @@
       "type": [
         "AI 综合工具"
       ],
-      "star": 1,
-      "needVerify": 1,
-      "errmsg": "[error][402]Payment Required"
+      "star": 1
     },
     "https://ttsmaker.cn": {
       "type": [
@@ -7861,9 +7857,7 @@
       ],
       "type": [
         "AI 写作助手"
-      ],
-      "needVerify": 1,
-      "errmsg": "[error][502]Bad Gateway"
+      ]
     },
     "https://www.5118.com/ai/articlegenius": {
       "type": [
@@ -10704,7 +10698,7 @@
       "tags": [
         "AI 教程"
       ],
-      "needVerify": 4,
+      "needVerify": 5,
       "errmsg": "[error][521]<none>"
     },
     "https://www.sudowrite.com": {
@@ -10760,7 +10754,9 @@
       ],
       "type": [
         "AI 视频生成"
-      ]
+      ],
+      "needVerify": 1,
+      "errmsg": "[error][402]Payment Required"
     },
     "https://www.tabbit.ai": {
       "title": "Tabbit",
