@@ -7731,6 +7731,22 @@
         "AI 图像处理"
       ]
     },
+    "https://whizi.io": {
+      "title": "Whizi",
+      "intro": "一个应用使用 GPT、Claude、Gemini、Grok 等 280+ AI 模型",
+      "desc": "Whizi 是一款多模型 AI 聊天应用，在一个地方使用 GPT、Claude、Gemini、Grok 等 280 多个模型，并提供图片和视频生成、文件对话、带来源的深度研究等工具。支持网页、iOS 和 Android。黑色星期五优惠：年付方案首年 7 折（至 2026 年 12 月 24 日）。",
+      "lang": "en",
+      "tags": [
+        "聊天对话",
+        "多模型",
+        "聚合",
+        "图片生成",
+        "视频"
+      ],
+      "type": [
+        "AI 聊天对话"
+      ]
+    },
     "https://windsurf.com": {
       "type": [
         "AI 编程开发"
