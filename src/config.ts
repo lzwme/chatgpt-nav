@@ -31,6 +31,8 @@ export interface SiteInfo {
   title?: string;
   /** 描述信息 */
   desc?: string;
+  /** 展示用短描述（超过 100 字时生成，README 优先使用） */
+  descShort?: string;
   /** 程序检测到的错误信息 */
   errmsg?: string;
   /** 类别 */

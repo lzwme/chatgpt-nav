@@ -32,7 +32,12 @@ function formatSiteList() {
       return a[0] > b[0] ? 1 : -1;
     });
 
-  const fortCateList = (cateList = list) =>
+  const appList = list.filter(([url]) => url.startsWith('https://apps.apple.com/'));
+  const repoList = list.filter(([url]) => url.startsWith('https://github.com/'));
+  const groupedUrls = new Set([...appList, ...repoList].map(([url]) => url));
+  const siteList = list.filter(([url]) => !groupedUrls.has(url));
+
+  const fortCateList = (cateList = siteList) =>
     cateList.map(([url, info]) => {
       let prefix = '';
 
@@ -47,20 +52,25 @@ function formatSiteList() {
       if (info.needKey) prefix += '🔑';
       if (info.needVPN) prefix += '🚀';
       if (info.needLogin) prefix += '🧑‍💻';
-      return `1. [[${prefix || '⭐'}] ${url}](${url}) ${info.title ? `**${info.title}。** ` : ''}${info.desc || ''} ${
+      return `1. [[${prefix || '⭐'}] ${url}](${url}) ${info.title ? `**${info.title}。** ` : ''}${info.descShort || info.desc || ''} ${
         info.errmsg ? `\`${info.errmsg}\`` : ''
       }`.trim();
     });
 
-  const mdContent = Object.entries(config.categoryInfo)
+  const cateMd = Object.entries(config.categoryInfo)
     .sort((a, b) => b[1].sort! - a[1].sort!)
     .map(([cate]) => {
-      const cateList = list.filter(d => d[1].type?.includes(cate));
+      const cateList = siteList.filter(d => d[1].type?.includes(cate));
       if (cateList.length === 0) return '';
       return [`\n### ${cate} (${cateList.length})\n`, fortCateList(cateList).join('\n')].join('\n');
     }).join('\n');
 
-    return { list, mdContent };
+  const extraMd = ([['App 应用', appList], ['开源仓库', repoList]] as const)
+    .filter(([, items]) => items.length > 0)
+    .map(([title, items]) => `\n### ${title} (${items.length})\n\n${fortCateList([...items]).join('\n')}`)
+    .join('\n');
+
+  return { list, mdContent: cateMd + extraMd };
 }
 
 async function updateReadme() {
