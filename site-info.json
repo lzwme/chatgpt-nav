@@ -7495,6 +7495,21 @@
       ],
       "descShort": "跃问是一款多功能的个人效率助手工具。它可以帮助用户获取知识、查询信息、学习语言、创意写作和编写代码等。无论是工作、学习还是生活,跃问都能为你提供及时有效的解决方案。它采用先进的人工智能技术,能够理解并…"
     },
+    "https://studyarena.com": {
+      "title": "StudyArena",
+      "intro": "并排比较三种 AI 对同一道学习问题的解答",
+      "desc": "先隐藏模型名，并排比较三种 AI 对同一道学习问题的解答，投票后揭晓模型。免费方案需注册。",
+      "lang": "en",
+      "type": [
+        "AI 聊天对话"
+      ],
+      "source": "recommend",
+      "needLogin": 1,
+      "tags": [
+        "学习",
+        "多模型比较"
+      ]
+    },
     "https://studycorgi.com/free-writing-tools/chat-gpt-detector/": {
       "title": "Chat GPT Detector for Essays",
       "intro": "检查论文或研究论文是否由 ChatGPT 生成的在线工具。",
