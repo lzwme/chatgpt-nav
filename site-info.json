@@ -7729,6 +7729,26 @@
       "title": "tusi.art",
       "desc": "吐司是可在线生图的AI模型分享社区"
     },
+    "https://tweenery.com": {
+      "title": "Tweenery",
+      "intro": "AI 社媒内容智能体，从一个想法生成可直接发布的轮播图",
+      "desc": "Tweenery 是一个生成社交媒体内容的 AI 智能体。输入一个想法，或粘贴一条你喜欢的 Instagram/TikTok 帖子链接，它会构思角度、写好开头钩子和每一页文案，并设计成可直接发布的 Instagram 轮播图、TikTok 图文 slideshow 或 LinkedIn 图片帖。需登录；注册赠送 150 积分（一次性，无需绑卡），付费订阅 $10/月起。",
+      "type": [
+        "AI 绘图",
+        "AI 国外工具"
+      ],
+      "source": "recommend",
+      "needLogin": 1,
+      "needPay": 1,
+      "needVerify": 1,
+      "tags": [
+        "轮播图",
+        "社交媒体",
+        "Instagram",
+        "TikTok",
+        "AI智能体"
+      ]
+    },
     "https://typemovie.art": {
       "title": "讯飞绘镜",
       "intro": "描述即创作，短视频轻松生成",
