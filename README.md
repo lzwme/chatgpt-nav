@@ -45,7 +45,7 @@
 ❌ 已失效。会在失效一段时间后移除
 ```
 
-站点列表(899)：
+站点列表(904)：
 
 ### 国产大模型 (26)
 
@@ -458,7 +458,7 @@
 1. [[🚀] https://www.phind.com](https://www.phind.com) **Phind。** 为开发人员而生的AI搜索引擎。中国区不可用
 1. [[🚀] https://you.com](https://you.com) **YOU。** You是一种具有对话性和持续学习能力的技术，可以增强网络搜索、写作、编码、数字艺术创作和解决复杂问题。
 
-### AI 行业工具 (70)
+### AI 行业工具 (72)
 
 1. [[⭐⭐⭐] https://chat.sensetime.com](https://chat.sensetime.com) **商汤商量。** 商汤旗下的AI对话助手
 1. [[⭐⭐⭐] https://datamind.swguancha.com](https://datamind.swguancha.com) **CraftAI。** 数据分析师——不仅会算表，帮你找数据、做判断、出方案
@@ -528,6 +528,8 @@
 1. [[💰] https://getyoutubetranscript.com](https://getyoutubetranscript.com) **GetYouTubeTranscript。** 粘贴 YouTube 视频链接（支持普通视频、Shorts 和直播），即可获取带时间戳的完整字幕稿，可复制或下载为 TXT、SRT、VTT 等格式，支持翻译成多种语言，并可用 AI 总结视频、针对视频…
 1. [[💰🧑‍💻] https://objekto.io/en](https://objekto.io/en) **objekto.io。** 用几句话、一张照片或一张草图描述想要的物品，AI 以参数化 CAD 逐个部件设计 3D 模型，检查每个部件是否可打印，并提供爆炸图、零件清单和装配指南；随后可由工业 3D 打印工坊制造并配送（上线初期…
 1. [[⭐💰🧑‍💻] https://pulsecorp.co](https://pulsecorp.co) **Pulse。** AI 主持的市场调研平台，可大规模开展客户访谈。
+1. [[⭐💰🧑‍💻] https://www.questionpunk.com](https://www.questionpunk.com) **QuestionPunk。** 可创建问卷，也可让 AI 通过语音或文字访谈，根据受访者的回答继续追问。支持查看调查报告和交叉表。免费套餐含无限问卷与回复及每月 5,000 次 AI 文字追问，Pro $24/月起。
+1. [[💰🧑‍💻] https://www.hifrank.ai](https://www.hifrank.ai) **Frank AI Researcher。** 由 Prelaunch.com 推出的用户研究工具。设定研究目标后邀请客户参加语音访谈，AI 以 30+ 语言主持并追问，自动整理访谈记录、主题与引述。注册送 225 credits，无需绑卡；付费方案另计。可作为 ChatGPT 应用使用。
 1. [[⭐⭐🚀] https://cloud.google.com/products/gemini/code-assist](https://cloud.google.com/products/gemini/code-assist) **Gemini Code Assist。** Gemini Code Assist 是 Google Cloud 提供的一款 AI 编码助理，它通过生成式 AI 协助、企业安全和隐私保护机制，帮助提升软件开发和交付速度。该产品利用数十亿行开源代码…
 1. [[🚀] https://www.copy.ai](https://www.copy.ai) **Copy AI。** 人工智能营销文案和内容创作工具，帮助各行各业的撰稿人、营销人员和企业快速高效地创建高质量的内容。
 
@@ -717,7 +719,7 @@
 1. [[⭐] https://work.duiopen.com](https://work.duiopen.com) **麦耳会记。** 麦耳会记是一款集实时语音转写、实时翻译和 AI 辅助写作功能为一体的 AI 办公助手。它可以用于办公会议、学生网课、客户访谈录音等场景。软件支持边录音、边转写，录音结束后，音频、文本实时同步至 PC …
 1. [[⭐] https://www.notta.ai](https://www.notta.ai) **Notta。** Notta可以在在线会议、面对面销售会议等场景中快速转录您的音频或视频文件为文字内容。
 
-### AI 综合工具 (83)
+### AI 综合工具 (84)
 
 1. [[⭐⭐⭐] https://agnes-ai.com](https://agnes-ai.com) **Agnes AI。** Agnes 文本、图像和视频系列模型 API 免费试用中！Sapiens AI 是新加坡本土模型公司，也是 Agnes AI 的母公司，专注于打造先进的多模态模型，驱动下一代创意与交互应用。
 1. [[⭐⭐⭐] https://aibenchy.com/zh/](https://aibenchy.com/zh/) **AI BENCHY 排行榜。** AI 基准排行榜，帮你看清哪些模型得分最高、在多次运行中更稳定，以及哪些模型最值得花这笔钱。
@@ -791,6 +793,7 @@
 1. [[⭐] https://www.powerfulai.tools](https://www.powerfulai.tools) **Powerfulai。** 全球最大的人工智能工具目录: DISCOVER POWERFUL AI TOOLS. World's Largest AI Tool Directory, Updated Daily. `存在人机验证`
 1. [[⭐] https://www.xfyun.cn](https://www.xfyun.cn) **讯飞开放平台。** 科大讯飞推出的移动互联网智能交互平台，为开发者免费提供：涵盖语音能力增强型SDK，一站式人机智能语音交互解决方案，专业全面的移动应用分析。
 1. [[⭐] https://yourapi.cn](https://yourapi.cn) **YOURAPI。** 基于new-api的OpenAI接口聚合服务，价格便宜，支持调用 Claude4 等顶级模型API调用！
+1. [[💰🔑🧑‍💻] https://beiluoxi.xyz](https://beiluoxi.xyz) **北洛API。** 通过 OpenAI 兼容接口调用 GPT、Claude、Gemini、Grok 和 DeepSeek 等系列，支持对话和图像生成，按模型与分组计价。
 1. [[💰🔑🧑‍💻] https://big-model.smart-agi.com](https://big-model.smart-agi.com) **闪耀模型。** 闪耀模型（Twinkle Model）是 AI API 源头中转服务，支持 GPT、Claude 及 GLM、DeepSeek、Kimi 等国产模型，提供 OpenAI 兼容接口，支付宝充值即可使用，…
 1. [[💰🔑🧑‍💻] https://teapotrouter.com](https://teapotrouter.com) **Teapot Router。** Teapot Router 是面向 Claude Code 等编程客户端的 API 网关，Anthropic 与 OpenAI 双协议兼容，改 base_url 即可接入。每笔请求的模型、tokens…
 1. [[💰🔑🧑‍💻] https://y-api.bestvirtualgoods.com](https://y-api.bestvirtualgoods.com) **Y-API。** Y-API 是 OpenAI 兼容的大模型 API 服务，以 GLM、Kimi、Qwen、MiniMax 等国产模型为主，改两行 base_url 即可迁移；充 1 美元得 10 美元额度，部分模型免…
@@ -1154,7 +1157,7 @@
 1. [[🚀] https://chatpdf.com](https://chatpdf.com) **chatPDF。** 加入数百万学生、研究人员和专业人士的行列，通过 AI 即时回答问题。
 1. [[🚀] https://gamma.app](https://gamma.app) **Gamma。** Gamma App是一种新型的内容呈现方式，通过AI技术帮助用户创造美观、引人入胜的演示文稿和网页，无需繁琐的格式和设计工作。Gamma App提供一键模板和可视化编辑功能，用户可以快速生成演示文稿、…
 
-### AI 聊天对话 (106)
+### AI 聊天对话 (108)
 
 1. [[⭐⭐⭐] https://agent.minimax.cn](https://agent.minimax.cn) **MiniMax Code网页版。** 从编程到办公，MiniMax Code 通过连接你的本地文件、工具和浏览器，帮你
 执行、整理、验证，把想法落地成可交付成果。
@@ -1239,6 +1242,8 @@
 1. [[⭐] https://yourapi.cn](https://yourapi.cn) **YOURAPI。** 基于new-api的OpenAI接口聚合服务，价格便宜，支持调用 Claude4 等顶级模型API调用！
 1. [[⭐] https://zhumengdao.com](https://zhumengdao.com) **筑梦岛。** 筑梦岛是一款功能强大的 AI 聊天机器人和智能对话工具，具有有趣的开放剧情和逼真的 AI 聊天功能。无论是日常闲聊或语音聊天，都能满足用户的需求。用户可以自由互动、参与群聊、体验修罗场、建造梦屋等多种…
 1. [[🔑] https://chat-simplifier.imzbb.cc](https://chat-simplifier.imzbb.cc) **聊天简化器。** 聊天简化器
+1. [[💰🧑‍💻] https://studyarena.com](https://studyarena.com) **StudyArena。** 先隐藏模型名，并排比较三种 AI 对同一道学习问题的解答，投票后揭晓模型。免费方案需注册。
+1. [[💰🧑‍💻] https://whizi.io](https://whizi.io) **Whizi。** Whizi 是一款多模型 AI 聊天应用，可在一个工作台使用 GPT、Claude、Gemini、Grok 等 280 多个模型，并提供图片生成、文件对话和深度研究等工具。支持网页、iOS 和 Android。免费账户每天 10 条消息；付费套餐 $15.99/月起，新账户有 7 天试用。
 1. [[⭐⭐⭐🚀] https://aistudio.google.com](https://aistudio.google.com) **Google AI tudio。** Google 推出的 AI 应用开发平台。在这里可以快速、直观地访问和实验 Google 最先进的生成式 AI 模型（例如 Gemini、Nano Banana 系列），用户能免费体验和测试 Goog…
 1. [[⭐⭐⭐🚀] https://gemini.google.com](https://gemini.google.com) **Gemini。** 认识 Gemini：Google 旗下的 AI 助理。在写作、规划和开展头脑风暴等方面获得帮助。体验生成式 AI 的强大功能。在这里可以在线体验谷歌最先进的 Gemini3、Nano Banana 等…
 1. [[⭐⭐⭐🚀] https://www.anthropic.com](https://www.anthropic.com) **Anthropic。** Claude是ChatGPT最为有力的竞争对手之一，可以通过Slack和Poe集成Claude集成的机器人使用。
@@ -1247,10 +1252,10 @@
 1. [[🚀] https://agentgpt.reworkd.ai](https://agentgpt.reworkd.ai) **AgentGPT。** AgentGPT是一个革命性的基于浏览器的自主AI平台。
 1. [[🚀] https://ai.ls](https://ai.ls) **AI.LS。** AI.LS is a chatbot tool, an elegant ChatGPT UI based on gpt-3.5, gpt-4 and Claude, as an alternative…
 1. [[🚀] https://ai117.com](https://ai117.com) **AI Chat。**
-1. [[🚀] https://app.myshell.ai](https://app.myshell.ai) **Myshell。** MyShell是一个创新的聊天机器人平台，你可以在这里遇到各种拥有独特个性和声音的虚拟角色存在。作为创建者，你可以赋予你的聊天机器人一个非常生动的声音，并整合任何知识，超越现有的基于LLM的系统。
 1. [[⭐⭐⭐🚀] https://bard.google.com](https://bard.google.com) **Google Bard。** Google推出的聊天机器人。
 1. [[⭐⭐⭐🚀] https://chat.lmsys.org](https://chat.lmsys.org) **FastChat。** 基于 Vicuna: An Open Chatbot Impressing GPT-4
 1. [[⭐⭐⭐🚀] https://chat.openai.com](https://chat.openai.com) **ChatGPT。** Open Ai旗下的聊天产品，全球最火的chatgpt产品。
+1. [[🚀] https://app.myshell.ai](https://app.myshell.ai) **Myshell。** MyShell是一个创新的聊天机器人平台，你可以在这里遇到各种拥有独特个性和声音的虚拟角色存在。作为创建者，你可以赋予你的聊天机器人一个非常生动的声音，并整合任何知识，超越现有的基于LLM的系统。
 1. [[🚀] https://chat-langchainjs.fly.dev](https://chat-langchainjs.fly.dev) **LangChain Chat。**
 1. [[🚀] https://chat.1kcode.com](https://chat.1kcode.com) **ChatGPT Web。**
 1. [[🚀] https://grok.com](https://grok.com) **Grok website。** xAI Grok是一个对话式AI系统,能够理解用户的问题并给出知识性的回答。它使用了大规模语言模型来建模语言,从而实现了更人性化的交互。该系统还具有持续学习的能力,会根据用户的反馈不断改进。

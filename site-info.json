@@ -184,24 +184,6 @@
     }
   },
   "siteInfo": {
-    "https://beiluoxi.xyz": {
-      "type": [
-        "AI 综合工具"
-      ],
-      "source": "recommend",
-      "title": "北洛API",
-      "intro": "面向开发者的多模型 API 中转站。",
-      "desc": "通过 OpenAI 兼容接口调用 GPT、Claude、Gemini、Grok 和 DeepSeek 等系列，支持对话和图像生成，按模型与分组计价。",
-      "needLogin": 1,
-      "needKey": 1,
-      "needPay": 1,
-      "tags": [
-        "API",
-        "中转",
-        "OpenAI兼容",
-        "按量付费"
-      ]
-    },
     "https://302.ai": {
       "title": "302.AI",
       "intro": "全球顶级AI品牌汇集，按需付费，无月费。",
@@ -1130,6 +1112,24 @@
       ],
       "title": "Bearly",
       "desc": "英文阅读写作效率提高10倍"
+    },
+    "https://beiluoxi.xyz": {
+      "type": [
+        "AI 综合工具"
+      ],
+      "source": "recommend",
+      "title": "北洛API",
+      "intro": "面向开发者的多模型 API 中转站。",
+      "desc": "通过 OpenAI 兼容接口调用 GPT、Claude、Gemini、Grok 和 DeepSeek 等系列，支持对话和图像生成，按模型与分组计价。",
+      "needLogin": 1,
+      "needKey": 1,
+      "needPay": 1,
+      "tags": [
+        "API",
+        "中转",
+        "OpenAI兼容",
+        "按量付费"
+      ]
     },
     "https://beta.character.ai": {
       "type": [
@@ -7523,9 +7523,11 @@
       ],
       "source": "recommend",
       "needLogin": 1,
+      "needPay": 1,
       "tags": [
         "学习",
-        "多模型比较"
+        "教育",
+        "多模型"
       ]
     },
     "https://studycorgi.com/free-writing-tools/chat-gpt-detector/": {
@@ -8389,18 +8391,19 @@
     "https://whizi.io": {
       "title": "Whizi",
       "intro": "一个应用使用 GPT、Claude、Gemini、Grok 等 280+ AI 模型",
-      "desc": "Whizi 是一款多模型 AI 聊天应用，在一个地方使用 GPT、Claude、Gemini、Grok 等 280 多个模型，并提供图片和视频生成、文件对话、带来源的深度研究等工具。支持网页、iOS 和 Android。黑色星期五优惠：年付方案首年 7 折（至 2026 年 12 月 24 日）。",
+      "desc": "Whizi 是一款多模型 AI 聊天应用，可在一个工作台使用 GPT、Claude、Gemini、Grok 等 280 多个模型，并提供图片生成、文件对话和深度研究等工具。支持网页、iOS 和 Android。免费账户每天 10 条消息；付费套餐 $15.99/月起，新账户有 7 天试用。",
       "lang": "en",
       "tags": [
-        "聊天对话",
+        "聊天机器人",
         "多模型",
-        "聚合",
         "图片生成",
         "视频"
       ],
       "type": [
         "AI 聊天对话"
-      ]
+      ],
+      "needLogin": 1,
+      "needPay": 1
     },
     "https://windsurf.com": {
       "type": [
@@ -9866,6 +9869,23 @@
       "title": "Hidden Door",
       "desc": "热门！小说作品生成在线社交角色扮演游戏"
     },
+    "https://www.hifrank.ai": {
+      "title": "Frank AI Researcher",
+      "intro": "AI 主持的语音客户访谈与用户研究",
+      "desc": "由 Prelaunch.com 推出的用户研究工具。设定研究目标后邀请客户参加语音访谈，AI 以 30+ 语言主持并追问，自动整理访谈记录、主题与引述。注册送 225 credits，无需绑卡；付费方案另计。可作为 ChatGPT 应用使用。",
+      "lang": "en",
+      "type": [
+        "AI 行业工具"
+      ],
+      "source": "recommend",
+      "needLogin": 1,
+      "needPay": 1,
+      "tags": [
+        "研究",
+        "客户服务",
+        "国外精选"
+      ]
+    },
     "https://www.hippolearning.cn": {
       "title": "河马爱学",
       "desc": "【教育】字节旗下基于AI的教育平台，河马爱学拥有行业领先的技术团队，通过构建基于学习行为的推荐模型，评测学生能力并实时跟踪“掌握度”变化，个性化推荐学习内容，帮助老师精准教学，帮助学生自适应学习。",
@@ -11124,8 +11144,14 @@
       "source": "recommend",
       "star": 1,
       "needLogin": 1,
+      "needPay": 1,
       "title": "QuestionPunk",
-      "desc": "可创建问卷，也可让 AI 通过语音或文字访谈，根据受访者的回答继续追问。支持查看调查报告和交叉表。"
+      "desc": "可创建问卷，也可让 AI 通过语音或文字访谈，根据受访者的回答继续追问。支持查看调查报告和交叉表。免费套餐含无限问卷与回复及每月 5,000 次 AI 文字追问，Pro $24/月起。",
+      "tags": [
+        "研究",
+        "教育",
+        "客户服务"
+      ]
     },
     "https://www.quququ.cn": {
       "title": "水印一键去去去",
