@@ -219,6 +219,21 @@
         "AI 语音生成"
       ]
     },
+    "https://agent.minimax.cn": {
+      "title": "MiniMax Code网页版",
+      "desc": "从编程到办公，MiniMax Code 通过连接你的本地文件、工具和浏览器，帮你\n执行、整理、验证，把想法落地成可交付成果。",
+      "intro": "MiniMax Code，让工作更简单",
+      "type": [
+        "AI 聊天对话",
+        "AI 智能体"
+      ],
+      "tags": [
+        "智能体",
+        "免费额度"
+      ],
+      "star": 3,
+      "sort": 90
+    },
     "https://agent.xfyun.cn": {
       "title": "AStudio 官网",
       "intro": "企业级 AGENTIC WORKFLOW 平台，主力新一代生产级智能体开发",
@@ -975,6 +990,20 @@
       "title": "Audo Studio",
       "desc": "听起来很棒！AI一键清除音频背景杂音"
     },
+    "https://autoclaw.zhipuai.cn": {
+      "title": "AutoClaw",
+      "desc": "新用户注册领2亿tokens! 智谱AutoClaw（澳龙）官方AI Agent工作伙伴，支持智谱autoclaw一键安装与下载，GLM-5.3-Flash 已上线，内置50+预置技能，覆盖文件生成、数据分析、浏览器自动化与IM协作。提供Windows/macOS客户端、移动端智谱App与智谱网页版登录入口。",
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "智能体",
+        "免费额度"
+      ],
+      "star": 3,
+      "sort": 90
+    },
     "https://autoglm.zhipuai.cn": {
       "title": "AutoGLM",
       "desc": "不止是聊天，让每一次调研都深度且高效！一句话生成多种多模态内容，达到行业SOTA性能，支持AI PPT生成、视频生成、播客创作、网页搭建、数字人等场景。无论是分析师写报告、内容创作者做自媒体，还是学生与研究者高效学习，AutoGLM都是你的全能助手。",
@@ -1693,6 +1722,21 @@
       "title": "悉语",
       "desc": "悉语智能是阿里妈妈创意中心出品的一款一键生成商品营销文案的工具。"
     },
+    "https://cindy.cn": {
+      "title": "Cindy",
+      "desc": "Cindy 是开源、开箱即用的 AI Agent。连接多台电脑与手机，跨设备访问任务、文件与模型，手机远程桌面随时接手。图表与交互直接融入对话，无需自建服务器。",
+      "type": [
+        "AI 智能体",
+        "AI 编程开发"
+      ],
+      "tags": [
+        "智能体",
+        "编程",
+        "多智能体中枢"
+      ],
+      "star": 3,
+      "sort": 89
+    },
     "https://civitai.com": {
       "type": [
         "AI 绘图"
@@ -1982,6 +2026,17 @@
       ],
       "star": 3
     },
+    "https://codewhale.net/zh": {
+      "title": "Codewhale",
+      "desc": "Codewhale 是一个运行在终端里的开源编程智能体，用 Rust 编写。它支持任意模型，可以把一项任务分给多个智能体，而且它的每一行代码都任你阅读。",
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "CLI"
+      ],
+      "star": 3
+    },
     "https://colossyan.com": {
       "title": "Colossyan Creator",
       "intro": "AI 视频生成器，快速简单生成 AI 视频",
@@ -2035,6 +2090,20 @@
         "开放平台",
         "API"
       ]
+    },
+    "https://console.bce.baidu.com/qianfan/studio/agentSpace": {
+      "title": "百度智能云千帆大模型平台",
+      "desc": "百度智能云以Agent为核心的一站式大模型服务平台，提供文心一言等模型服务及应用开发能力。支持Coding Plan AI编码订阅服务，兼容主流编程工具，覆盖代码编写、理解与优化等场景。",
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "API开放平台",
+        "coding-plan",
+        "API"
+      ],
+      "star": 3,
+      "sort": 80
     },
     "https://contentatscale.ai/ai-prompt-library": {
       "title": "Content at scale",
@@ -2348,6 +2417,19 @@
         "CLI"
       ]
     },
+    "https://docs.codeg.app/zh/": {
+      "title": "Codeg",
+      "desc": "多智能体编程工作区——将 Claude Code、Codex、Gemini、OpenCode 等汇聚一处。",
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "编程",
+        "多智能体中枢"
+      ],
+      "star": 3,
+      "sort": 90
+    },
     "https://docs.factory.ai": {
       "title": "Factory Droid",
       "desc": "一款企业级 AI 编码代理，它运行在你的终端中，负责端到端的软件开发工作流。If it can be done on a computer, it can be done with a Droid.",
@@ -2581,6 +2663,22 @@
         "AI 学习资源"
       ]
     },
+    "https://exp.volcengine.com/ark": {
+      "title": "火山方舟",
+      "desc": "火山引擎 AI 体验中心正式开放 Seedance 2.0 视频生成模型与 Seedream 5.0 视觉大模型在线体验！实现电影级声画同步视频、超高清 AI 绘图。立即加入，免费领取 50 万 Tokens 权益，抢先体验豆包大模型2.0。",
+      "type": [
+        "AI 学习资源",
+        "AI 综合工具"
+      ],
+      "tags": [
+        "deepseek",
+        "字节跳动",
+        "API"
+      ],
+      "star": 3,
+      "sort": 86,
+      "icon": "https://portal.volccdn.com/obj/volcfe/misc/favicon.png"
+    },
     "https://explainthis.ai": {
       "title": "ExplainThis",
       "intro": "你的第二大脑，解释学习互联网知识",
@@ -2663,6 +2761,19 @@
         "API",
         "FREEAPI"
       ]
+    },
+    "https://fangzhou.wanjiedata.com/login": {
+      "title": "万界方舟",
+      "desc": "新用户注册送16元额度！一站式聚合 MaaS 平台,聚合全球顶尖大模型 API。一个接口轻松调用多模态 AI 能力。提供 gpt、claude、gemini等国内外顶级模型的API调用",
+      "type": [
+        "AI 综合工具"
+      ],
+      "tags": [
+        "API",
+        "FREEAPI"
+      ],
+      "star": 3,
+      "sort": 10
     },
     "https://fanyi.baidu.com": {
       "type": [
@@ -3561,6 +3672,20 @@
         "AI 绘图"
       ]
     },
+    "https://herdr.dev": {
+      "title": "Herdr",
+      "desc": "Herdr is a native app for running coding agents. Your agent can change any part of it, from the sidebar to whole new panels. Close it and your agents keep working.",
+      "type": [
+        "AI 智能体",
+        "AI 编程开发"
+      ],
+      "tags": [
+        "编程",
+        "多智能体中枢"
+      ],
+      "star": 3,
+      "sort": 90
+    },
     "https://hermes-agent.lzw.me": {
       "type": [
         "AI 学习资源"
@@ -4395,6 +4520,19 @@
         "vscode"
       ]
     },
+    "https://lingxi.cn": {
+      "title": "灵犀",
+      "desc": "灵犀是金山办公（WPS）旗下的AI办公助手：一句话生成可继续编辑的Word文档、Excel分析、PPT演示，交付专业成品。免费下载Windows/macOS客户端。",
+      "type": [
+        "AI 智能体",
+        "AI 聊天对话",
+        "AI 文档办公"
+      ],
+      "tags": [
+        "办公"
+      ],
+      "star": 3
+    },
     "https://littlefrog.ai": {
       "type": [
         "AI 写作助手"
@@ -4593,10 +4731,25 @@
       ],
       "tags": [
         "AI 助手",
-        "AI Agent",
-        "智能体"
+        "智能体",
+        "免费额度"
       ],
       "star": 3
+    },
+    "https://loopforge.cn": {
+      "title": "LoopForge",
+      "desc": "LoopForge 是 MIT 开源、可自主部署的云端 AI 自进化交付平台：7×24 云端沙箱、多人共享会话与 Main Bot、带质量门禁的工程 SOP、GitHub Issue 自动化与运行复盘。",
+      "type": [
+        "AI 智能体",
+        "AI 编程开发"
+      ],
+      "tags": [
+        "编程",
+        "团队协作",
+        "多智能体中枢"
+      ],
+      "star": 3,
+      "sort": 90
     },
     "https://ltx.studio": {
       "title": "LTX Studio",
@@ -4679,7 +4832,8 @@
       "tags": [
         "FREEAPI",
         "API开放平台",
-        "API网关"
+        "API网关",
+        "免费额度"
       ],
       "star": 3
     },
@@ -4804,6 +4958,20 @@
         "AI 视频生成"
       ]
     },
+    "https://meoo.com": {
+      "title": "秒悟 Meoo",
+      "desc": "注册送5k积分、每天登录送2k积分！秒悟 Meoo 是 AI 创作平台，支持通过自然语言快速创建网页应用、落地页、小程序、营销 H5、PPT 和数据可视化。无需编程基础，想到即做到。",
+      "intro": "AI 建站、网页生成与小程序搭建工具",
+      "type": [
+        "AI 网站生成"
+      ],
+      "tags": [
+        "智能应用",
+        "小程序"
+      ],
+      "star": 3,
+      "sort": 95
+    },
     "https://merlin.foyer.work": {
       "type": [
         "AI 聊天对话"
@@ -4899,6 +5067,20 @@
       ],
       "star": 3,
       "sort": 10
+    },
+    "https://mirasim.ai/zh": {
+      "title": "Mirasim",
+      "desc": "Mirasim 是多人一起指挥编程智能体的协作空间，百倍吞吐：朋友、同事和 Mira Bot 在同一个空间里，一起调度 Claude Code、Codex 等智能体，更快更省，上下文零损耗。",
+      "type": [
+        "AI 编程开发",
+        "AI 智能体"
+      ],
+      "tags": [
+        "编程",
+        "多智能体中枢"
+      ],
+      "star": 3,
+      "sort": 90
     },
     "https://miro.com/ai": {
       "title": "Miro AI",
@@ -5064,6 +5246,22 @@
       ],
       "title": "Mubert",
       "desc": "使用人工智能为您的视频内容、播客和应用程序生成音乐。"
+    },
+    "https://multica.ai/zh": {
+      "title": "Multica",
+      "desc": "源码公开的平台，把编码智能体变成真正的队友。分派任务、跟进进度、沉淀技能。",
+      "intro": "人和智能体团队的项目管理平台",
+      "type": [
+        "AI 智能体",
+        "AI 编程开发"
+      ],
+      "tags": [
+        "团队协作",
+        "编程",
+        "多智能体中枢"
+      ],
+      "star": 3,
+      "sort": 80
     },
     "https://mvsep.com/zh": {
       "title": "MVSEP",
@@ -5549,6 +5747,21 @@
         "AI 编程开发"
       ]
     },
+    "https://orca.dev": {
+      "title": "Orca",
+      "desc": "Orca is the Agent Development Environment (ADE) for shipping with coding agents. Run Claude Code, Codex, Gemini, Cursor CLI, and every other CLI agent in parallel across isolated worktrees. Get work done dramatically faster than any IDE. New features shipped every day. Free, open source, cross-platform.",
+      "intro": "The agent development environment",
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "智能体",
+        "编程工具",
+        "多智能体中枢"
+      ],
+      "star": 3,
+      "sort": 90
+    },
     "https://originality.ai": {
       "title": "Originality AI",
       "intro": "智能写作助手",
@@ -5635,6 +5848,21 @@
       "type": [
         "AI 写作助手"
       ]
+    },
+    "https://paseo.sh/zh-CN": {
+      "title": "Paseo",
+      "desc": "面向 Claude Code、Codex、OpenCode、Pi 以及另外 30 多个编程 Agent 的开源应用。在你自己的机器上并行运行多个 Agent。编辑器、终端、diff、拉取请求和浏览器集于一个窗口。桌面端一次下载即可使用，iOS 和 Android 上提供完整应用。",
+      "intro": "随时随地运行 Claude Code、Codex、Copilot、OpenCode",
+      "type": [
+        "AI 智能体",
+        "AI 编程开发"
+      ],
+      "tags": [
+        "编程",
+        "多智能体中枢"
+      ],
+      "star": 3,
+      "sort": 90
     },
     "https://pdfcandy.com": {
       "title": "PDF Candy",
@@ -6298,6 +6526,35 @@
         "AI 聊天对话",
         "AI 开源工具"
       ]
+    },
+    "https://qwenpaw.agentscope.io": {
+      "title": "QwenPaw",
+      "desc": "QwenPaw is your personal AI agent workstation running in your own environment. It supports local or cloud deployment, connects to 10+ channels including DingTalk, Feishu, QQ, Discord, and Telegram, and is extensible with Skills and MCP for multi-agent collaboration and memory management.",
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "agent",
+        "cowork",
+        "openclaw",
+        "智能体"
+      ],
+      "star": 3
+    },
+    "https://qwenwork.cn": {
+      "title": "千问办公（QwenWork）",
+      "desc": "千问办公（QwenWork）作为AI办公助手，支持文档、表格、演示、网页生成交付与数据分析，涵盖企业协作、多模态理解、技能市场等六大核心能力，助力专业人士高效办公",
+      "intro": "AI办公助手，专业人士都用千问办公",
+      "type": [
+        "AI 文档办公",
+        "AI 智能体"
+      ],
+      "tags": [
+        "办公",
+        "cowork"
+      ],
+      "star": 3,
+      "sort": 90
     },
     "https://randomx.ai/zh-CN": {
       "title": "RandomX.ai",
@@ -6992,6 +7249,21 @@
       "type": [
         "AI 绘图"
       ]
+    },
+    "https://t3.codes/zh": {
+      "title": "T3 Code",
+      "desc": "T3 Code：面向编程智能体的开源控制中心",
+      "type": [
+        "AI 智能体",
+        "AI 编程开发"
+      ],
+      "tags": [
+        "智能体",
+        "多智能体中枢",
+        "编程"
+      ],
+      "star": 3,
+      "sort": 89
     },
     "https://taichu-web.ia.ac.cn": {
       "title": "紫东太初",
@@ -9156,6 +9428,21 @@
         "AI 行业工具"
       ]
     },
+    "https://www.huaweicloud.com/product/codeartside/snap.html": {
+      "title": "CodeArts Snap",
+      "desc": "CodeArts Snap是华为云自研的基于盘古研发大模型的智能开发助手。它通过强大的软硬件算力底座、深厚的软件分析与安全可信基座、以及坚实的研发数据积淀,为开发者提供代码生成、知识问答、代码检查等多种智能化研发服务,大幅提高软件研发效率,释放研发生产力。",
+      "intro": "基于盘古研发大模型的智能开发助手",
+      "type": [
+        "AI 编程开发"
+      ],
+      "tags": [
+        "IDE",
+        "研发效率",
+        "智能生成",
+        "大模型",
+        "插件"
+      ]
+    },
     "https://www.hubspot.com/campaign-assistant": {
       "title": "HubSpot Campaign Assistant",
       "intro": "AI营销资产生成器",
@@ -9491,7 +9778,10 @@
         "AI 文档办公",
         "AI 学习资源"
       ],
-      "star": 3
+      "star": 3,
+      "tags": [
+        "cowork"
+      ]
     },
     "https://www.kraftful.com": {
       "title": "Kraftful",
@@ -10354,6 +10644,21 @@
         "AI 绘图"
       ]
     },
+    "https://www.quwork.cn": {
+      "title": "QuWork",
+      "desc": "填  278996 邀请码可得1000积分。全场景 AI 工作台：AI 创作、日常办公、代码开发、语言处理与能力拓展。能作图做视频，能写文档做表格，能写代码跑测试，也能按需扩展个性化功能",
+      "intro": "全场景 AI 工作台，一句话说出口就全接手",
+      "type": [
+        "AI 智能体"
+      ],
+      "tags": [
+        "AI办公",
+        "编程",
+        "cowork"
+      ],
+      "star": 3,
+      "sort": 96
+    },
     "https://www.reecho.ai": {
       "title": "REECHO 睿声",
       "intro": "睿声 - 超拟真瞬时语音克隆平台",
@@ -10573,6 +10878,19 @@
         "AI 写作助手",
         "AI 行业工具"
       ]
+    },
+    "https://www.soduwork.ai": {
+      "title": "SoduWork",
+      "desc": "SoduWork，开源的企业级 AI 原生协同平台。连接人、AI 与企业系统，让 AI 的能力成为企业的生产力。",
+      "type": [
+        "AI 智能体",
+        "AI 编程开发"
+      ],
+      "tags": [
+        "cowork"
+      ],
+      "star": 3,
+      "sort": 90
     },
     "https://www.songtell.com": {
       "type": [
@@ -10874,7 +11192,7 @@
     },
     "https://www.tokenrouter.com": {
       "title": "TokenRouter",
-      "desc": "目前提供glm5..3模型免费调用",
+      "desc": "目前提供ds v4.1 flash模型免费调用",
       "type": [
         "AI 综合工具"
       ],
