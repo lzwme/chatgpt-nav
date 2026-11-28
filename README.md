@@ -875,6 +875,7 @@
 1. [[🚀] https://www.dreamup.com](https://www.dreamup.com) **Dreamup。** 知名站点Deviantart发布的AI绘画工具
 1. [[🚀] https://www.prompthunt.com/explore](https://www.prompthunt.com/explore) **Prompt Hunt。** 按主题分类的SD提示词
 
+
 ### AI 编程开发 (89)
 
 1. [[⭐⭐⭐] https://ampcode.com](https://ampcode.com) **AmpCode。** 来自 Sourcegraph 的 AI 编程智能体，支持终端和编辑器使用。前沿编程智能体：你不是在用`一个模型`，而是在用`最适合的模型组合`
@@ -1404,7 +1405,6 @@
 1. [[⭐] https://yunxiu.meitu.com/home](https://yunxiu.meitu.com/home) **美图云修。** 商业级AI影像处理工具
 1. [[⭐] https://zenvideo.qq.com](https://zenvideo.qq.com) **腾讯智影。** 腾讯出品的融合多种AIGC能力进行智能视频创作的一体化工具。
 1. [[⭐⭐⭐🚀] https://pika.art](https://pika.art) **Pika。** Pika致力于用AI让每个人都能成为自己故事的导演，并激发我们每个人的创造力。
-1. [[🚀] https://www.soulgen.net](https://www.soulgen.net) **SoulGen。** SoulGen 是一款 AI 魔法工具，可根据文本或提示创建令人惊叹的真实女孩艺术。立即免费试用并创建定制的 AI 角色。
 1. [[🚀] https://302.ai](https://302.ai) **302.AI。** 302.AI是一个汇集了全球顶级AI品牌的在线平台，提供无月费，按需付费的服务模式。它允许用户根据需求选择不同的AI服务，无需支付固定的月费，从而降低使用门槛，提高灵活性。平台可能涵盖了多种AI技术，…
 1. [[🚀] https://changestyleai.com](https://changestyleai.com) **Change Style AI。** 人工智能多风格肖像生成器！能够AI生成30种照片
 1. [[🚀] https://civitai.com](https://civitai.com) **Civitai。** AI绘画模型共享平台，拥有海量开源模型
@@ -1424,6 +1424,7 @@
 1. [[🚀] https://www.creativefabrica.com/spark](https://www.creativefabrica.com/spark) **CF Spark。** Spark让您只需输入您的提示，就可以开始生成图片。平台目前已经拥有一个强大的社区，让您可以获得关注者和设计反馈。
 1. [[🚀] https://www.dreamup.com](https://www.dreamup.com) **Dreamup。** 知名站点Deviantart发布的AI绘画工具
 1. [[🚀] https://www.promeai.com](https://www.promeai.com) **PromeAI。** 神采PromeAI拥有强大的人工智能驱动设计助手和广泛可控的AIGC（C-AIGC）模型风格库，使你能够轻松地创造出令人惊叹的图形、视频和动画。
+1. [[🚀] https://www.soulgen.net](https://www.soulgen.net) **SoulGen。** SoulGen 是一款 AI 魔法工具，可根据文本或提示创建令人惊叹的真实女孩艺术。立即免费试用并创建定制的 AI 角色。
 1. [[🚀] https://yodayo.com/text-to-image](https://yodayo.com/text-to-image) **Yodayo。** 探索人工智能生成的动漫艺术，找到最佳提示，使用我们的免费人工智能艺术生成器创建美丽的图像，并与其他动漫迷分享！
 
 ### AI 智能体 (71)
@@ -1509,7 +1510,7 @@
 1. [[⭐] https://apps.apple.com/us/app/huggingchat/id6476778843](https://apps.apple.com/us/app/huggingchat/id6476778843) **HuggingChat App。** HuggingChat是一款iOS应用程序,旨在促进用户与多家提供商(如Mistral AI、Meta和Google)的多个顶尖大型语言模型之间的无缝沟通。它可以满足多种场景需求:激发创意,提供专家指…
 1. [[⭐] https://apps.apple.com/us/app/opencat/id6445999201](https://apps.apple.com/us/app/opencat/id6445999201) **OpenCat。** 在苹果手表上用ChatGPT
 
-### 开源仓库 (21)
+### 开源应用 (21)
 
 1. [[⭐⭐⭐] https://github.com/LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) **koboldCpp。** KoboldCPP 是一款快速、轻量且安全的 AI 软件，支持在本地、离线和私密地运行运行大型语言模型（LLM）。它基于llama.cpp项目，尤其在AI文本生成和角色扮演方面非常受欢迎。
 1. [[⭐⭐⭐] https://github.com/TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw) **TinyClaw。** 开发者友好的 CLI 体验优先 AI 助手，支持流式响应默认化、交互式澄清工具，专注工程师和研究者工作流。

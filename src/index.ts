@@ -33,8 +33,8 @@ function formatSiteList() {
     });
 
   const appList = list.filter(([url]) => url.startsWith('https://apps.apple.com/'));
-  const repoList = list.filter(([url]) => url.startsWith('https://github.com/'));
-  const groupedUrls = new Set([...appList, ...repoList].map(([url]) => url));
+  const openSourceList = list.filter(([, info]) => info.type?.includes('开源应用'));
+  const groupedUrls = new Set([...appList, ...openSourceList].map(([url]) => url));
   const siteList = list.filter(([url]) => !groupedUrls.has(url));
 
   const fortCateList = (cateList = siteList) =>
@@ -65,7 +65,7 @@ function formatSiteList() {
       return [`\n### ${cate} (${cateList.length})\n`, fortCateList(cateList).join('\n')].join('\n');
     }).join('\n');
 
-  const extraMd = ([['App 应用', appList], ['开源仓库', repoList]] as const)
+  const extraMd = ([['App 应用', appList], ['开源应用', openSourceList]] as const)
     .filter(([, items]) => items.length > 0)
     .map(([title, items]) => `\n### ${title} (${items.length})\n\n${fortCateList([...items]).join('\n')}`)
     .join('\n');
