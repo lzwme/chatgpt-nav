@@ -184,6 +184,24 @@
     }
   },
   "siteInfo": {
+    "https://beiluoxi.xyz": {
+      "type": [
+        "AI 综合工具"
+      ],
+      "source": "recommend",
+      "title": "北洛API",
+      "intro": "面向开发者的多模型 API 中转站。",
+      "desc": "通过 OpenAI 兼容接口调用 GPT、Claude、Gemini、Grok 和 DeepSeek 等系列，支持对话和图像生成，按模型与分组计价。",
+      "needLogin": 1,
+      "needKey": 1,
+      "needPay": 1,
+      "tags": [
+        "API",
+        "中转",
+        "OpenAI兼容",
+        "按量付费"
+      ]
+    },
     "https://302.ai": {
       "title": "302.AI",
       "intro": "全球顶级AI品牌汇集，按需付费，无月费。",
