@@ -11083,6 +11083,16 @@
       ],
       "descShort": "AI PPT是一款基于大模型的PPT生成工具,用户只需输入PPT主题,便可在几秒内自动生成完整的PPT。该产品依托夸克在搜索、文档和大模型方面的技术积累,实现了PPT内容自动生成、智能排版、一键操作等…"
     },
+    "https://www.questionpunk.com": {
+      "type": [
+        "AI 行业工具"
+      ],
+      "source": "recommend",
+      "star": 1,
+      "needLogin": 1,
+      "title": "QuestionPunk",
+      "desc": "可创建问卷，也可让 AI 通过语音或文字访谈，根据受访者的回答继续追问。支持查看调查报告和交叉表。"
+    },
     "https://www.quququ.cn": {
       "title": "水印一键去去去",
       "intro": "一键免费在线去水印精灵，智能 AI 图像处理网站",
