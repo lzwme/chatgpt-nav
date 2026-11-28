@@ -184,6 +184,24 @@
     }
   },
   "siteInfo": {
+    "https://martllm.com": {
+      "type": [
+        "AI 综合工具"
+      ],
+      "source": "recommend",
+      "title": "MartLLM",
+      "intro": "开放的 AI 推理市场，一个 API Key 调用 500+ 模型。",
+      "desc": "兼容 OpenAI 与 Anthropic SDK 的 API，一个 Key 调用 Claude、GPT、Gemini、DeepSeek 等 500+ 文本、图像、视频、音乐、语音和 3D 模型。多家卖家竞价，通常低于官方价；按量付费，5 美元起充，无订阅。",
+      "needLogin": 1,
+      "needKey": 1,
+      "needPay": 1,
+      "tags": [
+        "API",
+        "OpenAI兼容",
+        "按量付费",
+        "视频生成"
+      ]
+    },
     "https://302.ai": {
       "title": "302.AI",
       "intro": "全球顶级AI品牌汇集，按需付费，无月费。",
