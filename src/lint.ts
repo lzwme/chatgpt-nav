@@ -21,7 +21,6 @@ for (const [url, info] of Object.entries<Record<string, any>>(data.siteInfo)) {
   if (Array.isArray(info.type)) {
     for (const t of info.type) if (!data.categoryInfo[t]) errors.push(`未知分类 ${t}: ${url}`);
   }
-  if (info.desc && Array.from(info.desc).length > 100 && !info.descShort) errors.push(`长描述缺 descShort: ${url}`);
 }
 
 console.log(`lint: ${Object.keys(data.siteInfo).length} sites, ${errors.length} errors, ${warns.length} warnings`);

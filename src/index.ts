@@ -52,7 +52,7 @@ function formatSiteList() {
       if (info.needKey) prefix += '🔑';
       if (info.needVPN) prefix += '🚀';
       if (info.needLogin) prefix += '🧑‍💻';
-      return `1. [[${prefix || '⭐'}] ${url}](${url}) ${info.title ? `**${info.title}。** ` : ''}${info.descShort || info.desc || ''} ${
+      return `1. [[${prefix || '⭐'}] ${url}](${url}) ${info.title ? `**${info.title}。** ` : ''}${info.desc || ''} ${
         info.errmsg ? `\`${info.errmsg}\`` : ''
       }`.trim();
     });
